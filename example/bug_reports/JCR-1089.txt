@@ -1,0 +1,6 @@
+xpath queri parser accept treat
+xpath queri parser accept queri
+
+pars queri tree correspong xpath queri
+
+reject

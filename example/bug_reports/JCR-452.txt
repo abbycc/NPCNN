@@ -1,0 +1,31 @@
+workspac clone throw itemnotfoundexcept referenc node children
+itemnotfoundexcept thrown referenc node children clone time node clone
+
+node root session getrootnod
+node parent root addnod parent
+parent addmixin mix referenc
+session save
+clone parent
+ws2 clone default parent parent true
+node child parent addnod child
+add child
+child addmixin mix referenc
+session save
+clone parent child
+ws2 clone default parent parent true
+clone parent itemnotfoundexcept clone parent node
+ws2 clone default parent parent true
+stacktrac
+javax jcr itemnotfoundexcept fail build path 229083e5 5f24 b007 785f43be983a cafebab cafe babe cafe babecafebab child entri 229083e5 5f24 b007 785f43be983a
+org apach jackrabbit core hierarchymanagerimpl buildpath hierarchymanagerimpl java
+org apach jackrabbit core cachinghierarchymanag buildpath cachinghierarchymanag java
+org apach jackrabbit core hierarchymanagerimpl getpath hierarchymanagerimpl java
+org apach jackrabbit core cachinghierarchymanag getpath cachinghierarchymanag java
+org apach jackrabbit core batcheditemoper checkremovenod batcheditemoper java
+org apach jackrabbit core batcheditemoper recursiveremovenodest batcheditemoper java
+org apach jackrabbit core batcheditemoper removenodest batcheditemoper java
+org apach jackrabbit core batcheditemoper copynodest batcheditemoper java
+org apach jackrabbit core batcheditemoper copi batcheditemoper java
+org apach jackrabbit core workspaceimpl internalcopi workspaceimpl java
+org apach jackrabbit core workspaceimpl clone workspaceimpl java
+test clonetest main clonetest java

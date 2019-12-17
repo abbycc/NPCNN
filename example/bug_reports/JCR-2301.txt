@@ -1,0 +1,2 @@
+cnd support jackrabbit jcr common
+nice cnd pars function spi common made jcr common jcr client spi

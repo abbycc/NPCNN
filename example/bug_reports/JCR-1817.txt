@@ -1,0 +1,8 @@
+core mislead method name workspac session move283 copy283 clone283
+leftov previou draft jsr jackrabbit core
+workspaceimpl clone283
+workspaceimpl copy283
+workspaceimpl move283
+sessionimpl move283
+give impress jsr method return 'string' case
+suggest remov method

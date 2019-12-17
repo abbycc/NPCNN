@@ -1,0 +1,30 @@
+packag org apach xml util exist jdk
+execut maven jar freshli check sourc tree fail error messag jdk
+home jukkaz src jackrabbit src java org apach jackrabbit core xml docviewsaxeventgener java packag org apach xml util exist
+import org apach xml util xmlchar
+
+home jukkaz src jackrabbit src java org apach jackrabbit core xml docviewsaxeventgener java find symbol
+symbol variabl xmlchar
+locat class org apach jackrabbit core xml docviewsaxeventgener
+xmlchar isvalidnam elemnam
+
+home jukkaz src jackrabbit src java org apach jackrabbit core xml docviewsaxeventgener java find symbol
+symbol variabl xmlchar
+locat class org apach jackrabbit core xml docviewsaxeventgener
+xmlchar isvalidnam attrnam
+build succe problem jdk
+found report similar problem upgrad jdk org apach xml util xmlchar part undocu standard jdk classpath drop jdk
+similar xmlchar util class found org apach xerc util packag automat includ xerc depend chang fix problem jdk work fine jdk
+index src java org apach jackrabbit core xml docviewsaxeventgener java
+
+src java org apach jackrabbit core xml docviewsaxeventgener java revis
+src java org apach jackrabbit core xml docviewsaxeventgener java work copi
+
+import org apach jackrabbit core state propertyst
+import org apach jackrabbit core util base64
+import org apach log4j logger
+import org apach xml util xmlchar
+import org apach xerc util xmlchar
+import org xml sax contenthandl
+import org xml sax saxexcept
+import org xml sax helper attributesimpl

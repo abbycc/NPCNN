@@ -1,0 +1,13 @@
+fix simplifi cryptedsimplecredenti
+credenti retriev userimpl valid simplecredenti pass repositori login overli complex
+buggi match kind credenti variant hash password
+problem
+simplecredenti hash consid valid
+password startign inconsist prevent user login
+improv
+simplecredenti expect plain text password creation
+comparison cryptedsimplecredenti
+creat cryptedsimplecredenti uid left unchang
+hash default algorithm turn hash format
+addit hash form
+invalid algorithm

@@ -1,0 +1,11 @@
+renam node session move workspac move visibl concurr session
+cachinghierarchymanag issu
+reproduc
+node session1 getrootnod getnod foo
+string path getpath return foo
+node session2 getrootnod getnod foo
+path getpath return foo
+session1 move foo bar
+session1 save
+path getpath return bar
+path getpath return bar return foo

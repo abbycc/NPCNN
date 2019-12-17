@@ -1,0 +1,10 @@
+contrib bdb initi fail directori exist
+berkeleydbpersistencemanag initi fail directori configur exist happen pm
+easili fix persist manag make creat directori path creat directori
+trivial patch replac envdir mkdir envdir mkdir note final berkeleydbpersistencemanag line
+envdir exist
+envdir mkdir
+
+envdir exist
+envdir mkdir
+submit svn diff manual fix sound trivial easier chang manual

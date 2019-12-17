@@ -1,0 +1,15 @@
+problem map custom collect
+custom list extend java util abstractlist manageablecollectionutil getmanageablecollect rais jcrmappingexcept custom list java util list object getclass equal list class object instanceof list thing happen custom collect custom arraylist stack trace
+org apach jackrabbit ocm except jcrmappingexcept unsupport collect
+type mycustomlist class
+org apach jackrabbit ocm manag collectionconvert manageablecol
+ctionutil getmanageablecollect manageablecollectionutil java
+org apach jackrabbit ocm manag objectconvert impl objectconvert
+rimpl insertcollectionfield objectconverterimpl java
+org apach jackrabbit ocm manag objectconvert impl objectconvert
+rimpl insert objectconverterimpl java
+org apach jackrabbit ocm manag objectconvert impl objectconvert
+rimpl insert objectconverterimpl java
+org apach jackrabbit ocm manag impl objectcontentmanagerimpl inser
+objectcontentmanagerimpl java
+bug mycustomlist myclass mycustomlist extend java util abstractlist myclass

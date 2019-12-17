@@ -1,0 +1,25 @@
+text extractor imag parser throw except jpeg
+except thrown upload jpeg imag
+warn lazytextextractorfield fail extract text binari properti lazytextextractorfield java line
+org apach tika except tikaexcept tika illeg ioexcept org apach tika parser imag imagepars c7bc3
+org apach tika parser compositepars pars compositepars java
+org apach tika parser autodetectpars pars autodetectpars java
+org apach jackrabbit core queri lucen lazytextextractorfield parsingtask run lazytextextractorfield java
+java util concurr executor runnableadapt call executor java
+java util concurr futuretask sync innerrun futuretask java
+java util concurr futuretask run futuretask java
+java util concurr scheduledthreadpoolexecutor scheduledfuturetask access scheduledthreadpoolexecutor java
+java util concurr scheduledthreadpoolexecutor scheduledfuturetask run scheduledthreadpoolexecutor java
+java util concurr threadpoolexecutor worker runtask threadpoolexecutor java
+java util concurr threadpoolexecutor worker run threadpoolexecutor java
+java lang thread run thread java
+caus javax imageio iioexcept jpeg file start 0x00 0x05
+sun imageio plugin jpeg jpegimageread readimagehead nativ method
+sun imageio plugin jpeg jpegimageread readnativehead jpegimageread java
+sun imageio plugin jpeg jpegimageread checktablesonli jpegimageread java
+sun imageio plugin jpeg jpegimageread gotoimag jpegimageread java
+sun imageio plugin jpeg jpegimageread readhead jpegimageread java
+sun imageio plugin jpeg jpegimageread getheight jpegimageread java
+org apach tika parser imag imagepars pars imagepars java
+org apach tika parser compositepars pars compositepars java
+

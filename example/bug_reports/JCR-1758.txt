@@ -1,0 +1,3 @@
+improv undefinedtypeconverterimpl map super type effect
+improv org apach jackrabbit ocm manag atomictypeconvert impl undefinedtypeconverterimpl' implement
+public getvalu valuefactori valuefactori object propvalu equal check class name decid object propvalu worthi attempt map apropri properti purpos class provid 'best effort' attempt map object type java lang object 'instanceof' approach convert specif class inherit object instanceof map bufferedinputstream class inputstream binari properti

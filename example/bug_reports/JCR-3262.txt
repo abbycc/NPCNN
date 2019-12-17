@@ -1,0 +1,13 @@
+oracl jdbc class cast except
+util oraclepersistencemanag packag org apach jackrabbit core persist realiz mark deprec notic migrat jackrabbit start applic server error messag displai connect object pass createtemporaryblob method blob class cast oracl jdbc oracleconnect
+interest line log
+error org apach jackrabbit core persist oraclepersistencemanag fail write node state cafebab cafe babe cafe babecafebab
+java lang classcastexcept org apach common dbcp poolingdatasourc poolguardconnectionwrapp cast oracl jdbc oracleconnect
+oracl sql blob createtemporari blob java
+org apach jackrabbit core persist oraclepersistencemanag createtemporaryblob oraclepersistencemanag java
+highlight point issu oracl bundl persist manag due fact bundl version past lot custom repo layout bundl persist manag ran test notic consist check fail
+moment good upgrad path move repo bundl structur path provid shaki
+find solut problem shown issu want share
+line chang made wrap connect pass oracl driver
+org apach jackrabbit core util connectionfactori unwrap con
+solv problem want share datasourc

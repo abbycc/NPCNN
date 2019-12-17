@@ -1,0 +1,4 @@
+databasejourn improperli find tabl extern schema oracl
+databasejourn call databas metadata determin journal tabl creat code
+resultset metadata gettabl null null tablenam null
+oracl driver return tabl schema databas dbm code jackrabbit specif oracl version handl case order journal tabl properli creat oracl databas schema includ gettabl call

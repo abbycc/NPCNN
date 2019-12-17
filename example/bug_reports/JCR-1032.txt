@@ -1,0 +1,2 @@
+clean cach node type registri session logout
+run jcr test memori consumpt increas steadili end test run consum machin memori leak jcr2spi junit test refer session node instanc end test run nice instanc bit lightweight

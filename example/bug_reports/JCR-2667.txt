@@ -1,0 +1,16 @@
+noderefer lost delet set refer save cycl
+written snippet illustr issu
+node root session getrootnod
+node root addnod
+node root addnod
+addmixin mix referenc
+setproperti
+root save
+system println getrefer getsiz correctli return
+setproperti node null
+setproperti
+root save
+system println getrefer getsiz return
+changelog process ad refer process delet persist noderefer final wrong
+set prioriti issu critic persist refer count corrupt
+simpl workaround remov properti save add properti satisfi

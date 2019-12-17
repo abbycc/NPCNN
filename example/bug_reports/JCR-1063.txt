@@ -1,0 +1,2 @@
+disabl consist check default
+disabl consist check consist check perform startup redo log appli larg workspac long time perform 'requested'

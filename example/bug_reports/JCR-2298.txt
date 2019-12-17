@@ -1,0 +1,13 @@
+npe eventstatecollect
+remov version versionlabel restor version histori transact npe occur debug notic method createeventst enter uuid versionlabel changelog return null
+caus java lang nullpointerexcept
+org apach jackrabbit core observ eventstatecollect getnodetyp eventstatecollect java
+org apach jackrabbit core observ eventstatecollect createeventst eventstatecollect java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core version xaversionmanag prepar xaversionmanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl prepar xasessionimpl java
+org springmodul jcr jackrabbit support jackrabbitusertransact commit jackrabbitusertransact java
+org springmodul jcr jackrabbit localtransactionmanag docommit localtransactionmanag java

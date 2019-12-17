@@ -1,0 +1,4 @@
+beanconfig incorrectli throw configurationexcept
+jcr beanconfig newinst throw configurationexcept bean support configur paramet configur
+case check newinst yield unsupport properti bean properti present kei implement 'map kei null' check properti method throw kei exist null
+implement 'map containskei kei

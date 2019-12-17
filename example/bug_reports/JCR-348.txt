@@ -1,0 +1,24 @@
+add automat default configur
+provid simpl start jackrabbit repositori default configur current hop document expos configur detail friendli time user
+provid default transientrepositori constructor repositori xml configur file repositori repositori home directori exist automat creat default set repositori setup boil
+repositori repositori transientrepositori
+ad featur plan support system properti org apach jackrabbit repositori conf org apach jackrabbit repositori home overrid default
+improv make easier write set world type applic help interest peopl jackrabbit featur make easier provid standard templat test class exhibit error condit
+import javax jcr
+import org apach jackrabbit core transientrepositori
+public
+public static void main string arg
+
+repositori repositori transientrepositori
+session session repositori login
+
+code
+final
+session close
+
+catch except
+printstacktrac
+
+
+
+target inclus affect exist code help expect number user

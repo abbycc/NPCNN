@@ -1,0 +1,2 @@
+npe observationmanagerimpl getregisteredeventlisten shutdown broken startup
+jcr variabl dispatch pass null constructor

@@ -1,0 +1,5 @@
+save fail set binari properti
+set binari properti discard blob properti state remov chang changelog result error save
+javax jcr repositoryexcept blobfilevalu dispos
+org apach jackrabbit core refcountingblobfilevalu copi refcountingblobfilevalu java
+attach patch add respect test jcr2spi test

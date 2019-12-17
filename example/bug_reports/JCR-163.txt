@@ -1,0 +1,7 @@
+maven build failur textfilt contrib project
+build textfilt contrib error
+attempt download jackrabbit dev jar
+warn fail download jackrabbit dev jar
+build continu unsatisfi depend
+jackrabbit dev jar
+chang project xml jackrabbit dev jar work maven expect easi fix

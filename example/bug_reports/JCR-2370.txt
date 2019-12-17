@@ -1,0 +1,2 @@
+index recoveri fail redo log node part index aggreg
+searchindex mergeaggregatednodeindex throw nullpointerexcept index set call made recoveri code trigger multiindex constructor

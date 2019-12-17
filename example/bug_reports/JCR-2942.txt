@@ -1,0 +1,2 @@
+move privileg reader writer spi common qualifi name
+current privileg reader jcr common privilegedefinit base pure string qualifi name suggest move spi common org apach jackrabbit spi privileg name

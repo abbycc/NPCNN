@@ -1,0 +1,3 @@
+updat test queri xpath queri sql treat option featur
+jcr queri xpath queri sql option deprec
+modifi test pass repositori support notexecutableexcept remov altogeth

@@ -1,0 +1,4 @@
+jcr2spi improv itemdefinitionproviderimpl getmatchingpropdef handl multipl residu
+properti set unknown type miss propertytyp paramet itemdefinitionproviderimpl getmatchingpropdef find applic properti definit
+case multipl residu properti def match instanc repositori set properti type node type
+case set allow type includ string propdef return client type string match

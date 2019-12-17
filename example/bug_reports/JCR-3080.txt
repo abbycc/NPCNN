@@ -1,0 +1,4 @@
+add user changepassword string newpw string oldpw
+oldpw match order password user successfulli chang
+applic effort implement easili achiev
+function requir present

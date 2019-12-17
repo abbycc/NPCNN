@@ -1,0 +1,5 @@
+lower case search function work upper case searchstr
+perform queri
+testroot jcr lower case prop1 'fo
+valid result properti foo
+search work lower upper case search string

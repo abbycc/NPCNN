@@ -1,0 +1,58 @@
+ad node concurr run session except
+except thrown add child node parent node session run concurr except thrown
+except thread thread java lang runtimeexcept javax jcr nodetyp constraintviolationexcept save
+except thread thread java lang runtimeexcept javax jcr repositoryexcept unabl updat item unabl
+resolv path item 016b885a 64aa 45b9 a990 05cbabb4586f http www jcp org jcr primarytyp unabl resolv path item 016b885a 64aa 45b9 a990 05cbabb4586f http www jcp org jcr primarytyp
+jcr improv handl concurr node modif scenario session add remov child node 'x' session add remov child node 'y' run gracefulli test constantli fail
+public void testsync throw except
+
+node rootnod getsess getrootnod
+rootnod addnod
+rootnod save
+final session session1 getrepositori login simplecredenti usernam password tochararrai
+final session session2 getrepositori login simplecredenti usernam password tochararrai
+thread thread1 thread runnabl
+
+public void run
+
+
+
+addnod session1
+
+catch repositoryexcept
+
+throw runtimeexcept
+
+
+
+thread thread2 thread runnabl
+
+public void run
+
+
+
+addnod session2
+
+catch repositoryexcept
+
+throw runtimeexcept
+
+
+
+thread1 start
+thread2 start
+thread1 join
+thread2 join
+
+privat void addnod string parentnam session session int startindex
+throw repositoryexcept
+
+node parentnod session getrootnod getnod parentnam
+int startindex startindex
+
+string integ tostr
+parentnod addnod
+parentnod save
+
+
+btw except thrown add node thread remov thread session node uniqu

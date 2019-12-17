@@ -1,0 +1,5 @@
+manag lucen fieldcach index segment
+jackrabbit indexsearch search singl indexread instanc cachingmultiread search sort rang queri fieldcach popul instanc cachingmultiread success queri oper cachingmultiread tremend speedup queri reus fieldcach instanc
+problem jackrabbit creat cachingmultiread everytim underli index modifi mean chang item repositori rebuild fieldcach exist fieldcach instanc cachingmultiread
+lead slow search respons time queri rang queri sort field lead massiv memori consumpt depend size index multipl instanc cachingmultiread scenario lot queri item modif execut concurr
+goal fieldcach long

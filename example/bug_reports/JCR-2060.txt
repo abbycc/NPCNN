@@ -1,0 +1,5 @@
+jsr access node properti arrai nameglob
+propos final draft variant node getnod node getproperti
+node getnod string nameglob
+node getproperti string nameglob
+section iter child item glob

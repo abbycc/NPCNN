@@ -1,0 +1,1 @@
+implement queryresult getselectornam

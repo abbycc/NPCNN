@@ -1,0 +1,2 @@
+descendantselfaxisqueri fail ioexcept session limit access
+descendantselfaxisqueri current session node session access node except incorrectli thrown ioexcept itemnotfoundexcept caught regress caus jcr introduc jackrabbit

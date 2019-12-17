@@ -1,0 +1,3 @@
+upgrad easymock
+depend easymock easymock jackrabbit parent pom' depend manag section depend plan start core upgrad give gener support lot improv bug fix
+note upgrad groupid depend

@@ -1,0 +1,17 @@
+propertyst binari type desirials return half content
+creat propertyst binari properti jcr data set larger blobfilevalu max buffer size 300kbyte serials
+deserialis result propertystate' internalvalue' size half origianl 150kbyte
+due state inputstream implement mark byte read
+fix solv issu call read byte int
+stream method fail
+index jackrabbit java org apach jackrabbit core state propertyst java
+
+jackrabbit java org apach jackrabbit core state propertyst java revis
+jackrabbit java org apach jackrabbit core state propertyst java work copi
+
+len int length consum
+
+int read super read len
+consum read
+return read
+

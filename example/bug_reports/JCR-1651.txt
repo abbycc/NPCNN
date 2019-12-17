@@ -1,0 +1,1 @@
+node addnod string string prevent mixin type primari type

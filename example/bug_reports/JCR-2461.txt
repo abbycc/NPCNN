@@ -1,0 +1,7 @@
+item retriev ineffici refresh
+repositoryservic getiteminfo return suffici larg batch path invoc getitem significantli slower
+string path
+item session getitem path
+refresh fals refresh true
+session getitem path
+test setup repositoryservic getiteminfo return element invoc take approx 800m 3000m

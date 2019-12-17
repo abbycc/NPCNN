@@ -1,0 +1,4 @@
+simpl googl style queri
+sling project simpl queri languag sling
+creat parser translat simpl queri xpath queri statement execut jcr workspac
+commit jackrabbit jcr common modul

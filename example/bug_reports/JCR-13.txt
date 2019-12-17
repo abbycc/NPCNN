@@ -1,0 +1,12 @@
+disabl searchmanag
+previou version svn tag spec0 disabl searchmanag configur search index path current revis nullpointerexcept thrown search index configur miss tough rest system support miss search index configur
+suggest extend search index configur interpret workspacecfg init
+element srchconfig wspelem getchild search index element
+srchconfig null
+string pathattr srchconfig getattributevalu path attrib
+pathattr null pathattr length
+searchindexdir replacevar pathattr var
+
+
+read search index configur
+reason switch searchmanag case enabl searchmanag yield perform degrad factor take 500m long save node properti second save amount data searchmanag case

@@ -1,0 +1,3 @@
+dbdatastor support concurr read
+understand set paramet copywhenread true concurr read spool binari properti temporari file free databas resourc connect immedi make thread
+appli patch jcr dbdatastor support concurr read anymor resultset open connect block stream read close copywhenread set true connect releas immedi reason guess temporari file

@@ -1,0 +1,308 @@
+versionedchild problem
+problem occur parent child bean version jackrabbit creat versionedchild node referenc parent node referenc child versionedhistori node child current ocm code handl correctli produc error node type 'nt versionedchild' match descriptor node type 'nt unstructured'
+code problem patch appear correctli resolv problem
+objectconverterimpl creat method
+public node getactualnod session session node node throw
+repositoryexcept
+
+nodetyp type node getprimarynodetyp
+type getnam equal versionedchild
+
+string uuid
+node getproperti jcr childversionhistori getvalu getstr
+node actualnod session getnodebyuuid uuid
+string actualnod getnam
+actualnod session getnodebyuuid
+return actualnod
+
+return node
+
+modifi call method
+public object getobject session session class clazz string path
+
+
+session itemexist path
+return null
+
+requestobjectcach iscach path
+
+return requestobjectcach getobject path
+
+classdescriptor classdescriptor
+getclassdescriptor clazz
+checknodetyp session classdescriptor
+node node node session getitem path
+classdescriptor isinterfac
+
+node getactualnod session node
+checkcompatibleprimarynodetyp session
+node classdescriptor true
+
+
+classdescriptor alternativedescriptor null
+
+classdescriptor usesnodetypeperhierarchystrategi
+
+
+node hasproperti managerconst discrimin properti
+
+string classnam
+node getproperti managerconst discrimin properti
+getvalu getstr
+alternativedescriptor
+getclassdescriptor reflectionutil fornam classnam
+
+
+
+classdescriptor usesnodetypeperconcreteclassstrategi
+
+string nodetyp
+node getprimarynodetyp getnam
+
+nodetyp equal classdescriptor getjcrtyp
+
+alternativedescriptor
+classdescriptor getdescendantclassdescriptor nodetyp
+case altern
+found walk
+class descriptor
+hierarchi check
+
+descriptor
+node type directli
+case class
+descriptor hierarchi
+incomplet due miss
+configur jcr
+detail
+alternativedescriptor
+null
+alternativedescriptor
+mapper getclassdescriptorbynodetyp nodetyp
+
+
+
+
+altern class descriptor
+check
+extend request class
+alternativedescriptor null
+class alternativeclazz
+reflectionutil fornam alternativedescriptor getclassnam
+clazz isassignablefrom alternativeclazz
+clazz alternativeclazz
+classdescriptor alternativedescriptor
+
+
+ensur class concret interfac
+abstract
+clazz isinterfac
+modifi isabstract clazz getmodifi
+throw jcrmappingexcept
+instanti concret
+class clazz getnam
+node path type
+node getprimarynodetyp getnam
+
+object object
+reflectionutil newinst classdescriptor getclassnam
+requestobjectcach iscach path
+
+requestobjectcach cach path object
+
+simplefieldshelp retrievesimplefield session
+classdescriptor node object
+retrievebeanfield session classdescriptor node
+path object fals
+retrievecollectionfield session classdescriptor
+node object fals
+return object
+catch pathnotfoundexcept pnfe
+hint
+throw
+objectcontentmanagerexcept imposs
+object
+path pnfe
+catch repositoryexcept
+throw
+org apach jackrabbit ocm except repositoryexcept imposs
+object path
+
+
+
+
+
+build test applic ocm
+class annot ocm problem updat
+
+version root object pressreleas bean author version
+versionedchild ocm check node type
+compat
+throw except
+versionedchild
+handl correctli suggest
+
+attempt retriev version base version
+
+rootvers trap version object access
+version entri
+
+
+we
+
+node jcrmixintyp mix version
+public class pressreleas
+
+field path true string path
+field string titl
+field date pubdat
+field string content
+bean author author
+collect elementclassnam comment class list comment
+comment
+arraylist comment
+
+public string getpath
+return path
+
+public void setpath string path
+path path
+
+public string getcont
+return content
+
+public void setcont string content
+content content
+
+public date getpubd
+return pubdat
+
+public void setpubd date pubdat
+pubdat pubdat
+
+public string gettitl
+return titl
+
+public void settitl string titl
+titl titl
+
+public author getauthor
+return author
+
+public void setauthor author author
+author author
+
+public list comment getcom
+return comment
+
+public void setcom list comment comment
+comment comment
+
+
+
+
+
+node jcrmixintyp mix version
+public class author
+
+field path true string path
+field string
+
+
+public string getnam
+return
+
+public void setnam string
+
+
+public string getpath
+return path
+
+public void setpath string path
+path path
+
+
+
+
+main
+
+versioniter hasnext
+
+version version version versioniter
+system println version found version getnam
+
+version getpath
+version getcreat gettim
+
+
+version getnam equal jcr rootvers
+
+
+object match version
+pressreleas pressreleas
+ocm getobject newtutori version getnam
+
+
+system println pressreleas titl
+pressreleas gettitl
+system println author
+pressreleas getauthor getnam
+system println content
+pressreleas getcont
+list comment pressreleas getcom
+iter iter comment iter
+iter hasnext
+
+comment comment iter
+system println comment comment getdata
+
+comment gettext
+
+
+
+
+
+consol
+version found jcr rootvers
+
+jcr system jcr versionstorag fc0bfd89 c487 4fbe 930f d837e5dfed79 jcr rootvers
+thu feb est
+version found
+
+jcr system jcr versionstorag fc0bfd89 c487 4fbe 930f d837e5dfed79
+thu feb est
+except thread main
+org apach jackrabbit ocm except objectcontentmanagerexcept
+
+map object type 'com repositori author' node type
+'nt versionedchild' match descriptor node type
+'nt unstructured'
+
+
+org apach jackrabbit ocm manag objectconvert impl objectconverterimpl checkcompatibleprimarynodetyp
+objectconverterimpl java
+
+
+org apach jackrabbit ocm manag objectconvert impl objectconverterimpl getobject
+objectconverterimpl java
+
+
+org apach jackrabbit ocm manag beanconvert impl defaultbeanconverterimpl getobject
+defaultbeanconverterimpl java
+
+
+org apach jackrabbit ocm manag objectconvert impl objectconverterimpl retrievebeanfield
+objectconverterimpl java
+
+
+org apach jackrabbit ocm manag objectconvert impl objectconverterimpl retrievebeanfield
+objectconverterimpl java
+
+
+org apach jackrabbit ocm manag objectconvert impl objectconverterimpl getobject
+objectconverterimpl java
+
+
+org apach jackrabbit ocm manag impl objectcontentmanagerimpl getobject
+objectcontentmanagerimpl java
+repositori main main main java

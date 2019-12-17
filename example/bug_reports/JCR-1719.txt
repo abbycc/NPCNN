@@ -1,0 +1,4 @@
+make extract session userid subject configur
+sessionimpl class extract string prinicp subject session userid sessionimpl class directli select princip deleg securitymanag choos group princip
+configur specif select criteria princip session userid simpl mechan involv princip implement classnam configur instanc class found subject userid implement extend authcontext includ method getsessionprincip encapsul select logic ad option loginmoduleconfig class princip select
+case ldap loginmodul sun jdk repositori princip ldaploginmodul popul subject instanc ldapprincip render userid full user loginmodul add instanc userprincip simpl usernam uid attribut session userid correspond usernam provid user applic authent mechan provid usernam expand full prior authent login modul configur mechan configur ldaploginmodul userid extract instanc sun secur auth userprincip rewrit loginmodul desir chang enabl stabl integr 3rd parti login modul popul subject princip

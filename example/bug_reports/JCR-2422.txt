@@ -1,0 +1,2 @@
+add datasourc element repositori dtd
+connect pool featur jcr introduc datasourc configur element jackrabbit ad repositori config dtd

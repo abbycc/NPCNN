@@ -1,0 +1,12 @@
+make lazi load proxi callback serializ
+christoph
+nice cglib callback serializ proxi target
+made beanlazyload serializ abstractlazyload serializ collectionlazyload
+
+declar abstractlazyload serializ
+declar serializ resourc session volatil
+throw illegalstateexcept beanlazyload fetch collectionlazyload fetch session null case happen proxi serial volatil session make sens lazi load target
+btw realiz clean beanclassdescriptor beanlazyload cleanup correct
+attach modifi class
+sincer
+stéphane landel

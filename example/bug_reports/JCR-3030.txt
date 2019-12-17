@@ -1,0 +1,2 @@
+permit tablespac tabl index oracl
+oraclefilesystem oraclepersistencemanag oracledatabasejourn provid tablespac paramet custom ddl tablespac tabl index common place distinct tablespac jackrabbit provid support

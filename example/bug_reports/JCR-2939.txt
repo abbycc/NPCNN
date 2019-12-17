@@ -1,0 +1,20 @@
+queryobjectmodel gener sql2 queri deal space path
+origin issu
+
+childnod node name code
+querymanag querymanag session getworkspac getquerymanag
+queryobjectmodelfactori qomf querymanag getqomfactori
+sourc source1 qomf selector nodetyp base selector
+column column column qomf column selector null null
+constraint constraint2 qomf childnod selector
+queryobjectmodel qom qomf createqueri source1 constraint2 null column
+give result session acquir webdav connect jndi give child node
+sql statement creat
+select selector base selector ischildnod selector
+
+webdav give sql2 queri directli quot
+path work expect
+
+webdav problem queryobjectmodel gener sql2 queri equival fail escap path space
+case davex remot client statement gener escap fail return expect node
+easili system println qom getstat

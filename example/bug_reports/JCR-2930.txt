@@ -1,0 +1,22 @@
+name child node disappear restor
+restor version node version child node child node disappear
+node node session getrootnod addnod mynod
+node addmixin mix version
+int
+node child node addnod child
+child setproperti child
+
+session save
+versionmanag versionmanag session getworkspac getversionmanag
+versionmanag checkin node getpath
+system println number child node node getnod getsiz
+versionmanag checkout node getpath
+node getnod child setproperti modifi
+session save
+version basevers versionmanag getbasevers node getpath
+versionmanag restor basevers true
+system println number child node restor node node getnod getsiz
+produc output
+number child node
+number child node restor node
+give uniqu name ad mixin version child node solv problem

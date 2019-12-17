@@ -1,0 +1,2 @@
+introduc 'securityconfig' extens
+current repositori configur parser pars secur confgur inlud appnam accessmanagerconfig loginmoduleconfig intern pass valu repositori config suggest add 'securityconfig' object encapsul valu pars seper method order extens reduc size alredi bloat repositori config constructor

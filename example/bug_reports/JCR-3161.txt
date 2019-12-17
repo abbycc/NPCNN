@@ -1,0 +1,3 @@
+add jcrutil getpropertytypenam
+properti relat common popul list properti type name
+hardcod place list provid jcrutil

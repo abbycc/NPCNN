@@ -1,0 +1,10 @@
+extend mimetyp list text extractor
+extend mimetyp list
+mspowerpoint msexcel textextractor applic powerpoint
+applic excel
+half hour figur
+document turn jackrabbit fulltext search
+user run problem
+kind standard list
+default mimetyp quick googl search
+uncommon

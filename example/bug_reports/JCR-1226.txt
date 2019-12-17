@@ -1,0 +1,14 @@
+serverqueri remoteadapterfactori creat serverqueryresult
+serverqueri sould factori creat serverqueryresult
+sieh method serverqueri execut
+code
+public remotequeryresult execut throw repositoryexcept remoteexcept
+return serverqueryresult queri execut getfactori
+
+code
+
+code
+public remotequeryresult execut throw repositoryexcept remoteexcept
+return getfactori getremotequeryresult queri execut
+
+code

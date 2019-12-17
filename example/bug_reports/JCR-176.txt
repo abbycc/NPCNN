@@ -1,0 +1,11 @@
+jcrtest java step code paramet session importxml
+code step page
+hasnod importxml
+system println import xml
+node addnod importxml unstructur
+session importxml importxml fileinputstream repotest test xml
+session save
+
+importxml paramet compar
+http www dai maven jsr170 javadoc jcr javax jcr session html
+prevent code step page compil

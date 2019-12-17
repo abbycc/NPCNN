@@ -1,0 +1,2 @@
+webdav method invoc creat resourc fail conflict parent resourc exist
+litmu test case copi nodestcol attempt made copi exist resourc locat parent collect resourc creat exist rfc2518 ask statu code conflict forbidden case

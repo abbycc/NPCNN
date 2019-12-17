@@ -1,0 +1,2 @@
+move extens jsr secur api jackrabbit core jackrabbit api
+releas jackrabbit specif extens jsr secur api part jackrabbit api

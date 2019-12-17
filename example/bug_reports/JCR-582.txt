@@ -1,0 +1,2 @@
+support oracl schema
+jackrabbit assum tabl prefix entri uniqu schema oracl instanc jackrabbit instanc schema oracl instanc work

@@ -1,0 +1,3 @@
+delet binari properti remov 'blob file' filesystem
+delet binari properti node 'blob file' remov
+reason open fileinputstream referenc properti

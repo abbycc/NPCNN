@@ -1,0 +1,2 @@
+pathel equal handl index undefin
+pathel path comparison fail index undefin treat differ index default

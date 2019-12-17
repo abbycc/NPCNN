@@ -1,0 +1,3 @@
+queryhandl lucen input outputstream implement
+queryhandl jackrabbit specif implement lucen directori interfac make jackrabbit filesystem abstract lucen oper file system requir random access index file current filesystem interfac abstract random access filesystemresourc simul aquir inputstream seek desir posit effici
+respect perform file base index storag make sens lucen current abstract filesystem drop favour direct file access

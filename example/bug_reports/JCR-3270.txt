@@ -1,0 +1,14 @@
+error instanti lucen search index turkish region set
+issu chang region set turkish
+fail start repositori instanti lucen search index due issu
+org apach jackrabbit core config configurationexcept configur class org apach jackrabbit core queri lucen searchindex properti name indexingconfigur
+
+org apach jackrabbit core config beanconfig newinst beanconfig java
+
+
+org apach jackrabbit core config repositoryconfigurationpars getqu
+ryhandl repositoryconfigurationpars java
+
+org apach jackrabbit core config repositoryconfig getqueryhandl repo
+itoryconfig java
+issu java world due lower case convers 'i' charact turkish local jackrabbit sourc code instanti index configur repositori start access indexingconfigur properti instanti setter properti bad 'i' charact

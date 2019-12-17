@@ -1,0 +1,14 @@
+systemsess createsess return sessionimpl
+long fix jcr revis behavior systemsess createsess chang
+return systemsess sessionimpl
+basic move correct deal session clone
+mechan prevent user method convert systemsess regular session
+extra write oper access control edit support
+system session prevent chicken egg problem repo startup
+revert chang releas order prevent regress
+time suggest final time defin
+usag abil respons system session review
+expos individu 'modules' jackrabbit core start work decid
+riski revert chang mention
+imo impos limit risk usag session awar session
+sesssionimpl access systemsess class

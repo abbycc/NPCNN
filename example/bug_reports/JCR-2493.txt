@@ -1,0 +1,2 @@
+unit test persist manag
+test persist manag indirectli jcr level test case downsid approach test persist manag implement time separ build profil switch implement ensur coverag consist behaviour persist manag implement simpl unit test work directli persistencemanag interfac

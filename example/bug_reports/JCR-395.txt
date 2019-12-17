@@ -1,0 +1,17 @@
+transact lead memori leak
+global static map xasessionimpl class store xid transactioncontext
+
+global transact
+
+privat static final map txglobal hashmap
+map clear end transact lead memori leak transactioncontext nest object includ xasessionimpl referenc freed
+propos solut posssibl add singl line remov transactioncontext static map end transact
+flag tmsuccess flag tmfail
+associ null
+txglobal remov xid
+flag tmsuspend
+associ null
+
+throw xaexcept xaexcept xaer inval
+
+accept unrefer transactioncontext

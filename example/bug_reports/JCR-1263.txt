@@ -1,0 +1,5 @@
+move simplewebdavservlet jcr server make abstract
+line iss jcr suggest partial move simplewebdavservlet jcr webapp project jcr server project partial move servlet abstract getrepositori method abstract jcr webapp project simplewebdavservlet backward compat mainta extend servlet implement getrepositori method repositoryaccess servlet
+reus jcr server project includ abstract simplewebdavservlet environ intent includ project webdav project sling
+provid patch propos
+issu separ jcr suggest angela

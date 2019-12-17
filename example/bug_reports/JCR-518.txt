@@ -1,0 +1,4 @@
+tck xpath order test standard column specifi mechan
+org apach jackrabbit test api queryxpathorderbytest gener queri form jcr root pronam propnam order propnam
+syntax column specifi mandat jcr specif fail implement support
+test queri jcr root pronam order propnam read result queryresult getnod queryresult getrow

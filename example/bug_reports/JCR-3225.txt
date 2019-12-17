@@ -1,0 +1,14 @@
+concurrentmodificationexcept querystatimpl
+run qurystat enabl queri execut throw concurrentmodificationexcept
+caus iter back collect chang thread
+logqueri method
+iter querystatdtoimpl iter popularqueri iter
+iter hasnext
+querystatdtoimpl qsdi iter
+qsdi equal
+setoccurrencecount qsdi getoccurrencecount
+iter remov
+break
+
+
+popularqueri offer

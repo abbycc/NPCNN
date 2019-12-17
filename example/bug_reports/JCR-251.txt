@@ -1,0 +1,3 @@
+nullpointerexcept virtualnodetypestatemanag nodetyperegist
+work custom persist manag requir addit node type regist perform reason exist node type verifi persistencemanag init
+work virtualnodetypestatemanag prepar handl situat point time systemsess field null

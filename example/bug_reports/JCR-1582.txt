@@ -1,0 +1,4 @@
+paramet 'idletime' 'queryclass' queryhandl fail
+issu occur releas jackrabbit core version jcr jackrabbit fail startup unknown paramet bean configur
+paramet 'idletime' 'queryclass' queryhandl searchmanag instanti queryhandl paramet show queryhandl
+suggest introduc common base class abstractqueryhandl

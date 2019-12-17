@@ -1,0 +1,14 @@
+fix pom xml jackrabbit core small fix big return
+chang depend pom xml match maven repo
+
+depend
+groupid jsr170 groupid
+artifactid jcr artifactid
+version version
+depend
+
+depend
+groupid javax jcr groupid
+artifactid jcr artifactid
+version version
+depend

@@ -1,0 +1,2 @@
+method nodetypemanagerimpl reregist nodetyp
+add method nodetypemanagerimpl reregist exist nodetyp method take inputstream xml cnd format regist nodetyp reregist exist nodetyp

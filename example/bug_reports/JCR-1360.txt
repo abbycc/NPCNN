@@ -1,0 +1,17 @@
+pars built cnd xml nodetyp result equal definit
+creat test order make builtin nodetyp xml builtin nodetyp cnd provid definit want test
+reveal exist built nodetypedefinit equal due reason
+xml format base super type extend base
+cnd notat base omit quot appendix jsr super type
+defin extend base
+affect nodetyp extend mix referenc
+versionhistori
+version
+frozennod
+resourc
+quot public review jsr
+supertyp
+node type option list supertyp element present node type mixin option supertyp base assum
+total quot built cnd definit valid state base assum super type defin case node type mix referenc defin super type total true mixin type type base
+case understand node type result pars xml cnd file equal
+definit valid adjust compactnodetypedefread

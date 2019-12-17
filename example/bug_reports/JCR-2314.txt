@@ -1,0 +1,3 @@
+open access modifi repositoryimpl doshutdown
+requir subclass repositoryimpl run addit code shutdown deadlock occur sequenc lock acquisit ensur
+jackrabbit requir shutdownlock acquir actual shutdown code execut

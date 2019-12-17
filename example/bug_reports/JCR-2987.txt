@@ -1,0 +1,7 @@
+jcrutil util method
+add util method jcrutil
+readfil node return inputstream read file content
+readfil node outputstream write file content stream
+getlastmodifi node return jcr lastmodifi
+setlastmodifi node calendar set jcr lastmodifi
+getpropertytyp string propertytyp valuefromnam string case insensit

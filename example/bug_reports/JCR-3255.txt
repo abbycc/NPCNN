@@ -1,0 +1,3 @@
+access cluster node
+cluster node applic find cast org apach jackrabbit core repositoryimpl repositoryimpl session getrepositori getconfig getclusterconfig getid
+system properti clusternod system properti node

@@ -1,0 +1,5 @@
+weird error ad node abstract mixin nodetyp
+add node file abstract nodetyp base error report
+javax jcr nodetyp constraintviolationexcept file abstract primari node type
+correct word
+javax jcr nodetyp constraintviolationexcept allow add node file http www jcp org jcr base abstract primari node type

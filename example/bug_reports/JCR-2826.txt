@@ -1,0 +1,5 @@
+test depend jackrabbit core secur user xpathqueryevalu
+secur user xpathqueryevalu wrongli import
+import org apach jackrabbit test api util text
+
+import org apach jackrabbit util text

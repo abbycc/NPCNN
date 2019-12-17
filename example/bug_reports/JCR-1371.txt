@@ -1,0 +1,2 @@
+patch unnecessari synchron collect thread safe
+nodetyperead vector local variabl thread safe synchron vector need slow code patch switch collect arraylist

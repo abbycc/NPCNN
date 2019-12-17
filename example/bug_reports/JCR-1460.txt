@@ -1,0 +1,2 @@
+typo repositori xml
+extractorpools paramet trail white space make jackrabbit ignor

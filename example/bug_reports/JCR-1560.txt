@@ -1,0 +1,3 @@
+data store oracl fail creat tabl
+oracl databas except occur creat tabl ora invalid datatyp
+problem oracl support data type bigint long

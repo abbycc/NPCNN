@@ -1,0 +1,6 @@
+add api select bundl consist check jackrabbit specif
+add jackrabbit specif api select consistencycheck singl node current entir workspac check slow workspac larg easi write tool invok featur programmat configur restart
+exist implement
+current bundl consistencycheck featur enabl set bundl paramet restart jackrabbit run startup jcr issu bundl consist check check broken parent child relationship remov child node entri refer exist parent node exist parent uuid problem bundl log
+outlook
+advanc consistencycheck check exist version node vice versa jcr focu issu addit api

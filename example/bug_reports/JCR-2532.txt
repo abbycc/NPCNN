@@ -1,0 +1,4 @@
+spi2davex session scope lock token includ header
+detect run api lock test
+org apach jackrabbit test api lock deeplocktest testparentchilddeeplock fail work spi2dav
+fix simpl sessioninfoimpl getalllocktoken popul header spi2dav

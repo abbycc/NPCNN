@@ -1,0 +1,2 @@
+spi common nodetyp nodetypedefinitionfactori set requir type
+nodetypedefinitionfactori set requir type properti definit

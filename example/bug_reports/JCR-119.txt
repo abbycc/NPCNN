@@ -1,0 +1,11 @@
+workspac copi copi binari properti properli
+workspac copi work fine copi hierarchi binari properti
+remov sourc copi remov binari copi newli creat hierarchi
+reproduc
+creat hierarchi type node site imag type binari
+creat hierarchi level site2
+copi site site2
+till fine proper copi export xml hierarchi imag copi
+delet site
+properti copi site2 binari
+binari type referenc copi workspac copi

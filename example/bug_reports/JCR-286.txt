@@ -1,0 +1,16 @@
+jcr server invalid http auth header
+present dav explor log jcr webdav servlet usernam password microsoft winxp webdav novell' netdriv fussi happi log
+ether compar traffic valid slide webdav login compar jcr webdav login
+found fix problem local build dav explor work jcr webdav descript bugfix
+jackrabbit contrib jcr server server src java org apach jackrabbit server abstractwebdavservlet java public static final string default authent header
+set basic realm jackrabbit webdav server
+valid string context breach rfc2617 reason
+realm realm
+jackrabbit webdav server quot jackrabbit webdav server
+http www ietf org rfc rfc2617 txt valid challeng
+www authent basic realm wallyworld
+note realm capitalis wallyworld enclos quot www authent string held java code correct
+word abstractwebdavservlet java line read
+public static final string default authent header basic realm jackrabbit webdav server
+chang read
+public static final string default authent header basic realm jackrabbit webdav server

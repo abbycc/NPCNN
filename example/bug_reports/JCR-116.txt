@@ -1,0 +1,4 @@
+javacc grammar gener maven build dir gener src
+javacc grammar src grammar xpath sql process java sourc file src java org apach jacrabbit core queri xpath sql normal version control sourc file lead maintain special svn ignor properti gener issu mix manual written automat gener sourc file maven clean command moment restor sourc tree fresh checkout state
+propos free disagre javacc grammar gener java file maven build directori attach patch modifi javacc maven goal gener file maven build dir gener src modifi prepar filesystem goal add gener sourc path maven build dir gener src main java maven compil set gener sourc includ normal build
+coupl javacc gener file intention modifi jackrabbit ant delet command end jacrabbit gener parser goal specif remov gener file nicer custom modif need

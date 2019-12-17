@@ -1,0 +1,3 @@
+primaryitemnam inherit
+primaryitemnam defin nodetyp definit inherit supertyp spec unclear natur behaviour
+extend resourc subtyp forc redefin jcr data primaryitemnam

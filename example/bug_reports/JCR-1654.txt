@@ -1,0 +1,2 @@
+incorrect slf4j log4j12 depend scope spi common
+slf4j log4j12 depend scope jackrabbit spi common runtim test impos specif log solut downstream project

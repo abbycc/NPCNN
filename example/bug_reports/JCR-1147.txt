@@ -1,0 +1,3 @@
+spi2jcr repositoryserviceimpl getrootid return bad nodeid
+org apach jackrabbit spi2jcr repositoryserviceimpl getrootid return getidfactori createnodeid string null path root round trip wrap repositori return uuid base nodeid root node wrap repositori mix referenc
+javadoc read root node identifi uniqu return nodeid simpli uniqueid part path part null root node identifi uniqu uniqueid part null path part set

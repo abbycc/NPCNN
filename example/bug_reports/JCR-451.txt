@@ -1,0 +1,2 @@
+propertytyperegistri yield properti multi valu
+propertytyp properti case requir properti singl multi valu

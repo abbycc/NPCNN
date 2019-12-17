@@ -1,0 +1,9 @@
+invalid node type definit test nodetyp xml
+attempt regist node type defin
+core src test resourc org apach jackrabbit core nodetyp xml test nodetyp xml
+fail
+invalid refer constraint
+autocr prop def default valu
+invalid requir type autocr prop def undefin allow
+invalid requir primari type exist
+invalid default primari type exist

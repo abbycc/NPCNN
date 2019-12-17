@@ -1,0 +1,6 @@
+jcr sql2 queri multipl column result return column row getvalu
+run queri process repositori transientrepositori rmi access call row getvalu return column select
+select property1 property2 nodetyp
+queryresult getcolumnnam return set column
+step code show org apach jackrabbit core queri lucen join abstractrow implement getvalu creat valu arrai overwrit multipl time loop iter column sound desir behaviour
+valu individu call row getvalu property1 correct result

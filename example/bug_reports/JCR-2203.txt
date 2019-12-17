@@ -1,0 +1,2 @@
+creat default repositori target
+jcr api test default repositori repositoryfactori default repositori home directori target

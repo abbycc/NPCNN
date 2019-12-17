@@ -1,0 +1,4 @@
+persistencemanag api chang break backward compat
+persist manag api chang introduc jcr break backward compat public visibl api render 3rd parti pm invalid extend abstractpersistencemanag
+patch releas
+suggest revert api chang releas leav method abstract introduc

@@ -1,0 +1,3 @@
+tck getpersistentquerypathtest savetest requir queri
+getpersistentquerypathtest savetest requir implement support queri node type option node type
+propos throw notexecutableexcept queri node type registri

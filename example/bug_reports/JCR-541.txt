@@ -1,0 +1,2 @@
+npe predefinednodetypetest getpropertydefspec
+occur propertydefinit getvalueconstraint return null allow spec

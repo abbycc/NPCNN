@@ -1,0 +1,2 @@
+aggreg includ primarytyp set
+includ element aggreg definit primarytyp attribut includ match

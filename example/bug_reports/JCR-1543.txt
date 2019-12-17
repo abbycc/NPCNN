@@ -1,0 +1,6 @@
+improv reliabl canaddmixin
+current implement canaddmixin jcr2spi lack flexibl consult spi node type registri check mixin exist present consist node' type
+fine store legal mixin ad work store limit instanc file node made mix version folder node
+propos enhanc qnodetypedefinit
+public getsupportedmixin
+return null constraint constraint list mixin type support node type

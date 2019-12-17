@@ -1,0 +1,2 @@
+spi2dav observation' user data properti handl
+org apach jackrabbit test api observ getuserdatatest fail setup jcr2spi spi2dav jcr server

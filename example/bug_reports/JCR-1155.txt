@@ -1,0 +1,2 @@
+wrong link javadoc qnodetypedefinit
+javadoc qnodetypedefinit link javax jcr nodetyp nodedefinit javax jcr nodetyp nodetyp

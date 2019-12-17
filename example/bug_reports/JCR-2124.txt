@@ -1,0 +1,4 @@
+increment revison target workspac initi
+happen workspac initi syncron perform
+happen cluster member perform index workspac changelog
+process workspac initail

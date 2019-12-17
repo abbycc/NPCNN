@@ -1,0 +1,4 @@
+concurr index updat queri
+queri handler modif multipl queri time write oper separ read oper synchron scheme multipl queri run concurr absenc write oper
+major drawback synchron singl long run queri block workspac commit queri handler coupl workspac synchron event listen process block queri handler finish event process reflect index
+index modif block sens index modif wait queri complet

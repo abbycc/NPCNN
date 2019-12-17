@@ -1,0 +1,4 @@
+jcr server honor webdav request' content type content languag header
+process put post davresourc access content type content languag header present webdav request
+client explicitli commun header valu prioriti server calcul setcontenttypecommand input server calcul
+dav getcontentlanguag support simpl webdav server

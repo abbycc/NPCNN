@@ -1,0 +1,2 @@
+version thread safe
+check version thread safe

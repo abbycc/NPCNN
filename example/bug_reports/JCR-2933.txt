@@ -1,0 +1,15 @@
+sql2 left outer join
+creat node
+def root addnod node1 sling samplepag
+setproperti n1prop1 page1
+def addnod node2 sling samplecont
+setproperti n2prop1 content1
+execut queri
+select sling samplepag page left outer join sling samplecont content isdescendantnod content page page n1prop1 'page1' content n2prop1 'content1'
+resultset row node
+execut
+select sling samplepag page left outer join sling samplecont content isdescendantnod content page page n1prop1 'page1' content n2prop1 'xxxxx'
+resultset row node
+wrong result row
+version prior row result
+node exist jackrabbit report row result

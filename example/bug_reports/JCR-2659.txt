@@ -1,0 +1,2 @@
+fail remov previous assign mixin
+jackrabbit fail remov previous assign mixin work fine version

@@ -1,0 +1,20 @@
+jcr2spi setproperti date string fail properti ad properti type propertytyp date
+code
+node parent node session getitem path
+node test parent addnod createcontenttest file
+node content test addnod jcr content resourc
+content setproperti jcr encod utf
+content setproperti jcr mimetyp text plain
+content setproperti jcr data bytearrayinputstream foobar getbyt
+content setproperti jcr lastmodifi 25t17 000z todo work bug jcr2spi
+session save
+fail properti defin date happen comparison attempt note work properti exist overwritten
+except
+javax jcr nodetyp constraintviolationexcept match properti definit found http www jcp org jcr lastmodifi
+org apach jackrabbit jcr2spi nodetyp itemdefinitionproviderimpl getqpropertydefinit itemdefinitionproviderimpl java
+org apach jackrabbit jcr2spi nodetyp itemdefinitionproviderimpl getqpropertydefinit itemdefinitionproviderimpl java
+org apach jackrabbit jcr2spi nodeimpl getapplicablepropertydefinit nodeimpl java
+org apach jackrabbit jcr2spi nodeimpl createproperti nodeimpl java
+org apach jackrabbit jcr2spi nodeimpl setproperti nodeimpl java
+org apach jackrabbit jcr2spi nodeimpl setproperti nodeimpl java
+org apach jackrabbit jcr2spi nodeimpl setproperti nodeimpl java

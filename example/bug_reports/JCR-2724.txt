@@ -1,0 +1,9 @@
+wrong argument check btreemanag constructor
+constructor btreemanag argument check maxchildren minchildren wrong
+minchildren maxchildren
+throw illegalargumentexcept maxchildren minchildren
+
+
+minchildren maxchildren
+throw illegalargumentexcept maxchildren minchildren
+

@@ -1,0 +1,6 @@
+set properti transient remov fail pathnotfoundexcept
+test fail pathnotfoundexcept
+org apach jackrabbit jcr2spi addpropertytest testreplacingproperti
+org apach jackrabbit jcr2spi addpropertytest testreplacingproperty2
+org apach jackrabbit jcr2spi addpropertytest testaddingproperti
+org apach jackrabbit jcr2spi addpropertytest testaddingproperty2

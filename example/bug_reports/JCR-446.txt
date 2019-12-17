@@ -1,0 +1,2 @@
+prevent login repositori shutdown
+relat comment jcr prevent session creat repositori shutdown odd chanc run problem issu easili solv make getworkspaceinfo synchron ad sanitycheck call createsess method

@@ -1,0 +1,54 @@
+datastor chang modifi date fail file open read window
+file open read window chang modifi time file setlastmodifi
+org apach jackrabbit core data datastoreexcept fail updat record
+modifi date 2ac72495fd1e270777821b8a872903c79c84a8d9
+org apach jackrabbit core data filedatastor addrecord filedatastor java
+org apach jackrabbit core blobindatastor getinst blobindatastor java
+org apach jackrabbit core internalvalu getblobfilevalu internalvalu java
+org apach jackrabbit core internalvalu creat internalvalu java
+org apach jackrabbit core internalvaluefactori creat internalvaluefactori java
+org apach jackrabbit core valuefactoryimpl createbinari valuefactoryimpl java
+test case workaround
+import java file
+import java fileinputstream
+import java randomaccessfil
+public class test
+public static void main string arg throw except
+string test txt
+file test file
+randomaccessfil randomaccessfil
+write
+close
+long mod test lastmodifi
+thread sleep
+fileinputstream fileinputstream
+test setlastmodifi test lastmodifi
+test canwrit
+system println write
+
+system println canwrit
+randomaccessfil
+int read
+seek
+write
+close
+
+
+system println setlastmodifi
+
+system println modifi mod
+system println modifi test lastmodifi
+close
+system println input close
+test setlastmodifi test lastmodifi
+test canwrit
+system println write
+
+system println canwrit
+
+
+system println setlastmodifi
+
+file delet
+
+

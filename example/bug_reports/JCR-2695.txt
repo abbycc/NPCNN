@@ -1,0 +1,2 @@
+jackrabbit perform test suit
+set multi version perform test suit insid jackrabbit core src test perform similar compat test suit ad jcr perform test suit produc compar perform number number simpl benchmark test jackrabbit version includ latest snapshot

@@ -1,0 +1,2 @@
+checkpermissiontest testcheckpermiss config node type creat
+checkpermissiontest testcheckpermiss configur node type creat propos testnodetyp config properti

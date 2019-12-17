@@ -1,0 +1,15 @@
+iso8601 default decimalformat constructor local specif digit
+iso8601 java default decimalformat constructor local specif decimalformatsymbol runn jackrabbit indian local format produc date devanagari numer digit save version utf encod longer usual transport pars decimalformat work timezon gettimezon gmt indian numer digit fail null return iso8601 traceback occur
+http error org apach jackrabbit core persist bundl bundlefspersistencemanag fail write bundl ff629488 ebb9 a63b 341553cc1140
+java lang illegalargumentexcept argument null
+org apach jackrabbit util iso8601 format iso8601 java
+org apach jackrabbit core internalvalu tostr internalvalu java
+org apach jackrabbit core persist bundl util bundlebind writest bundlebind java
+org apach jackrabbit core persist bundl util bundlebind writebundl bundlebind java
+org apach jackrabbit core persist bundl bundlefspersistencemanag storebundl bundlefspersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag putbundl abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag store abstractbundlepersistencemanag java
+iso8601 meant char ascii constructor fix local encount timezon issu
+privat static final decimalformat format decimalformat decimalformatsymbol local
+privat static final decimalformat xxx format decimalformat decimalformatsymbol local
+privat static final decimalformat xxxx format decimalformat decimalformatsymbol local

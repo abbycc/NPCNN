@@ -1,0 +1,71 @@
+staleitemstateexcept distribut transact
+seam bug jackrabbit distribut transact occur local transact seam relat jcr
+scenario staleitemstateexcept occur reproduc transact fail oper implement custom servicebean setproperti deletenod run separ transact transact configur spring annot transact
+scenario setproperti
+multipl setproperti properti node newli creat exist
+setproperti staleitemstateexcept properti state rais transact commit setproperti invoc fail
+scenario deletenod
+iter time
+creat node subnod
+delet node
+delet node rais staleitemstateexcept node iter relat transact commit delet node fail predict pattern
+except trace scenario scenario differ staleitemstateexcept rais node properti
+org springframework transact unexpectedrollbackexcept jta transact unexpectedli roll back due timeout nest except javax transact rollbackexcept error phase commit
+org springframework transact jta jtatransactionmanag docommit jtatransactionmanag java
+org springframework transact support abstractplatformtransactionmanag processcommit abstractplatformtransactionmanag java
+org springframework transact support abstractplatformtransactionmanag commit abstractplatformtransactionmanag java
+org springframework transact interceptor transactionaspectsupport committransactionafterreturn transactionaspectsupport java
+org springframework transact interceptor transactioninterceptor invok transactioninterceptor java
+org springframework aop framework reflectivemethodinvoc proce reflectivemethodinvoc java
+org springframework aop framework jdkdynamicaopproxi invok jdkdynamicaopproxi java
+proxy9 setnodeproperti unknown sourc
+zeb control prototyp jrtxbug test testjackrabbittxbug testtransactionbug001 testjackrabbittxbug java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org testng intern methodhelp invokemethod methodhelp java
+org testng intern invok invokemethod invok java
+org testng intern invok invoketestmethod invok java
+org testng intern invok invoketestmethod invok java
+org testng intern testmethodwork invoketestmethod testmethodwork java
+org testng intern testmethodwork run testmethodwork java
+org testng testrunn runwork testrunn java
+org testng testrunn privaterun testrunn java
+org testng testrunn run testrunn java
+org testng suiterunn runtest suiterunn java
+org testng suiterunn runsequenti suiterunn java
+org testng suiterunn privaterun suiterunn java
+org testng suiterunn run suiterunn java
+org testng testng createandrunsuiterunn testng java
+org testng testng runsuitesloc testng java
+org testng testng run testng java
+org testng remot remotetestng run remotetestng java
+org testng remot remotetestng main remotetestng java
+caus javax transact rollbackexcept error phase commit
+org apach geronimo transact manag transactionimpl commit transactionimpl java
+org apach geronimo transact manag transactionmanagerimpl commit transactionmanagerimpl java
+org apach geronimo transact context inheritabletransactioncontext complet inheritabletransactioncontext java
+org apach geronimo transact context inheritabletransactioncontext commit inheritabletransactioncontext java
+org apach geronimo transact context onlineusertransact commit onlineusertransact java
+org jenck factori usertransactionfactorybean geronimousertransact commit usertransactionfactorybean java
+org springframework transact jta jtatransactionmanag docommit jtatransactionmanag java
+
+caus javax transact xaexcept
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl commit xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc commit transactionboundxaresourc java
+org apach geronimo transact manag wrappernamedxaresourc commit wrappernamedxaresourc java
+org apach geronimo transact manag transactionimpl commit transactionimpl java
+
+caus org apach jackrabbit core transactionexcept unabl prepar transact
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+
+caus org apach jackrabbit core state staleitemstateexcept bef3c056 bc91 a35c aa184182b5ad test properti modifi extern
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+
+debug jackrabbit staleitemstateexcept local state und overlai state differ 'modcount' attribut modcount local state lower modcount overlai state state cach problem
+attach simpl java applic configur maven readi run standalon jca contain jboss replac jenck order support distribut transact configur repositori inmempersistencemanag scenario implement testng test catch occur transactionexcept print stacktrac except test fail

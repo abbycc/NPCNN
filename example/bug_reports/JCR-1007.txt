@@ -1,0 +1,2 @@
+move common implement spi interfac spi common modul
+spi modul duplic code move spi common modul

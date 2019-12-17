@@ -1,0 +1,2 @@
+rmi problem prevent proper startup jackrabbit webapp
+troubl bind repositori rmi registri prevent entir jackrabbit webapp start properli rmi seldom primari function webapp simpli log warn case

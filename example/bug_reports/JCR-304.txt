@@ -1,0 +1,2 @@
+set releas goal maven
+creat singl maven goal build jackrabbit releas packag goal base standard maven dist goal includ jackrabbit common modul includ releas

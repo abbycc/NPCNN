@@ -1,0 +1,2 @@
+queri class miss extractterm
+queri class derefqueri rangequeri wildcardqueri overwrit method extractterm

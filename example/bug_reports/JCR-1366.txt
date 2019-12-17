@@ -1,0 +1,21 @@
+dbdatastor tableprefix accomod init test exist datastor tabl
+provid test deploy prepopul data includ jackrabbit datastor tableprefix creat initi repositori tabl creat properli
+clean instal run fresh databas exist datastor store jackrabbit datastor tabl startup fail init meta data check tabl match tablesql properti
+resultset meta gettabl null null tablesql null
+tablesql properti modifi base tableprefix properti tablesql modifi queri base prefix
+init method modifi test tabl base tableprefix
+note assum jdbc driver handl differ sql server jtd driver databasemetadata api unclear paramet gettabl tablenamepattern wildcard work specif tabl
+datastor config
+datastor class org apach jackrabbit core data dbdatastor
+param classnam org apach jackrabbit core data dbdatastor
+param url jdbc jtd sqlserver localhost nga admin preparesql responsebuff adapt
+param user
+param password
+param databasetyp sqlserver
+param driver net sourceforg jtd jdbc driver
+bug jackrabbit make tableprefix work
+param tableprefix jackrabbit
+param minrecordlength
+param maxconnect
+param copywhenread true
+datastor

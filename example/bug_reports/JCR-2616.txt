@@ -1,0 +1,3 @@
+iteminfocacheimpl getnodeinfo getpropertyinfo clear relev entri
+iteminfocacheimpl getnodeinfo getpropertyinfo remov retriev entri cach
+entri cach path entir identifi path remov cach retriev

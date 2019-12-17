@@ -1,0 +1,32 @@
+node creat lock transact except thrown
+code fail execut insid transact
+node session getrootnod addnod
+addmixin mix lockabl
+session save
+lock lock lock fals fals
+stacktrac
+caus javax transact xaexcept
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl commit xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc commit transactionboundxaresourc java
+org apach geronimo transact manag wrappernamedxaresourc commit wrappernamedxaresourc java
+org apach geronimo transact manag transactionimpl commit transactionimpl java
+
+caus org apach jackrabbit core transactionexcept unabl updat
+org apach jackrabbit core lock xaenviron prepar xaenviron java
+org apach jackrabbit core lock xalockmanag prepar xalockmanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+
+caus javax jcr itemnotfoundexcept fail build path 48fb59d8 ac77 4b9f 8b53 9f2492dca5e5 48fb59d8 ac77 4b9f 8b53 9f2492dca5e5 48fb59d8 ac77 4b9f 8b53 9f2492dca5e5
+org apach jackrabbit core hierarchymanagerimpl getpath hierarchymanagerimpl java
+org apach jackrabbit core cachinghierarchymanag getpath cachinghierarchymanag java
+org apach jackrabbit core lock lockmanagerimpl getpath lockmanagerimpl java
+org apach jackrabbit core lock lockmanagerimpl internallock lockmanagerimpl java
+org apach jackrabbit core lock xaenviron lockinfo updat xaenviron java
+org apach jackrabbit core lock xaenviron prepar xaenviron java
+
+caus org apach jackrabbit core state nosuchitemstateexcept 48fb59d8 ac77 4b9f 8b53 9f2492dca5e5
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit core hierarchymanagerimpl getitemst hierarchymanagerimpl java
+org apach jackrabbit core hierarchymanagerimpl getpath hierarchymanagerimpl java
+

@@ -1,0 +1,2 @@
+consolid type safe wrapper common collect class
+place defin type safe wrapper class common collect filteriter transformiter consolid singl place

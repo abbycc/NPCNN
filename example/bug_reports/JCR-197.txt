@@ -1,0 +1,8 @@
+index merg run separ thread
+index merg configur paramet mergefactor minmergedoc default mergefactor minmergedoc index directori exist equal node merg singl process repeat multipli minmergedoc mergefactor round merg index directori equal node
+process part regular workspac store oper index merg 10'000 node block store oper coupl second current synchron scheme thread block write accept
+index merg run separ thread background
+process care
+merg index delet index lost
+switch index merg index atom
+recoveri merg interrupt jackrabbit shutdown

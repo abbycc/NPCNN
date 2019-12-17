@@ -1,0 +1,6 @@
+spi chang param order repositoryservic createbatch
+method repositoryservic requir sessioninfo list info paramet
+repositoryservic createbatch itemid sessioninfo
+object refact method signatur consist reason
+
+repositoryservic createbatch sessioninfo itemid

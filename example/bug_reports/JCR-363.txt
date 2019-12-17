@@ -1,0 +1,10 @@
+node setproperti string implement specif
+illustr issu assum properti definit
+sometext
+type string
+mandatori
+autocr
+call throw constraintviolationexcept
+properti exist
+node setproperti sometext
+rule find applic definit case strict

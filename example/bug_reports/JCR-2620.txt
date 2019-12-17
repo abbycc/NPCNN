@@ -1,0 +1,4 @@
+authoriz getproperti setproperti deal relativepath
+authoriz getproperti setproperti defin properti identifi
+jcr item base implement easili deal rel path retriev write properti child
+node rep authoriz node

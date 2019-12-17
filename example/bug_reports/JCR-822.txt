@@ -1,0 +1,2 @@
+tck transfer lock token test open scope lock
+fact jsr170 limit usag session removelocktoken string session addlocktoken string token obtain open scope lock benefit due fact issu address scope jsr283 suggest modifi test case deal transfer lock token creat open scope lock

@@ -1,0 +1,2 @@
+add method public boolean hasnodetyp string nodetypemanagerimpl
+plan add method updat class interfac jackrabbitnodetypemanag

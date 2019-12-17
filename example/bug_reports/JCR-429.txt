@@ -1,0 +1,9 @@
+session scope lock remov session logout
+case
+session repo login
+node root getrootnod
+root lock true true session scope deep lock
+modifii item
+root ismodifi true
+logout
+understand session scope lock remov unlock unsav drop logout session case lock implement notifi sessionimpl logout situat call node unlock lock' node session scope lock method fail unsav logout lock session repositori stop

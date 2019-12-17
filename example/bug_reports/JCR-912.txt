@@ -1,0 +1,179 @@
+overlappingfilelockexcept jre
+email discuss
+mon marcel reutegg wrote
+investig issu detail
+
+javadoc filechannel trylock
+overlappingfilelockexcept thrown jvm hold lock
+channel
+
+contrast current check repositori startup method primarili
+focus situat jvm start repositori home
+directori
+
+overlappingfilelockexcept thrown repositori
+instanc startup jvm repositori home
+directori
+
+suggest add catch claus cover overlappingfilelockexcept
+addit ioexcept
+
+
+marcel
+
+stefan guggisberg wrote
+btw afaik overlappingfilelockexcept thrown linux
+filechannel getlock window return null situat
+
+test platform isol
+issu
+place breakpoint top
+repositoryimpl acquirerepositorylock
+method step code verifi content
+
+
+origin email
+patrick haggood codezilla wrote
+linux sun java jackrabbit derbi persist
+putnod object function give error unit
+test fail updat swap test
+save user doc save user prior test delet
+repositori directori
+set explicit lock session save
+unit test
+dbconn dbc
+public sessionutiltest string testnam
+super testnam
+dbc dbconn
+
+note putus putdocu putnod determin
+rootnod
+
+test putunityus method class unityjsr170 sessionutil
+
+public void testputunityus
+system println putunityus
+unityus usr usr1
+sessionutil instanc dbc getsutil
+string result instanc putunityus usr1
+assertnotnul result
+usr unityus instanc getunityuserbyid result
+assertequ usr1 getnam usr getnam
+
+
+test putunitydocu method class
+unityjsr170 sessionutil
+
+public void testputunitydocu
+system println putunitydocu
+unitydocu udoc adr1
+sessionutil instanc dbc getsutil
+string result instanc putunitydocu udoc file
+lock error
+assertnotnul result
+udoc unitydocu instanc getunitydocumentbyid result
+assertequ adr1 getnam udoc getnam
+
+setup repositori connect
+public dbconn
+sutil null
+
+transientrepositori
+sutil sessionutil
+catch ioexcept
+printstacktrac
+
+
+public void shutdown
+sutil closeal
+
+public sessionutil getsutil
+return sutil
+
+sessionutil
+public sessionutil repositori
+
+session login
+simplecredenti usernam password tochararrai
+catch loginexcept
+printstacktrac
+catch repositoryexcept
+printstacktrac
+
+
+public void closeal
+
+session logout
+catch except
+printstacktrac
+system println error close repositori
+
+
+put node tree root node return uuid
+updat node
+privat string putnod string nodetyp unitybaseobject ubo
+string resultuuid null
+string unam ubo getnam
+string utyp ubo gettyp
+string objectuid ubo getid
+node pnode node add updat
+session se null
+
+se getsess
+updat node node
+objectuid null
+node se getrootnod
+pnode addnod utyp
+pnode addmixin mix referenc
+
+grab exist node uuid
+pnode se getnodebyuuid objectuid
+
+updat node
+pnode null
+ubo setid pnode getuuid
+string unityxml
+utran getxmlstringfromunitybaseobject ubo
+updat properti
+pnode setproperti ubo getnam
+pnode setproperti type ubo gettyp
+pnode setproperti xmldata unityxml
+se save
+resultuuid ubo getid
+
+catch except
+printstacktrac
+
+return resultuuid
+
+privat session getsess
+return session
+
+repositori xml
+workspac wsp
+filesystem
+class org apach jackrabbit core local localfilesystem
+param path wsp home
+filesystem
+persistencemanag
+class org apach jackrabbit core state derbypersistencemanag
+param url jdbc derbi
+wsp home creat true
+param schemaobjectprefix wsp
+persistencemanag
+searchindex
+class org apach jackrabbit core queri lucen searchindex
+param path wsp home index
+param usecompoundfil true
+param minmergedoc
+param volatileidletim
+param maxmergedoc
+param mergefactor
+param buffers
+param caches
+param forceconsistencycheck fals
+param autorepair true
+param analyz
+org apach lucen analysi standard standardanalyz
+searchindex
+workspac

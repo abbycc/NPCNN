@@ -1,0 +1,2 @@
+ocm test verbos
+ocm test case print bit stuff standard output make standard build output harder read test explicit assert verifi correct behaviour redirect free form output log file target directori

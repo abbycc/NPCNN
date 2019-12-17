@@ -1,0 +1,2 @@
+type staticoperand fulltextsearchexpress
+http jsr dev java net issu show bug cgi

@@ -1,0 +1,3 @@
+jcr2spi avoid individu item reload session item refresh true
+cachebehaviour invalid item refresh true session refresh true result individu reload exist entri hierarchi circumv batch read optim
+gener optim refresh refresh true mark exist item forc reload access similar behaviour implement refresh fals

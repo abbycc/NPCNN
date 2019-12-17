@@ -1,0 +1,2 @@
+lucenequeryfactori call queryhit close run queri
+lucenequeryfactori respons jcr sql2 implement close queryhit run queri

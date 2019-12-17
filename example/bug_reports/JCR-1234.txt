@@ -1,0 +1,2 @@
+cachingmultiread inconsist
+class extend indexread name cachingmultiread renam cachingmultiindexread

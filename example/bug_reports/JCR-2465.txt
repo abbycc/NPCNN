@@ -1,0 +1,4 @@
+background thread jackrabbit classload thread context classload
+repositoryimpl thread executor default thread factori background thread thread jackrabbit class loader classload load jackrabbit
+thread context classload classload thread great
+combin sling happen jsp sling initi save jackrabbit index start background thread thread pool thread context class loader set thread context classload jsp sling sling undeploi jackrabbit hold class loader creat hugh memori leak

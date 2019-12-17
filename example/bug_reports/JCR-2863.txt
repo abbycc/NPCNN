@@ -1,0 +1,35 @@
+session importxml handl properli uuid collis user insuffici permiss
+import referenc node node uuid workspac session suffici permiss read import fail matter importuuidbehavior chosen
+xml import successfulli repositori user read access
+sessionimpl java
+public nodeimpl getnodebyid nodeid
+
+
+return nodeimpl getitemmanag getitem
+catch accessdeniedexcept ad
+throw itemnotfoundexcept tostr
+
+
+sessionimport java
+public void startnod nodeinfo nodeinfo list propinfo
+
+node null
+creat node
+null
+
+
+potenti uuid conflict
+nodeimpl conflict
+
+conflict session getnodebyid
+catch itemnotfoundexcept inf
+conflict null
+
+conflict null
+resolv uuid conflict
+
+
+
+
+jcr spec lack read access item block access inform content item inform exist item true intern import
+mean read access entir workspac grant user successfulli import uuid creat behaviour

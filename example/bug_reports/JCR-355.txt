@@ -1,0 +1,13 @@
+extract jdbc connect init
+intermedi step allow easili configur jndi extract connect init system integr subclass wrap dynam configur custom simpl org apach jackrabbit core state simpledbpersistencemanag
+replac line
+initconnect
+add
+
+initi jdbc connect
+
+protect void initconnect throw except
+class fornam driver
+con drivermanag getconnect url user password
+con setautocommit fals
+

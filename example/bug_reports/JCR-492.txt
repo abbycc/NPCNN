@@ -1,0 +1,4 @@
+tck propertyreadmethodstest testgetvalu fail find singl valu string properti
+jcr repositori test singl valu properti type string propertyreadmethodstest testgetvalu fail except
+java lang nullpointerexcept org apach jackrabbit test api propertyreadmethodstest testgetvalu propertyreadmethodstest java org apach jackrabbit test abstractjcrtest run abstractjcrtest java
+test find singl valu properti type guarant find jcr primarytyp throw notexecutableexcept find properti

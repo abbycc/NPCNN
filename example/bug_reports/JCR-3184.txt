@@ -1,0 +1,2 @@
+extend consistencycheck api adopt orphan node parent node
+option consistencycheck api persist manag analyz fix storag inconsist current fixup code attempt adopt orphan node

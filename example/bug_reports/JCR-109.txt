@@ -1,0 +1,3 @@
+contrib rmi notserializableexcept
+org apach jackrabbit rmi client remoterepositoryexcept
+error unmarshal return nest except java writeabortedexcept write abort java notserializableexcept javax jcr namevalu

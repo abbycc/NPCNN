@@ -1,0 +1,2 @@
+reduc memori usag docnumbercach
+uuid string uuid instanc kei cach

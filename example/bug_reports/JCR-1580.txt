@@ -1,0 +1,2 @@
+typo propertydefinitiontempl
+setvalueconstarint read setvalueconstraint

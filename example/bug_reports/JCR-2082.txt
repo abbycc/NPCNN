@@ -1,0 +1,9 @@
+queri work log workspac index
+login workspac index creat queri return result relog output run attach code sampl
+node node1240842434531 creat workspac test1240842434312
+properti set somevalueofmyproperti
+queri select unstructur 'somevalueofmyproperty'
+found node delet index
+queri select unstructur 'somevalueofmyproperty'
+found node delet index
+

@@ -1,0 +1,8 @@
+legal jcr name unneccessari server roundtrip
+assum legal qualifi jcr name
+foo
+foo bar
+item name read spi layer interpret expand form name
+prefix lookup namespac 'foo' fail treat qualifi jcr
+depend spi implement server roundtrip requir order determin 'foo'
+regist namespac

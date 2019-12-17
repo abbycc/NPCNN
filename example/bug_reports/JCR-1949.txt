@@ -1,0 +1,43 @@
+nullpointerexcept delegatingobservationdispatch paramet null call createeventstatecollect null
+nullpointerexcept jackrabbit synchronis index
+janv info clusternod process revis
+janv error clusternod unexpect error sync journal null
+java lang nullpointerexcept
+org apach jackrabbit core observ delegatingobservationdispatch createeventstatecollect delegatingobservationdispatch java
+org apach jackrabbit core version versionmanagerimpl dynamicescfactori createeventstatecollect versionmanagerimpl java
+org apach jackrabbit core version versionmanagerimpl externalupd versionmanagerimpl java
+org apach jackrabbit core cluster clusternod process clusternod java
+org apach jackrabbit core cluster changelogrecord process changelogrecord java
+org apach jackrabbit core cluster clusternod consum clusternod java
+org apach jackrabbit core journal abstractjourn dosync abstractjourn java
+org apach jackrabbit core journal abstractjourn sync abstractjourn java
+org apach jackrabbit core cluster clusternod sync clusternod java
+org apach jackrabbit core cluster clusternod run clusternod java
+java lang thread run thread java
+fact method createeventstatecollect delegatingobservationdispatch call versionmanagerimpl session paramet null
+delegatingobservationdispatch
+public eventstatecollect createeventstatecollect sessionimpl session
+path pathprefix
+string userdata null
+
+userdata observationmanagerimpl session getworkspac getobservationmanag getuserdata
+catch repositoryexcept
+happen
+implement support observ
+
+return eventstatecollect session pathprefix userdata
+
+versionmanagerimpl dynamicescfactori
+public eventstatecollect createeventstatecollect sessionimpl sourc
+return obsmgr createeventstatecollect sourc version storag path
+
+versionmanagerimpl
+public void externalupd changelog list event
+long timestamp string userdata
+throw repositoryexcept
+eventstatecollect esc getescfactori createeventstatecollect null
+esc addal event
+esc settimestamp timestamp
+esc setuserdata userdata
+sharedstatemgr externalupd esc
+

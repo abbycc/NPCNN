@@ -1,0 +1,10 @@
+node opv ignor remov restor
+jcr1 specif mention
+ignor
+child node
+checkin state inform store
+restor child node current remain remov
+properti
+checkin state inform store
+restor properti current remain remov
+current implement remov ignor child

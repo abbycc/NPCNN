@@ -1,0 +1,149 @@
+custom loginmodul configur broken
+upgrad jackrabbit creat ldap except configur file chang ad simplesecuritymanag requir default substitut loginmodul
+loginmodul class sun secur auth modul ldaploginmodul
+param userprovid ldap localhost peopl
+param userfilt amp uid usernam objectclass inetorgperson
+param authzident usernam
+param debug true
+loginmodul
+configur work correctli authent properli jackrabbit
+configur throw except
+javax jcr loginexcept sun secur auth modul ldaploginmodul support 'userprovid sun secur auth modul ldaploginmodul support 'userprovid sun secur auth modul ldaploginmodul support 'userprovid
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+org apach jackrabbit jca jcamanagedconnectionfactori opensess jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createmanagedconnect jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createmanagedconnect jcamanagedconnectionfactori java
+sun enterpris resourc connectoralloc createresourc connectoralloc java
+sun enterpris resourc abstractresourcepool createsingleresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool createresourceandaddtopool abstractresourcepool java
+sun enterpris resourc abstractresourcepool createresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool initpool abstractresourcepool java
+sun enterpris resourc abstractresourcepool internalgetresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool getresourc abstractresourcepool java
+sun enterpris resourc poolmanagerimpl getresourcefrompool poolmanagerimpl java
+sun enterpris resourc poolmanagerimpl getresourc poolmanagerimpl java
+sun enterpris connector connectionmanagerimpl internalgetconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+threesl sapphir cradlejcr login cradlejcr java
+
+initialcontext ctx initialcontext
+repositori repositori ctx lookup jcr repositori
+session repositori login credenti
+catch except
+threesl sapphir cradlew dologin cradlew java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei impl model method dispatch entityparamdispatchprovid typeoutinvok dispatch entityparamdispatchprovid java
+sun jersei impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain servletservic applicationfilterchain java
+org apach catalina core standardwrappervalv invok standardwrappervalv java
+org apach catalina core standardcontextvalv invokeintern standardcontextvalv java
+org apach catalina core standardcontextvalv invok standardcontextvalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+sun enterpris web webpipelin invok webpipelin java
+org apach catalina core standardhostvalv invok standardhostvalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin invok standardpipelin java
+org apach catalina core containerbas invok containerbas java
+org apach catalina core standardenginevalv invok standardenginevalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin invok standardpipelin java
+org apach catalina core containerbas invok containerbas java
+org apach coyot tomcat5 coyoteadapt servic coyoteadapt java
+sun enterpris web connector grizzli defaultprocessortask invokeadapt defaultprocessortask java
+sun enterpris web connector grizzli defaultprocessortask doprocess defaultprocessortask java
+sun enterpris web connector grizzli defaultprocessortask process defaultprocessortask java
+sun enterpris web connector grizzli defaultreadtask executeprocessortask defaultreadtask java
+sun enterpris web connector grizzli defaultreadtask dotask defaultreadtask java
+sun enterpris web connector grizzli defaultreadtask dotask defaultreadtask java
+sun enterpris web connector grizzli taskbas run taskbas java
+sun enterpris web connector grizzli ssl sslworkerthread run sslworkerthread java
+caus javax secur auth login loginexcept sun secur auth modul ldaploginmodul support 'userprovid
+org apach jackrabbit core secur authent localauthcontext login localauthcontext java
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+
+javax secur auth login loginexcept sun secur auth modul ldaploginmodul support 'userprovid
+org apach jackrabbit core secur authent localauthcontext login localauthcontext java
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+org apach jackrabbit jca jcamanagedconnectionfactori opensess jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createmanagedconnect jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createmanagedconnect jcamanagedconnectionfactori java
+sun enterpris resourc connectoralloc createresourc connectoralloc java
+sun enterpris resourc abstractresourcepool createsingleresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool createresourceandaddtopool abstractresourcepool java
+sun enterpris resourc abstractresourcepool createresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool initpool abstractresourcepool java
+sun enterpris resourc abstractresourcepool internalgetresourc abstractresourcepool java
+sun enterpris resourc abstractresourcepool getresourc abstractresourcepool java
+sun enterpris resourc poolmanagerimpl getresourcefrompool poolmanagerimpl java
+sun enterpris resourc poolmanagerimpl getresourc poolmanagerimpl java
+sun enterpris connector connectionmanagerimpl internalgetconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+sun enterpris connector connectionmanagerimpl allocateconnect connectionmanagerimpl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+org apach jackrabbit jca jcarepositoryhandl login jcarepositoryhandl java
+threesl sapphir cradlejcr login cradlejcr java
+threesl sapphir cradlew dologin cradlew java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei impl model method dispatch entityparamdispatchprovid typeoutinvok dispatch entityparamdispatchprovid java
+sun jersei impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain servletservic applicationfilterchain java
+org apach catalina core standardwrappervalv invok standardwrappervalv java
+org apach catalina core standardcontextvalv invokeintern standardcontextvalv java
+org apach catalina core standardcontextvalv invok standardcontextvalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+sun enterpris web webpipelin invok webpipelin java
+org apach catalina core standardhostvalv invok standardhostvalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin invok standardpipelin java
+org apach catalina core containerbas invok containerbas java
+org apach catalina core standardenginevalv invok standardenginevalv java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin doinvok standardpipelin java
+org apach catalina core standardpipelin invok standardpipelin java
+org apach catalina core containerbas invok containerbas java
+org apach coyot tomcat5 coyoteadapt servic coyoteadapt java
+sun enterpris web connector grizzli defaultprocessortask invokeadapt defaultprocessortask java
+sun enterpris web connector grizzli defaultprocessortask doprocess defaultprocessortask java
+sun enterpris web connector grizzli defaultprocessortask process defaultprocessortask java
+sun enterpris web connector grizzli defaultreadtask executeprocessortask defaultreadtask java
+sun enterpris web connector grizzli defaultreadtask dotask defaultreadtask java
+sun enterpris web connector grizzli defaultreadtask dotask defaultreadtask java
+sun enterpris web connector grizzli taskbas run taskbas java
+sun enterpris web connector grizzli ssl sslworkerthread run sslworkerthread java
+rar5117 fail obtain creat connect connect pool jackrabbit connect pool reason fail creat session sun secur auth modul ldaploginmodul support 'userprovid sun secur auth modul ldaploginmodul support 'userprovid

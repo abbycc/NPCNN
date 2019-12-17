@@ -1,0 +1,9 @@
+add unit test beanconvert
+beanconvert stabl add unit test null valu bean attribut support test beanconvert
+good scenario test
+model class attribut base class
+creat instanc null
+insert save
+instanc
+set attribut
+updat save

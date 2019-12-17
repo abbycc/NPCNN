@@ -1,0 +1,2 @@
+dbdatastor resultset open
+dbdatastor close resultset lead memori leak larg memori usag fix trunk

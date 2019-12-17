@@ -1,0 +1,5 @@
+cooperativefilelock improv
+cooperativefilelock test case wai improv
+avoid except lock file modifi futur
+stop thread immedi releas lock
+detect lock repositori bit earlier

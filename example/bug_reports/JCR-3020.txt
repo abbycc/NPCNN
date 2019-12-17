@@ -1,0 +1,2 @@
+abstractrepositoryservic handl guestcredenti
+abstractrepositoryservic createsessioninfo handl guestcredenti handl simplecredenti

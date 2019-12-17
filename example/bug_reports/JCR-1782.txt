@@ -1,0 +1,5 @@
+destin header uri scheme npe
+webdavrequestimpl getdestinationloc assum uri getauthor null
+rfc2518 full uri requir npe statu expect
+rfc4918 absolut path allow
+propos deleg gethrefloc thing

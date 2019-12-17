@@ -1,0 +1,3 @@
+move jcrwebdavserverservlet jcr server make abstract
+line iss jcr suggest partial move jcrwebdavserverservlet jcr webapp project jcr server project partial move servlet abstract getrepositori method abstract jcr webapp project jcrwebdavserverservlet backward compat mainta extend servlet implement getrepositori method repositoryaccess servlet
+reus jcr server project includ abstract jcrwebdavserverservlet environ

@@ -1,0 +1,2 @@
+avoid bitset childaxisqueri minim memori usag
+childaxisqueri larg index intern bitset instanc hit consum lot memori bitset larg indexread maxdoc case queri consist childaxisqueri combin total 14mb multipl user execut queri simultan caus memori error

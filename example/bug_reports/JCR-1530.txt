@@ -1,0 +1,13 @@
+mspowerpointtextextractor extract ppt sign
+mspowerpointtextextractor class problem read ppt sign contain text sign poi powerpointextractor pars data hand side effect simpli code extract
+public reader extracttext inputstream stream string type string encod throw ioexcept
+
+powerpointextractor extractor powerpointextractor stream
+return stringread extractor gettext true true
+catch runtimeexcept
+logger warn fail extract powerpoint text content
+return stringread
+final
+stream close catch ioexcept
+
+

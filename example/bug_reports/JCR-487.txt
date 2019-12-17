@@ -1,0 +1,2 @@
+jcr frozenuuid properti type refer string
+spec jcr frozenuuid string jackrabbit refer

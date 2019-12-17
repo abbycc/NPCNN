@@ -1,0 +1,2 @@
+session return offer transact support
+javax jcr session instanc return repositori implement org apach jackrabbit jca jcasessionhandl implement interfac org apach jackrabbit api xasess

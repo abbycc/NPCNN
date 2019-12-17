@@ -1,0 +1,2 @@
+support system properti defin defaulttransactiontimeout xasess
+defin defaulttransactiontimeout xasess systemproperti

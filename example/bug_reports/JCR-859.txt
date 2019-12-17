@@ -1,0 +1,2 @@
+rep excerpt return malform xml
+rep excerpt function encod prefin xml entiti write excerpt xml produc malform xml

@@ -1,0 +1,3 @@
+sql2 queri log
+sql2 queri construct queryobjectmodel ran queryobjectmodelimpl log run time
+attach run time log similar

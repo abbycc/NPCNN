@@ -1,0 +1,3 @@
+implement jcr jackrabbit repositori uri
+current file uri jackrabbit repositoryfactoryimpl class make hard support extra paramet prevent jcr implement similar repositori uri pattern
+propos start support jcr jackrabbit uri pattern addit current file pattern

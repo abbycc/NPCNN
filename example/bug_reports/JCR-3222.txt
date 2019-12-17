@@ -1,0 +1,3 @@
+servlet filter custom session provid
+order integr jackrabbit davex server function custom authent logic sling project emb subclass davex servlet class cleaner tight coupl need
+achiev extern compon provid custom sessionprovid instanc extra request attribut servlet filter implement custom authent logic easili make function standard davex servlet jackrabbit

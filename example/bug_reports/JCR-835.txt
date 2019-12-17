@@ -1,0 +1,3 @@
+java compil error eclips
+report at douma jcr revis introduc code eclips compil fail java complianc mode code compil sun jdk
+problem enclos class refer anonym innner class instanti constructor name class appar understand eclips complier instanc refer evalu super argument constructor

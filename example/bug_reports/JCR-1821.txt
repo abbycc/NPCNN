@@ -1,0 +1,33 @@
+jcr2spi item issam return wrong result ancestor invalid
+julian detect issu jcr2spi previous shadow due heavi reload item save
+recent reload item postpon access test fail
+node testrootnod addnod afil file
+addnod jcr content resourc
+setproperti jcr lastmodifi calendar getinst
+setproperti jcr mimetyp text plain
+properti jcrdata setproperti jcr data abc propertytyp binari
+testrootnod save
+access properti session
+session othersess helper getreadonlysess
+
+properti otherproperti properti othersess getitem jcrdata getpath
+asserttru jcrdata issam otherproperti
+final
+othersess logout
+
+
+asserttru issam othersess getitem getpath
+success
+reason jcrdata properti reload parent invalid properti awar chang due fact resourc node type extend mix referenc
+fix
+mark item invalid save
+set statu protect autocr properti exist
+forc jcrdata reload issam call
+drawback round trip server make date
+chang item issam make workspaceid date walk
+hierarchi forc reload invalid ancestor
+drawback referenc node rare miss
+extra round trip
+chang item issam compar 'workspacepath' 'workspaceid'
+drawback persist move referenc node item issam return fals
+take closer code addit test opt

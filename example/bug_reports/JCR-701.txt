@@ -1,0 +1,2 @@
+upgrad xerc
+number bug fix featur xerc upgrad newer version give depend metadata avoid separ xmlparserapi depend addit main xercesimpl depend

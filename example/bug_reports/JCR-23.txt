@@ -1,0 +1,3 @@
+persistentversionmanag grow cach
+persistentversionmanag class privat hashmap histori refer internalversionhistori object bad thing cach grow manag forget unus histori badder class support demand load version histori
+repositori fill node properti grow histori map 1'222'030 entri concret case alloc 213mb heap 41mb referenc persistentversionmanag histori map

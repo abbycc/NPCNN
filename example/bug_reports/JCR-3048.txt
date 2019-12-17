@@ -1,0 +1,3 @@
+upgrad latest apach parent pom
+bit latest greatest apach parent pom org apach apach inherit unus org apach jackrabbit parent pom
+move thing back parent pom jackrabbit parent pom locat insid trunk upgrad latest apach parent pom troubl extra releas parent pom

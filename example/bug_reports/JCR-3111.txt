@@ -1,0 +1,2 @@
+internalversionmanagerbas miss null check getnod
+instanc check node hasnod call getnod check null

@@ -1,0 +1,2 @@
+spi provid batch read function
+extend repositoryservic interfac batchread modifi jcr2spi

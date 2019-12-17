@@ -1,0 +1,6 @@
+modifi queryimpl enabl extern queri builder read write jcr express orderbi claus
+queryimpl creat jcr express fly orderbyexpress job extern querybuild class dynam collect properti order requir queryimpl support updat jcr express return built express arraylist collect properti chang enabl add jcrexpress queryimpl object test ad
+chang file
+path
+src main java org apach jackrabbit ocm queri impl queryimpl java
+src test java org apach jackrabbit ocm manag queri digestersimplequerytest java

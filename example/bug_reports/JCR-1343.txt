@@ -1,0 +1,2 @@
+replac xerc serial jaxp
+org apach jackrabbit rmi xml importcontenthandl class xerc implement sax documenthandl serial xml byte depend drop jaxp function

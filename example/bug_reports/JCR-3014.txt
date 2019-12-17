@@ -1,0 +1,3 @@
+identifi path inexist item throw except
+fail repositoryexcept return fals
+session itemexist uuid randomuuid

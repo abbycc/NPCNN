@@ -1,0 +1,18 @@
+set webdav properti npe davresourceimpl
+webdav proppatch properti prf someproperti npe davresourceimpl retriev tostr method call patch work problem
+index jproject eclips jackrabbit jcr server server src java org apach jackrabbit webdav simpl davresourceimpl java
+
+jproject eclips jackrabbit jcr server server src java org apach jackrabbit webdav simpl davresourceimpl java revis
+jproject eclips jackrabbit jcr server server src java org apach jackrabbit webdav simpl davresourceimpl java work copi
+
+
+privat void setjcrproperti davproperti properti throw repositoryexcept
+retriev
+string properti getvalu tostr
+string
+properti getvalu null
+properti getvalu tostr
+
+set multivalu properti list set
+properti extra valid check omit
+node setproperti getjcrnam properti getnam

@@ -1,0 +1,31 @@
+avoid except thrown final handler repositoryimpl constructor
+except initi repositori overlai except thrown final handler repositoryimpl constructor line except win origin except lost log make hard figur real problem
+problem bit enforc wrong startup code shutdown method call prone fail expect broken startup state case overlai npe happen observationmanagerimpl getregisteredeventlisten dispatch unexpectedli null
+place fix npe guard observationmanagerimpl constructor dispatch catch block final log except
+final
+succeed
+
+repositori startup fail clean
+shutdown
+catch throwabl
+shutdown fail startup broken
+log error addit startup fail problem occur shut repositori
+
+
+
+http svn apach org viewvc jackrabbit trunk jackrabbit core src main java org apach jackrabbit core repositoryimpl java view markup
+overlai exception' stacktrac
+caus java lang nullpointerexcept
+org apach jackrabbit core observ observationmanagerimpl getregisteredeventlisten observationmanagerimpl java
+org apach jackrabbit core sessionimpl removeregisteredeventlisten sessionimpl java
+org apach jackrabbit core sessionimpl logout sessionimpl java
+org apach jackrabbit core repositoryimpl workspaceinfo dodispos repositoryimpl java
+dai crx core crxrepositoryimpl crxworkspaceinfo dodispos crxrepositoryimpl java
+org apach jackrabbit core repositoryimpl workspaceinfo dispos repositoryimpl java
+org apach jackrabbit core repositoryimpl doshutdown repositoryimpl java
+dai crx core crxrepositoryimpl doshutdown crxrepositoryimpl java
+org apach jackrabbit core repositoryimpl shutdown repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+dai crx core crxrepositoryimpl init crxrepositoryimpl java
+dai crx core crxrepositoryimpl creat crxrepositoryimpl java
+

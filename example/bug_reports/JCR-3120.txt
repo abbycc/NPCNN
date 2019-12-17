@@ -1,0 +1,39 @@
+chang log level usermanagerimpl getauthoriz nodeimpl userimport handlepropinfo
+current implement
+authoriz getauthoriz nodeimpl throw repositoryexcept
+authoriz authorz null
+null
+string path getpath
+isnodetyp rep user text isdescend userspath path
+authorz createus
+isnodetyp rep group text isdescend groupspath path
+authorz creategroup
+
+node type valid user group
+hierarchi return null
+log debug unexpect user nodetyp getprimarynodetyp getnam
+
+match node return null
+return authorz
+
+'else' branch improv increas log level throw except
+current messag mislead case user type correct check text isdescend fail
+method call userimport handlepropinfo
+
+authoriz usermanag getauthoriz parent
+null
+log debug handl protect propinfo protectedpropinfo node parent repres valid authoriz
+return fals
+
+
+log level debug point return statement properti 'principalname' set save session except thrown
+javax jcr nodetyp constraintviolationexcept home public user bb2 mandatori properti intern password exist
+org apach jackrabbit core itemsaveoper validatetransientitem itemsaveoper java
+org apach jackrabbit core itemsaveoper perform itemsaveoper java
+org apach jackrabbit core session sessionst perform sessionst java
+org apach jackrabbit core itemimpl perform itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+
+log level set 'debug' obviou mention properti miss case root 'path' home public user bb2 descend 'userspath' home user
+
+miroslav

@@ -1,0 +1,5 @@
+contrib orm persist node order support
+due limit implement node order support option specif jackrabbit support orm persist manag due fact databas sibl order support guarante order node child list
+jackrabbit test node order derefquerylevel1test properti type refer code
+properti refprop propertyutil searchprop session testrootnod propertytyp refer
+searchprop method travers tree stop properti type node order correct return properti expect case dereftest return multi valu refer properti test failur

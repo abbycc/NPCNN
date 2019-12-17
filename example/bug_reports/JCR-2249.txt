@@ -1,0 +1,5 @@
+remov duplic code internalvaluefactori
+jcr appli duplic code internavaluefactori remov
+
+creat string int
+creat method binari

@@ -1,0 +1,2 @@
+avoid unnecessari index reader call aggreg definit
+searchindex retrieveaggregateroot set nodeid removedid map nodeid nodest map identifi aggreg root node base remov node aggreg rule defin index configur process requir index lookup method optim case node remov unnecessari call index reader avoid

@@ -1,0 +1,21 @@
+jcr server miss auth map init paramet option guestcredenti login
+miss auth map paramet servlet contain jcr server defin
+param anonym anonym param
+descript
+defin miss author header handl
+init param miss respons gener
+suiteabl client webdav client
+send proper author header
+server
+init param present empti
+null credenti return forc null login
+repositori
+init param 'user password' respect
+simpl credenti gener
+descript
+jcr introduc guestcredenti obtain anonym session
+extend modifi miss auth param
+distinguish
+null login
+guest login
+case miss author header

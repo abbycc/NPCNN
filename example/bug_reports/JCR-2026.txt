@@ -1,0 +1,19 @@
+dbdatastor garbag collect deadlock
+unit test hang thread block databas level deadlock caus dbdatastor implement databas apach derbi
+org apach jackrabbit core data dbdatastor addrecord line
+org apach jackrabbit core blobindatastor getinst line
+org apach jackrabbit core internalvalu getblobfilevalu line
+org apach jackrabbit core internalvalu creat line
+org apach jackrabbit core propertyimpl setvalu line
+org apach jackrabbit core propertyimpl setvalu line
+org apach jackrabbit core nodeimpl setproperti line
+org apach jackrabbit core data copyvaluetest dotestcopi line
+org apach jackrabbit core data copyvaluetest testcopystream line
+org apach jackrabbit core data dbdatastor updatelastmodifiedd line
+org apach jackrabbit core data dbdatastor touch line
+org apach jackrabbit core data dbdatastor getrecord line
+org apach jackrabbit core blobindatastor getdatarecord line
+org apach jackrabbit core blobindatastor getlength line
+org apach jackrabbit core data garbagecollector scanpersistencemanag
+org apach jackrabbit core data garbagecollector scan line
+org apach jackrabbit core data gcthread run line

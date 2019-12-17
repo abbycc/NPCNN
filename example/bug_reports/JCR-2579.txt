@@ -1,0 +1,110 @@
+invaliditemstateexcept attempt concurr conflict write
+problem concurr addit node parent node jackrabbit attach simpl test start bunch thread add node parent node concurr add lock work mail list work lock test fail
+javax jcr invaliditemstateexcept item save modifi extern node testpar
+org apach jackrabbit core itemimpl gettransientst itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org mule galaxi impl jackrabbitconcurrentwritetest run jackrabbitconcurrentwritetest java
+jackrabbit verbos node type
+nodetyp galaxi nosibl
+ismixin fals
+hasorderablechildnod fals
+primaryitemnam
+propertydefinit requiredtyp undefin onparentvers copi
+propertydefinit requiredtyp undefin onparentvers copi multipl true
+childnodedefinit defaultprimarytyp unstructur onparentvers copi samenames fals
+supertyp
+supertyp base supertyp
+supertyp mix referenc supertyp
+supertyp mix lockabl supertyp
+supertyp
+nodetyp
+test
+packag org mule galaxi impl
+import java file
+import java ioexcept
+import java inputstream
+import java util arraylist
+import java util list
+import java util uuid
+import java util concurr countdownlatch
+import java util concurr timeunit
+import javax jcr loginexcept
+import javax jcr node
+import javax jcr repositori
+import javax jcr repositoryexcept
+import javax jcr session
+import javax jcr simplecredenti
+import junit framework testcas
+import org apach common fileutil
+import org apach jackrabbit api jackrabbitnodetypemanag
+import org apach jackrabbit core repositoryimpl
+import org apach jackrabbit core transientrepositori
+import org apach jackrabbit core config repositoryconfig
+public class jackrabbitconcurrentwritetest extend testcas
+privat repositori repositori
+privat session session
+privat string parentuuid
+privat boolean continueloop true
+public void setup throw except
+fileutil deletedirectori file repositori
+file repodir file repositori
+repodir mkdir
+repositoryconfig config repositoryconfig creat file src test resourc meta inf jackrabbit repo test xml repodir
+repositori repositoryimpl creat config
+session createsess
+createcustomnodetyp session
+parentuuid session getrootnod addnod testpar galaxi nosibl getuuid
+session save
+session logout
+
+privat session createsess throw loginexcept repositoryexcept
+return repositori login simplecredenti usernam password tochararrai
+
+public void testconcurr throw except
+final list except except arraylist except
+int threadcount
+final countdownlatch latch countdownlatch threadcount
+int threadcount
+thread thread thread
+overrid
+public void run
+
+continueloop
+session session createsess
+
+node node session getnodebyuuid parentuuid
+node addnod uuid randomuuid tostr
+node save
+session save
+final
+session logout
+
+
+catch repositoryexcept
+except add
+continueloop fals
+
+latch countdown
+
+
+thread start
+
+latch await timeunit second
+continueloop fals
+except except
+printstacktrac
+
+assertequ except size
+
+public void createcustomnodetyp session session throw repositoryexcept ioexcept
+jackrabbitnodetypemanag workspac
+note cast gener jcr nodetypemanag
+jackrabbit specif implement
+http jackrabbit apach org node type html
+jackrabbitnodetypemanag manag jackrabbitnodetypemanag session getworkspac getnodetypemanag
+regist custom node type defin cnd file
+inputstream thread currentthread getcontextclassload
+getresourceasstream org mule galaxi impl jcr nodetyp xml
+manag registernodetyp jackrabbitnodetypemanag text xml
+
+

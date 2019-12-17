@@ -1,0 +1,2 @@
+jackrabbit jcr common jackrabbit jcr rmi
+jackrabbit jcr rmi compon leverag gener purpos class jackrabbit jcr common expens introduc extra depend

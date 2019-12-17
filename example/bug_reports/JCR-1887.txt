@@ -1,0 +1,5 @@
+msoffic text extractor offic file
+creat patch mstextextractor jackrabbit patch replac exist extractor
+patch appli poi text extractor support doc docx ppt pptx
+xl xlsx patch fulli test poi code maven repo
+build local

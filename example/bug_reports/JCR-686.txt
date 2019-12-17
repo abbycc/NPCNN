@@ -1,0 +1,2 @@
+chang access level modifi subclass
+method core part jackrabbit packag protect easi subclass suggest make method 'protected'

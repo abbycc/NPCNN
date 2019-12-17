@@ -1,0 +1,4 @@
+sql2 parser infer type uncastliter static analysi
+spec
+uncastliter interpret properti type string castliter hand interpret string form propertytyp
+test case nodenametest fix testlongliter testbooleanliter

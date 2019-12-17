@@ -1,0 +1,20 @@
+jsr jcr path
+jsr jcr path defin consist combin segment
+segment jcr integ index
+identifi segment jcr identifi
+root segment
+segment
+parent segment
+segment extend qualifi form issu jcr
+identifi segment jsr283 identifi node method node getidentifi
+standard part standard make path standard
+expand segment
+trail
+index
+identifi segment
+resolv pass api call path exist node
+resolv creat path object
+path valu jcr path return api normal standard identifi base
+path valu contrast
+convert standard form
+normal redund segment identifi preserv

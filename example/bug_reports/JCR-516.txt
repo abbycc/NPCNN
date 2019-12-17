@@ -1,0 +1,3 @@
+remov depend xpathquerybuild core jackrabbit code
+xpath queri parser singl depend searchmanag sole purpos import namespac uri xml schema xpath function make harder stand
+propos copi namespac uri xpathquerybuild rid depend

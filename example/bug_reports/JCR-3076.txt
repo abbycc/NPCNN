@@ -1,0 +1,18 @@
+mandatori authent prevent webdav client connect
+mail list
+java jar target jackrabbit standalon snapshot jar cli http localhost
+except thread main javax jcr repositoryexcept unabl access repositori set
+org apach jackrabbit repositori uri http localhost
+repositoryfactori class consult
+org apach jackrabbit jcr2dav jcr2davrepositoryfactori declin
+org apach jackrabbit jcr2spi jcr2spirepositoryfactori declin
+org apach jackrabbit common jndirepositoryfactori declin
+org apach jackrabbit core repositoryfactoryimpl declin
+org apach jackrabbit rmi repositori rmirepositoryfactori fail
+repositoryexcept fail read resourc url http localhost
+ioexcept server return http respons code url http localhost
+repositori access moment
+org apach jackrabbit common jcrutil getrepositori jcrutil java
+org apach jackrabbit common jcrutil getrepositori jcrutil java
+org apach jackrabbit standalon main run main java
+org apach jackrabbit standalon main main main java

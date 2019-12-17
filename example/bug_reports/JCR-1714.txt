@@ -1,0 +1,24 @@
+queryimpl result offset consid secur class grant item
+ackrabbit version jackrabbit core
+search result limit offset work wrong case
+let suppos total node return search
+grantaccess offset
+node1 true
+node2 fals
+node3 true
+node4 true
+node5 fals
+page record count search size record filter secur class invok automat jackrabbit page show user page return record return record
+search set
+queryimp setoffset
+queryimpl setlimit
+node correct
+search page set
+queryimp setoffset
+queryimpl setlimit
+pretend record start record nro node4
+result node3 node4 offset work grantacess provid secur class sequenc raw result
+offset start correct posit count grant node return secur class
+hope make sens
+
+helio

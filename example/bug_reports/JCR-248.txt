@@ -1,0 +1,2 @@
+creat configur inputstream
+repositoryconfig creat base inputstream case url string inputsourc updat jca connector

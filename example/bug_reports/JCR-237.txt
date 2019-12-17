@@ -1,0 +1,8 @@
+item isnew work correctli transact
+javadoc item isnew state
+return code true code item mean exist transient
+storag code session code save transact
+code isnew code code item code return code fals code item
+save code item code persist storag
+transact commit
+item isnew return true bee save transact

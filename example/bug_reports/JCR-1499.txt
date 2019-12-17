@@ -1,0 +1,4 @@
+error log repositori shut
+bundl derbypersistencemanag
+derbypersistencemanag close embed derbi databas shut super close call connectionrecoverymanag close oper connect shut derbi databas log entri
+error thread connectionrecoverymanag fail close connect reason current connect state code connectionrecoverymanag java line

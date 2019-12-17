@@ -1,0 +1,3 @@
+internalversionmanagerbas calculatecheckinversionnam fail npe empti predecessor properti
+note happen inconsist version storag
+add check throw descript except

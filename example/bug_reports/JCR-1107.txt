@@ -1,0 +1,2 @@
+objectiter return null readili expect iter
+objectiter class implement iter object map underli nodeiter objectiter return null map node iter exist return null iter ignor unmapp node return object node underli iter mappabl

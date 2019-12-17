@@ -1,0 +1,2 @@
+oraclebundlepersistencemanag special blob handl jdbc driver prior oracl
+oracl bundl persist manag jcr special blob handl oracl jdbc driver prior version work newer version suggest add separ oracle9persistencemanag special blob handl

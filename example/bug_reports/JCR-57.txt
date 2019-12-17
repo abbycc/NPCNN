@@ -1,0 +1,14 @@
+workspaceimpl dispos classnotfoundexcept
+wenn jackrabbit environ classload inactiv sens load class anymor shut repositori result classnotfoundexcept workspaceimpl dispos
+reason dispos method observationmanag ask regist event listen remov observationmanag listen result eventlisteneriteratorimpl object creat
+class live time repositori classnotfoundexcept class loader laod class anymor specif environ
+specif environ eclips plugin manag repositori instanc provid separ plugin jackrabbit provid plugin stop manag plugin shutdown jackrabbit repositori eventlisteneriteratorimpl class load anymor dispos workspaceimpl control fail
+suggest ad observationmanagerimpl dispos method call workspaceimpl
+workspaceimpl dispos
+obsmgr null
+obsmgr dispos
+obsmgr null
+
+
+side effect call getobservationmanag impl observ manag creat exist
+side effect dispos method observationmanagerimpl class cleanup work addit clear listen list

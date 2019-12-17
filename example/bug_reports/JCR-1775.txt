@@ -1,0 +1,2 @@
+transact safe version
+work partial fix jcr implement fulli transact version checkin disappear transactin roll back ensur version oper transact leav version store consist state transact fail point

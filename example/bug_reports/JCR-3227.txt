@@ -1,0 +1,2 @@
+volatileindex close properli
+multiindex resetvolatileindex method properli close exist volatileindex instanc creat confus dynamicpooledexecutor refer count ad jcr lead background thread leak

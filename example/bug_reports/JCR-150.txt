@@ -1,0 +1,14 @@
+node getlock lock lockabl node throw javax jcr unsupportedrepositoryoperationexcept
+node test mixin type mix lockabl node test child mixin type mix lockabl
+node root session getrootnod
+node test root getnod test
+node child test getnod child
+creat lock test
+test lock
+succe
+lock lock test getlock
+set flag true
+boolean lock child islock
+throw unsupportedrepositoryoperationexcept
+lock child getlock
+spec getlock method return applic lock node lock node mixin type mix lockabl

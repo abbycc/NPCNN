@@ -1,0 +1,47 @@
+jackrabbit jcr rmi suppli javax transact xid assum serializ environ
+webspher serializ javax transact xid implement caus clientxaresourc fail notserializableexcept pass xid rmi
+work convert suppli xid local serializ xid implement take suppli xid paramet implement hashcod equal correctli
+privat static class serializablexid implement javax transact xid serializ
+
+serial version
+
+privat static final long serialversionuid 1390620315181450507l
+privat final byte branchqualifi
+privat final byte globaltransactionid
+privat final int formatid
+privat final int hashcod
+public serializablexid xid xid
+branchqualifi xid getbranchqualifi
+globaltransactionid xid getglobaltransactionid
+formatid xid getformatid
+hashcod xid hashcod
+
+public byte getbranchqualifi
+return branchqualifi
+
+public int getformatid
+return formatid
+
+public byte getglobaltransactionid
+return globaltransactionid
+
+public final int hashcod
+return hashcod
+
+public final boolean equal object obj
+obj
+return true
+
+obj instanceof xid
+return fals
+
+xid xidimpl xid obj
+formatid xidimpl getformatid
+return fals
+
+
+return arrai equal branchqualifi xidimpl getbranchqualifi
+arrai equal globaltransactionid xidimpl getglobaltransactionid
+
+
+

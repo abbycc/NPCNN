@@ -1,0 +1,2 @@
+improv perform simpl path queri
+queri simpl path constraint slow implement current implement basic hierarch join context node set node locat step path select implement resolv path express item state manag similar regular path resolv jcr api

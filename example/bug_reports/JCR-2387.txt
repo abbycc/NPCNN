@@ -1,0 +1,2 @@
+executor servic repositori index merg
+index merger start thread index merg repositori wide executor servic simplifi thing make configur easier

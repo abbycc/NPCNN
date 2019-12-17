@@ -1,0 +1,15 @@
+updat idea plugin version
+outdat version recent idea plugin releas
+index jackrabbit parent pom xml
+
+jackrabbit parent pom xml revis
+jackrabbit parent pom xml work copi
+
+plugin
+http maven apach org plugin maven idea plugin
+artifactid maven idea plugin artifactid
+version version
+version version
+configur
+downloadsourc true downloadsourc
+jdklevel jdklevel

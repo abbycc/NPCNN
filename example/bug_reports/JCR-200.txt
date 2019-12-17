@@ -1,0 +1,2 @@
+move log4j initi repositorystartupservlet
+repositorystartupservlet initi configur log4j environ desir applic

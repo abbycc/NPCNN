@@ -1,0 +1,19 @@
+regist nodetyp defaultvalu fail indexoutofbound
+regist nodetpy default valu except
+caus java lang arrayindexoutofboundsexcept
+org apach jackrabbit core nodetyp nodetypemanagerimpl tonodetypedef nodetypemanagerimpl java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+assum index missmatch implement
+valu pdef getdefaultvalu
+valu null
+internalvalu qvalu internalvalu valu length
+int valu length
+
+qvalu internalvalu creat valu session
+catch valueformatexcept
+throw invalidnodetypedefinitionexcept
+invalid default format
+
+
+qpdef setdefaultvalu qvalu
+

@@ -1,0 +1,23 @@
+multipl namespac definit cnd prevent definit node type child node
+bnf http jackrabbit apach org api org apach jackrabbit core nodetyp compact compactnodetypedefread html
+defin
+
+cnd map node type def
+
+multipl namespac definit affect node type definit
+cnd definit fail
+namespac 'http www mynamespac namespace'
+'http www jcp org jcr
+namespac document file
+namespac string mandatori
+namespac 'http www mynamespac namespace'
+'http www jcp org jcr
+namespac document2 file
+namespac string mandatori
+remov set namespac definit all'
+namespac 'http www mynamespac namespace'
+'http www jcp org jcr
+namespac document file
+namespac string mandatori
+namespac document2 file
+namespac string mandatori

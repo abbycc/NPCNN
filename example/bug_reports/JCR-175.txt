@@ -1,0 +1,4 @@
+contrib jcr server enabl proppatch simpl davresourc
+implement suggest
+jcr properti expos webdav properti
+proppatch forward javax jcr properti setvalu item remov

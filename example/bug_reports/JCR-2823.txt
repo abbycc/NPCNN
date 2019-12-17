@@ -1,0 +1,2 @@
+replac trackinginpustream common
+trackinginputstream class jackrabbit core implement essenti function common class countinginputstream

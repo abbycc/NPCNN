@@ -1,0 +1,7 @@
+jcr2spi broken equal comparison
+detect findbug
+call equal compar unrel class interfac org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl nodetypereregist qname xytho jcr src main java org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl java line 1190978573312
+call equal compar unrel class interfac org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl nodetypereregist qname xytho jcr src main java org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl java line 1190978573312
+call equal compar unrel class interfac org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl nodetypeunregist qname xytho jcr src main java org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl java line 1190978573312
+call equal compar unrel class interfac org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl nodetypeunregist qname xytho jcr src main java org apach jackrabbit jcr2spi nodetyp nodetypemanagerimpl java line 1190978573312
+org apach jackrabbit jcr2spi workspacemanag canaccess string equal compar arrai nonarrai

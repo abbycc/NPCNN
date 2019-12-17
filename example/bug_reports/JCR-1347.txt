@@ -1,0 +1,6 @@
+move jackrabbit queri parser core spi common
+queri parser jackrabbit core instanc repositori implement base jcr2spi
+propos
+move sourc build infrastructur core queri spi common queri
+switch jackrabbit core spi common queri
+optim add specif test case queri tree gener

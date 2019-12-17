@@ -1,0 +1,15 @@
+proppatch collect forbidden
+defaulthandl canimport propertyimportcontext boolean prevent set properti proppatch collect webdav return forbidden check contextitem collect jcr content node test fail collect collect node jcr content subnod patch chang
+index jackrabbit jcr server src main java org apach jackrabbit server defaulthandl java
+
+jackrabbit jcr server src main java org apach jackrabbit server defaulthandl java revis
+jackrabbit jcr server src main java org apach jackrabbit server defaulthandl java work copi
+
+
+item contextitem context getimportroot
+
+return contextitem null contextitem isnod iscollect node contextitem hasnod jcrconstant jcr content
+return contextitem null contextitem isnod iscollect node contextitem hasnod jcrconstant jcr content
+catch repositoryexcept
+log error unexpect error getmessag
+return fals

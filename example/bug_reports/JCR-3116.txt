@@ -1,0 +1,2 @@
+cluster node trim
+cluster node configur repositori xml read file cluster node case file edit hand editor insert trail newlin charact lead cluster node blank charact expect issu inconveni debug introduc line break log file suggest trim cluster node blank charact

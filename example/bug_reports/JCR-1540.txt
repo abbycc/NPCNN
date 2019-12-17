@@ -1,0 +1,15 @@
+bundledbpersistencemanag checkconsist fix inconsist consistencyfix enabl configur
+method paramet explicitli tell inconsist fix configur paramet
+suggest patch
+index bundledbpersistencemanag java
+
+bundledbpersistencemanag java revis
+bundledbpersistencemanag java work copi
+
+
+repair collect broken bundl
+consistencyfix modif isempti
+fix modif isempti
+log info fix modif size inconsist bundl
+iter iter modif iter
+iter hasnext

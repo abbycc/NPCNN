@@ -1,0 +1,2 @@
+buffer indexinfo
+indexinfo plain input outputstream buffer

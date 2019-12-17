@@ -1,0 +1,3 @@
+rep excerpt work attribut search
+element unstructur jcr textprop 'foobar' rep excerpt
+produc empti excerpt

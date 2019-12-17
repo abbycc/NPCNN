@@ -1,0 +1,4 @@
+jcr2spi namespaceregistryimpl unregisternamespac pass prefix storag uri expect
+unregist namespac spi jackrabbit throw namespaceexcept prefix regist namespac uri
+javax jcr namespaceregistri unregisternamespac string prefix expect namespac prefix org apach jackrabbit jcr2spi namespaceregistryimpl unregisternamespac string prefix call directli org apach jackrabbit jcr2spi namespacestorag unregisternamespac string uri expect namespac uri
+namespac registri retriev uri provid prefix

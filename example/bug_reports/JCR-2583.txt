@@ -1,0 +1,10 @@
+occasion testdatastoregarbagecollect test failur
+past dai hudson build start fail jackrabbit core test failur
+javax jcr nosuchworkspaceexcept secur
+org apach jackrabbit core repositoryimpl getworkspaceinfo repositoryimpl java
+org apach jackrabbit core repositoryimpl getsystemsess repositoryimpl java
+org apach jackrabbit core repositoryimpl getsecuritymanag repositoryimpl java
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+org apach jackrabbit core data datastoreapitest testdatastoregarbagecollect datastoreapitest java

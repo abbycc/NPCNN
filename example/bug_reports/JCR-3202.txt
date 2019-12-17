@@ -1,0 +1,4 @@
+authorizableimpl memberof declaredmemberof return rangeiter
+favor iter return authoriz memberof declaredmemberof
+return rangeiter order caller determin size
+iter

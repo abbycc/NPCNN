@@ -1,0 +1,2 @@
+replac custom querypars jjt
+lucen default implement jackrabbit version extend eas mainten move lucen version

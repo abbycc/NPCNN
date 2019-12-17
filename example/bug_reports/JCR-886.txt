@@ -1,0 +1,9 @@
+index recoveri fail illegalargumentexcept
+repeatedli kill start jackrabbit throw illegalargumentexcept index recoveri
+caus java lang illegalargumentexcept
+org apach jackrabbit core queri lucen indexinfo addnam indexinfo java
+org apach jackrabbit core queri lucen multiindex deleteindex multiindex java
+org apach jackrabbit core queri lucen multiindex deleteindex execut multiindex java
+org apach jackrabbit core queri lucen multiindex executeandlog multiindex java
+org apach jackrabbit core queri lucen multiindex flush multiindex java
+org apach jackrabbit core queri lucen recoveri run recoveri java

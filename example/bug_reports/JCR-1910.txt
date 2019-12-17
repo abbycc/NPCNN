@@ -1,0 +1,3 @@
+rmiremotebindingservlet fail initi rmi registri
+rmi registri rmiremotebindingservlet jcr rmi throw except init method prevent servlet load
+servlet map normal http url space altern mechan make rmi endpoint client init method log warn fail complet

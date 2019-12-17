@@ -1,0 +1,12 @@
+spi repositoryservic obtain pass null workspacenam indic default workspac
+improv suggest tobi
+contract
+public sessioninfo obtain credenti credenti string workspacenam
+public sessioninfo obtain credenti credenti string workspacenam
+chang null workspacenam
+param workspacenam workspac code sessioninfo code
+built code null code info creat
+default workspac
+deprec
+repositoryconfig getdefaultworkspacenam
+return null remov altogeth

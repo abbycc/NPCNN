@@ -1,0 +1,2 @@
+move persistencemanagertest core core persist
+subject pretti sum pmtest relat test core persist

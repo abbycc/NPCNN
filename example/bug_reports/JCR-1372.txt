@@ -1,0 +1,2 @@
+patch fix null ptr except connectionfactori
+code throw npe driver string null patch fix

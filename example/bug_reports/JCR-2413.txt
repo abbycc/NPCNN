@@ -1,0 +1,22 @@
+alreadyclosedexcept initi index creation
+index queue check creat initi index regress caus jcr
+caus org apach lucen store alreadyclosedexcept directori close
+org apach lucen store directori ensureopen directori java
+org apach lucen store fsdirectori getfil fsdirectori java
+org apach jackrabbit core queri lucen directori fsdirectorymanag fsdir list fsdirectorymanag java
+org apach lucen index segmentinfo findsegmentsfil run segmentinfo java
+org apach lucen index directoryindexread open directoryindexread java
+org apach lucen index indexread open indexread java
+org apach lucen index indexread open indexread java
+org apach jackrabbit core queri lucen abstractindex getindexread abstractindex java
+org apach jackrabbit core queri lucen abstractindex removedocu abstractindex java
+org apach jackrabbit core queri lucen persistentindex removedocu persistentindex java
+org apach jackrabbit core queri lucen multiindex deletenod execut multiindex java
+org apach jackrabbit core queri lucen multiindex executeandlog multiindex java
+org apach jackrabbit core queri lucen multiindex checkindexingqueu multiindex java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+
+assum index merg happen time close index segment

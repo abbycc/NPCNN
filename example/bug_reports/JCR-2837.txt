@@ -1,0 +1,37 @@
+test failur jcr rmi jcr2dav
+integr test fail jcr rmi
+testclonenodesaccessdeni org apach jackrabbit test api workspaceclonetest
+testcopynodesaccessdeni org apach jackrabbit test api workspacecopybetweenworkspacestest
+testcopynodesaccessdeni org apach jackrabbit test api workspacecopytest
+testmovenodesaccessdeni org apach jackrabbit test api workspacemovetest
+testimperson org apach jackrabbit test api impersonatetest
+testcheckpermiss org apach jackrabbit test api checkpermissiontest
+testremoveitem4 org apach jackrabbit test api sessionremoveitemtest
+testreadonlypermiss org apach jackrabbit test api haspermissiontest
+testgetprivileg org apach jackrabbit test api secur rsessionaccesscontroldiscoverytest
+testnothasprivileg org apach jackrabbit test api secur rsessionaccesscontroldiscoverytest
+testgetapplicablepolici org apach jackrabbit test api secur rsessionaccesscontrolpolicytest
+testgetpolici org apach jackrabbit test api secur rsessionaccesscontrolpolicytest
+testgeteffectivepolici org apach jackrabbit test api secur rsessionaccesscontrolpolicytest
+testmovenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testsetproperti org apach jackrabbit test api secur rsessionaccesscontroltest
+testsetvalu org apach jackrabbit test api secur rsessionaccesscontroltest
+testdeletenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testdeleteproperti org apach jackrabbit test api secur rsessionaccesscontroltest
+testworkspacemovenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testcopynod org apach jackrabbit test api secur rsessionaccesscontroltest
+jcr2dav
+testclonenodesaccessdeni org apach jackrabbit test api workspaceclonetest
+testcopynodesaccessdeni org apach jackrabbit test api workspacecopybetweenworkspacestest
+testcopynodesaccessdeni org apach jackrabbit test api workspacecopytest
+testmovenodesaccessdeni org apach jackrabbit test api workspacemovetest
+testcheckpermiss org apach jackrabbit test api checkpermissiontest
+testremoveitem4 org apach jackrabbit test api sessionremoveitemtest
+testreadonlypermiss org apach jackrabbit test api haspermissiontest
+testmovenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testsetproperti org apach jackrabbit test api secur rsessionaccesscontroltest
+testsetvalu org apach jackrabbit test api secur rsessionaccesscontroltest
+testdeletenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testdeleteproperti org apach jackrabbit test api secur rsessionaccesscontroltest
+testworkspacemovenod org apach jackrabbit test api secur rsessionaccesscontroltest
+testcopynod org apach jackrabbit test api secur rsessionaccesscontroltest

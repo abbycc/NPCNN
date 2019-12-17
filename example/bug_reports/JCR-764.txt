@@ -1,0 +1,15 @@
+pdftextfilt leav pars document open case error
+case error pars pdf document jackrabbit fail properli close pars document pdfbox write stack trace system final warn again
+result log
+warn org apach jackrabbit core queri lazyread lazyread java read except initi reader org apach jackrabbit core queri pdftextfilt java ioexcept error expect hex number actual
+java lang throwabl warn close pdf document
+org pdfbox co cosdocu final cosdocu java
+java lang ref final invokefinalizemethod nativ method
+java lang ref final runfin final java
+java lang ref final access final java
+java lang ref final finalizerthread run final java
+pars method
+parser pdfparser bufferedinputstream
+parser pars
+immedi creat document throw except process file
+pdftextfilt check parser hold document close appropri

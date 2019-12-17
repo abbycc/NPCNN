@@ -1,0 +1,2 @@
+deadlock execut version oper
+transact commit xaversionmanag check internalxaresourc return getxaresourcebegin acquir write lock version manag version relat transact kind check miss method xaversionmanag prepar commit rollback

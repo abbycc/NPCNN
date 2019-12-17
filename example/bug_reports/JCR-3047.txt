@@ -1,0 +1,3 @@
+operandevalu handl node row
+operandevalu evalu operand valu row effort improv sort part sql2 jcr handl plain node
+small chang operandevalu extract node info row obviou reason expos node oper directli

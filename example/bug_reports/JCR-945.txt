@@ -1,0 +1,3 @@
+correct version number repositori descriptor
+repositori descriptor 'jcr repositori version' show dev
+reflect current jackrabbit version

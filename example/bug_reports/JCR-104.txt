@@ -1,0 +1,14 @@
+contrib jcr server improv packag structur
+org
+apach
+jackrabbit
+webdav
+dav specif packag present
+spi jcr spi
+spi simpl dav packag server simpl
+client webdav client lib
+server
+jcr jcr server class server
+simpl
+client
+jcr client side jcr impl dav depend

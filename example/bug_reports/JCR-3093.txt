@@ -1,0 +1,14 @@
+inconsist session getproperti node getproperti binari valu
+inconsist binari handl batch read facil case properti directli
+access access parent node
+issu timothe maret run perform issu retriev length binari properti
+properti entri creat run batch read oper properti data object
+intern valu length binari transport json respons
+read data server stream explicitli request
+properti access directli session getproperti node getproperti rel path
+request made dav resourc stream read immedi
+solut
+repositoryservic getiteminfo sessioninfo itemid call propertyid implement
+result request resourc call super getpropertyinfo sessioninfo propertyid itemid
+consist batch read make propfind request properti
+length return propertyinfo object case ident gener batch read function

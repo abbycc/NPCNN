@@ -1,0 +1,23 @@
+bindablerepositoryfactori handl repositori shutdown
+bindablerepositoryfactori class cach refer repositori repositori shut
+code snippet fail illegalstateexcept
+hashtabl environ hashtabl
+environ put
+context initi context factori
+dummyinitialcontextfactori class getnam
+environ put context provid url http jackrabbit apach org
+context context initialcontext environ
+jackrabbitrepositori repositori
+string xml src test repositori repositori xml
+string dir target repositori
+string kei repositori
+creat repositori
+registryhelp registerrepositori context kei xml dir true
+repositori jackrabbitrepositori context lookup kei
+repositori login logout
+repositori shutdown
+creat repositori configur
+registryhelp registerrepositori context kei xml dir true
+repositori jackrabbitrepositori context lookup kei
+repositori login logout throw illegalstateexcept
+repositori shutdown

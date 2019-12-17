@@ -1,0 +1,2 @@
+derbypersistencemanag usabl embed databas
+derbypersistencemanag shut databas exit make unus standalon databas

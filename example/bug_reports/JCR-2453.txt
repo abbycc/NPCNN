@@ -1,0 +1,4 @@
+break spi2dav depend jcr server
+spi2dav compon depend jcr server compon troublesom due extra transit depend strictli speak architectur point view
+depend exist share number jcr specif webdav constant push constant jackrabbit webdav essenti share string jackrabbit webdav number constant jcr extens
+addit constant valu code class share jcr server spi2dav jcrvaluetyp namespacesproperti nodetypesproperti searchresultproperti subscriptionimpl valuesproperti share code jcrvaluetyp subscriptionimpl map constant map fairli easili move jackrabbit webdav properti class trickier split code separ server client side class jcr server spi2dav

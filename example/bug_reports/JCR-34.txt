@@ -1,0 +1,10 @@
+autocr attribut propdef instanc serial
+properti custom node type defin autocr true fact serial custom nodetyp xml file dig sourc reveals nodetypedefstor writedef method write autocr attribut
+autocr
+string autocr elem getattributevalu autocr attribut
+autocr null autocr length
+setautocr boolean valueof autocr booleanvalu
+
+remain copi past procedur correct code
+autocr
+elem setattribut autocr attribut boolean tostr isautocr

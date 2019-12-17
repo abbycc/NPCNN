@@ -1,0 +1,3 @@
+patch refactor access saxpars log parser class
+parser collect code duplic sessionimpl workspaceimpl class initi saxpars
+actual saxpars class log make easier debug problem jcr

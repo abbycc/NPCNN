@@ -1,0 +1,3 @@
+restor base version throw nullpointerexcept
+oper enclos transact
+test org apach jackrabbit core version restoretest

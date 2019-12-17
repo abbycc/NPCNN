@@ -1,0 +1,2 @@
+expos shutdown method jndi bindablerepositori
+http thread gmane org gmane comp apach jackrabbit devel

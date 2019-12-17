@@ -1,0 +1,3 @@
+problem jcr server project properti depend
+mismatch version number depend defin jcr server project properti refer version compon
+attach patch solv problem claim fulli understand work

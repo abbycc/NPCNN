@@ -1,0 +1,11 @@
+versioniteratorimpl problem
+meet problem versioniter
+classic nextvers hasnext loop versioniter endless
+problem peek pop misprint
+public version nextvers
+
+internalvers ret internalvers successor peek
+
+
+chang
+internalvers ret internalvers successor pop

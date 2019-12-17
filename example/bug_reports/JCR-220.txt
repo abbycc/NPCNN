@@ -1,0 +1,2 @@
+make configur lucen analyz searchindex
+jackrabbit support specif lucen analyz class org apach lucen analysi analyz searchindex lucen base indic declar xml configur file custom analyz index languag specif content

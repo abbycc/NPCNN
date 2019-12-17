@@ -1,0 +1,2 @@
+nodetypemanagerimpl hasnodetyp unknown prefix
+current implement nodetypeimpl hasnodetyp string throw except unknown prefix altern return fals definit node type unknown namespac exist

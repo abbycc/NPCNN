@@ -1,0 +1,2 @@
+move method remov sourc node
+small unit test demonstr method move remov sourc node

@@ -1,0 +1,4 @@
+chang secur configur 'simple' reason default
+chang secur configur 'simple' default enabl manag user manag skip test
+issu weakrefer issu jcr prevent chang config
+object chang default config jcr solv

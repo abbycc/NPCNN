@@ -1,0 +1,6 @@
+event filter path work
+filter node event path event filter compar parent path jsr
+set event filter restrict base characterist parent node event parent node event parent node item path return event getpath restrict
+abspath isdeep event parent node abspath subtre isdeep true receiv permiss regist listen path node exist
+properti event filter correct
+fix special handl node event eventfilt block simpli remov

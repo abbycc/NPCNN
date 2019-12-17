@@ -1,0 +1,3 @@
+nodetyperegistri validatenodetypedef nullpointerexcept
+nodetyperegistri registernodetyp nodetypedef check node type definit circular inherit thing node type definit list super type validatenodetypedef line nullpointerexcept thrown checkforcircularinherit supertyp variabl null check
+interestingli access supertyp object validnodetypedef guard null length ommiss

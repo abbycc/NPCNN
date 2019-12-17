@@ -1,0 +1,5 @@
+test class main sourc tree
+org apach jackrabbit core testrepositori main sourc folder
+src main java test folder src test java
+build jackrabbit core success move class
+test folder mistak

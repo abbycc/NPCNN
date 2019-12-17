@@ -1,0 +1,4 @@
+patch xpathquerybuild report mislead column number faulti queri
+xpathquerybuild return error string column offset pars error occur difficult correl user queri string xpathquerybuild embellish queri
+statement statement return
+patch append modifi statement queri messag user real posit error

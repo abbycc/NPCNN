@@ -1,0 +1,2 @@
+privileg content represent properti type
+content represent jcr privileg reflect fact privileg name chang simpl string jcr

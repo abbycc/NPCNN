@@ -1,0 +1,9 @@
+unclos thread jackrabbit
+tomcat integr test ad jcr show warn jackrabbit thread remain place repositori close
+dec org apach catalina loader webappclassload clearreferencesthread
+sever web applic appear start thread name timer fail stop creat memori leak
+dec org apach catalina loader webappclassload clearreferencesthread
+sever web applic appear start thread name dynamicpooledexecutor fail stop creat memori leak
+dec org apach catalina loader webappclassload clearreferencesthread
+sever web applic appear start thread name timer fail stop creat memori leak
+close background thread singleton daemon thread troubl left unattend

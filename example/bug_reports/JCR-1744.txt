@@ -1,0 +1,18 @@
+propfind respons request properti exist report empti dav prop element
+propfind respons request properti exist report empti dav prop element
+request
+propfind xmln dav prop doesnotexist prop propfind
+respons
+multistatu xmln xml 'http www org xml namespace' xmln 'dav
+respons
+href href
+propstat
+prop
+statu http statu
+propstat
+propstat
+prop doesnotexist prop
+statu http found statu
+propstat
+respons
+multistatu

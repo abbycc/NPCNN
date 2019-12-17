@@ -1,0 +1,2 @@
+log trace wrapper upgrad jcr api
+jcr log wrapper jcrlog support jcr api upgrad depend jackrabbit core remov gener

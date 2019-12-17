@@ -1,0 +1,21 @@
+automat stage maven releas artefact
+jackrabbit releas process includ manual step addit standard maven releas plugin invoc
+script
+version releas version number
+prepar releas directori
+mkdir target version
+copi main releas artifact creat releas perform stage
+target checkout releas note txt target version
+target checkout target jackrabbit version src zip target version
+target checkout jackrabbit webapp target jackrabbit webapp version war target version
+target checkout jackrabbit jca target jackrabbit jca version rar target version
+target checkout jackrabbit standalon target jackrabbit standalon version jar target version
+add md5 sha1 checksum
+binari target version zip target version
+openssl md5 binari binari md5
+openssl sha1 binari binari sha
+
+upload releas directori peopl apach org
+scp target version peopl apach org public html jackrabbit version
+script
+autom step

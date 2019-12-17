@@ -1,0 +1,3 @@
+textfilt modul patch support text extract html xml rtf file
+patch add text extract support form xml rtf html file
+uniqu depend htmlparser librari handl html text extract

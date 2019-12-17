@@ -1,0 +1,11 @@
+classcastexcept bei unregisternodetyp
+nodetyp childnod unregist call
+nodetypemanag ndmg session getworkspac getnodetypemanag
+nodetyperegistri ntreg nodetypemanagerimpl ndmg getnodetyperegistri
+ntreg unregisternodetyp qname testuri page
+
+java lang classcastexcept
+org apach jackrabbit core nodetyp nodetyperegistri getdependentnodetyp nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri unregisternodetyp nodetyperegistri java
+freaquac test jcrtest main jcrtest java
+qname iter nodetyedef expect

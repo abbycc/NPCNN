@@ -1,0 +1,5 @@
+groupimp getmemb getdeclaredmemb return rangeiter
+case total amount member easili detect calcul
+implement group getmemb getdeclaredmembersof return rangeiter
+found group declaredmemb easili adjust case
+group member store multivalu properti

@@ -1,0 +1,49 @@
+outofmemoryerror index repositori
+error
+org apach jackrabbit core observ observationmanagerfactori
+synchron eventconsum threw except java lang outofmemoryerror
+index repositori repositori big disk usag store 40mb size document
+attach put log regist full stack trace
+relat whe error lucen
+debug org apach jackrabbit core queri lazyread
+dump
+java ioexcept invalid header signatur read 8656037701166316554
+expect 2226271756974174256
+org apach jackrabbit core queri mswordtextfilt
+
+debug org apach jackrabbit core itemmanag
+remov item 8637bf5f 4e75 888f b7b89bef40c8 cach
+warn org apach jackrabbit core repositoryimpl
+exist lock file wave repositori lock detetec repositori
+shut properli
+error
+org apach jackrabbit core observ observationmanagerfactori
+synchron eventconsum threw except
+java lang nullpointerexcept null valu allow
+repositori xml configur index
+searchindex
+class org apach jackrabbit core queri lucen searchindex
+param path wsp home index
+param textfilterclass
+org apach jackrabbit core queri lucen textplaintextfilt
+org apach jackrabbit core queri msexceltextfilt
+org apach jackrabbit core queri mspowerpointtextfilt
+org apach jackrabbit core queri mswordtextfilt
+org apach jackrabbit core queri pdftextfilt
+org apach jackrabbit core queri htmltextfilt
+org apach jackrabbit core queri xmltextfilt
+org apach jackrabbit core queri rtftextfilt
+org apach jackrabbit core queri openofficetextfilt
+param usecompoundfil true
+param minmergedoc
+param volatileidletim
+param maxmergedoc
+param mergefactor
+param buffers
+param caches
+param forceconsistencycheck fals
+param autorepair true
+param respectdocumentord fals
+param analyz
+org apach lucen analysi standard standardanalyz
+searchindex

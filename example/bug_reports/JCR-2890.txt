@@ -1,0 +1,78 @@
+deadlock acl entrycollector itemmanag
+deadlock encount
+thread hold downgrad sism write lock start deliv observ event synchron listen
+thread write block wait sism write lock hold lock
+thread read block wait sism read lock wait lock
+scenario handl problem problem session thread synchron observ listen attempt read repositori event deliveri case happen
+thread hold itemmanag synchron lock higher call chain
+observ listen code call thread attempt read repositori block acquir itemmanag synchron lock hold
+principl scenario happen observ listen synchron session thread
+entrycollector class core secur author acl follow guidelin lead deadlock shown
+thread
+1297191119365 post bin wcmcommand http nid state block
+wait 0x11c329fd org apach jackrabbit core itemmanag
+lock 0x11c329fd org apach jackrabbit core itemmanag
+own 1297191138443 post bin wcmcommand http
+org apach jackrabbit core itemmanag getnod itemmanag java
+org apach jackrabbit core itemmanag getnod itemmanag java
+org apach jackrabbit core sessionimpl getnod sessionimpl java
+org apach jackrabbit core secur author acl entrycollector onev entrycollector java
+org apach jackrabbit core observ eventconsum consumeev eventconsum java
+org apach jackrabbit core observ observationdispatch dispatchev observationdispatch java
+org apach jackrabbit core observ eventstatecollect dispatch eventstatecollect java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+thread
+thread nid state wait
+wait 0x166e790 oswego util concurr writerpreferencereadwritelock writerlock
+lock 0x166e790 oswego util concurr writerpreferencereadwritelock writerlock
+java lang object wait nativ method
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+org apach jackrabbit core state defaultismlock writelockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock writelockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock acquirewritelock defaultismlock java
+org apach jackrabbit core state shareditemstatemanag acquirewritelock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag access shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+thread
+1297191138443 post bin wcmcommand http nid state wait
+wait 0xf820edb oswego util concurr writerpreferencereadwritelock readerlock
+lock 0xf820edb oswego util concurr writerpreferencereadwritelock readerlock
+java lang object wait nativ method
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock readerlock acquir unknown sourc
+org apach jackrabbit core state defaultismlock readlockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock readlockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock acquirereadlock defaultismlock java
+org apach jackrabbit core state shareditemstatemanag acquirereadlock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag getnodest localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit core itemmanag getitemdata itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core secur author acl aclprovid aclpermiss canread aclprovid java
+lock java lang object 6ad9b475
+org apach jackrabbit core secur defaultaccessmanag canread defaultaccessmanag java
+org apach jackrabbit core queri lucen queryresultimpl isaccessgr queryresultimpl java
+org apach jackrabbit core queri lucen queryresultimpl collectscorenod queryresultimpl java
+org apach jackrabbit core queri lucen queryresultimpl getresult queryresultimpl java
+org apach jackrabbit core queri lucen singlecolumnqueryresult init singlecolumnqueryresult java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java

@@ -1,0 +1,5 @@
+jndi referenc issu
+question referenc bindableresourc bindableresourcefactori class jndi lookup process reason referenc addr exact order order consid http java sun j2se doc api javax name refer html equal java lang object
+order jndi refer found correctli chang bindableresourc getrefer method swap order stringrefer ad match pass glassfish extrem fragil order jboss pass stringref refer object factori method
+problem getrefer bind class bindablerepositori class implement javax jcr repositori match follow wiki set jndi refer javax jcr repositori type fix chang jndi refer bindablerepositori class chang bindablerepositori class set repositori interfac consid 'better'
+patch fix issu glassfish 'breakable' setup make avoid

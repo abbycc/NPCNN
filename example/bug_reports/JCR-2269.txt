@@ -1,0 +1,134 @@
+concurr bug workspac copi
+
+enclos test case reproduc
+concurr bug test case con current thread
+execut workspac copi copi node destin
+parent node set allowsamenames fals
+javadoc workspac copi string srcabspath string destabspath
+method copi node srcabspath locat
+destabspath success chang persist immedi
+call save itemexistexcept thrown
+properti exist destabspath node exist
+sibl allow
+realiti case test case end
+child node name note run
+reproduc problem gener problem
+iter invaliditemstateexcept
+kindli confirm bug
+jackrabbit jackrabbit wrong test
+case test jackrabbit branch
+http svn apach org repo asf jackrabbit tag window
+vista jdk
+test case attach conveni
+
+jervi liu
+packag org apach jackrabbit core
+import org apach jackrabbit test abstractjcrtest
+import javax jcr itemexistsexcept
+import javax jcr node
+import javax jcr session
+import javax jcr
+import javax jcr nodeiter
+import java util random
+import java util arraylist
+import java util iter
+import javax jcr nodetyp nodetyp
+import org apach jackrabbit test notexecutableexcept
+import javax jcr repositoryexcept
+import javax jcr nodetyp nodetypemanag
+public class concurrentcopytest extend abstractjcrtest
+privat static final int num iter
+privat static final int num session
+string sourcepath
+string destpath
+public void testconcurrentcopi throw except
+int num iter
+system println iter
+clean testroot
+testrootnod hasnod concurrentcopytestnod
+node testnod testrootnod getnod concurrentcopytestnod
+testnod remov
+testrootnod save
+system println node remov
+
+creat parent node allowsamenames set fals
+node snsfnode testrootnod addnod concurrentcopytestnod
+folder
+testrootnod save
+sourcepath snsfnode getpath
+destpath sourcepath copiedfromconcurrentcopytestnod
+system println sourcepath sourcepath
+system println destpath destpath
+firstli verifi work singl thread
+session rootsess helper getsuperusersess
+rootsess getworkspac copi sourcepath destpath test
+copi destpath expect itemexistsexcept
+
+rootsess getworkspac copi sourcepath destpath test
+fail node exist destpath test fail
+catch itemexistsexcept
+
+thread thread thread num session
+int thread length
+creat session
+session session helper getsuperusersess
+testsess testsess session
+thread thread
+setnam num iter
+start
+log println thread start
+thread
+thread yield
+thread sleep
+
+int thread length
+thread join
+
+nodeiter result testrootnod getnod
+concurrentcopytestnod getnod
+copiedfromconcurrentcopytestnod
+result hasnext
+node node result nextnod
+system println result node node getnam
+
+assertequ result getsiz
+
+
+class
+class testsess implement runnabl
+session session
+string ident
+random
+testsess string ident session
+session
+ident ident
+random
+
+privat void randomsleep
+long nextint
+
+thread sleep
+catch interruptedexcept
+
+
+public void run
+log println start
+string state
+
+session getworkspac copi sourcepath destpath
+session save
+node newnod
+testrootnod getnod concurrentcopytestnod copiedfromconcurrentcopytestnod
+system println ad node newnod getnam
+session save
+randomsleep
+catch except
+log println except state getmessag
+printstacktrac
+final
+session logout
+
+log println end
+
+
+

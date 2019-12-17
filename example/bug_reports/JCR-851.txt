@@ -1,0 +1,3 @@
+handl binari properti stream qvalu interfac
+current spi requir qvalu return stream call getstream essenti requir qvalu implement preserv content stream memori disk
+miss import larg content repositori data stream written avoid

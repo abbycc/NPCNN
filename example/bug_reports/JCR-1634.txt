@@ -1,0 +1,12 @@
+transact session addlocktoken effect
+sequenc work expect
+session
+creat node
+make lockabl
+session
+lock node save lock token
+session
+add save lock token session
+modifi lock node fail lock token ad session3
+sequenc work expect transact
+separ transact jcr prevent node lock creat

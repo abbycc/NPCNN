@@ -1,0 +1,15 @@
+patch remov stutter nodest
+code duplic code reason
+index src main java org apach jackrabbit jcr2spi state nodest java
+
+src main java org apach jackrabbit jcr2spi state nodest java revis
+src main java org apach jackrabbit jcr2spi state nodest java work copi
+
+
+nodest parent getpar
+nodeid wspid nodeid getworkspaceid
+def definitionprovid getqnodedefinit getpar getnodetypenam getnam getnodetypenam wspid
+def definitionprovid getqnodedefinit parent getnodetypenam getnam getnodetypenam wspid
+
+return def
+

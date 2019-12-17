@@ -1,0 +1,6 @@
+jcrtest java step code creat stringvalu
+jcrtest java file step document http incub apach org jackrabbit firststep html jackrabbit incub websit line attempt creat stringvalu valuefactori interfac code fail compil initi test put
+simpl fix swap line
+setproperti testprop stringvalu world
+
+setproperti testprop session getvaluefactori createvalu world

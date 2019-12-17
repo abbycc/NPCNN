@@ -1,0 +1,5 @@
+jcr server respect maxim timeout
+rfc state
+timeout timetyp greater
+adjust constant
+btw send 'infinite' timeout case maxim problem microsoft builtin client unlock resourc

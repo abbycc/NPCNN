@@ -1,0 +1,173 @@
+jackrabbit thread content issu due fat lock
+
+run jackrabbit persist file data store weblog contain encount varieti thread lock issu problem forc synchron thread access jcr repositori reduc thread worker count heavi perform impact applic problem wonder issu workaround fix plan
+oct pdt error weblogicserv bea stuck executethread '5' queue 'weblog kernel default tune busi second work request weblog work j2ee j2eeworkmanag workwithlisten 2117cc9 configur time stuckthreadmaxtim second stack trace
+thread stuck executethread '5' queue 'weblog kernel default tune aliv nativ suspend wait prioriti daemon
+wait notif oswego util concurr writerpreferencereadwritelock writerlock 152c384 fat lock
+java lang object wait object java
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+org apach jackrabbit core journal abstractjourn lockandsync abstractjourn java
+org apach jackrabbit core journal defaultrecordproduc append defaultrecordproduc java
+
+
+oct pdt error weblogicserv bea stuck executethread '2' queue 'weblog kernel default tune busi second work request weblog work j2ee j2eeworkmanag workwithlisten 227b6d4 configur time stuckthreadmaxtim second stack trace
+thread stuck executethread '2' queue 'weblog kernel default tune aliv nativ suspend wait prioriti daemon
+wait notif oswego util concurr linkednod 42d58e0 fat lock
+java lang object wait object java
+java lang object wait object java
+oswego util concurr synchronouschannel put unknown sourc
+oswego util concurr pooledexecutor waitwhenblock blockedact unknown sourc
+oswego util concurr pooledexecutor execut unknown sourc
+
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+hold lock org apach jackrabbit core queri lucen volatileindex 3eb0f41 thin lock
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit jca jcasessionhandl save jcasessionhandl java
+qpass inventori ingest ingestionserviceimpl doinjcr ingestionserviceimpl java
+qpass inventori model jcrtemplat execut jcrtemplat java
+qpass inventori ingest ingestionserviceimpl ingestproduct ingestionserviceimpl java
+qpass inventori ingest bulk abstractbulkingest ingestproduct abstractbulkingest java
+qpass inventori ingest bulk zipfilebulkingest processfil zipfilebulkingest java
+qpass inventori ingest bulk ingestionwork processfil ingestionwork java
+qpass inventori ingest bulk ingestionwork run ingestionwork java
+org springframework schedul commonj delegatingwork run delegatingwork java
+weblog work j2ee j2eeworkmanag workwithlisten run j2eeworkmanag java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+
+
+oct pdt error weblogicserv bea stuck executethread '1' queue 'weblog kernel default tune busi second work request weblog work j2ee j2eeworkmanag workwithlisten 2117c83 configur time stuckthreadmaxtim second stack trace
+thread stuck executethread '1' queue 'weblog kernel default tune aliv nativ suspend wait prioriti daemon
+wait notif oswego util concurr writerpreferencereadwritelock writerlock 152c384 fat lock
+java lang object wait object java
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+org apach jackrabbit core journal abstractjourn lockandsync abstractjourn java
+org apach jackrabbit core journal defaultrecordproduc append defaultrecordproduc java
+org apach jackrabbit core cluster clusternod workspaceupdatechannel updatecr clusternod java
+
+oct pdt warn netuix bea redirect execut begin refresh action redirect url consol consol portal nfpb true pagelabel homepage1
+oct pdt error weblogicserv bea stuck executethread '4' queue 'weblog kernel default tune busi second work request http request inventori rpc searchservic configur time stuckthreadmaxtim second stack trace
+thread stuck executethread '4' queue 'weblog kernel default tune aliv nativ suspend wait prioriti daemon
+wait notif java lang object 1569e04 fat lock
+java lang object wait object java
+java lang object wait object java
+org apach jackrabbit core queri lucen multiindex getindexread multiindex java
+org apach jackrabbit core queri lucen searchindex getindexread searchindex java
+org apach jackrabbit core queri lucen searchindex executequeri searchindex java
+org apach jackrabbit core queri lucen queryresultimpl executequeri queryresultimpl java
+org apach jackrabbit core queri lucen queryresultimpl getresult queryresultimpl java
+org apach jackrabbit core queri lucen queryresultimpl init queryresultimpl java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java
+qpass inventori servic queryprofil execut queryprofil java
+qpass inventori servic searchserviceimpl doinjcr searchserviceimpl java
+qpass inventori model jcrtemplat execut jcrtemplat java
+qpass inventori servic searchserviceimpl dosearch searchserviceimpl java
+qpass inventori impl searchuiserviceimpl search searchuiserviceimpl java
+sun reflect nativemethodaccessorimpl invoke0 nativemethodaccessorimpl java
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org springframework aop support aoputil invokejoinpointusingreflect aoputil java
+org springframework aop framework reflectivemethodinvoc invokejoinpoint reflectivemethodinvoc java
+org springframework aop framework reflectivemethodinvoc proce reflectivemethodinvoc java
+org acegisecur intercept method aopalli methodsecurityinterceptor invok methodsecurityinterceptor java
+org springframework aop framework reflectivemethodinvoc proce reflectivemethodinvoc java
+org springframework aop framework jdkdynamicaopproxi invok jdkdynamicaopproxi java
+proxy74 search unknown sourc
+sun reflect nativemethodaccessorimpl invoke0 nativemethodaccessorimpl java
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org gwtwidget server spring gwtrpcserviceexport invokemethodonservic gwtrpcserviceexport java
+org gwtwidget server spring gwtrpcserviceexport processcal gwtrpcserviceexport java
+googl gwt user server rpc remoteserviceservlet dopost remoteserviceservlet java
+org gwtwidget server spring gwtrpcserviceexport handlerequest gwtrpcserviceexport java
+qpass base secur gwtserviceexport handlerequest gwtserviceexport java
+org springframework web servlet mvc httprequesthandleradapt handl httprequesthandleradapt java
+org springframework web servlet dispatcherservlet dodispatch dispatcherservlet java
+org springframework web servlet dispatcherservlet doservic dispatcherservlet java
+org springframework web servlet frameworkservlet processrequest frameworkservlet java
+org springframework web servlet frameworkservlet dopost frameworkservlet java
+javax servlet http httpservlet servic httpservlet java
+javax servlet http httpservlet servic httpservlet java
+weblog servlet intern stubsecurityhelp servletserviceact run stubsecurityhelp java
+weblog servlet intern stubsecurityhelp invokeservlet stubsecurityhelp java
+weblog servlet intern servletstubimpl execut servletstubimpl java
+weblog servlet intern tailfilt dofilt tailfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+org acegisecur util filterchainproxi virtualfilterchain dofilt filterchainproxi java
+org acegisecur intercept web filtersecurityinterceptor invok filtersecurityinterceptor java
+org acegisecur intercept web filtersecurityinterceptor dofilt filtersecurityinterceptor java
+org acegisecur util filterchainproxi virtualfilterchain dofilt filterchainproxi java
+qpass usersecur auth updatepermissionsoncontextchangefilt dofilt updatepermissionsoncontextchangefilt java
+org acegisecur util filterchainproxi virtualfilterchain dofilt filterchainproxi java
+org acegisecur abstractprocessingfilt dofilt abstractprocessingfilt java
+org acegisecur util filterchainproxi virtualfilterchain dofilt filterchainproxi java
+org acegisecur context httpsessioncontextintegrationfilt dofilt httpsessioncontextintegrationfilt java
+org acegisecur util filterchainproxi virtualfilterchain dofilt filterchainproxi java
+org acegisecur util filterchainproxi dofilt filterchainproxi java
+org springframework web filter delegatingfilterproxi invokedeleg delegatingfilterproxi java
+org springframework web filter delegatingfilterproxi dofilt delegatingfilterproxi java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+qpass base applicationcontext requestcontextfilt dofilt requestcontextfilt java
+org springframework web filter delegatingfilterproxi invokedeleg delegatingfilterproxi java
+org springframework web filter delegatingfilterproxi dofilt delegatingfilterproxi java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+org springframework web filter characterencodingfilt dofilterintern characterencodingfilt java
+org springframework web filter onceperrequestfilt dofilt onceperrequestfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern requesteventsfilt dofilt requesteventsfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern webappservletcontext servletinvocationact run webappservletcontext java
+weblog secur acl intern authenticatedsubject doa authenticatedsubject java
+weblog secur servic securitymanag runa securitymanag java
+weblog servlet intern webappservletcontext securedexecut webappservletcontext java
+weblog servlet intern webappservletcontext execut webappservletcontext java
+weblog servlet intern servletrequestimpl run servletrequestimpl java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+
+oct pdt error weblogicserv bea stuck executethread '1' queue 'weblog kernel default tune busi second work request weblog work j2ee j2eeworkmanag workwithlisten 863e564 configur time stuckthreadmaxtim second stack trace
+thread stuck executethread '1' queue 'weblog kernel default tune aliv nativ suspend prioriti daemon
+java fileoutputstream writebyt fileoutputstream java
+java fileoutputstream write fileoutputstream java
+java bufferedoutputstream write bufferedoutputstream java
+hold lock java bufferedoutputstream 39d70a5 thin lock
+org apach jackrabbit core persist util filesystemblobstor put filesystemblobstor java
+org apach jackrabbit core persist bundl util bundlebind writest bundlebind java
+org apach jackrabbit core persist bundl util bundlebind writebundl bundlebind java
+org apach jackrabbit core persist bundl oracle9persistencemanag storebundl oracle9persistencemanag java
+hold lock org apach jackrabbit core persist bundl oracle9persistencemanag 140f7b9 thin lock
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag putbundl abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag store abstractbundlepersistencemanag java
+hold lock org apach jackrabbit core persist bundl oracle9persistencemanag 140f7b9 thin lock
+org apach jackrabbit core persist bundl bundledbpersistencemanag store bundledbpersistencemanag java
+hold lock org apach jackrabbit core persist bundl oracle9persistencemanag 140f7b9 thin lock
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+hold lock org apach jackrabbit core xasessionimpl 1f2653b thin lock
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit jca jcasessionhandl save jcasessionhandl java
+qpass inventori ingest ingestionserviceimpl doinjcr ingestionserviceimpl java
+qpass inventori model jcrtemplat execut jcrtemplat java
+qpass inventori ingest ingestionserviceimpl ingestproduct ingestionserviceimpl java
+hold lock java lang object 849ca9e fat lock
+qpass inventori ingest bulk abstractbulkingest ingestproduct abstractbulkingest java
+qpass inventori ingest bulk zipfilebulkingest processfil zipfilebulkingest java
+qpass inventori ingest bulk ingestionwork processfil ingestionwork java
+qpass inventori ingest bulk ingestionwork run ingestionwork java
+org springframework schedul commonj delegatingwork run delegatingwork java
+weblog work j2ee j2eeworkmanag workwithlisten run j2eeworkmanag java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java

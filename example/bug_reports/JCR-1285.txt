@@ -1,0 +1,6 @@
+objectcontentmanagerimpl getobject queri throw nosuchelementexcept queri match object
+queri return object objectcontentmanagerimpl getobject queri throw except
+java util nosuchelementexcept
+java util abstractlist itr abstractlist java
+org apach jackrabbit ocm manag impl objectcontentmanagerimpl getobject objectcontentmanagerimpl java
+javadoc objectcontentmanag interfac suggest objectcontentmanagerexcept thrown case

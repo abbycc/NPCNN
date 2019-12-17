@@ -1,0 +1,2 @@
+add usermanag getauthorizablebypath string symmetri jcr
+jcr ad authoriz getpath suggest add usermanag getauthorizablebypath symmetr authoriz getpath

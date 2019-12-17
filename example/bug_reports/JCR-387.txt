@@ -1,0 +1,3 @@
+npe class ojb
+npe occur access parent root node null
+patch

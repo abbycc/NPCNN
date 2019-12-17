@@ -1,0 +1,3 @@
+upgrad latest slf4j logback
+fix jcr ran lbclassic fix recent logback releas fix upgrad logback slf4j jackrabbit
+http jira qo brows lbclassic

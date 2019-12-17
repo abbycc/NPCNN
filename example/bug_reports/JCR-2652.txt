@@ -1,0 +1,22 @@
+longer set date properti long
+attempt set date properti long throw javax jcr nodetyp constraintviolationexcept work jackrabbit
+reproduc
+node node session getitem
+node node addnod dummi resourc
+valuefactori session getvaluefactori
+createvalu creat longvalu
+node setproperti jcr lastmodifi
+system println node getproperti jcr lastmodifi
+expect result
+date print system
+actual result
+javax jcr nodetyp constraintviolationexcept match properti definit found http www jcp org jcr lastmodifi
+org apach jackrabbit core nodetyp effectivenodetyp getapplicablepropertydef effectivenodetyp java
+org apach jackrabbit core nodeimpl getapplicablepropertydefinit nodeimpl java
+org apach jackrabbit core itemmanag getdefinit itemmanag java
+org apach jackrabbit core itemdata getdefinit itemdata java
+org apach jackrabbit core propertydata getpropertydefinit propertydata java
+org apach jackrabbit core propertyimpl getdefinit propertyimpl java
+org apach jackrabbit core nodeimpl setproperti nodeimpl java
+jukka zit side effect jcr
+mail thread dev jackrabbit apach org http markmail org messag hn3snufsogjvldad

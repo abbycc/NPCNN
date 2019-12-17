@@ -1,0 +1,4 @@
+org apach jackrabbit core queri lucen searchindex memori lucen index
+wrong configur searchindex order memori lucen index
+configur repositori org apach jackrabbit core state mem inmempersistencemanag make sens search index offer similar configur
+multiindex persistentindex org apach lucen store fsdirectori refactor order switch org apach lucen store ramdirectori

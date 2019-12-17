@@ -1,0 +1,2 @@
+addit excerpt provid implement
+current defaulthtmlexcerpt implement simpl basic pick fragment match altern implement weight fragment base number match term phrase match

@@ -1,0 +1,3 @@
+overrid lockmanag creation
+repositori getlockmanag intern creat lock manag need
+jackrabbit provid extens point jcr repositori extend creat custom lock manag

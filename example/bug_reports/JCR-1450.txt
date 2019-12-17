@@ -1,0 +1,4 @@
+move method memoryfilesystem accept invalid destin path result invalid entri
+problem move method memoryfilesystem class code accept destin folder exist file system
+somefold somefil file call method pass somefold someotherfold somefil destin destin accept code somefold someotherfold exist folder function execut result file somefold someotherfold somefil path file system somefold someotherfold folder code check destin path valid valid perform path element destin path insur result path point exist folder throw except
+jackrabbit build test environ set verifi practic issu place supposit made move method implement

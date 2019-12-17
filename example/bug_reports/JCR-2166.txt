@@ -1,0 +1,5 @@
+provid queri support weakrefer revers lookup
+current implement node getweakrefer getweakrefer string fulltext queri order find weak refer node
+requir plaintextextractor enabl search config
+param textfilterclass org apach jackrabbit extractor plaintextextractor
+provid 'native' weakrefernc revers lookup jackrabbit' qom implement effici

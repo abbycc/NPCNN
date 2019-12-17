@@ -1,0 +1,10 @@
+reintroduc namespacestorag
+jukka
+open issu remind recent discuss basel
+decid
+reintroduc namespacestorag recent remov jcr2spi
+reintroduc namespac cach jcr2spi simpl map namespacecach object
+addit agre share namespaceregistryimpl jcr2spi jackrabbit core
+volent provid patch
+advanc
+angela

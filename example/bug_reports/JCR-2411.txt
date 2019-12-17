@@ -1,0 +1,3 @@
+replac common log jcl slf4j jackrabbit webdav
+jcr move exclus rule transit common log depend common httpclient higher level compon jackrabbit jca jackrabbit webapp
+troubl common log show downstream project depend directli jackrabbit webapp jackrabbit jcr server revert jcr solut push exclus rule back jackrabbit webapp replac common log depend jcl slf4j downstream project common log exclud jcl slf4j depend

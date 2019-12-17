@@ -1,0 +1,2 @@
+qom sql2 cast numer liter
+sql2 statement gener queryobjectmodel getstat cast numer liter type decim doubl long type inform lost result incorrect queri result depend queri engin gener sql2 statement execut

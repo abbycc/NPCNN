@@ -1,0 +1,16 @@
+multistatusrespons call resourc getproperti
+current constructor multistatusrespons call resourc getproperti propfindtyp propfind properti
+inconveni properti expens gener request multistatusrespons constructor paramet propfind properti
+
+propfindtyp propfind properti
+propnam propnameset
+prop resourc getproperti propnam
+prop null
+status200 addcont prop
+
+status404 addcont propnam
+
+
+
+
+

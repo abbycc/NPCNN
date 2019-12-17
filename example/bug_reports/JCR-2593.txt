@@ -1,0 +1,2 @@
+upgrad tika
+apach tika late releas upgrad depend trunk jackrabbit

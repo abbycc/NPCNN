@@ -1,0 +1,2 @@
+unnecessari pars
+creat call properti getvalu intern qname format pars format

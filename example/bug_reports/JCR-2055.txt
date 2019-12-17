@@ -1,0 +1,3 @@
+repositorystub implement jackrabbit core
+set jackrabbit repositori tck complex oper larg repositorystubimpl properti file lot special craft test content set worri make hard set tck test instanc jcr spi layer
+simplifi thing introduc repositorystubimpl class relat configur file insid src main java jackrabbit core

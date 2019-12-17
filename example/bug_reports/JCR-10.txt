@@ -1,0 +1,16 @@
+save creat transient properti
+node save parent node properti creat save persist properti node save
+
+mixin type extver extend standard type mix version
+node node parent addnod newnod base
+node addmixin extver
+mix version properti exist
+save node
+parent save
+mix version properti jcr ischeckedout
+exist node
+node getproperti jcr ischeckedout isnew true
+fix
+node save
+node save opert repositoryexcept result node checkin immedi parent save
+counterintuit error properti ad node addmixin parent save add properti save

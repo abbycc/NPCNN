@@ -1,0 +1,9 @@
+cluster node type regist unregist deadlock
+deadlock occur cluster node concurr regist unregist node type
+reason
+nodetyperegistri registernodetyp synchron call eventchannel regist ntdef call abstractjourn lockandsync lock abstractjourn rwlock
+hand abstractjourn sync lock abstractjourn rwlock call nodetyperecord process call nodetyperegistri unregisternodetyp synchron
+solut
+nodetyperegistri synchron object call eventchannel method
+nodetyperegistri lock abstractjourn rwlock synchron
+solut

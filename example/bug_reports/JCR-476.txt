@@ -1,0 +1,9 @@
+remov recent ad getjcrpath getqpath namespaceresolv
+issu jcr ad method namespaceresolv
+public path getqpath string jcrpath throw malformedpathexcept
+public string getjcrpath path qpath throw noprefixdeclaredexcept
+belong namespaceresolv path suggest remov
+name qname relat method bit vagu suggest renam
+qname parsenam string jcrname
+string formatnam qname qname
+belong help leverag evt cach namespac resolv

@@ -1,0 +1,2 @@
+inherit deleg spi valuefactoryimpl
+valuefactoryimpl protect constructor spi variant factori

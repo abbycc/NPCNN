@@ -1,0 +1,3 @@
+jcr2spi remov duplic item state
+origin approach duplic item state object connect requir
+simplifi

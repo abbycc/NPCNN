@@ -1,0 +1,2 @@
+nodeindex creat unnecessari string represent
+nodeindex addnamevalu call tostr

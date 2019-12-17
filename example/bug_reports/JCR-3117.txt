@@ -1,0 +1,10 @@
+stat persistencemanag
+statist persistencemanag impl cover
+bundl cach access count
+bundl cach miss count
+bundl cach miss avg durat avg includ penalti load underli storag interpret avg read latenc cach involv
+bundl write
+cover
+number bundl
+size workspac
+valu expens comput demand cach impli store valu

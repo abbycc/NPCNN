@@ -1,0 +1,2 @@
+lower log level index updat queue
+log level info lower debug

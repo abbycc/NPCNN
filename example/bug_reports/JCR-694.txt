@@ -1,0 +1,5 @@
+remov queri handler idletim
+includ jcr reveal synchron issu queri handler idl timer task
+thread dev list http thread gmane org gmane comp apach jackrabbit devel
+fix synchron issu searchmanag class remov function
+repositori support idl time paramet workspac maxidletim workspac element queri handler idl time remov

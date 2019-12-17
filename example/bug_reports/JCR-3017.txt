@@ -1,0 +1,3 @@
+version histori recoveri fail case version jcr frozennod
+jcr place version recoveri mode introduc problem case version encount miss mandatori jcr frozennod internalerror thrown version internalversionhistoryimpl createversioninst repositorycheck checkversionhistori catch except fail catch properli lead complet repositori shutdown
+throw runtimeexcept fix problem

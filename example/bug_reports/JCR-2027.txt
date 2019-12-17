@@ -1,0 +1,3 @@
+remov background initi hierarchi cach
+follow jcr
+rethink initi background thread conclus initi complet startup background thread put addit load process possibl fight startup procedur

@@ -1,0 +1,41 @@
+occasion index bound except run usermanagerimpltest testfindauthorizablebyrelativepath
+stack trace
+java lang arrayindexoutofboundsexcept
+org apach jackrabbit core queri lucen multiscor score multiscor java
+org apach lucen search conjunctionscor score conjunctionscor java
+org apach lucen search booleanscorer2 score booleanscorer2 java
+org apach lucen search booleanscorer2 score booleanscorer2 java
+org apach jackrabbit core queri lucen lucenequeryhit nextscorenod lucenequeryhit java
+org apach jackrabbit core queri lucen queryhitsadapt nextscorenod queryhitsadapt java
+org apach jackrabbit core queri lucen filtermulticolumnqueryhit nextscorenod filtermulticolumnqueryhit java
+org apach jackrabbit core queri lucen queryresultimpl collectscorenod queryresultimpl java
+org apach jackrabbit core queri lucen queryresultimpl getresult queryresultimpl java
+org apach jackrabbit core queri lucen singlecolumnqueryresult init singlecolumnqueryresult java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl perform queryimpl java
+org apach jackrabbit core queri queryimpl perform queryimpl java
+org apach jackrabbit core session sessionst perform sessionst java
+org apach jackrabbit core queri queryimpl execut queryimpl java
+org apach jackrabbit core secur user indexnoderesolv findnod indexnoderesolv java
+org apach jackrabbit core secur user usermanagerimpl findauthoriz usermanagerimpl java
+org apach jackrabbit core secur user usermanagerimpl findauthoriz usermanagerimpl java
+org apach jackrabbit core secur user usermanagerimpltest testfindauthorizablebyrelativepath usermanagerimpltest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok unknown sourc
+java lang reflect method invok unknown sourc
+junit framework testcas runtest testcas java
+junit framework testcas runbar testcas java
+junit framework testresult protect testresult java
+junit framework testresult runprotect testresult java
+junit framework testresult run testresult java
+junit framework testcas run testcas java
+org apach jackrabbit test abstractjcrtest run abstractjcrtest java
+junit framework testsuit runtest testsuit java
+junit framework testsuit run testsuit java
+org eclips jdt intern junit runner junit3 junit3testrefer run junit3testrefer java
+org eclips jdt intern junit runner testexecut run testexecut java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn run remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn main remotetestrunn java

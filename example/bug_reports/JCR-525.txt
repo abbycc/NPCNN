@@ -1,0 +1,37 @@
+tck textnodetest jcr xmltext jcr xmlcharact
+test creat jcr xmltext node jcr xmlcharact properti repositori requir jcr xmltext node jcr xmlcharact properti caus test fail
+propos add jcr xmlcharact properti jcr xmltext node
+textnodetest java revis
+textnodetest java work copi
+
+
+public void testtextnodetest throw repositoryexcept
+node text1 testrootnod addnod jcrxmltext
+text1 setproperti jcrxmlcharact foo
+testrootnod save
+string xpath jcrroot testroot text
+executexpathqueri superus xpath node text1
+
+
+public void testtextnodetestmultinod throw repositoryexcept
+node text1 testrootnod addnod jcrxmltext
+text1 setproperti jcrxmlcharact foo
+node text2 testrootnod addnod nodename1 testnodetyp addnod jcrxmltext
+text2 setproperti jcrxmlcharact foo
+testrootnod save
+string xpath jcrroot testroot text
+executexpathqueri superus xpath node text1 text2
+
+throw notexecutableexcept repositori support posit index
+
+node text1 testrootnod addnod jcrxmltext
+text1 setproperti jcrxmlcharact foo
+text1 getdefinit allowssamenames
+throw notexecutableexcept node path testroot sibl jcrxmltext
+
+testrootnod addnod nodename1 testnodetyp
+node text2 testrootnod addnod jcrxmltext
+text1 setproperti jcrxmlcharact foo
+testrootnod save
+string xpath jcrroot testroot text
+executexpathqueri superus xpath node text2

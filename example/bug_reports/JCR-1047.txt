@@ -1,0 +1,5 @@
+updat link javadoc
+page http jackrabbit apach org doc arch overview jcrlevel html
+link
+brows current jackrabbit api http jackrabbit apach org api index html
+point latest javadoc version

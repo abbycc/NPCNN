@@ -1,0 +1,3 @@
+spi2davex httpclient stringpart charset ascii default
+diff multipart urlencod post string properti garbel
+reason instanc httpclient stringpart creat charset case ascii default

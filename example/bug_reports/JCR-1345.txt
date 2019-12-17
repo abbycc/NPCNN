@@ -1,0 +1,181 @@
+classcastexcept updat properti webdav
+issu proppatch command classcastexcept rais
+
+proppatch jackrabbit webapp repositori default test test file txt http
+host localhost
+connect
+trailer deflat gzip compress
+user agent uci dav explor rpt httpclient
+translat
+author basic y3jvc3nqytp0zxn0
+accept encod deflat gzip gzip compress compress
+content type text xml
+content length
+propertyupd xmln dav
+set
+prop
+auto version checkout checkin auto version
+prop
+set
+propertyupd
+result
+error webdav servlet servic servlet webdav threw
+except standardwrappervalv java line
+java lang classcastexcept org apach jackrabbit webdav properti defaultdavpr
+operti
+org apach jackrabbit webdav simpl davresourceimpl alterproperti
+avresourceimpl java
+org apach jackrabbit webdav server abstractwebdavservlet doproppatch
+abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut ab
+tractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic ab
+tractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain internaldofilt appl
+icationfilterchain java
+org apach catalina core applicationfilterchain dofilt applicationf
+ilterchain java
+org apach catalina core standardwrappervalv invok standardwrapperv
+alv java
+org apach catalina core standardcontextvalv invok standardcontextv
+alv java
+org apach catalina core standardhostvalv invok standardhostvalv
+ava
+org apach catalina valv errorreportvalv invok errorreportvalv
+ava
+org apach catalina core standardenginevalv invok standardenginev
+java
+org apach catalina connector coyoteadapt servic coyoteadapt jav
+
+org apach coyot http11 http11processor process http11processor java
+
+org apach coyot http11 http11baseprotocol http11connectionhandl
+rocessconnect http11baseprotocol java
+org apach tomcat util net pooltcpendpoint processsocket pooltcpendpo
+int java
+org apach tomcat util net leaderfollowerworkerthread runit leaderfol
+lowerworkerthread java
+org apach tomcat util thread threadpool controlrunn run threadp
+ool java
+java lang thread run thread java
+error webdav servlet servic servlet webdav threw
+except slf4jlocationawarelog java line
+java lang classcastexcept org apach jackrabbit webdav properti defaultdavpr
+operti
+org apach jackrabbit webdav simpl davresourceimpl alterproperti
+avresourceimpl java
+org apach jackrabbit webdav server abstractwebdavservlet doproppatch
+abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut ab
+tractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic ab
+tractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain internaldofilt appl
+icationfilterchain java
+org apach catalina core applicationfilterchain dofilt applicationf
+ilterchain java
+org apach catalina core standardwrappervalv invok standardwrapperv
+alv java
+org apach catalina core standardcontextvalv invok standardcontextv
+alv java
+org apach catalina core standardhostvalv invok standardhostvalv
+ava
+org apach catalina valv errorreportvalv invok errorreportvalv
+ava
+org apach catalina core standardenginevalv invok standardenginev
+java
+org apach catalina connector coyoteadapt servic coyoteadapt jav
+
+org apach coyot http11 http11processor process http11processor java
+
+org apach coyot http11 http11baseprotocol http11connectionhandl
+rocessconnect http11baseprotocol java
+org apach tomcat util net pooltcpendpoint processsocket pooltcpendpo
+int java
+org apach tomcat util net leaderfollowerworkerthread runit leaderfol
+lowerworkerthread java
+org apach tomcat util thread threadpool controlrunn run threadp
+ool java
+java lang thread run thread java
+error webdav servlet servic servlet webdav threw
+except standardwrappervalv java line
+java lang classcastexcept org apach jackrabbit webdav properti defaultdavpr
+operti
+org apach jackrabbit webdav simpl davresourceimpl alterproperti
+avresourceimpl java
+org apach jackrabbit webdav server abstractwebdavservlet doproppatch
+abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut ab
+tractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic ab
+tractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain internaldofilt appl
+icationfilterchain java
+org apach catalina core applicationfilterchain dofilt applicationf
+ilterchain java
+org apach catalina core standardwrappervalv invok standardwrapperv
+alv java
+org apach catalina core standardcontextvalv invok standardcontextv
+alv java
+org apach catalina core standardhostvalv invok standardhostvalv
+ava
+org apach catalina valv errorreportvalv invok errorreportvalv
+ava
+org apach catalina core standardenginevalv invok standardenginev
+java
+org apach catalina connector coyoteadapt servic coyoteadapt jav
+
+org apach coyot http11 http11processor process http11processor java
+
+org apach coyot http11 http11baseprotocol http11connectionhandl
+rocessconnect http11baseprotocol java
+org apach tomcat util net pooltcpendpoint processsocket pooltcpendpo
+int java
+org apach tomcat util net leaderfollowerworkerthread runit leaderfol
+lowerworkerthread java
+org apach tomcat util thread threadpool controlrunn run threadp
+ool java
+java lang thread run thread java
+error webdav servlet servic servlet webdav threw
+except slf4jlocationawarelog java line
+java lang classcastexcept org apach jackrabbit webdav properti defaultdavpr
+operti
+org apach jackrabbit webdav simpl davresourceimpl alterproperti
+avresourceimpl java
+org apach jackrabbit webdav server abstractwebdavservlet doproppatch
+abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut ab
+tractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic ab
+tractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org apach catalina core applicationfilterchain internaldofilt appl
+icationfilterchain java
+org apach catalina core applicationfilterchain dofilt applicationf
+ilterchain java
+org apach catalina core standardwrappervalv invok standardwrapperv
+alv java
+org apach catalina core standardcontextvalv invok standardcontextv
+alv java
+org apach catalina core standardhostvalv invok standardhostvalv
+ava
+org apach catalina valv errorreportvalv invok errorreportvalv
+ava
+org apach catalina core standardenginevalv invok standardenginev
+java
+org apach catalina connector coyoteadapt servic coyoteadapt jav
+
+org apach coyot http11 http11processor process http11processor java
+
+org apach coyot http11 http11baseprotocol http11connectionhandl
+rocessconnect http11baseprotocol java
+org apach tomcat util net pooltcpendpoint processsocket pooltcpendpo
+int java
+org apach tomcat util net leaderfollowerworkerthread runit leaderfol
+lowerworkerthread java
+org apach tomcat util thread threadpool controlrunn run threadp
+ool java
+java lang thread run thread java

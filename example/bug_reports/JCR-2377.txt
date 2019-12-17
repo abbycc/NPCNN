@@ -1,0 +1,2 @@
+avoid docfreq call fulltext queri
+document frequenc queri term cost fulltext queri document frequenc influenc relev result node simpl constraint foo 'bar' return constant docfreq

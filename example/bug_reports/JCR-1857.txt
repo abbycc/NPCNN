@@ -1,0 +1,31 @@
+jcr2spi npe sessionimport checkincludesmixreferenc nodeinfo mixin name
+issu report tobi
+java lang nullpointerexcept
+java util arrai arraylist init arrai java
+java util arrai aslist arrai java
+org apach jackrabbit jcr2spi xml sessionimport checkincludesmixreferenc sessionimport java
+org apach jackrabbit jcr2spi xml sessionimport startnod sessionimport java
+includ test case
+public void testemptymixin throw except
+string xml xml version encod utf
+node xmln http www jcp org jcr
+xmln http www jcp org jcr
+xmln mix http www jcp org jcr mix
+xmln jcr http www jcp org jcr
+testnode1
+properti jcr primarytyp
+type
+unstructur
+properti
+properti jcr titl type string
+test node
+properti
+properti jcr uuid type string
+
+properti
+node
+inputstream bytearrayinputstream xml getbyt
+session importxml
+importuuidbehavior import uuid collis throw
+session save
+

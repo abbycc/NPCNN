@@ -1,0 +1,3 @@
+creat jcr client modul
+task copi jcr
+wise creat modul consist repositoryfactori combin jackrabbit jcr2spi spi implement

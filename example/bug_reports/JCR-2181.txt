@@ -1,0 +1,2 @@
+faster packag standalon jar
+standalon jar creat unpack depend target class packag result directori tree result jar file take write read uncompress class file requir lot disk avoid extra copi bundl assembl plugin build standalon jar

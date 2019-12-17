@@ -1,0 +1,4 @@
+consolid compar behaviour compar
+implement comparison valuecompar util introduct jcr introduc arrai mix refactor place core queri lucen util
+wider scope comparison mark todo valuecompar class
+attach patch shortli

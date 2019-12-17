@@ -1,0 +1,6 @@
+lock test assum session immedi visibl session
+locktest testlogout assum chang session log remov session scope lock immedi visibl session
+propos insert
+getsess refresh true
+call check
+assertfals node lock islock

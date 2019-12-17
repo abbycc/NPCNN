@@ -1,0 +1,24 @@
+document view importxml fail protect properti jcr primarytyp
+import xml document element attribut jcr primarytyp import fail
+javax jcr nodetyp constraintviolationexcept set protect properti testroot docviewimport doc jcr primarytyp
+org apach jackrabbit core propertyimpl setvalu propertyimpl java
+org apach jackrabbit core nodeimpl setproperti nodeimpl java
+org apach jackrabbit core xml docviewimporthandl startel docviewimporthandl java
+org apach jackrabbit core xml importhandl startel importhandl java
+org apach xerc parser abstractsaxpars startel unknown sourc
+org apach xerc impl xmlnsdocumentscannerimpl scanstartel unknown sourc
+org apach xerc impl xmlnsdocumentscannerimpl nscontentdispatch scanrootelementhook unknown sourc
+org apach xerc impl xmldocumentfragmentscannerimpl fragmentcontentdispatch dispatch unknown sourc
+org apach xerc impl xmldocumentfragmentscannerimpl scandocu unknown sourc
+org apach xerc parser xml11configur pars unknown sourc
+org apach xerc parser xml11configur pars unknown sourc
+org apach xerc parser xmlparser pars unknown sourc
+org apach xerc parser abstractsaxpars pars unknown sourc
+org apach jackrabbit core sessionimpl importxml sessionimpl java
+org apach jackrabbit test api docviewimporttest setup docviewimporttest java
+intellij execut junit2 junitstart main junitstart java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut applic appmain main appmain java
+understand spec correctli import process care attribut determin node type node base

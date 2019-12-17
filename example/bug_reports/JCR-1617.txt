@@ -1,0 +1,4 @@
+remov common collect slf4j api depend jcr common
+note jcr discuss mail list good jackrabbit jcr common extra depend standard java class librari jcr api
+jackrabbit jcr common depend common collect slf4j api depend isol drop effort depend backward incompat exist client impact small easi resolv
+http markmail org messag 724ruk4l7b5rjtan

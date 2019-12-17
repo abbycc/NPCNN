@@ -1,0 +1,13 @@
+webdav bind support
+tempt work implement webdav bind protocol defin http greenbyt tech webdav draft ietf webdav bind html
+issu collect design propos track progress
+dav resourc live properti
+implement term jcr uuid turn uri webdav jcr uuid uuid syntax urn uuid mint http uri serv webdav servlet note disadvantag move node server affect resourc case server import uuid
+rebind unbind method
+move delet excpet marshal
+dav parent set properti
+trivial node share jcr share set function
+bind method
+trivial shareabl node support jcr share set function
+cycl detect depth infin request
+tbd

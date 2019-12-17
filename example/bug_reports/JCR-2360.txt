@@ -1,0 +1,9 @@
+jcrutil getrepositori simpl repositori access
+discuss mail list nice trivial simpl line code connect repositori repositoryfactori interfac jcr defin client repositori refer direct implement depend client extra code handl servic provid lookup iter repositori factori
+simplifi client code introduc jcrutil getrepositori map string string method take care task mention
+map string string paramet repositori set
+repositori repositori jcrutil getrepositori paramet
+simplif introduc jcrutil getrepositori string method build paramet map base repositori uri
+repositori repositori jcrutil getrepositori file path repositori
+repositori repositori jcrutil getrepositori http localhost server
+set support uri type defin

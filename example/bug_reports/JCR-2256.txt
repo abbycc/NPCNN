@@ -1,0 +1,4 @@
+jsr repositori descriptor
+method return object jcr2spi
+check descriptor report jcr server handl client side
+

@@ -1,0 +1,11 @@
+jcr sql2 count claus provid
+provid claus sql2 select jcr jackrabbit provid hit count
+
+select unstructur
+order jcr score
+return hit count queri execut getrow getsiz
+
+select unstructur
+entiti custom
+order jcr score
+

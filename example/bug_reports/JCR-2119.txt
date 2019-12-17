@@ -1,0 +1,3 @@
+method creat default repositoryconfig repositori directori
+static method repositoryconfig creat file repositori directori expect find repositori configur repositori xml file insid directori
+directori exist creat repositori configur file exist creat default configur includ jackrabbit

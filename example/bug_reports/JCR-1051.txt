@@ -1,0 +1,30 @@
+matchallscor calculatedocfilt bug
+matchallscor calculatedocfilt node properti myprop myprop2 xpath string xpath myprop node back precis node properti startswith myprop
+reproduc chang simplequerytest testisnotnul
+chang
+bar setproperti text quick brown fox jump lazi dog
+
+bar setproperti mytextwhichstartswithmytext quick brown fox jump lazi dog
+test xpath jcr primarytyp 'nt unstructured' mytext fail result test trunk tag problem attach matchallscor java patch mail creat jira issu
+discuss implement matchallscor imho current calculatedocfilt slow pretti fast bottom email code part refer doc mytext properti queri mytext loop execut time scope user list user list place discuss
+
+termenum term reader term term fieldnam properti field
+
+termdoc doc reader termdoc
+
+term term null
+term term field fieldnam properti
+term term text startswith field
+doc seek term
+doc
+docfilt set doc doc
+
+term
+
+final
+doc close
+
+final
+term close
+
+

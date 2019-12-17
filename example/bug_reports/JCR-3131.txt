@@ -1,0 +1,23 @@
+npe itemmanag call session save save
+npe denotenod call itemmanag
+privat itemdata retrieveitem itemid
+synchron itemcach
+itemdata data itemcach
+data null denotesnod
+
+null take branch sessionsaveoper perform
+context getsessionimpl haspermiss session action read
+context getrootnodeid
+
+context getitemstatemanag getidofroottransientnodest
+
+context tostr
+session author
+itemmanag org apach jackrabbit core itemmanag 1e911ccc
+item cach
+sessionitemstatemanag org apach jackrabbit core state sessionitemstatemanag 15472b43
+transient
+attic
+
+assum mean save
+correct behavior perform avoid npe

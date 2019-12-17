@@ -1,0 +1,7 @@
+updat common depend versiom
+jackrabbit jackrabbit jca applic server chang classload polici global flat classload polici result conflict version server implement version applic diminish jackrabbit depend date
+depend
+groupid common groupid
+artifactid common artifactid
+version version
+depend

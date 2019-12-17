@@ -1,0 +1,3 @@
+tck node type select setvaluevalueformatexceptiontest lead incorrect test failur
+setup test select node type boolean properti date properti creat node type children target node tck select node type creat problem jsr requir implement provid determinist stabl order node type return nodetypemanag node type select test setup vari run run make test configur difficult imposs repositori impos implement specif type constraint discover jsr tck select node type inappropri child test node
+propos introduc configur properti set overrid properti definit node type select nodetypeutil

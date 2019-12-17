@@ -1,0 +1,8 @@
+miss child node automat remov entri session attribut set
+node point exist child node repositori inconsist child node silent read oper add child node except thrown messag child node exist parent node remov
+solut remov bad child node entri session attribut org apach jackrabbit autofixcorrupt set default repositori chang 'secretly'
+simplecredenti cred simplecredenti
+cred setattribut org apach jackrabbit autofixcorrupt true
+rep login cred
+perfect solut throw except basic prevent
+solut implement renam miss child node entri add child node add current date time random digit conflict continu ad child node

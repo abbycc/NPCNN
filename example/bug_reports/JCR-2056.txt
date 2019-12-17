@@ -1,0 +1,2 @@
+jsr binari interfac
+binari interfac replac deprec method set inputstream jcr method creat binari valuefactori

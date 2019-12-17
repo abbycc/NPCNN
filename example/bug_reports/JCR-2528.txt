@@ -1,0 +1,7 @@
+spi2dav iteminfocach failur workspac restoretest testrestorewithuuidconflict variant
+run api version test found workspac restoretest testrestorewithuuidconfict variant fail precis test pass
+transient remov versionablenode2 teardown fail remov jcr uuid properti move childnod
+closer reveal problem caus workspaceitemstatefactori properti entri retriev
+cach subsequ check path match fail test purpos prevent usag cach entri return fals workspaceitemstatefactori isuptod test pass
+test pass spi2jcr
+michael caus flaw iteminfo cach logic specif adjust spi2dav

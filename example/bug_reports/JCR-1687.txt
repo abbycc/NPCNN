@@ -1,0 +1,2 @@
+namespaceregistryimpl getnameresolv getpathresolv return null
+left restructur common class jcr method remov

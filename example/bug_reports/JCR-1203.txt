@@ -1,0 +1,2 @@
+reorgan test suit
+organ test setup jackrabbit core current test repositori locat applic test manag custom ant task explicit init test surefir configur test repositori locat target repositori templat content come src test repositori manag maven integr test lifecycl phase

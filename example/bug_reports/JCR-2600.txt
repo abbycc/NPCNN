@@ -1,0 +1,2 @@
+abstractloginmodul log warn anonym login
+credenti default anonym authent warn log abstractloginmodul anonym login made normal situat log messag debug info level

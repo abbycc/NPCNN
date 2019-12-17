@@ -1,0 +1,3 @@
+jsonwrit miss handl jcr properti type
+json writer send extra type inform case determin unambigu json string
+adjust properti type ad jcr

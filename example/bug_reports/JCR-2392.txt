@@ -1,0 +1,10 @@
+patch qvaluefactoryimpl equal compar correctli
+equal compar uri uri poos
+load
+initi
+uri null
+return uri equal uri
+return uri equal uri
+
+load binari order
+compar valu

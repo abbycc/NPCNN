@@ -1,0 +1,14 @@
+bug textfilt classload
+problem text filter servic built contrib textfilt packag includ result jackrabbit textfilt snapshot jar applic classpath problem textfilterservic class unabl find filter servic org textfilterservic file wihin meta inf jar' directori
+eclips rcp classload mechan fact work find bit strang load servic problemat scenario
+
+marcel reutegg
+marcel reutegg gmx net jackrabbit dev
+option minut ago
+martin
+similar problem queri languag solv
+tell registri specif classload work
+work text filter jar
+file classload
+post jira bug chang discoveri
+mechan good xml config

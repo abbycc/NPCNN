@@ -1,0 +1,140 @@
+bundlefspersistencemanag properti call minblobs
+error org apach jackrabbit core repositoryimpl thread fail start repositori instanti persist manag org apach jackrabbit core persist bundl bundlefspersistencemanag bean type org apach jackrabbit core persist bundl bundlefspersistencemanag properti call minblobs
+javax jcr repositoryexcept instanti persist manag org apach jackrabbit core persist bundl bundlefspersistencemanag bean type org apach jackrabbit core persist bundl bundlefspersistencemanag properti call minblobs bean type org apach jackrabbit core persist bundl bundlefspersistencemanag properti call minblobs
+org apach jackrabbit core repositoryimpl createpersistencemanag repositoryimpl java
+org apach jackrabbit core repositoryimpl createversionmanag repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+pp jcr util repositorymanag createrepositori repositorymanag java
+pp jcr util repositorymanag startrepositori repositorymanag java
+pp jcr ejb session jcrutilfacad startrepositori jcrutilfacad java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun enterpris secur applic ejbsecuritymanag runmethod ejbsecuritymanag java
+sun enterpris secur securityutil invok securityutil java
+sun ejb contain basecontain invoketargetbeanmethod basecontain java
+sun ejb contain basecontain intercept basecontain java
+sun ejb contain ejblocalobjectinvocationhandl invok ejblocalobjectinvocationhandl java
+sun ejb contain ejblocalobjectinvocationhandlerdeleg invok ejblocalobjectinvocationhandlerdeleg java
+proxy181 startrepositori unknown sourc
+pp jcr web jcrlifecyclelisten contextiniti jcrlifecyclelisten java
+org apach catalina core standardcontext listenerstart standardcontext java
+org apach catalina core standardcontext start standardcontext java
+sun enterpris web webmodul start webmodul java
+org apach catalina core containerbas addchildintern containerbas java
+org apach catalina core containerbas addchild containerbas java
+org apach catalina core standardhost addchild standardhost java
+sun enterpris web webcontain loadwebmodul webcontain java
+sun enterpris web webcontain loadwebmodul webcontain java
+sun enterpris web webcontain loadj2eeapplicationwebmodul webcontain java
+sun enterpris server tomcatapplicationload doload tomcatapplicationload java
+sun enterpris server abstractload load abstractload java
+sun enterpris server applicationmanag applicationdeploi applicationmanag java
+sun enterpris server applicationmanag applicationdeploi applicationmanag java
+sun enterpris server applicationmanag applicationdeploi applicationmanag java
+sun enterpris admin event admineventmulticast invokeapplicationdeployeventlisten admineventmulticast java
+sun enterpris admin event admineventmulticast handleapplicationdeployev admineventmulticast java
+sun enterpris admin event admineventmulticast processev admineventmulticast java
+sun enterpris admin event admineventmulticast multicastev admineventmulticast java
+sun enterpris admin server core deploymentnotificationhelp multicastev deploymentnotificationhelp java
+sun enterpris deploy phase deploymentserviceutil multicastev deploymentserviceutil java
+sun enterpris deploy phase serverdeploymenttarget sendstartev serverdeploymenttarget java
+sun enterpris deploy phase applicationstartphas runphas applicationstartphas java
+sun enterpris deploy phase deploymentphas executephas deploymentphas java
+sun enterpris deploy phase pedeploymentservic executephas pedeploymentservic java
+sun enterpris deploy phase pedeploymentservic start pedeploymentservic java
+sun enterpris deploy phase pedeploymentservic start pedeploymentservic java
+sun enterpris admin mbean applicationsconfigmbean start applicationsconfigmbean java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun enterpris admin mbeanhelp invokeoperationinbean mbeanhelp java
+sun enterpris admin mbeanhelp invokeoperationinbean mbeanhelp java
+sun enterpris admin config baseconfigmbean invok baseconfigmbean java
+sun jmx interceptor defaultmbeanserverinterceptor invok defaultmbeanserverinterceptor java
+sun jmx mbeanserv jmxmbeanserv invok jmxmbeanserv java
+sun reflect generatedmethodaccessor19 invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun enterpris admin util proxi proxyclass invok proxyclass java
+proxy1 invok unknown sourc
+sun enterpris admin server core jmx sunoneinterceptor invok sunoneinterceptor java
+sun enterpris interceptor dynamicinterceptor invok dynamicinterceptor java
+sun enterpris deploy client deploymentclientutil startappl deploymentclientutil java
+sun enterpris deploy client deployact run deployact java
+java lang thread run thread java
+caus java lang illegalargumentexcept bean type org apach jackrabbit core persist bundl bundlefspersistencemanag properti call minblobs
+org apach common collect beanmap put beanmap java
+org apach jackrabbit core config beanconfig newinst beanconfig java
+org apach jackrabbit core repositoryimpl createpersistencemanag repositoryimpl java
+
+xml version
+repositori
+datastor class org apach jackrabbit core data filedatastor
+param path rep home datastor
+param minrecordlength
+datastor
+filesystem class org apach jackrabbit core local localfilesystem
+param path rep home
+filesystem
+secur appnam jackrabbit
+accessmanag class org apach jackrabbit core secur simpleaccessmanag
+loginmodul class org apach jackrabbit core secur simpleloginmodul
+param anonymousid anonym
+loginmodul
+secur
+workspac rootpath rep home workspac defaultworkspac default
+workspac wsp
+filesystem class org apach jackrabbit core local localfilesystem
+param path rep home wsp
+filesystem
+persistencemanag class org apach jackrabbit core persist obj objectpersistencemanag
+persistencemanag class org apach jackrabbit core persist bundl bundlefspersistencemanag
+param bundlecaches
+param blobfsblocks
+param minblobs
+param errorhandl
+persistencemanag
+searchindex class org apach jackrabbit core queri lucen searchindex
+param path wsp home index
+param textfilterclass
+org apach jackrabbit extractor msexceltextextractor
+org apach jackrabbit extractor mspowerpointtextextractor
+org apach jackrabbit extractor mswordtextextractor
+org apach jackrabbit extractor pdftextextractor
+org apach jackrabbit extractor plaintextextractor
+org apach jackrabbit extractor htmltextextractor
+org apach jackrabbit extractor xmltextextractor
+org apach jackrabbit extractor rtftextextractor
+org apach jackrabbit extractor openofficetextextractor
+searchindex
+workspac
+version rootpath rep home version
+filesystem class org apach jackrabbit core local localfilesystem
+param path rep home version
+filesystem
+persistencemanag class org apach jackrabbit core persist obj objectpersistencemanag
+persistencemanag class org apach jackrabbit core persist bundl bundlefspersistencemanag
+param bundlecaches
+param blobfsblocks
+param minblobs
+param errorhandl
+persistencemanag
+version
+searchindex class org apach jackrabbit core queri lucen searchindex
+param path rep home index
+param textfilterclass
+org apach jackrabbit extractor msexceltextextractor
+org apach jackrabbit extractor mspowerpointtextextractor
+org apach jackrabbit extractor mswordtextextractor
+org apach jackrabbit extractor pdftextextractor
+org apach jackrabbit extractor plaintextextractor
+org apach jackrabbit extractor htmltextextractor
+org apach jackrabbit extractor xmltextextractor
+org apach jackrabbit extractor rtftextextractor
+org apach jackrabbit extractor openofficetextextractor
+searchindex
+repositori

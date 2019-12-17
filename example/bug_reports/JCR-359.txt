@@ -1,0 +1,15 @@
+jca project test assum window path
+org apach jackrabbit jca packag top level jca directori unit test assum window environ fix work environ solut test repositori configur file current directori
+start test case failur run maco
+testsuit org apach jackrabbit jca test connectionfactorytest
+test run failur error time elaps sec
+testcas testalloc org apach jackrabbit jca test connectionfactorytest caus error
+org apach jackrabbit core config configurationexcept configur file read user mark document school whisper jackrabbit jackrabbit trunk jca dev jcr repositori xml
+file directori user mark document school whisper jackrabbit jackrabbit trunk jca dev jcr repositori xml file directori
+org apach jackrabbit core config configurationexcept configur file read user mark document school whisper jackrabbit jackrabbit trunk jca dev jcr repositori xml
+file directori user mark document school whisper jackrabbit jackrabbit trunk jca dev jcr repositori xml file directori
+org apach jackrabbit jca jcamanagedconnectionfactori createrepositori jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createconnectionfactori jcamanagedconnectionfactori java
+org apach jackrabbit jca jcamanagedconnectionfactori createconnectionfactori jcamanagedconnectionfactori java
+org apach jackrabbit jca test connectionfactorytest testalloc connectionfactorytest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method

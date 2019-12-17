@@ -1,0 +1,20 @@
+improv handl concurr node modif
+scenario
+session1 modifi node ad child node
+session2 modifi node ad child node
+session2 save
+session1 save result invaliditemstateexcept
+behavior accord spec spec prevent
+lenient handl scenario
+concurr modif conflict trivial
+silent merg session1' transient state node
+exampl trivial conflict
+add child node remov child node
+add child node add child node
+add child node add mixin type
+exampl trivial conflict
+remov child node remov child node
+add child node add child node
+add sn child node add sn child node
+add sn child node remov sn child node
+remov sn child node reorder child node affect sn node

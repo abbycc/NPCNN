@@ -1,0 +1,4 @@
+setvalueformatexceptiontest testnod reli addmixin specif node type
+setvalueformatexceptiontest testnod flaw
+cope case creat node mix referenc
+specif node typer creat

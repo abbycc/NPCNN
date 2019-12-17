@@ -1,0 +1,12 @@
+jcarepositoryhandl login method throw nosuchworkspaceexcept
+call sequenc
+jcarepositoryhandl login credenti string exist workspac login
+jcarepositoryhandl login jcaconnectionrequestinfo
+connectionmanag allocateconnect managedconnectionfactori connectionrequestinfo
+
+jcamanagedconnect opensess jcaconnectionrequestinfo
+repositori login credenti string nosuchworkspaceexcept thrown catch jcamanagedconnect opensess jcaconnectionrequestinfo set linkedexcept resourceexcept thrown
+
+jcarepositoryhandl login jcaconnectionrequestinfo resourceexcept caught retreiv nosuchworkspaceexcept thrown except thrown
+note except occur lower level wrap resourceexcept setlinkedexcept upper level unwrap getcaus set null nosuchworkspaceexcept thrown
+suggest fix mechan end chang wrap mechan except chain resourceexcept msg unwrap resourceexcept getlinkedexcept

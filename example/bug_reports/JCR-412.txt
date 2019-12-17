@@ -1,0 +1,15 @@
+jca concurr modif except jcamanagedconnect cleanup call
+jcamanagedconnect closehandl method concurrentmodificationexcept handl list empti
+caus modif handl list removehandl closehandl iter list
+sunon appserv caus simpli close session handl transact commit
+send connectionclos event cleanup api connectionclos event applic compon close connect handl cleanup contain initi action connectionclos event applic
+java util concurrentmodificationexcept
+java util linkedlist listitr checkforcomodif linkedlist java
+java util linkedlist listitr linkedlist java
+org apach jackrabbit jca jcamanagedconnect closehandl jcamanagedconnect java
+org apach jackrabbit jca jcamanagedconnect cleanup jcamanagedconnect java
+sun enterpris resourc iaspoolobjectimp cleanup iaspoolobjectimp java
+sun enterpris resourc iasgenericpoolobject transactioncomplet iasgenericpoolobject java
+sun enterpris resourc resourcepoolmanagerimpl transactioncomplet resourcepoolmanagerimpl java
+sun enterpris resourc resourcepoolmanagerimpl synchronizationlisten aftercomplet resourcepoolmanagerimpl java
+sun jt jta synchronizationimpl complet synchronizationimpl java

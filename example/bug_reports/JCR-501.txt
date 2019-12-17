@@ -1,0 +1,17 @@
+tck setpropertyvaluetest testcompactvaluearraywithnul respect nodename1 nodetyp configur properti
+test respect nodename1 nodetyp configur properti
+propos creat properti testnod testrootnod
+setpropertyvaluetest java revis
+setpropertyvaluetest java work copi
+
+arrai remov null valu
+
+public void testcompactvaluearraywithnul throw except
+testrootnod setproperti propertyname2 varraywithnul
+testnod setproperti propertyname2 varraywithnul
+superus save
+assertequ node setproperti string valuearraywithnul compact arrai remov null valu
+
+testrootnod getproperti propertyname2 getvalu length
+testnod getproperti propertyname2 getvalu length
+

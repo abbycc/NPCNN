@@ -1,0 +1,2 @@
+degrad gracefulli read invalid date valu
+note jcr version jackrabbit store date invalid date valu repositori valu except repositori attempt read approach automat detect date map string valu avoid lose inform client access inform string normal jcr api valueformatexcept read date getdat method

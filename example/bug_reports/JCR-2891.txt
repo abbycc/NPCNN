@@ -1,0 +1,8 @@
+versionmanagerimplrestor internalrestorefrozen method ident versu equal bug
+method protect void internalrestorefrozen nodestateex state
+internalfrozennod freez
+versionselector vsel
+set internalvers restor
+boolean removeexist
+boolean copi
+versionmanagerimplrestor class line code perform call nodeid equal method ran problem code execut restor folder node throw itemexistsexcept sibl allow folder node

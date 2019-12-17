@@ -1,0 +1,6 @@
+jmx stat session
+name core stat includ
+number session open
+session read write oper
+stat refresh minut
+disabl default affect perform

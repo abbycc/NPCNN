@@ -1,0 +1,18 @@
+patch remov minor unneed code stutter
+code repeat method call isorder reason
+code
+public string getsupportedmethod
+string super getsupportedmethod
+isorder
+stringbuff stringbuff
+order
+isorder
+append append orderingresourc method
+
+return tostr
+
+return
+
+
+code
+patch clean

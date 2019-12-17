@@ -1,0 +1,7 @@
+split privilegeregistri session manag instanc repositori level registri
+order resolv privilegeregistri relat todo jackrabbit core split
+method privilegeregistri session level includ jcr name add
+manag class present session context respons
+registri limit read build privileg definit present repositorycontext
+deprec method cover manag
+addit name consist nodetyp namespac

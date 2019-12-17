@@ -1,0 +1,2 @@
+oracledatabasejourn assum oracl default
+oraclefilesystem oraclepersistencemanag assum default properti driver databasetyp default extend oracledatabasejourn consist eas

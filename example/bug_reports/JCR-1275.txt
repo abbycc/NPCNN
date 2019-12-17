@@ -1,0 +1,12 @@
+nullpointerexcept abstractversionmanag createversionhistori
+run concurrentcheckinmixedtransactiontest thread result nullpointerexcept abstractversionmanag
+except thread thread java lang nullpointerexcept
+org apach jackrabbit core version abstractversionmanag createversionhistori abstractversionmanag java
+org apach jackrabbit core version xaversionmanag createversionhistori xaversionmanag java
+org apach jackrabbit core itemimpl initversionhistori itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit core concurrentcheckinmixedtransactiontest execut concurrentcheckinmixedtransactiontest java
+org apach jackrabbit core abstractconcurrencytest executor run abstractconcurrencytest java
+java lang thread run thread java
+node creat current thread assum thread transact commit current thread creat node commit thread overwrit node modifi current thread write lock bypass case

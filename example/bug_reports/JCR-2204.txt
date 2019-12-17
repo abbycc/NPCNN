@@ -1,0 +1,2 @@
+gqltest fail occasion
+text extract hit time

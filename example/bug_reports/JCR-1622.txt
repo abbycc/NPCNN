@@ -1,0 +1,4 @@
+session getuserid return princip set obtain subject getprincip
+lead wrong userid group princip
+jsr defin getuserid return user session impli javadoc method relat login
+issu partial address work jsr access control trunk

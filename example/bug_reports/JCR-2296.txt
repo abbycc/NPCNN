@@ -1,0 +1,2 @@
+consolid itemdef qitemdefinit
+great deal duplic code itemdef jackrabbit core qitemdefinit jackrabbit spi implement class

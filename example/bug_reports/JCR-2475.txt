@@ -1,0 +1,3 @@
+test failur run mvn cobertura check
+bytecod instrument cobertura interfer complex xpathtokenmanag class produc javacc
+easiest workaround simpli exclud xpathtokenmanag instrument cobertura

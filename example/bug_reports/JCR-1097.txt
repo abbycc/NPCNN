@@ -1,0 +1,2 @@
+move xasess interfac jackrabbit api
+discuss jcr make sens move org apach jackrabbit core xasess jackrabbit core jackrabbit api org apach jackrabbit api xasess

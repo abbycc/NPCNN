@@ -1,0 +1,15 @@
+chang defaultvalu format nodetyp xml jcr
+defaultvalu serial nodetyp xml intern serial jcr string serial
+
+propertydef jcr requiredprimarytyp
+defaultvalu
+defaultvalu http www jcp org jcr base defaultvalu
+defaultvalu
+propertydef
+handi custom nodetyp xml written automat
+suggest chang serial jcr
+propertydef jcr requiredprimarytyp
+defaultvalu
+defaultvalu base defaultvalu
+defaultvalu
+propertydef

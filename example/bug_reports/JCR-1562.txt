@@ -1,0 +1,4 @@
+jndi data sourc persistencemanag wrong default valu
+jcr jackrabbit support creat connect throug jndi datasourc configur user password work provid persistencemanag oracl specif bundledbpersistencemanag set default valu user password provid jackrabbit config imposs persistencemanag plain jndi
+concern bundledbpersistencemanag oraclepersistencemanag derbypersistencemanag h2persistencemanag
+pm special simpledbpersistencemanag similar behaviour

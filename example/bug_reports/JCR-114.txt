@@ -1,0 +1,19 @@
+suggest nodeimpl propertyimpl jackrabbit core
+nodeimpl propertyimpl respect setproperti setvalu initi valid check indent
+variant possibl case place separ method
+nodeimpl setproperti addmixin removemixin orderbefor
+sanitycheck
+parent check
+protect miss setproperti
+parent lock
+propertyimpl setvalu
+sanitycheck
+parent check
+protect
+compat multivalu definit note check opposit set singl
+multipl valu
+parent lock
+case childnod childproperti prefer
+node properti present jcr api
+
+angela

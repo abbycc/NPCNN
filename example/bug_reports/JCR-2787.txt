@@ -1,0 +1,40 @@
+indexmerg synchron issu repositori shutdown
+insert larg number node repositori close session except
+jackrabbit pool debug core queri lucen indexmerg busi merg worker
+jackrabbit pool debug core queri lucen indexmerg accept merg request
+jackrabbit pool debug core queri lucen indexmerg worker finish
+jackrabbit pool debug core queri lucen indexmerg creat index
+jackrabbit pool debug core queri lucen indexmerg index reader multiindex
+main info kmp gener jpatojcrimport end jcr save
+main info core transientrepositori session close
+main info jackrabbit core repositoryimpl shut repositori
+main debug core queri lucen indexmerg dispos indexmerg
+main debug core queri lucen indexmerg quit flag set
+main info core queri lucen searchindex index close repositori repositori index
+main info jackrabbit core repositoryimpl shut workspac 'default'
+main info observationdispatch notif eventlisten stop
+main debug core queri lucen indexmerg dispos indexmerg
+main debug core queri lucen indexmerg quit flag set
+main debug core queri lucen indexmerg indexmerg worker thread stop
+main debug core queri lucen indexmerg index ad numdoc
+jackrabbit pool debug core queri lucen indexmerg delet index
+main info core queri lucen searchindex index close repositori workspac default index
+jackrabbit pool error core queri lucen indexmerg error merg index
+org apach lucen store alreadyclosedexcept indexwrit close
+org apach lucen index indexwrit ensureopen indexwrit java lucen core jar
+org apach lucen index indexwrit ensureopen indexwrit java lucen core jar
+org apach lucen index indexwrit starttransact indexwrit java lucen core jar
+org apach lucen index indexwrit addindex indexwrit java lucen core jar
+org apach jackrabbit core queri lucen persistentindex addindex persistentindex java jackrabbit core jar
+org apach jackrabbit core queri lucen indexmerg worker run indexmerg java jackrabbit core jar
+java util concurr executor runnableadapt call executor java
+java util concurr futuretask sync innerrun futuretask java
+java util concurr futuretask run futuretask java
+java util concurr scheduledthreadpoolexecutor scheduledfuturetask access scheduledthreadpoolexecutor java
+java util concurr scheduledthreadpoolexecutor scheduledfuturetask run scheduledthreadpoolexecutor java
+java util concurr threadpoolexecutor worker runtask threadpoolexecutor java
+java util concurr threadpoolexecutor worker run threadpoolexecutor java
+java lang thread run thread java
+jackrabbit pool debug core queri lucen indexmerg worker finish
+main info derbypersistencemanag databas 'repositori workspac default db' shutdown
+problem reproduc appar lucen index close indexmerg worker thread termin root atomicboolean indexmerg worker termin true enclos patch solv problem case

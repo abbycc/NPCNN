@@ -1,0 +1,8 @@
+jcr server workspac restor map correctli
+issu report david kennedi
+workspac restor version boolean work version retriev correctli version histori access request resourc retriev version need workspac restor call
+short term fix
+version href present request bodi updat request version resourc built
+version item retriev
+altern
+find proper map workspac restor version boolean updat resourc repres javax jcr node map workspac restor odd

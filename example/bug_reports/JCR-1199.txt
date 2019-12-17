@@ -1,0 +1,3 @@
+remov depend log4j
+class test case unus refer log4j
+attach patch remov unus logger make packag independ lo4j

@@ -1,0 +1,19 @@
+repositoryexcept bindvari jcr sql2
+bindvari jcr sql2 constraint queri fail repositoryexcept
+
+string sql select unstructur ischildnod testroot mytext searchexpress
+queri superus getworkspac getquerymanag createqueri sql queri jcr sql2
+bindvalu searchexpress superus getvaluefactori createvalu fox
+execut
+result
+javax jcr repositoryexcept unknown static operand type org apach jackrabbit spi common queri qom bindvariablevalueimpl 591a4d
+org apach jackrabbit core queri lucen lucenequeryfactoryimpl creat lucenequeryfactoryimpl java
+org apach jackrabbit core queri lucen constraint fulltextconstraint init fulltextconstraint java
+org apach jackrabbit core queri lucen constraint constraintbuild visitor visit constraintbuild java
+org apach jackrabbit spi common queri qom fulltextsearchimpl accept fulltextsearchimpl java
+org apach jackrabbit core queri lucen constraint constraintbuild visitor visit constraintbuild java
+org apach jackrabbit spi common queri qom andimpl accept andimpl java
+org apach jackrabbit core queri lucen constraint constraintbuild creat constraintbuild java
+org apach jackrabbit core queri lucen queryobjectmodelimpl execut queryobjectmodelimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java
+fix issu access bindvari constraintbuild lucenequeryfactoryimpl constraintbuild pass fulltextsearchimpl qom subtre factori fulltextconstraint constructor visit signatur lucenequeryfactoryimpl creat fulltextsearchimpl ft searchexpress visit staticoperand constraintbuild modifi fulltextsearchimpl constructor impli lucenequeryfactori interfac chang

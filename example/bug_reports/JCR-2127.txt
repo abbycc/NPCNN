@@ -1,0 +1,2 @@
+datastor close call
+search jackrabbit core code found call datastor close method exist datastor interfac

@@ -1,0 +1,2 @@
+pseudo properti queri relat
+xpath queri parser function part relat queri

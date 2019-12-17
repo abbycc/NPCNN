@@ -1,0 +1,1 @@
+jcr server modul remov depend jackrabbit core

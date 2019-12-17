@@ -1,0 +1,17 @@
+connect setautocommit fail connect manag jndidatabasepersistencemanag
+invok setautocommit connect fail connect manag
+propos workaround check auto commit set previou set trivial patch provid
+happen jndi jndidatabasepersistencemanag fetch connect jboss persist manag reconnect stack trace
+jul error sepersistencemanag fail establish connect
+java sql sqlexcept set autocommit manag transact
+org jboss resourc adapt jdbc basewrappermanagedconnect setjdbcautocommit basewrappermanagedconnect java
+org jboss resourc adapt jdbc wrappedconnect setautocommit wrappedconnect java
+org apach jackrabbit core persist databasepersistencemanag initconnect databasepersistencemanag java
+org apach jackrabbit core persist databasepersistencemanag reestablishconnect databasepersistencemanag java
+org apach jackrabbit core persist databasepersistencemanag executestmt databasepersistencemanag java
+org apach jackrabbit core persist databasepersistencemanag exist databasepersistencemanag java
+org apach jackrabbit core state shareditemstatemanag hasnonvirtualitemst shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag hasitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag hasitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag hasitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java

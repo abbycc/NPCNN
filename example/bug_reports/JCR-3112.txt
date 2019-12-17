@@ -1,0 +1,4 @@
+nodetypedefdiff propdefdiff init constraint chang check bug
+bug found nodetypedefdiff propdefdiff init modifi properti constraint regist node type
+java doc remov constraint properti mark major chang
+allow trivial set constraint properti constraint wrong affect consist exist repositori content

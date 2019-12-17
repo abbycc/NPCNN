@@ -1,0 +1,39 @@
+lucen queri except 'attempt access delet document'
+
+except execut queri spring jcrtemplat class code
+querymanag qmgr session getworkspac getquerymanag
+queryresult result qmgr createqueri xpathqueri queri xpath execut
+except thrown line
+debug 0x9 org apach lucen search indexsearch search indexsearch java
+debug 0x9 org apach lucen search hit getmoredoc hit java
+debug 0x9 org apach lucen search hit init hit java
+debug 0x9 org apach lucen search searcher search searcher java
+debug 0x9 org apach lucen search searcher search searcher java
+debug 0x9 org apach jackrabbit core queri lucen searchindex executequeri searchindex java
+debug 0x9 org apach jackrabbit core queri lucen queryresultimpl executequeri queryresultimpl java
+debug 0x9 org apach jackrabbit core queri lucen queryresultimpl getresult queryresultimpl java
+debug 0x9 org apach jackrabbit core queri lucen queryresultimpl init queryresultimpl java
+debug 0x9 org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+debug 0x9 org apach jackrabbit core queri queryimpl execut queryimpl java
+debug 0x9 intel cd jcr jcrmanag doinjcr jcrmanag java
+debug 0x9 org springmodul jcr jcrtemplat execut jcrtemplat java
+debug 0x9 org springmodul jcr jcrtemplat execut jcrtemplat java
+debug 0x9
+debug except detail soapenv fault soapenv bodi soapenv envelop
+org apach axis2 axisfault attempt access delet document
+org apach axis2 util util getinboundfaultfrommessagecontext util java
+org apach axis2 descript outinaxisoperationcli handlerespons outinaxisoper java
+org apach axis2 descript outinaxisoperationcli send outinaxisoper java
+org apach axis2 descript outinaxisoperationcli executeimpl outinaxisoper java
+org apach axis2 client operationcli execut operationcli java
+jackrabbit lucen configur
+searchindex class org apach jackrabbit core queri lucen searchindex
+param path rep home repositori index
+param usecompoundfil fals
+param mergefactor
+param caches
+param respectdocumentord fals
+searchindex
+configur issu bug
+
+david

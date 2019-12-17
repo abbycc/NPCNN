@@ -1,0 +1,4 @@
+extend consist check bundledbpersistencemanager' fix child parent relat
+happen child node childnodeentri parent node
+javax jcr itemnotfoundexcept fail build path node1 parentnod child entri node1 retriev path node1
+handl case fix consist check

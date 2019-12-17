@@ -1,0 +1,4 @@
+bad check attribut presenc system view import
+sax content handler check wrong variabl null sysviewimporthandl
+svname
+patch fix

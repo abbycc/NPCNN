@@ -1,0 +1,17 @@
+miss xpath escap queri jsp
+report canberk bolat adeo secur privat commun search jsp script jackrabbit webapp miss escap inject path relat queri construct xpath statement analysi show issu secur implic treat normal bug report
+search jsp
+
+string request getparamet
+
+null length
+string stmt
+startswith relat
+string path substr relat length
+stmt element file rep similar jcr content
+path jcr content' rep excerpt order jcr score
+descend
+queryterm similar
+text encodeillegalxmlcharact path
+
+

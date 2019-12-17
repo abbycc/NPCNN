@@ -1,0 +1,3 @@
+spi2dav sandbox project put common releas cycl
+remot jsr170 call requir server client side server download jcr webdav server http www apach org dyn closer cgi jackrabbit binari jackrabbit jcr server jar http www apach org dyn closer cgi jackrabbit binari jackrabbit webapp war client casual mention found jackrabbit sandbox issu request spi2dav client code responsefactori return jcr2spi repositori implement download
+make repositoryfactori implement javax name spi objectfactori configur java code need order org apach jackrabbit rmi client clientrepositoryfactori work

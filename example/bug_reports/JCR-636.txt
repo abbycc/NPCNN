@@ -1,0 +1,6 @@
+local authcontext authent loginmodul
+loginmodul handl thecurr login attemp return fals
+login commit invok
+logincontext calcul login success
+case local context login fail loginmodul
+success

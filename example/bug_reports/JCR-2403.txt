@@ -1,0 +1,55 @@
+insuffici privileg
+
+jackrabbit dbstore fly creat tabl dev environ permiss creat tabl fly manual insert dll tabl index applic start except run applic
+attach repositori xml
+log
+est 0000003a systemout warn org apach jackrabbit core config configurationerrorhandl webcontain warn pars configur line system file usr local web fda 61x svdw0047v61fda installedapp afda21network001 osa registri ear osa registri war web inf cfg repositori xml org xml sax saxparseexcept document root element repositori match doctyp root null
+est 0000003a systemout warn org apach jackrabbit core config configurationerrorhandl webcontain warn pars configur line system file usr local web fda 61x svdw0047v61fda installedapp afda21network001 osa registri ear osa registri war web inf cfg repositori xml org xml sax saxparseexcept document invalid grammar found
+est 0000003a systemout info org apach jackrabbit core repositoryimpl webcontain start repositori
+est 0000003a systemout error org apach jackrabbit core databasefilesystem webcontain fail initi file system
+java sql sqlexcept ora insuffici privileg
+oracl jdbc driver databaseerror throwsqlexcept databaseerror java
+oracl jdbc driver t4cttioer processerror t4cttioer java
+oracl jdbc driver t4cttioer processerror t4cttioer java
+oracl jdbc driver t4c8oall receiv t4c8oall java
+oracl jdbc driver t4cstatement dooall8 t4cstatement java
+oracl jdbc driver t4cstatement executeforrow t4cstatement java
+oracl jdbc driver oraclestat doexecutewithtimeout oraclestat java
+oracl jdbc driver oraclestat executeupdateintern oraclestat java
+oracl jdbc driver oraclestat executeupd oraclestat java
+org apach jackrabbit core oraclefilesystem checkschema oraclefilesystem java
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+org apach jackrabbit core oraclefilesystem init oraclefilesystem java
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+org apach jackrabbit core config repositoryconfig getfilesystem repositoryconfig java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core jndi bindablerepositori createrepositori bindablerepositori java
+org apach jackrabbit core jndi bindablerepositori init bindablerepositori java
+org apach jackrabbit core jndi bindablerepositori init bindablerepositori java
+org apach jackrabbit core jndi bindablerepositoryfactori getobjectinst bindablerepositoryfactori java
+org apach jackrabbit core jndi registryhelp registerrepositori registryhelp java
+ssc soareg jackrabbit contentrepositori clinit contentrepositori java
+ssc soareg jaxr registri client infomodel serviceimpl init serviceimpl java
+ssc soareg govern client soalifecyclemanagerimpl savebusinessservic soalifecyclemanagerimpl java
+ssc soareg registri server uploadservlet servic uploadservlet java
+javax servlet http httpservlet servic httpservlet java
+ibm webcontain servlet servletwrapp servic servletwrapp java
+ibm webcontain servlet servletwrapp handlerequest servletwrapp java
+ibm wswebcontain servlet servletwrapp handlerequest servletwrapp java
+ibm webcontain webapp webapp handlerequest webapp java
+ibm webcontain webapp webgroup handlerequest webgroup java
+ibm webcontain webcontain handlerequest webcontain java
+ibm wswebcontain webcontain handlerequest webcontain java
+ibm webcontain channel wcchannellink readi wcchannellink java
+ibm http channel inbound impl httpinboundlink handlediscrimin httpinboundlink java
+ibm http channel inbound impl httpinboundlink handlenewinform httpinboundlink java
+ibm http channel inbound impl httpiclreadcallback complet httpiclreadcallback java
+ibm tcp channel impl aioreadcompletionlisten futurecomplet aioreadcompletionlisten java
+ibm async abstractasyncfutur invokecallback abstractasyncfutur java
+ibm async asyncchannelfutur firecompletionact asyncchannelfutur java
+ibm async asyncfutur complet asyncfutur java
+ibm async resulthandl complet resulthandl java
+ibm async resulthandl runeventprocessingloop resulthandl java
+ibm async resulthandl run resulthandl java
+ibm util threadpool worker run threadpool java

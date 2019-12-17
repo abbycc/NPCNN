@@ -1,0 +1,2 @@
+add org apach jackrabbit rmi jackrabbit packag rmic gener
+unicastremoteobject' serverjackrabbitnodetypemanag serverjackrabbitworkspac stub gener

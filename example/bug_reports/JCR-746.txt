@@ -1,0 +1,2 @@
+tck check wrong repositori descriptor version lock
+comment

@@ -1,0 +1,11 @@
+sessionimpl getsubject return unmodifi subject
+secur reason subject expos sessionimpl getsubject unmodifi made
+modifi subject hold session
+option
+set readonli flag subject session
+getsubject return instanc subject characterist subject session
+getsubject return readonli subject instanc
+prefer solut
+chang characterist subject
+unmodifi statu transpar caller modifi subject fail forc api consum
+read javadoc chang subject reflect session drawback

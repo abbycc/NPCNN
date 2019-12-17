@@ -1,0 +1,3 @@
+prevent excess path element instanc
+cachinghierarchymanag jackrabbit creat lot path element instanc intern pathmap spi common creat path element instanc path construct path construct cach pathmap element
+run test 10k node result 250k path element instanc creat held memori event

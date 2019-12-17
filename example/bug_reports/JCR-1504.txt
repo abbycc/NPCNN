@@ -1,0 +1,2 @@
+excel mime type miss msexceltextextractor
+msexceltextextractor listen mime type applic vnd excel store excel result mime type applic msexcel tag file index msexceltextextractor class regist mime type mswordtextextractor

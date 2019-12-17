@@ -1,0 +1,2 @@
+tck compil enum keyword
+enum keyword testfind patch attach

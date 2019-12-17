@@ -1,0 +1,2 @@
+node delet queri execut affect result size
+queryresultimpl count result node invalid access check throw itemnotfoundexcept line lead inconsist total size imo suffici count invalid client iter node line

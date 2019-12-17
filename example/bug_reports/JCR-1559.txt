@@ -1,0 +1,17 @@
+null pointer except davproperti set
+null pointer except
+except occur davpropertyset map expect entri itemresourceconst jcr
+suggest fix add constant nameset repositoryserviceimpl java
+nameset add itemresourceconst jcr
+work stack trace
+except thread main java lang nullpointerexcept
+org apach jackrabbit spi2dav uriresolverimpl buildpropertyid uriresolverimpl java
+org apach jackrabbit spi2dav repositoryserviceimpl getnodeinfo repositoryserviceimpl java
+org apach jackrabbit spi2dav repositoryserviceimpl getiteminfo repositoryserviceimpl java
+org apach jackrabbit jcr2spi state workspaceitemstatefactori createnodest workspaceitemstatefactori java
+org apach jackrabbit jcr2spi state transientisfactori createnodest transientisfactori java
+org apach jackrabbit jcr2spi hierarchi nodeentryimpl doresolv nodeentryimpl java
+org apach jackrabbit jcr2spi hierarchi hierarchyentryimpl resolv hierarchyentryimpl java
+org apach jackrabbit jcr2spi hierarchi hierarchyentryimpl getitemst hierarchyentryimpl java
+org apach jackrabbit jcr2spi itemmanagerimpl getitem itemmanagerimpl java
+org apach jackrabbit jcr2spi sessionimpl getrootnod sessionimpl java

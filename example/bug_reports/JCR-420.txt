@@ -1,0 +1,14 @@
+nullpointerexcept delet properti type refer
+method org apach jackrabbit rmi serialvaluefactori createvalu npe thrown paramet null
+solut
+chang
+public final createvalu node throw repositoryexcept
+return createvalu getuuid propertytyp refer
+
+
+public final createvalu node throw repositoryexcept
+null
+return null
+
+return createvalu getuuid propertytyp refer
+

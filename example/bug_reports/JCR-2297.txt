@@ -1,0 +1,3 @@
+regist multipl node type singl file fail
+regist node type file xml cnd multipl definit succe definit
+behavior throw except kind file form invalid

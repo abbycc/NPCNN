@@ -1,0 +1,14 @@
+sharedfieldcach stringindex memori leak caus oom'
+sharedfieldcach stringindex work properli meant cach docnumb lucen term sort issu twofold solut solvabl pov lucen index reader heavili cach term
+explan problem
+uniqu properti sort lucen scoredoccompar creat sharedfieldcompar newcompar compar creat lucen indexread sharedfieldcach stringindex store weakhashmap kei indexread indexread garbag collect merg unus sharedfieldcach stringindex rest jvm life short simpl unittest attach result pretti fast oom
+issu cach term sharedfieldcach stringindex huge sort common properti date present lot node sort larg properti 'title' sharedfieldcach stringindex quickli hundr coupl hundr thousand node titl issu lucen issu lucen cach term otoh doubt index long string valu untoken lucen half work solut step solut sort char compar return entir string sort
+issu cach term sharedfieldcach stringindex frequent spars consum incred amount memori string arrai null valu attach unit test
+add node
+queri sort exist properti
+loos byte memori
+sort exist prop lost
+time lost reclaim
+attach solut work fine unavoid memori absorpt make smaller solut string arrai fill arrai spars move hashmap solut perform decreas case larg sparsiti increas memori consumpt
+common issu unit test product environ memori snapshot memori held sharedfieldcach stringindex lucen term harder avoid
+

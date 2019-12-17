@@ -1,0 +1,2 @@
+configurationexcept constructor packag privat
+configurationexcept constructor packag privat prevent reus packag extend configur

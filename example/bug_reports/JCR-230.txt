@@ -1,0 +1,29 @@
+persist lock persist remov lock node
+read post mail list realiz clear decid upload code reproduc error
+repositoryconfig conf repositoryconfig creat temp repositori repositori xml temp repositori repositori
+repositori repo repositoryimpl creat conf
+session creat lock node
+session repo login simplecredenti user1 pwd1 tochararrai
+node root1 getrootnod
+node test1 root1 addnod test
+test1 addmixin mix lockabl
+save
+test1 lock fals fals
+logout
+session delet node creat
+path
+session repo login simplecredenti user2 pwd2 tochararrai
+getrootnod getnod test remov
+node test2 getrootnod addnod test
+save
+line return true
+system println test2 islock
+line throw except
+test2 addmixin mix lockabl
+javax jcr lock lockexcept node lock
+org apach jackrabbit core lock lockmanagerimpl checklock lockmanagerimpl java
+org apach jackrabbit core lock lockmanagerimpl checklock lockmanagerimpl java
+org apach jackrabbit core nodeimpl checklock nodeimpl java
+org apach jackrabbit core nodeimpl addmixin nodeimpl java
+org apach jackrabbit core nodeimpl addmixin nodeimpl java
+org apach jackrabbit core locktest main locktest java

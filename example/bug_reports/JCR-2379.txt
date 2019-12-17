@@ -1,0 +1,7 @@
+bindvari regist jcr sql2
+fail java lang illegalargumentexcept valid variabl queri
+queri queri createqueri select document document document origin queri jcr sql2
+queri bindvari createvalu moo
+queri getbindvariablenam return empti arrai
+fulltextsearchexpress correctli pars bindvariablevalueimpl
+fulltextsearch queryobjectmodelimpl queri getconstraint getfulltextsearchexpress instanceof bindvariablevalu

@@ -1,0 +1,6 @@
+queri document order fail result set size cach hierarchi manag size
+queri return lot node queri result document order enabl default queri fail error messag log
+error main docordernodeiteratorimpl intern error unabl determin document order node docordernodeiteratorimpl java line
+error main docordernodeiteratorimpl node1 stuff node node node9 docordernodeiteratorimpl java line
+error main docordernodeiteratorimpl node2 stuff node node node5 docordernodeiteratorimpl java line
+critic size equival cach size cach hierarchi manag attach test case simpli creat test node execut queri node cach size 10'000 cachinghierarchymanag default upper limit work fine set compil class cachinghierarchymanag test fail mention error

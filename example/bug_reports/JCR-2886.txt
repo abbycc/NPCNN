@@ -1,0 +1,3 @@
+add sessionimpl isadminorsystem
+place jackrabbit core find execut session systemsess correspond admin user
+code analys session subject copi jackrabbit core replac helper method sessionimpl

@@ -1,0 +1,2 @@
+popul jsp java method
+method urlconnect setreadtimeout

@@ -1,0 +1,9 @@
+jackrabbit spi common convers namepars assum namespac uri' regist
+jcr pars lexic path
+quot
+valid path expand unregist
+namespac uri resolv valid intern represent path
+quot
+current implement assum namespac uri encount
+expand form name regist treat
+qualifi

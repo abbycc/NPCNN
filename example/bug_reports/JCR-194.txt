@@ -1,0 +1,18 @@
+dead lock lock unlock node
+jackrabbit hang node lock node unlock function
+fine
+s13
+s13
+s13
+s13 unlock
+s14 start
+s14 session getrootnod
+s15 start
+s15
+s16 start
+find failur run emtpi repositori home directori 2nd 3th run fine kill run initi repositori directori time
+repositori home
+run hang
+kill
+run
+run

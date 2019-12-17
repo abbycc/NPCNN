@@ -1,0 +1,22 @@
+repositoryimpl instanc creat shut class unload
+built simpl web applic servlet load start init method instanc repositoryimpl creat destroi method instanc stop shutdown
+servlet code class jackrabbit core jcr api servlet api referenc
+jackrabbit core version jackrabbit jcr common version jackrabbit lib version
+servlet' doget method call web applic redeploi class hang memori produc memori leak
+init method
+public void init throw servletexcept
+super init
+
+repositoryconfig repoconfig repositoryconfig creat getclass getresourceasstream repositori xml
+repo repositoryimpl creat repoconfig
+catch except
+throw servletexcept
+
+
+destroi method
+public void destroi
+repo shutdown
+super destroi
+
+appli patch jcr ad transientfilefactori shutdown call destroi method chang
+test jetti tomcat

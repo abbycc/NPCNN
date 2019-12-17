@@ -1,0 +1,3 @@
+deprec pool bundl persist manag
+jcr jackrabbit introduc databas connect pool decid exist databas bundl persist manag intact avoid potenti regress problem pool bundl persist default releas safe deprec pool bundl pm
+order remov duplic code complic persist extra step make bundl class extend respect pool class automat pool configur benefit connect pool

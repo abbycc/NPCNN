@@ -1,0 +1,9 @@
+chang access level searchindex nodeindex inher
+chang nodeindex addbinaryvalu logic need
+creat custom class extend nodeindex chang binari field index
+creat custom class extend searchindex custom nodeindex
+oblig
+overrid searchindex createtextextractor order store creat textextractor privat attribut
+put class packag org apach jackrabbit core queri lucen nodeindex createdoc protect
+trunk textextractor getter privat attribut
+nodeindex createdoc protect privat method

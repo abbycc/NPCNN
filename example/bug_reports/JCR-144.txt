@@ -1,0 +1,3 @@
+path parser trail slash
+current implement path class violat spec trail slash allow path syntax trail slash
+path class violat spec root path valid path syntax spec error spec

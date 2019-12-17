@@ -1,0 +1,2 @@
+add support boolean valu qvalu
+suggest add support read write boolean valu qvalu qvaluefactori find strang support data type boolean construct string

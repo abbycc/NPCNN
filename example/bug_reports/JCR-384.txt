@@ -1,0 +1,2 @@
+jcr introduc transact problem
+fix jcr chang autocommit 'true' 'false' result databasefilesystem write back correctli anymor

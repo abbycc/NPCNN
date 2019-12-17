@@ -1,0 +1,2 @@
+jackrabbit jcr client put test data target
+jackrabbit jcr client compon drop repositori directori repositori xml derbi log file project root run test suit file insid target

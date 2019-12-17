@@ -1,0 +1,2 @@
+add accessor parent nodeinfobuild propertyinfobuild
+nodeinfobuild propertyinfobuild access respect parent suggest add getpar method class

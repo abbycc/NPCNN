@@ -1,0 +1,7 @@
+add namespacehelp jcr common
+number code snippet jackrabbit core jcr client
+prefix uri namespac uri prefix throw except namespac found return null
+map current namespac prefix uri map
+prefix uri local pair session depend spi
+safe regist namespac throw namespac regist automat select unus prefix need
+introduc namespacehelp class jcr common cover common code

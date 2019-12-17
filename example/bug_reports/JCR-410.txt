@@ -1,0 +1,3 @@
+jcr server code depend log4j directli
+code written log4j api forc user jackarabbit pick log4j depend juggl jdk log log4j configur compon project jdk log
+code move depend apach common log issu resolv minor fix

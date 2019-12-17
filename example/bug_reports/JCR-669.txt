@@ -1,0 +1,5 @@
+move namespacemap index lucen namespac registri
+namespacemap class index gener small prefix namespac uri store index mechan stabl prefix place persist manag
+suggest introduc gener method namespac registri
+int geturiindex string uri
+string geturi int index

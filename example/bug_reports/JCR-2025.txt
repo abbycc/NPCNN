@@ -1,0 +1,5 @@
+optim concurr queri
+number bottleneck prevent scalabl concurr queri
+fake norm creat repeatedli searchindex combinedindexread creat queri prevent cach fake norm level combinedindexread creat fake norm index reader span multipl reader ineffici avoid jackrabbit specif queri termqueri awar reader weight creat scorer reader effect reus fake norm reader
+uuid cach map document number uuid basic invers exist docnumbercach uuid lookup regularli bottleneck segmentread method document synchron
+queri constraint limit result node flag set liter constraint cach queri handler

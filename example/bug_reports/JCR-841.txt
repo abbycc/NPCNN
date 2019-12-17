@@ -1,0 +1,2 @@
+bundledbpersistencemanag work mysql
+bundl persist manag base work mysql sqlexcept thrown line con commit bundledbpersistencemanag checkschema autocommit set true init method reason oracl mssql driver comment line fix issu

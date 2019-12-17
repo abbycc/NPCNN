@@ -1,0 +1,7 @@
+wrong assumpt test case lock token
+test case assum lock getlocktoken return null lock attach current session option cite javadoc getlocktoken
+return lock token lock lock open scope
+current session hold lock token lock
+repositori choos expos lock token current session
+method return lock token method
+return code null code

@@ -1,0 +1,7 @@
+index rule inherit work
+index rule suppos inherit children node type
+org apach jackrabbit core queri lucen indexingconfigurationimpl init rule regist declar node type children rule' node type origin rule reject org apach jackrabbit core queri lucen indexingconfigurationimpl indexingrul appliesto
+simpl solut regist origin rule copi origin node type replac child
+find correct class attach
+sincer
+stéphane

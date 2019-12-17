@@ -1,0 +1,2 @@
+patch fix overli specif cast core
+place core cast made overli concret class interfac need ti algorithm specif implement unnecessarili patch fix

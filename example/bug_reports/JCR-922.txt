@@ -1,0 +1,6 @@
+jcr map layer ocm expos lock owner
+jcr map layer persistencemanag java expos api return lockown ideal method
+public string lock final string abspath final boolean isdeep final boolean issessionscop
+return hashmap string arrai locktoken lockown
+lockown field java object map jcr lockown getlockown problem properti introduc node node lock insert node lock insert fail properti jcr lockown till
+feel api expos separ call order maintain backward compat

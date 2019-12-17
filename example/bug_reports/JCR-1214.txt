@@ -1,0 +1,7 @@
+docid uuiddocid string attr uuid
+jcr solv lot docid uuiddocid cach clean number cach uuiddocid grow larg depend size repositori therefor store privat string uuid make memori effici store long' lsb msb uuid store parent uuiddocid differ 100mb memori
+test remov entir uuid string msb lsb work properli refer index reader segment jcr uuid need
+uuiddocid getdocumentnumb indexread reader throw ioexcept
+set uuid null return work perfectli index reader recreat cachingindexread recreat docid parent recreat
+imo remov uuid docnumb found docid uuiddocid jcr
+wdot

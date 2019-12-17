@@ -1,0 +1,3 @@
+access virtualnodetypestatemanag virtualprovid guard
+virtualprovid field virtualnodetypestatemanag class dynam creat getter method method class access field directli risk nullpointerexcept
+access guard field assign

@@ -1,0 +1,99 @@
+nodest nodestatelisten deadlock
+java stack inform thread list
+
+jmssecondaryapplnjobexecutor
+org apach jackrabbit core state nodest getchildnodeentri nodest java
+wait lock 0x9e6c6d08 org apach jackrabbit core state nodest
+org apach jackrabbit core cachinghierarchymanag nodemodifi cachinghierarchymanag java
+lock 0xa09882a8 java lang object
+org apach jackrabbit core cachinghierarchymanag statemodifi cachinghierarchymanag java
+org apach jackrabbit core state statechangedispatch notifystatemodifi statechangedispatch java
+org apach jackrabbit core state sessionitemstatemanag statemodifi sessionitemstatemanag java
+org apach jackrabbit core state statechangedispatch notifystatemodifi statechangedispatch java
+org apach jackrabbit core state localitemstatemanag statemodifi localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag statemodifi xaitemstatemanag java
+org apach jackrabbit core state statechangedispatch notifystatemodifi statechangedispatch java
+org apach jackrabbit core state shareditemstatemanag statemodifi shareditemstatemanag java
+org apach jackrabbit core state itemst notifystateupd itemst java
+org apach jackrabbit core state changelog persist changelog java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+lock 0x9b1b0be0 org apach jackrabbit core xasessionimpl
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit jca jcasessionhandl save jcasessionhandl java
+
+sun reflect generatedmethodaccessor1067 invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun reflect misc trampolin invok methodutil java
+sun reflect generatedmethodaccessor110 invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun reflect misc methodutil invok methodutil java
+javax manag modelmbean requiredmodelmbean invokemethod requiredmodelmbean java
+javax manag modelmbean requiredmodelmbean invok requiredmodelmbean java
+org springframework jmx export springmodelmbean invok springmodelmbean java
+org jboss server rawdynamicinvok invok rawdynamicinvok java
+org jboss modelmbean requiredmodelmbeaninvok invok requiredmodelmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system server jmx lazymbeanserv invok lazymbeanserv java
+javax manag mbeanserverinvocationhandl invok mbeanserverinvocationhandl java
+proxy692 dodiscoverynow unknown sourc
+
+org springframework jm listen abstractmessagelistenercontain doinvokelisten abstractmessagelistenercontain java
+org springframework jm listen abstractmessagelistenercontain invokelisten abstractmessagelistenercontain java
+org springframework jm listen abstractmessagelistenercontain doexecutelisten abstractmessagelistenercontain java
+org springframework jm listen abstractpollingmessagelistenercontain doreceiveandexecut abstractpollingmessagelistenercontain java
+org springframework jm listen abstractpollingmessagelistenercontain receiveandexecut abstractpollingmessagelistenercontain java
+org springframework jm listen defaultmessagelistenercontain asyncmessagelistenerinvok invokelisten defaultmessagelistenercontain java
+org springframework jm listen defaultmessagelistenercontain asyncmessagelistenerinvok run defaultmessagelistenercontain java
+java lang thread run thread java
+jmssecondaryapplnjobexecutor
+org apach jackrabbit core cachinghierarchymanag nodead cachinghierarchymanag java
+wait lock 0xa09882a8 java lang object
+org apach jackrabbit core state statechangedispatch notifynodead statechangedispatch java
+org apach jackrabbit core state sessionitemstatemanag nodead sessionitemstatemanag java
+org apach jackrabbit core state nodest notifynodead nodest java
+org apach jackrabbit core state nodest addchildnodeentri nodest java
+lock 0x9e6c6d08 org apach jackrabbit core state nodest
+org apach jackrabbit core nodeimpl createchildnod nodeimpl java
+lock 0xa00619a8 org apach jackrabbit core nodeimpl
+org apach jackrabbit core nodeimpl internaladdchildnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdnod nodeimpl java
+org apach jackrabbit core nodeimpl addnodewithuuid nodeimpl java
+lock 0xa00619f8 org apach jackrabbit core nodeimpl
+org apach jackrabbit core nodeimpl addnod nodeimpl java
+lock 0xa00619f8 org apach jackrabbit core nodeimpl
+
+sun reflect generatedmethodaccessor1067 invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun reflect misc trampolin invok methodutil java
+sun reflect generatedmethodaccessor110 invok unknown sourc
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun reflect misc methodutil invok methodutil java
+javax manag modelmbean requiredmodelmbean invokemethod requiredmodelmbean java
+javax manag modelmbean requiredmodelmbean invok requiredmodelmbean java
+org springframework jmx export springmodelmbean invok springmodelmbean java
+org jboss server rawdynamicinvok invok rawdynamicinvok java
+org jboss modelmbean requiredmodelmbeaninvok invok requiredmodelmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system server jmx lazymbeanserv invok lazymbeanserv java
+javax manag mbeanserverinvocationhandl invok mbeanserverinvocationhandl java
+proxy692 dodiscoverynow unknown sourc
+
+org springframework jm listen abstractmessagelistenercontain doinvokelisten abstractmessagelistenercontain java
+org springframework jm listen abstractmessagelistenercontain invokelisten abstractmessagelistenercontain java
+org springframework jm listen abstractmessagelistenercontain doexecutelisten abstractmessagelistenercontain java
+org springframework jm listen abstractpollingmessagelistenercontain doreceiveandexecut abstractpollingmessagelistenercontain java
+org springframework jm listen abstractpollingmessagelistenercontain receiveandexecut abstractpollingmessagelistenercontain java
+org springframework jm listen defaultmessagelistenercontain asyncmessagelistenerinvok invokelisten defaultmessagelistenercontain java
+org springframework jm listen defaultmessagelistenercontain asyncmessagelistenerinvok run defaultmessagelistenercontain java
+java lang thread run thread java
+found deadlock

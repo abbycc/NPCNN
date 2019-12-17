@@ -1,0 +1,2 @@
+introduc timer idl time
+timer stop intern thread task schedul usag pattern repeatedli schedul task immedi cancel thread schedul task creat idl time background thread stop

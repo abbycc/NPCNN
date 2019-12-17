@@ -1,0 +1,30 @@
+jcr2spi spi2dav getproperti return cach properti
+jcr webdav contrib jcr2spi spi2dav librari
+server default jcr server jackrabbit webapp tomcat
+client svn snapshot
+notic node getproperti return cach properti
+sampl test case found http kplab tuke svn kplab ctm trunk test org kplab tsf ctmtest java
+note properti print straightforward reproduc bug
+simpl
+file node kplab jojo repositori
+
+session session repositori login
+node root session getrootnod
+node node root getnod kplab jojo
+node getproperti jcr content jcr data forc load properti
+server
+dump node simpl dump method
+http jackrabbit apach org doc firststep html
+dump print
+kplab jojo
+kplab jojo jcr content
+uncom getproperti line print
+kplab jojo
+kplab jojo jcr content
+kplab jojo jcr content jcr lastmodifi 27t15
+kplab jojo jcr content jcr uuid 4421ed5a 864e c58643bc8d4e
+kplab jojo jcr content jcr mimetyp text plain
+kplab jojo jcr content jcr data hura hura
+kplab jojo jcr content jcr primarytyp resourc
+
+jozef wagner

@@ -1,0 +1,6 @@
+fsimport java link wiki dead
+link fsimport java
+http svn apach org repo asf jackrabbit trunk contrib exampl src java org apach jackrabbit exampl fsimport java
+wiki page
+http wiki apach org jackrabbit examplespag
+dead updat

@@ -1,0 +1,20 @@
+version root node
+make root node version checkin method fail except
+java lang arrayindexoutofboundsexcept
+org apach jackrabbit core version persist persistentnod copyfrom persistentnod java
+org apach jackrabbit core version persist internalfrozennodeimpl checkin internalfrozennodeimpl java
+org apach jackrabbit core version persist internalfrozennodeimpl checkin internalfrozennodeimpl java
+org apach jackrabbit core version persist internalfrozennodeimpl checkin internalfrozennodeimpl java
+org apach jackrabbit core version persist internalversionhistoryimpl checkin internalversionhistoryimpl java
+org apach jackrabbit core version persist nativepvm checkin nativepvm java
+org apach jackrabbit core version versionmanagerimpl checkin versionmanagerimpl java
+org apach jackrabbit core nodeimpl checkin nodeimpl java
+gtnet jcr versionednodetest testversionrootnod versionednodetest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut junit2 junitstart main junitstart java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut applic appmain main appmain java

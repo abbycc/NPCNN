@@ -1,0 +1,5 @@
+xpath queri neg number incorrect
+xpath queri neg number return correct result
+queri
+number
+return node number properti return node number valu equal similarli queri return wrong result doubl valu

@@ -1,0 +1,15 @@
+text search syntax deviat spec
+origin jsr email david victor
+queri test xpathquerylevel2test java src java org apach jackrabbit test api queri tck method getfulltextstat testfulltextsearch word syntax test spec jcrfncontain 'quick brown' cat section function page outlin ebnf includ word addition paragraph explain implicit
+point omit tck method test implicit
+
+david neuschel repli
+point
+track tck bug jackrabbit jira
+http issu apach org jira brows jcr
+open bug
+spec compliant queri
+parser bug tck
+
+
+david

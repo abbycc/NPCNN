@@ -1,0 +1,3 @@
+jsr lifecycl manag
+jsr specifi simpl lifecycl manag mechan node refer implement implement featur implement relat tck test
+featur introduc api method jackrabbit introduc custom jsr api extens

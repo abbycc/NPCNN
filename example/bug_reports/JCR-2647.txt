@@ -1,0 +1,3 @@
+reduc temporari memori usag hierarchi cach initi
+initi hierarchi cach temporarili memori linear size index segment process split multipl phase limit memori usag fix amount
+temporari memori usag index segment current byte node

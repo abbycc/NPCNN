@@ -1,0 +1,8 @@
+patch classdescriptor hasidfield faulti logic
+hasidfield compar fielddescriptor empti string make sens
+public boolean hasidfield
+return idfielddescriptor null idfielddescriptor equal
+
+assum
+return idfielddescriptor null idfielddescriptor isid
+patch

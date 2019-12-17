@@ -1,0 +1,2 @@
+data store garbag collect log delet file total size
+data store garbag collect list name total size delet file

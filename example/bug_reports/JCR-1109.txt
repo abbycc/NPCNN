@@ -1,0 +1,13 @@
+resourc associ compliant jta spec
+jta specifc section transact associ resource' associ end state spec' tabl suspend state resum code xasessionimpl end assum resourc order end associ except jboss
+warn transactionimpl xaexcept transactionimpl xidimpl formatid globalid kneipix dev dai branchqual localid errorcod xaer proto
+javax transact xaexcept
+org apach jackrabbit core xasessionimpl end xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc end transactionboundxaresourc java
+org jboss transactionimpl resourc endresourc transactionimpl java
+org jboss transactionimpl resourc endresourc transactionimpl java
+org jboss transactionimpl endresourc transactionimpl java
+org jboss transactionimpl beforeprepar transactionimpl java
+org jboss transactionimpl commit transactionimpl java
+org jboss txmanag commit txmanag java
+org jboss aspect txpolici endtransact txpolici java

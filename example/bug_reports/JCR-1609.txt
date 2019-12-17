@@ -1,0 +1,5 @@
+jsr properti type
+properti type
+weakrefer
+uri
+decim

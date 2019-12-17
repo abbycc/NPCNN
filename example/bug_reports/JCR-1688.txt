@@ -1,0 +1,12 @@
+queri parser build invalid pars tree
+call org apach jackrabbit spi common queri querypars pars
+select prop1 unstructur prop1 null order prop1 asc
+result pars tree
+select properti prop1
+pathquerynod
+locationstepquerynod nodetest descend true index
+relationquerynod null prop prop1 type string
+nodetypequerynod prop http www jcp org jcr primarytyp http www jcp org jcr unstructur
+orderquerynod
+prop1 asc true
+relationquerynod operand null oper unari

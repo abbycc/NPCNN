@@ -1,0 +1,3 @@
+tck addnodetest requir implement support paramet addnod method test node
+test requir repositori support addnod string argument test node jsr requir implement child node definit default primari type repositori test fail configur
+propos introduc configur properti set call addnod string replac addnod string string

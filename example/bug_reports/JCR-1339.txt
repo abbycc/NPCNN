@@ -1,0 +1,7 @@
+manageablecollectionutil support map
+manageablecollectionutil getmanageablecollect method return manageablecollect wrap map
+managedhashmap exist codebas assum creat purpos getmanageablecollect method modifi
+object instanceof map
+return managedhashmap map object
+
+altern solut modifi jcr map support explicitli defin 'managedxxx' class

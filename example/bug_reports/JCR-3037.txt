@@ -1,0 +1,6 @@
+add getpath method authoriz interfac
+retriev path item authoriz check
+princip obtain authoriz getprincip itembasedprincip
+getpath method provid conveni shortcut addit
+determin item authoriz access edit
+session necessarili case itembasedprincip getpath

@@ -1,0 +1,2 @@
+add basic counter queri handler
+coupl simpl counter track number oper perform queri execut debug queri perform issu

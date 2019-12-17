@@ -1,0 +1,2 @@
+escap colon statement jcr
+colon special charact lucen queri parser prefix queri term option field jcr featur colon fulltext statement treat regular charact

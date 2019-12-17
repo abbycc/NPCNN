@@ -1,0 +1,8 @@
+test add node node type
+test add node node type support repositori
+
+nodeaddmixintest testaddnonexist
+nodecanaddmixintest testnonexist
+valuefactorytest testvaluetyp
+valuefactorytest testvalueformatexcept
+propos updat test case obtain node type test config

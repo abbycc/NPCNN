@@ -1,0 +1,2 @@
+jcr server contrib remov jdom depend
+jdom replac throught jackrabbit project jcr server contrib

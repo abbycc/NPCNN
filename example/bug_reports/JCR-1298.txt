@@ -1,0 +1,8 @@
+wrong schemaobjectprefix paramet default repositori xml
+object schema prefix hard code default configur file jackrabbit core jar
+persistencemanag class org apach jackrabbit core persist bundl derbypersistencemanag
+param url jdbc derbi wsp home creat true
+param schemaobjectprefix jackrabbit core
+persistencemanag
+caus jcr idea wsp replac modul
+mark issu minor work derbypersistencemanag separ databas instanc workspac problem data base persist manag dedic server

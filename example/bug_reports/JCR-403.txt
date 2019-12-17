@@ -1,0 +1,2 @@
+add shutdown logoutal method transientrepositori
+useful explicitli transientrepositori shut reli session close session logout

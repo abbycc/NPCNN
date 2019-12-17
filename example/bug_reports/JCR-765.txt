@@ -1,0 +1,4 @@
+databasepersistencemanag log except statement connect reestablish
+cosmet fix reestablishconnect call databasepersistencemanag statement close error occur except log statement
+reestablishconnect call except caught purpos cleanup exist connect reopen pretti common connect valid statement close throw except
+connect broken due network problem databasepersistencemanag log except statement establish connect pretti annoi expeci mail append log4j

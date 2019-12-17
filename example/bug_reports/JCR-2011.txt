@@ -1,0 +1,6 @@
+replac mixin type preserv properti
+nodeimpl setprimarytyp string attempt redefin node properti defin previou node type type match definit node properti type convers match node properti fail children remov node harri primari type human defin bloodgroup properti set primari type unrel type anim similar bloodgroup properti properti surviv call setprimarytyp anim
+appar mixin nodeimpl removemixin immedi remov children defin mixin strictli present effect node type result mixin remov addit nodeimpl addmixin immedi throw nodetypeconflictexcept attempt add mixin defin ident name properti prior call removemixin node matrix mixin type movi defin titl properti replac movi mixin node jcr titl mixin type exist titl properti delet
+occur order removemixin addmixin call session save call option code defer valid node properti remov session save call
+strictli bug jsr leav detail assign node type section unspecifi node removemixin string semant chang effect node type persist
+chang jcr mixintyp properti occur save ideal emul nice behaviour nodeimpl setprimarytyp string mixin type

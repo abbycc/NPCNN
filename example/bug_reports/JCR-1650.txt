@@ -1,0 +1,60 @@
+xpathquerybuild handl multipl jcr deref correctli
+tree inspir dereftest
+peopl
+carl worksfor compani microsoft
+frank worksfor compani microsoft
+compani
+microsoft eotm carl
+queri translat
+testroot peopl frank jcr deref worksfor jcr deref eotm
+root node
+select properti
+pathquerynod
+locationstepquerynod nodetest testroot descend fals index
+locationstepquerynod nodetest peopl descend fals index
+locationstepquerynod nodetest frank descend fals index
+derefquerynod nodetest descend fals index
+derefquerynod nodetest descend fals index
+match carl node
+testroot peopl frank jcr deref worksfor jcr deref eotm jcr uuid
+root node
+select properti
+pathquerynod
+locationstepquerynod nodetest testroot descend fals index
+locationstepquerynod nodetest peopl descend fals index
+locationstepquerynod nodetest frank descend fals index
+locationstepquerynod nodetest descend fals index
+derefquerynod nodetest descend fals index
+relationquerynod null prop http www jcp org jcr uuid
+match carl node
+testroot peopl frank jcr deref worksfor jcr uuid jcr deref eotm jcr uuid
+root node
+select properti
+pathquerynod
+locationstepquerynod nodetest testroot descend fals index
+locationstepquerynod nodetest peopl descend fals index
+locationstepquerynod nodetest frank descend fals index
+derefquerynod nodetest descend fals index
+relationquerynod null prop http www jcp org jcr uuid
+derefquerynod nodetest descend fals index
+relationquerynod null prop http www jcp org jcr uuid
+match carl node
+testroot peopl frank jcr deref worksfor jcr uuid jcr deref eotm
+root node
+select properti
+pathquerynod
+locationstepquerynod nodetest testroot descend fals index
+locationstepquerynod nodetest peopl descend fals index
+locationstepquerynod nodetest frank descend fals index
+derefquerynod nodetest descend fals index
+relationquerynod null prop http www jcp org jcr uuid
+derefquerynod nodetest descend fals index
+match carl node
+xpathquerybuild call naryquerynod removeoperand querynod
+order replac current locationstepquerynod derefquerynod
+naryquerynod removeoperand querynod intern list
+reli object equal object retriev object remov
+equal method redefin querynod semant
+call naryquerynod removeoperand querynod remov
+want operand operand return true call equal
+arraylist remov object

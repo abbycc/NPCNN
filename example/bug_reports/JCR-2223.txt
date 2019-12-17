@@ -1,0 +1,13 @@
+mssqlfilesystem jndi configur issu
+configur issu org apach jackrabbit core mssqlfilesystem
+work configur repositori xml
+filesystem class org apach jackrabbit core mssqlfilesystem
+param driver javax name initialcontext
+param url java mydatasourc
+param schema mssql
+param schemaobjectprefix myprefix
+param user myusernam
+param password mypassword
+param tablespac
+filesystem
+unnecessarili usernam password mssqlfilesystem preset empti string null funnili tablespac preset null lead nullpoint createschemasql

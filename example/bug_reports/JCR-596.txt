@@ -1,0 +1,2 @@
+jackrabbit jar pom' updat ibiblio
+jackrabbit updat ibiblio maven repositori jackrabbit ad

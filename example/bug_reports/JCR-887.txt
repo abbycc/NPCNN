@@ -1,0 +1,2 @@
+datefield class public
+class org apach jackrabbit core queri lucen datefield made public public method access class access packag field class packag public access longfield doublefield

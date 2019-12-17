@@ -1,0 +1,6 @@
+import string special charact fail
+session importxml workspac importxml work correctli case
+import larg foreign languag chines text properti valu result incorrect valu platform reason bufferedstringvalu buffer larg string temporari file platform default encod read write text
+bufferedstringvalu slow system import larg text binari data sync
+export string carriag return charact truncat platform
+export string charact code exclud newlin tab form feed import string base64 encod

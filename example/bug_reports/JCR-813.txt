@@ -1,0 +1,4 @@
+tck testsavemovedrefnod
+nodeuuidtest testsavemovedrefnod
+sessionuuidtest testsavemovedrefnod
+make assumpt move referenc node session visibl 'move' oper session

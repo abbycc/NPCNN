@@ -1,0 +1,41 @@
+blobfilevalu discard earli
+situat
+intern properti type binari creat constructor blobfilevalu inputstream content store temp file call method
+setproperti inputstream node
+refresh fals node properti
+node properti lead intern properti eras byte
+solut
+spoolfil creat field 'temp' set true
+inputstream store byte field 'temp' set fals
+patch
+index blobfilevalu java
+
+retriev revis
+diff blobfilevalu java
+blobfilevalu java
+blobfilevalu java
+
+len read
+
+
+close
+final
+null
+close
+
+init var
+file spoolfil
+fsresourc null
+instanc back temporarili alloc resourc buffer
+temp true
+file null
+
+instanc back temporarili alloc resourc
+temp true
+
+
+
+temp true
+
+
+

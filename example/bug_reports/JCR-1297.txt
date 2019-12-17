@@ -1,0 +1,2 @@
+set svn eol style ddl file
+ddl file jackrabbit core src main resourc svn eol style properti set set nativ

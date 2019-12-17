@@ -1,0 +1,25 @@
+node restor throw java lang classcastexcept
+upgrad exist repositori restor version node throw classcastexcept
+caus java lang classcastexcept org apach jackrabbit uuid uuid
+org apach jackrabbit core internalvalu getstr internalvalu java
+org apach jackrabbit core version internalfrozennodeimpl init internalfrozennodeimpl java
+org apach jackrabbit core version abstractversionmanag createinternalversionitem abstractversionmanag java
+org apach jackrabbit core version versionmanagerimpl getitem versionmanagerimpl java
+org apach jackrabbit core version internalversionimpl getfrozennod internalversionimpl java
+org apach jackrabbit core version versionimpl getfrozennod versionimpl java
+org apach jackrabbit core nodeimpl internalrestor nodeimpl java
+org apach jackrabbit core nodeimpl internalrestor nodeimpl java
+org apach jackrabbit core nodeimpl restor nodeimpl java
+bug introduc part jcr internalvalu cleanup
+index data jackrabbit jackrabbit core src main java org apach jackrabbit core version internalfrozennodeimpl java
+
+data jackrabbit jackrabbit core src main java org apach jackrabbit core version internalfrozennodeimpl java revis
+data jackrabbit jackrabbit core src main java org apach jackrabbit core version internalfrozennodeimpl java work copi
+
+propertyst prop prop
+prop getnam equal qname jcr frozenuuid
+special properti
+frozenuuid uuid fromstr node getpropertyvalu qname jcr frozenuuid internalvalu tostr
+frozenuuid uuid fromstr node getpropertyvalu qname jcr frozenuuid getstr
+assumpt made wrong
+type qname jcr frozenuuid string object tostr

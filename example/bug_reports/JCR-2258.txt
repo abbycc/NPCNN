@@ -1,0 +1,2 @@
+unclos session test case
+test throw except setup method leav session open open super class setup method jackrabbit core problem memori footprint session small jcr2spi memori footprint consider higher lead memori error run test

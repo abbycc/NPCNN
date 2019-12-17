@@ -1,0 +1,5 @@
+typo deploi jboss jcr xml file
+datasourc descriptor jboss xml file type line
+config properti bindsessiontotrasact type java lang boolean true config properti
+bindsessiontotrasact bindsessiontotransact 'n' miss transact
+found tag releas subvers repo

@@ -1,0 +1,2 @@
+introduc qnodetypedefinit cach userid
+read server qnodetypedefinit cach share sessionimpl userid

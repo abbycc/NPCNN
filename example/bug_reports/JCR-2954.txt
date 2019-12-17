@@ -1,0 +1,9 @@
+sql queri return request column
+
+select alia jcr titl jnt maincont alia
+iter return column row result
+select jnt maincont
+properti defin jnt maincont
+
+select alia jcr titl titl jnt maincont alia
+result limit titl column

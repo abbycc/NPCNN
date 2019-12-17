@@ -1,0 +1,4 @@
+replac bundlefspersistencemanag derbypersistencemanag core index test
+run core test yield deprec warn account workspac config outdat index test
+info core config beanconfig org apach jackrabbit core persist pool bundlefspersistencemanag deprec org apach jackrabbit core persist bundl bundlefspersistencemanag
+show time log index relat workspac config updat

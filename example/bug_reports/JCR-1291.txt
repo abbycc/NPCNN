@@ -1,0 +1,9 @@
+miss class jndidatabasejourn
+deal set cluster repositori run issu miss featur state fix upcom scan sourc rc1 find class
+jndidatabasejourn org apach jackrabbit core journal jndidatabasejourn
+silb class
+jndidatabasefilesystem org apach jackrabbit core jndidatabasefilesystem
+
+jndidatabasepersistencemanag org apach jackrabbit core persist jndidatabasepersistencemanag
+miss configur part repositori handel abstract common jndi databas resourc short simplic sourc code ad miss featur take hour
+support

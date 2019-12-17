@@ -1,0 +1,6 @@
+ad event interfac isloc
+repositori cluster common problem peopl detect observ event send local instanc remot instanc cluster
+import post process data
+base observ post process instanc cluster
+current solut cast jcr event object eventimpl jackrabbit core nice solut
+ad event interfac jackrabbit api extend jcr event interfac add isloc method

@@ -1,0 +1,3 @@
+jcr client test fail server run localhost
+caus repositoryfactoryimpltest testgetspi2davrepositori repositoryfactoryimpltest testgetspi2davexrepositori
+fix test set requir webdav server test run test connect localhost expect connect fail specif

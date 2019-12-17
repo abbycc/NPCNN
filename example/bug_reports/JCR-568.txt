@@ -1,0 +1,36 @@
+incorrect jcr uuid frozen subnod
+program
+import javax jcr repositori
+import javax jcr session
+import javax jcr simplecredenti
+import javax jcr node
+import org apach jackrabbit core transientrepositori
+public class debug2
+public static void main string arg throw except
+repositori repositori transientrepositori
+session session repositori login
+simplecredenti usernam password tochararrai
+
+node root session getrootnod
+node foo root addnod foo
+foo addmixin mix version
+node bar foo addnod bar
+bar addmixin mix referenc
+system println bar bar getuuid
+session save
+foo checkin
+node frozenbar foo getbasevers getnod jcr frozennod getnod bar
+system println frozenbar uuid frozenbar getuuid
+system println jcr uuid frozenbar getproperti jcr uuid getvalu getstr
+system println jcr frozenuuid frozenbar getproperti jcr frozenuuid getvalu getstr
+final
+session logout
+
+
+
+sampl output
+bar fcf0affb 4a64 a480 3039e8c53d53
+frozenbar uuid ed9fece9 4ecc 9b7e 55bdfb8284e2
+jcr uuid fcf0affb 4a64 a480 3039e8c53d53
+jcr frozenuuid fcf0affb 4a64 a480 3039e8c53d53
+jcr uuid frozen bar incorrect althoug getuuid return correct

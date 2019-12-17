@@ -1,0 +1,3 @@
+jcaconnectionrequestinfo equal hashcod implement inconsist
+jcaconnectionrequestinfo behav differ equal hashcod method awar simplecredenti structur instanc jcaconnectionrequestinfo suppli simplecredenti instanc userid password attribut consid equal
+jcaconnectionrequestinfo hashcod deleg simplecredenti hashcod object' method break session pool

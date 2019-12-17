@@ -1,0 +1,5 @@
+refactor config handl
+discuss mail list
+move xml handl separ configurationpars class
+clean document config class
+rid messi abstractconfig class

@@ -1,0 +1,3 @@
+add maven eclips plugin properti project xml easier configur id
+add maven eclips resourc addtoclasspath true properti project properti make eclips plugin creat sourc dir resourc
+add eclips depend true eclips depend properti jackrabbit intern depend pom depend jackrabbit groupid intern depend project depend eclips

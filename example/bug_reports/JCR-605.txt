@@ -1,0 +1,12 @@
+error regist node type virgin repositori
+node type regist repositori start error written log
+error main virtualnodetypestatemanag unabl index nodetyp javax jcr itemnotfoundexcept virtualnodetypestatemanag java line
+step reproduc
+maven test clean
+applic test repositori namespac properti instal applic test repositori namespac properti
+applic test repositori nodetyp custom nodetyp xml instal applic test repositori nodetyp custom nodetyp xml
+run test case init nodetypedata
+workspac initi creat node state jcr system child node jcr nodetyp overlai virtual node state provid virtualnodetypestateprovid
+case initi startup jcr nodetyp node cach creation overlai virtual twin virtualnodetypestateprovid
+imo jcr nodetyp node state creat place overlai workspac initi routin creat child node entri jcr system node state actual child node state entri
+opinion

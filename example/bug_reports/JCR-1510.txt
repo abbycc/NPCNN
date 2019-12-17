@@ -1,0 +1,2 @@
+patch verbos except messag batcheditemoper
+ad context except messag batcheditemoper aid debug

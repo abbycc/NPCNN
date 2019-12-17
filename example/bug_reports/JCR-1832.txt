@@ -1,0 +1,2 @@
+miss log4j properti file
+log4j properti file miss test resourc

@@ -1,0 +1,2 @@
+field descriptor inherit case uuid field descriptor
+field descriptor defin base class jcr map inherit child class defin patch attach herewith patch similar line uuid field descriptor

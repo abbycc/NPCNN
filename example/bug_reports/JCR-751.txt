@@ -1,0 +1,2 @@
+updat jackrabbit api javadoc http jackrabbit apach org
+updat javadoc http jackrabbit apach org latest releas version jackrabbit

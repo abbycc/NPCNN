@@ -1,0 +1,198 @@
+deadlock caus version oper transact
+deadlock occur run simpl test
+checkout checkin node transact concurr thread
+find enclos thread dump log simpl java program
+usertransact implement jackrabbit test suit
+
+przemo pakulski
+www cognifid
+full thread dump java hotspot client b03 mix mode
+thread prio tid 0x03054c48 nid 0x180c object wait 355f000 355fd8c
+java lang object wait nativ method
+wait 0x1148ef20 oswego util concurr writerpreferencereadwritelock writerlock
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+lock 0x1148ef20 oswego util concurr writerpreferencereadwritelock writerlock
+org apach jackrabbit core state shareditemstatemanag acquirewritelock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag access shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+lock 0x11565ac8 org apach jackrabbit core transactioncontext
+org apach jackrabbit core xasessionimpl prepar xasessionimpl java
+oyster mom contentserv jcr transact jackrabbitusertransact commit jackrabbitusertransact java
+oyster mom contentserv jcr transact jrtestdeadlock run jrtestdeadlock java
+thread prio tid 0x0303b348 nid 0x9d0 object wait 351f000 351fd8c
+java lang object wait nativ method
+wait 0x1148ef20 oswego util concurr writerpreferencereadwritelock writerlock
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+lock 0x1148ef20 oswego util concurr writerpreferencereadwritelock writerlock
+org apach jackrabbit core state shareditemstatemanag acquirewritelock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag access shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+lock 0x1156f558 org apach jackrabbit core transactioncontext
+org apach jackrabbit core xasessionimpl prepar xasessionimpl java
+oyster mom contentserv jcr transact jackrabbitusertransact commit jackrabbitusertransact java
+oyster mom contentserv jcr transact jrtestdeadlock run jrtestdeadlock java
+indexmerg daemon prio tid 0x030388b8 nid 0x1858 object wait 34df000 34dfd8c
+java lang object wait nativ method
+wait 0x114fd280 org apach common collect buffer blockingbuff
+java lang object wait object java
+org apach common collect buffer blockingbuff remov blockingbuff java
+lock 0x114fd280 org apach common collect buffer blockingbuff
+org apach jackrabbit core queri lucen indexmerg run indexmerg java
+thread daemon prio tid 0x0303a230 nid 0xe4c object wait 349f000 349fd8c
+java lang object wait nativ method
+wait 0x114fd2e0 java util taskqueu
+java util timerthread mainloop timer java
+lock 0x114fd2e0 java util taskqueu
+java util timerthread run timer java
+thread daemon prio tid 0x0301b7a0 nid 0x1a00 object wait 345f000 345fd8c
+java lang object wait nativ method
+wait 0x114f9058 java util taskqueu
+java lang object wait object java
+java util timerthread mainloop timer java
+lock 0x114f9058 java util taskqueu
+java util timerthread run timer java
+observationmanag daemon prio tid 0x02ef6c50 nid 0x10d8 object wait 341f000 341fd8c
+java lang object wait nativ method
+wait 0x114f38e0 org apach common collect buffer blockingbuff
+java lang object wait object java
+org apach common collect buffer blockingbuff remov blockingbuff java
+lock 0x114f38e0 org apach common collect buffer blockingbuff
+org apach jackrabbit core observ observationmanagerfactori run observationmanagerfactori java
+java lang thread run thread java
+signal dispatch daemon prio tid 0x00a05590 nid 0x1914 wait condit
+final daemon prio tid 0x00a027f8 nid 0x17a4 object wait 2c9f000 2c9fd8c
+java lang object wait nativ method
+wait 0x113db118 java lang ref referencequeu lock
+java lang ref referencequeu remov referencequeu java
+lock 0x113db118 java lang ref referencequeu lock
+java lang ref referencequeu remov referencequeu java
+java lang ref final finalizerthread run final java
+refer handler daemon prio tid 0x00a01478 nid 0x16d4 object wait 2c5f000 2c5fd8c
+java lang object wait nativ method
+wait 0x113db180 java lang ref refer lock
+java lang object wait object java
+java lang ref refer referencehandl run refer java
+lock 0x113db180 java lang ref refer lock
+main prio tid 0x0003e6f0 nid 0x1470 object wait 7f000 7fc38
+java lang object wait nativ method
+wait 0x11524f10 oyster mom contentserv jcr transact jrtestdeadlock
+java lang thread join thread java
+lock 0x11524f10 oyster mom contentserv jcr transact jrtestdeadlock
+java lang thread join thread java
+oyster mom contentserv jcr transact jrtestdeadlock main jrtestdeadlock java
+thread prio tid 0x00a42730 nid 0x17d0 runnabl
+period task thread prio tid 0x00a45540 nid 0x1928 wait condit
+suspend checker thread prio tid 0x00a04af8 nid 0x17ac runnabl
+import javax jcr node
+import javax jcr repositoryexcept
+import javax jcr session
+import javax jcr simplecredenti
+import org apach jackrabbit core repositoryimpl
+import org apach jackrabbit core config repositoryconfig
+public class jrtestdeadlock extend thread
+privat static final org apach common log log log org apach common log logfactori getlog jrtestdeadlock class
+public static string repositori home repo jackrabbit
+public static string repositori config repositori home repositori xml
+public static void main string arg throw except
+jrtestdeadlock test jrtestdeadlock
+test startup
+jrtestdeadlock test jrtestdeadlock
+int test length
+jrtestdeadlock jrtestdeadlock
+start
+test
+
+int test length
+test join
+
+test shutdown
+
+privat static repositoryimpl repositori
+privat int
+public jrtestdeadlock int
+
+
+public void startup throw except
+system setproperti java secur auth login config jaa config
+repositoryconfig config repositoryconfig creat repositori config repositori home
+repositori repositoryimpl creat config
+session session repositori login simplecredenti admin admin tochararrai
+node rootnod session getrootnod
+rootnod hasnod folder
+node folder rootnod addnod folder
+folder addmixin mix version
+folder addmixin mix lockabl
+rootnod save
+
+session logout
+
+public void shutdown throw repositoryexcept
+repositori shutdown
+
+public node getfold session session throw repositoryexcept
+return session getrootnod getnod folder
+
+public void run
+
+session session repositori login simplecredenti admin admin tochararrai
+int
+log error start
+boolean success fals
+jackrabbitusertransact jackrabbitusertransact session
+
+begin
+node folder getfold session
+folder checkout
+folder checkin
+success true
+log info success
+
+catch except
+log warn fail
+
+final
+
+success
+commit
+
+
+rollback
+
+
+catch except
+log fatal
+
+
+
+session logout
+
+catch repositoryexcept
+printstacktrac
+
+
+
+error jrtestdeadlock run jrtestdeadlock java start
+error jrtestdeadlock run jrtestdeadlock java start
+info jrtestdeadlock run jrtestdeadlock java success
+info jrtestdeadlock run jrtestdeadlock java success
+error org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java org apach jackrabbit core state staleitemstateexcept 233e656f 79f8 414d 9e37 3fce865b492d http www jcp org jcr ischeckedout modifi extern
+fatal jrtestdeadlock run jrtestdeadlock java javax transact rollbackexcept transact roll back err
+error jrtestdeadlock run jrtestdeadlock java start
+warn jrtestdeadlock run jrtestdeadlock java fail
+jcr invaliditemstateexcept f83a830b abbf 4ab2 b9e2c4802316 item exist anymor
+org apach jackrabbit core version xavers sanitycheck xavers java
+org apach jackrabbit core version xavers getinternalvers xavers java
+org apach jackrabbit core version abstractvers getuuid abstractvers java
+org apach jackrabbit core nodeimpl checkout nodeimpl java
+jrtestdeadlock run jrtestdeadlock java
+error jrtestdeadlock run jrtestdeadlock java start
+info jrtestdeadlock run jrtestdeadlock java success
+warn org apach jackrabbit core transactioncontext run transactioncontext java transact roll back timeout expir

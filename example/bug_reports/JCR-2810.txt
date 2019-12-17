@@ -1,0 +1,51 @@
+error creat db2 tabl journal
+gui
+congratul fantast job
+deploi jackrattbit jca resourc adapt cluster webspher environ db2 store data realiz miss code add db2 support
+
+jackrabbit core org apach jackrabbit core util method guessvalidationqueri adjust add db2 valid queri
+
+privat string guessvalidationqueri string url
+url derbi
+return valu
+url mysql
+return select
+url sqlserver url jtd
+return select
+url oracl
+return select 'validationquery' dual
+url
+return select
+url db2
+return valu
+
+log warn fail guess valid queri url url
+return null
+
+final touch ddl build tabl
+jackrabbit core src main resourc org apach jackrabbit core journal ad file name db2 dll copi derbi dll
+
+licens apach softwar foundat asf
+contributor licens agreement notic file distribut
+work addit inform copyright ownership
+asf licens file apach licens version
+licens file complianc
+licens obtain copi licens
+
+http www apach org licens licens
+
+requir applic law agre write softwar
+distribut licens distribut basi
+warranti condit kind express impli
+licens specif languag govern permiss
+limit licens
+creat tabl schemaobjectprefix journal revis bigint null journal varchar produc varchar revis data blob
+creat uniqu index schemaobjectprefix journal idx schemaobjectprefix journal revis
+creat tabl schemaobjectprefix global revis revis bigint null
+creat uniqu index schemaobjectprefix global revis idx schemaobjectprefix global revis revis
+creat tabl schemaobjectprefix local revis journal varchar null revis bigint null
+insert revis counter record help avoid race condit
+insert schemaobjectprefix global revis valu
+
+
+marco

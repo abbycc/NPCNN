@@ -1,0 +1,2 @@
+drop dumpabl interfac
+beliv core util dumpabl interfac origin diagnost purpos afaiui anymor drop interfac refactor dump method jackrabbit class detail tostr method debugg gener purpos diagnost tool

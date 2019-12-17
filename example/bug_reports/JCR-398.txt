@@ -1,0 +1,2 @@
+maven2 repositori
+care upload jackrabbit maven2 repo' ibiblio ideal librari javadoc sourc pom' lib'

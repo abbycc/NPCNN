@@ -1,0 +1,4 @@
+test failur spi2jcr addeventlistenertest
+test fail
+addeventlistenertest testuuid
+addeventlistenertest testnodetyp

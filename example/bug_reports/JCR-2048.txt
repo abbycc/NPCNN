@@ -1,0 +1,4 @@
+workspac shut creat initi index
+maxidletim configur workspac repositori xml workspac index default workspac
+idl check consid workspac idl system session open configur idl time elaps case workspac initi
+repositori check workspac initi move search manag initi workspaceinfo doiniti method

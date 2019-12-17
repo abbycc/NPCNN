@@ -1,0 +1,23 @@
+automat type convers longer work
+string valu longer convert binari requir
+node testrootnod addnod testconvert file
+node content addnod jcr content resourc
+content setproperti jcr lastmodifi calendar getinst
+content setproperti jcr mimetyp text html
+content setproperti jcr data
+getsess save
+work previou build throw
+javax jcr nodetyp constraintviolationexcept match properti definit found http www jcp org jcr data
+org apach jackrabbit core nodetyp effectivenodetyp getapplicablepropertydef effectivenodetyp java
+org apach jackrabbit core nodeimpl getapplicablepropertydefinit nodeimpl java
+org apach jackrabbit core itemmanag getdefinit itemmanag java
+org apach jackrabbit core itemdata getdefinit itemdata java
+org apach jackrabbit core itemmanag canread itemmanag java
+org apach jackrabbit core itemmanag getitemdata itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core nodeimpl removechildproperti nodeimpl java
+org apach jackrabbit core nodeimpl removechildproperti nodeimpl java
+org apach jackrabbit core nodeimpl setproperti nodeimpl java
+org apach jackrabbit core nodetyp convertdatatypetest teststringtobinari convertdatatypetest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method

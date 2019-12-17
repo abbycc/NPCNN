@@ -1,0 +1,9 @@
+destin uri normal
+webdavrequestimpl gethrefloc test uri pass paramet start context path pass segment locat factori
+potenti hole paramet http dav foo start context path http dav repres http foo locat factori detect situat mean locat factori implement check addition davlocatorfactori createresourceloc throw except fail cleanli runtimeexcept caus intern server error respons forbidden statu code apropri
+note request uri normal servlet contain copi move oper destin uri normal
+conform client dot segment rfc section simpl ref construct destin header rfc section server detect error
+propos chang webdavrequestimpl packag org apach jackrabbit webdav webdav java
+ref uri getrawpath
+ref uri normal getrawpath
+dav foo reject start context path accept dav foo bar start context path

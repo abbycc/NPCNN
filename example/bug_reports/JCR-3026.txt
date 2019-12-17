@@ -1,0 +1,7 @@
+davex remot perform bottleneck due limit http connect
+spi2dav servic implement httpclient support configur maximum amount http connect server default httpclient code perform bottleneck work make number connect configur paramet map pass repositori factori
+fix concurr issu expos increas concurr effect work fix replac hashmap cach client connect concurrenthashmap java jackrabbit
+usag
+set number connect spi2davrepositoryservicefactori param max http connect creat factori dav davex rep factori default
+note
+server side fix jcr patch ticket configur concurr level server tune conjunct client side connect level

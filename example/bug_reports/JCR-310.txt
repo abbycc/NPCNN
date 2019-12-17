@@ -1,0 +1,91 @@
+xercesimpl miss webdav contrib project
+usr local maven bin maven
+
+apach
+intellig project
+
+build start
+multiproject instal
+multiproject project init
+echo gather project list
+start reactor
+process order
+jcrwebdavserv webdav librari
+jcrwebdavserv server librari
+jcrwebdavserv client librari
+jcrwebdavserv webappl
+
+gather project list jcrwebdavserv webdav librari
+memori
+
+
+gather project list jcrwebdavserv server librari
+memori
+
+
+gather project list jcrwebdavserv client librari
+memori
+
+
+gather project list jcrwebdavserv webappl
+memori
+
+start reactor
+process order
+jcrwebdavserv webdav librari
+jcrwebdavserv server librari
+jcrwebdavserv client librari
+jcrwebdavserv webappl
+
+execut multiproject instal callback jcrwebdavserv webdav librari
+memori
+
+attempt download jackrabbit common snapshot jar
+respons content length
+artifact org apach jackrabbit jar jackrabbit common snapshot jar exist remot repositori exist local
+multiproject goal
+build start
+multiproject instal callback
+echo run jar instal jcrwebdavserv webdav librari
+java prepar filesystem
+java compil
+echo compil home jeremi src jackrabbit trunk contrib jcr server webdav target class
+javac compil sourc file home jeremi src jackrabbit trunk contrib jcr server webdav target class
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java packag org apach xml serial exist
+import org apach xml serial outputformat
+
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java packag org apach xml serial exist
+import org apach xml serial xmlserial
+
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java resolv symbol
+symbol class outputformat
+locat class org apach jackrabbit webdav webdavresponseimpl
+outputformat format outputformat xml utf true
+
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java resolv symbol
+symbol class outputformat
+locat class org apach jackrabbit webdav webdavresponseimpl
+outputformat format outputformat xml utf true
+
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java resolv symbol
+symbol class xmlserial
+locat class org apach jackrabbit webdav webdavresponseimpl
+xmlserial serial xmlserial format
+
+home jeremi src jackrabbit trunk contrib jcr server webdav src java org apach jackrabbit webdav webdavresponseimpl java resolv symbol
+symbol class xmlserial
+locat class org apach jackrabbit webdav webdavresponseimpl
+xmlserial serial xmlserial format
+
+note input file overrid deprec api
+note recompil deprec detail
+error
+build fail
+file home jeremi maven cach maven multiproject plugin plugin jelli
+element maven reactor
+line
+column
+unabl obtain goal multiproject instal callback home jeremi maven cach maven java plugin plugin jelli ant javac compil fail compil error output detail
+total time second
+finish fri jan cet
+

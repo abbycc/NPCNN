@@ -1,0 +1,3 @@
+add method remov map namespacemap
+spi common namespac namespacemap mean remov map suggest add method
+public string removemap string uri

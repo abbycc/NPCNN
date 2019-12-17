@@ -1,0 +1,2 @@
+remov unneed cqf depend
+unneed depend cqf librari jcr server webapp jca

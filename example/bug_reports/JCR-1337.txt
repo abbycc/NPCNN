@@ -1,0 +1,2 @@
+optim execut queri descendantselfaxisweight childaxisqueri
+execut queri involv descendantselfaxisweight childaxisqueri slow consecut queri faster hierarchi cach

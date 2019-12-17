@@ -1,0 +1,7 @@
+shareditemstatemanag properli synchron
+time ago remov synchron modifi method store hasitemst getitemst care ensur cach integr contract shareditemstatemanag sism broken javadoc document relev method sism work itemst atom
+call hasitemst return true itemst thread ad store similarli getitemst return itemst currenli ad modifi store oper
+option
+chang method synchron serial call sism
+implement sophist synchronis multipl store oper allow long changelog intersect retriev itemst allow changelog store long itemst retriev part changelog
+comment suggest

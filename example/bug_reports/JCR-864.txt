@@ -1,0 +1,10 @@
+bug utildatetypeconverterimpl
+convert line
+return getvaluefactori createvalu java util date propvalu gettim
+propvalu convert java util calendar long valuefactori convert longvalu datevalu expect
+code work
+final long timeinmili java util date propvalu gettim
+final calendar calendar calendar getinst
+calendar settimeinmilli timeinmili
+return getvaluefactori createvalu calendar
+dont date calendar convers

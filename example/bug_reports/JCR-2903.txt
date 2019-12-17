@@ -1,0 +1,9 @@
+session importxml close input stream jsr jcr
+http markmail org thread crwx27dkt2cnjjy7
+follow
+node setproperti string inputstream
+properti setvalu inputstream
+valuefactori createvalu inputstream
+valuefactori createbinari inputstream
+session importxml string inputstream int
+workspac importxml string inputstream int

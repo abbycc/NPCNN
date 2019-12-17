@@ -1,0 +1,2 @@
+jackrabbit core produc test jar
+write custom filesystem implement nice reus abstractfilesystemtest

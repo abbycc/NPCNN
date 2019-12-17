@@ -1,0 +1,67 @@
+enhanc jackrabbit common
+suggest coupl enhanc common modul
+patch creat rev test reveal
+problem
+summari suggest modif
+qname
+
+reduc qname core function put convers jcr
+separ class 'nameformat'
+order break exist code method deal convers qname
+mark deprec
+add constant root node
+path
+
+reduc path core function put convers jcr path
+separ class 'pathformat'
+order break exist code method deal convers path
+mark deprec
+introduc constant undefin index default index
+hardcod jackrabbit project
+method path getel int pathel
+make pathel constant public pathformat
+path pathbuild
+
+addit constructor pathbuild path
+path pathel
+
+add pathel getnormalizedindex assert base index
+chang subclass privat usag jackrabbit insid path
+pathmap
+
+move core pathmap util pathmap order make
+common modul
+namespaceresolv
+
+add method resolut path
+getqpath string jcrpath path
+getjcrpath path qpath string
+namespacelisten
+
+add method 'namespaceremov string
+valuehelp
+
+jcr object 'manually' creat valuehelp
+fact jsr170 defin valuefactori interfac valuehelp
+present common modul implement
+implement
+add helper method valuefactori argument
+order break exist code origin method mark deprec
+remov time
+
+modifi signatur internalvalu creat includ convers
+valuefactori param adjust usag insid core packag
+valuefactoryimpl
+
+createvalu string int call convers valuehelp
+suggest valuehelp code chang order
+creat instanc implement factori
+modif valuehelp stefan suggest replac public
+constructor static 'getinstance' method usag jackrabbit core
+modifi
+text
+
+add getnam string boolean boolean flag trail slash
+
+add getrelativepar string int boolean boolean flag
+trail slash

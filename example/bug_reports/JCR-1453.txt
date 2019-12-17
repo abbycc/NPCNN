@@ -1,0 +1,2 @@
+access journal insid clusternod
+jcr ad support multipl consum produc attach journal order access journal core cluster clusternod access journal creat

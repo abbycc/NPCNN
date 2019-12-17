@@ -1,0 +1,5 @@
+provid simpl disabl anonym access secur workspac
+discuss thread http sling markmail org thread st52jejjuxykfxtj secur workspac default configur accesscontrolprovid fix access control polici core secur user useraccesscontrolprovid order prevent anonym access secur relat node requir altern accesscontrolprovid
+attach patch simpler mechan ad
+param anonymousaccesstosecurityworkspac fals
+configur defaultsecuritymanag anonym access secur workspac forbidden

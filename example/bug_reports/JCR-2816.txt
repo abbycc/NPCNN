@@ -1,0 +1,16 @@
+repositori unlock version manag init fail assert enabl
+test case work expect assert enabl java
+connect conn drivermanag getconnect
+jdbc derbi repositori version creat true
+statement stat conn createstat
+stat execut creat tabl version bundl int
+transientrepositori rep transientrepositori
+
+rep login simplecredenti char
+catch except
+ignor
+
+rep shutdown
+stat execut drop tabl version bundl
+transientrepositori login simplecredenti char
+reason assert repositorycontext getinternalversionmanag assert repositori lock releas repositori shutdown

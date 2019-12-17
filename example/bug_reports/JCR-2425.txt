@@ -1,0 +1,10 @@
+session save session refresh boolean reli access root node
+follow issu jcr
+edit session allow write subtre allow access root node
+save revert made transient space subtre
+reason sessionimpl save sessionimpl refresh boolean access root node
+order execut call regular call read permiss check user
+made attempt root
+workaround call item save modifi tree visibl
+user method deprec jcr impress
+fix method mention

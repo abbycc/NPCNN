@@ -1,0 +1,4 @@
+filedatastor check lastmodifi error result
+javadoc file lastmodifi return error file exist error occur
+filedatastor check return treat actual modif time
+patch follow

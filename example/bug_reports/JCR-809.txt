@@ -1,0 +1,2 @@
+mislead method name setvaluebinarytest
+method name setvaluebinarytest boolean binari copi past error setvaluebooleantest

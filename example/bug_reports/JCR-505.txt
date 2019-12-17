@@ -1,0 +1,31 @@
+tck abstractjcrtest fail setup teardown remov children test node
+test node exist setup teardown method remov child node repositori child node mandatori protect caus test setup teardown fail
+propos toler except thrown remov child node test setup teardown
+abstractjcrtest java revis
+abstractjcrtest java work copi
+
+clean test root
+testrootnod root getnod testpath
+nodeiter children testrootnod getnod children hasnext
+children nextnod remov
+
+children nextnod remov
+catch repositoryexcept
+consum
+
+
+
+creat node testpath
+
+clean test root
+testrootnod root getnod testpath
+nodeiter children testrootnod getnod children hasnext
+children nextnod remov
+
+children nextnod remov
+catch repositoryexcept
+consum
+
+
+root save
+

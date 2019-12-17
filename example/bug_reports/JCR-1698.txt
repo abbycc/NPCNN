@@ -1,0 +1,2 @@
+remov unnecessari testal class jcr common
+modul jackrabbit jcr common default test configur mean testal test suit test execut

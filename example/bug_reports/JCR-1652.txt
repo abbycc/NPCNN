@@ -1,0 +1,2 @@
+'invalid format' except messag class
+valueof method class throw except inform desir type string gave error

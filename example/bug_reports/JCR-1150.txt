@@ -1,0 +1,9 @@
+jcr2spi perform improv point findbug
+findbug report
+method org apach jackrabbit jcr2spi nodetyp bitsetentcacheimpl getbitnumb qname invok ineffici integ int constructor integ valueof int src main java org apach jackrabbit jcr2spi nodetyp bitsetentcacheimpl java line 1190981544656
+method org apach jackrabbit jcr2spi queri rowiteratorimpl rowimpl getvalu string invok ineffici integ int constructor integ valueof int src main java org apach jackrabbit jcr2spi queri rowiteratorimpl java line 1190981544671
+method org apach jackrabbit jcr2spi workspacemanag oneventreceiv eventbundl internaleventlisten invok ineffici integ int constructor integ valueof int src main java org apach jackrabbit jcr2spi workspacemanag java line 1190981544640
+wmi method org apach jackrabbit jcr2spi namespacecach syncnamespac map make ineffici keyset iter entryset iter src main java org apach jackrabbit jcr2spi namespacecach java line 1190981544656
+wmi method org apach jackrabbit jcr2spi nodetyp nodetyperegistryimpl internalregist map make ineffici keyset iter entryset iter src main java org apach jackrabbit jcr2spi nodetyp nodetyperegistryimpl java line 1190981544656
+wmi method org apach jackrabbit jcr2spi observ observationmanagerimpl onev eventbundl make ineffici keyset iter entryset iter src main java org apach jackrabbit jcr2spi observ observationmanagerimpl java line 1190981544656
+wmi method org apach jackrabbit jcr2spi state nodest persist changelog make ineffici keyset iter entryset iter src main java org apach jackrabbit jcr2spi state nodest java line 1190981544671

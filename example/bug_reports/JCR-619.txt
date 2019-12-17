@@ -1,0 +1,4 @@
+cachemanag memori manag jackrabbit
+jackrabbit run memori combin size cach manag biggest problem combin size core state mlruitemstatecach cach session creat cach limit default
+implement dynam cach memori manag servic distribut fix amount memori dynam cach
+patch

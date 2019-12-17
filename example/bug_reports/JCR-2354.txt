@@ -1,0 +1,2 @@
+remov doubl quot illeg xpathsearchchar helper method text
+lucen doubl quot charact end search term illeg escap

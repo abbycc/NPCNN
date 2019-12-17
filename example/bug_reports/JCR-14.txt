@@ -1,0 +1,5 @@
+xml object persistencemanag destroi fail
+destroi method objectpersistencemanag class delet file check exist result filesystemexcept thrown specif filesystem deletefil filesystemexcept thrown path denot file error occur
+jackrabbit localfilesystem implement silent ignor request delet exist file intern implement interfac throw filesystemexcept case destroi fail
+suggest destroi method extend check exist file prevent thrown
+note appli objectpersistencemanag xmlpersistencemanag

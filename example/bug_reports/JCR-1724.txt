@@ -1,0 +1,17 @@
+jackrabbit util
+attach util jackrabbit
+datastor implement amazon storag
+fairli straightforward configur ad datastor
+section repositori xml file
+datastor class org jcrutil s3datastor
+param awsaccesskei
+param awssecretkei
+param bucketnam
+param minmodifiedd
+param minrecordlength
+datastor
+util jcr base common vf filesystem provid
+access jcr repositori file folder node
+common vf api mina ftp server dctm vf
+http dctmvf sourceforg net provid ftp access jackrabbit
+repositori

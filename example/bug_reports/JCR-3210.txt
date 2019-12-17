@@ -1,0 +1,12 @@
+npe spi2dav server send header
+valueload throw npe desir header present respons
+org apach jackrabbit spi2davex valueload
+public map string string loadhead string uri string headernam throw ioexcept repositoryexcept
+
+string headernam
+header put method getresponsehead getvalu
+
+
+
+case server return etag respons header 'loadheaders' indirectli call qvaluefactoryimpl
+preiniti string header etag header modifi

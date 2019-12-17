@@ -1,0 +1,2 @@
+node type manag subproject default namespac emtpi
+creat node type match class descriptor default namespac empti 'ocm'

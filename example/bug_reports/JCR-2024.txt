@@ -1,0 +1,2 @@
+bundl cach clear bundlepersistencemanag close
+close method persist manag respons releas acquir resourc case bundlepersistencemanag free memori clear bundl cach

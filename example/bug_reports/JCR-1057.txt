@@ -1,0 +1,14 @@
+log debug level info cachemanag
+chang org apach jackrabbit core state cachemanag resizeal log debug level info
+info cachemanag resizeal size
+jackrabbit core src main java org apach jackrabbit core state cachemanag java revis
+jackrabbit core src main java org apach jackrabbit core state cachemanag java work copi
+
+calcualt maximum memori cach set limit
+
+privat void resizeal
+log info resizeal size cach size
+log debug resizeal size cach size
+strong refer
+entri weak hash map disappear time
+size keyset directli

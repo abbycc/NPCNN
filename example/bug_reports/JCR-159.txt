@@ -1,0 +1,15 @@
+jcr rmi unmarshalexcept call getproperti
+jcr rmi adaptor talk noddi test repositori successfulli login travers node getnod resourc subclass resourc add properti except
+org apach jackrabbit rmi client remoterepositoryexcept error unmarshal return nest except
+java writeabortedexcept write abort java notserializableexcept org apach jackrabbit binaryvalu error unmarshal return nest except
+java writeabortedexcept write abort java notserializableexcept org apach jackrabbit binaryvalu
+org apach jackrabbit rmi client clientproperti getvalu clientproperti java
+org apach jackrabbit rmi client clientproperti getstr clientproperti java
+clienttest main clienttest java
+caus java rmi unmarshalexcept error unmarshal return nest except
+java writeabortedexcept write abort java notserializableexcept org apach jackrabbit binaryvalu
+sun rmi server unicastref invok unicastref java
+org apach jackrabbit rmi server serverproperti stub getvalu unknown sourc
+org apach jackrabbit rmi client clientproperti getvalu clientproperti java
+
+svn date morn maven build inspir confid fall jelli except point coupl dozen unit test fail norm maven report jackrabbit main site report suggest call code process repositori work fine

@@ -1,0 +1,2 @@
+mandatori jcr activ node miss upgrad
+mandatori node creat repositori initi empti node miss exist repositori instanc upgrad

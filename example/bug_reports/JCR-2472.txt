@@ -1,0 +1,16 @@
+spi2dav access move referencebl node result pathnotfoundexcept
+code fragment pathnotfoundexcept exist path
+recov session incorrect state
+assum exist file node path app foo bar txt
+node session getnod app foo bar txt
+node getnod jcr content
+setproperti jcr data java bytearrayinputstream string blahblah getbyt
+save
+workspac ws0 session getworkspac
+ws0 move app foo app foo1
+node session getnod app foo1 bar txt
+node getnod jcr content
+refresh fals
+node getnod jcr content pathnotfoundexcept
+note preceed node refresh call inconsist
+problem occur omit call

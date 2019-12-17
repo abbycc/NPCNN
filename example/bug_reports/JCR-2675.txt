@@ -1,0 +1,2 @@
+node hasproperti rel path throw classcastexcept
+call node hasproperti rel path travers higher root node throw classcastexcept itemid return hierarchymanagerimpl resolvepath root node blind cast hierarchymanagerimpl resolvepropertypath throw classcastexcept issu hasproperti resolvepropertypath call resolvepath higher root node wrongfulli root node return result

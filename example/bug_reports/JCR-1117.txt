@@ -1,0 +1,3 @@
+bundl cach roll back storag changelog fail
+bundl cach bundl persist manag restor state abstractbundlepersistencemanag store changelog changelog method throw except instanc storag refer fail abstractbundlepersistencemanag putbundl nodepropbundl bundl method call modifi bundl connect rollback bundl cach sync persist state result shareditemstatemanag incorrect view persist state
+blockonconnectionloss properti set true bundledbpersistencemanag caught infinit loop invalid sql insert incorrect bundl cach attach stacktrac

@@ -1,0 +1,10 @@
+clone tree shareabl node workspac throw itemexistsexcept
+problem clone tree workspac tree shareabl node
+ws1 workspac node node node share shareabl node
+
+
+
+
+
+ws2 workspac call ws2 clone ws1 fals throw itemexistsexcept copynodest line copynodest check nodeid present workspac case copi instanc shareabl node find specif case logic add share node come situat clone probabl copi case expect clone remov exist case remov node shareabl add share
+fix issu handl case node shareabl copi clone case copynodest find attach patch solut

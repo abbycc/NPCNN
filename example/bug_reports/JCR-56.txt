@@ -1,0 +1,9 @@
+case insensit search
+nice search specif properti fulltext search ignor case flag find subset result
+select base 'bla'
+
+select base jcr bla bla
+'bla' found queri
+suggest extend function addit argument properti search
+select base 'bla' jcr bla
+easili xpath

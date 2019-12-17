@@ -1,0 +1,2 @@
+queri path constraint foo bar scale
+resolv step lucenequerybuild creat matchallqueri check node foo ancestor search bar node check foo ancestor arbitrari hierarchi level

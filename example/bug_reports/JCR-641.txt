@@ -1,0 +1,2 @@
+add lock token session login logout
+login lock file logout perfom login add previou lock token current session unlock file work fine logout login unlock file file lock understand test case

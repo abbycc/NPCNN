@@ -1,0 +1,7 @@
+uuid gener securerandom default
+uuid gener regular java util random implement gener random uuid seed random initi system currenttimemilli window resolut millisecond mean comput start creat uuid jackrabbit millisecond interv gener uuid cluster environ node start automat time backup
+random class bit seed number random bit uuid secur
+http wikipedia org wiki uuid
+random uuid probabl duplic
+probabl duplic depend qualiti random number gener cryptograph secur pseudorandom number gener gener valu probabl duplic significantli higher
+suggest chang versionfourgener securerandom implement default

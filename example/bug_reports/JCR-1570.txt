@@ -1,0 +1,2 @@
+patch except messag gener schema
+statement fail execut gener schema patch output statement fail

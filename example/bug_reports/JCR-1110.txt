@@ -1,0 +1,4 @@
+getreferencesnodetest test assumpt
+bad test assumpt getreferencesnodetest
+setup primari node type includ mixin version propos fix creat node add mixin version check node type save
+repositori support protect refer properti propos fix check abstractjcrtest' ensurecansetproperti method notexecutableexcept thrown

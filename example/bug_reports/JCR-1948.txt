@@ -1,0 +1,7 @@
+abstractismlockingtest test fail properli
+test abstractismlockingtest class call junit framework assert fail thread manag junit framework call fail interpret test failur log consol build succe easi stub implement ismlock type return null refer acquir method downgrad method stacktrac build succe
+except thread thread junit framework assertionfailederror acquirewritelock block
+junit framework assert fail assert java
+org apach jackrabbit core state abstractismlockingtest checkblock abstractismlockingtest java
+org apach jackrabbit core state abstractismlockingtest run abstractismlockingtest java
+java lang thread run thread java

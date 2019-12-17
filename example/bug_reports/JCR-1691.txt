@@ -1,0 +1,18 @@
+includ mimetyp openofficetextextractor handl
+patch add openoffic version mimetyp content extract
+test simpl file work
+cat openofficetextextractor mimetyp patch
+jackrabbit jackrabbit text extractor src main java org apach jackrabbit extractor openofficetextextractor java
+jackrabbit modifi jackrabbit text extractor src main java org apach jackrabbit extractor openofficetextextractor java
+
+applic vnd oasi opendocu graphic
+applic vnd oasi opendocu present
+applic vnd oasi opendocu spreadsheet
+applic vnd oasi opendocu text
+applic vnd oasi opendocu text
+applic vnd sun xml calc
+applic vnd sun xml draw
+applic vnd sun xml impress
+applic vnd sun xml writer
+
+textextractor

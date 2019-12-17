@@ -1,0 +1,12 @@
+lock expir immedi
+timeouthint long max javax jcr lock lockmanag api
+lock string abspath boolean isdeep boolean issessionscop long timeouthint string ownerinfo
+timeouttim second comput core lock lockinfo updatetimeouttim
+long system currenttimemilli round
+timeouttim timeouthint
+timeouthandl core lock lockmanagerimpl run check timeout expir core lock lockinfo isexpir
+public boolean isexpir
+return timeouttim long max
+timeouttim system currenttimemilli
+
+condit true begin replac trick

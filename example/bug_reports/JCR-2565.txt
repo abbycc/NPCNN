@@ -1,0 +1,6 @@
+spi2dav overwrit header move copi failur api test
+fail test
+org apach jackrabbit test api workspacecopysamenamesibstest testcopynodesnodeexistsatdestpath
+org apach jackrabbit test api workspacemovesamenamesibstest testmovenodesnodeexistsatdestpath
+fix set overwrit header als fit case
+sibl allow copi move destin exist item succe jcr

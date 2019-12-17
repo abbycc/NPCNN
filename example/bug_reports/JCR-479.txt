@@ -1,0 +1,3 @@
+incorrect definit built node type hierarchynod
+properti jcr creat hierarchynod mandatori specif jcr jcr
+definit built node type relat test case fix

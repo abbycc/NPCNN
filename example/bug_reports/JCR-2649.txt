@@ -1,0 +1,9 @@
+provid mean displai effect polici set princip
+jsr defin accesscontrolmanag geteffectivepolici string nodepath permiss relat
+displai polici contribut set privileg addit api defin accesscontrolmanag getprivileg string nodepath
+return privileg edit session path
+order addit flexibl start add custom extens jackrabbitaccesscontrolmanag retriev privileg set
+princip hat path extend addit provid method retriev effect polici set princip
+achiev reli specif access control model make assumpt implement
+desir effect
+

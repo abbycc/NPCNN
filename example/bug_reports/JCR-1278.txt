@@ -1,0 +1,3 @@
+add configur path synonymprovid
+enhanc synonymprovid includ releas current interfac getsynonym method initi synonymprovid initi provid configur file configur includ synonym definit pointer locat synonym defin configur implement depend
+addit simpl default implement jackrabbit core wordnet synonym sandbox limit built manual

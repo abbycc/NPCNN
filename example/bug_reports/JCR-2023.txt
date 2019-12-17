@@ -1,0 +1,2 @@
+workspaceinfo dispos deregist shareditemstatemanag virtual item state provid
+automat dispos idl workspac free unus workspac shareditemstatemanag releat persistencemanag memori referenc virtual item state provid lead memori leak

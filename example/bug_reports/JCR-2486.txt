@@ -1,0 +1,2 @@
+promot iteminfo builder class getitemstest top level class
+org apach jackrabbit jcr2spi getitem test builder iteminfo nodeinfo instanc gener promot spi common

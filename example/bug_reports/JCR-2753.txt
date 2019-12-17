@@ -1,0 +1,6 @@
+deadlock defaultismlock
+bug defaultismlock detect part jcr
+main thread read lock
+observationmanag thread lock write block read lock
+main thread read lock block wait write lock
+bug introduc part jcr java util concurr revis safe solut revert commit add test case defaultismlock chang test case requir effici solut complic

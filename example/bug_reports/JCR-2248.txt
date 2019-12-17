@@ -1,0 +1,3 @@
+qvaluefactoryimpl binaryqvalu return 'this' getbinari
+basic jcr spi common modul binaryqvalu return 'this' getbinari lead file found except binari dispos delet underli temp file
+issu partial hidden presenc bug binaryqvalu read randomaccessfil close read prevent delet temp file

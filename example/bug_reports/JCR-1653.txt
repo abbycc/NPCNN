@@ -1,0 +1,16 @@
+nodeidimpl serializ
+jcr2spi rmi spi2jcr work
+error report
+java notserializableexcept org apach jackrabbit spi common identifi idfactoryimpl
+track nodeidimpl implicitli referenc instanc idfactoryimpl serializ
+nodeidimpl attempt serial case stack
+org apach jackrabbit spi rmi client clientrepositoryservic getiteminfo clientrepositoryservic java
+org apach jackrabbit jcr2spi state workspaceitemstatefactori createnodest workspaceitemstatefactori java
+org apach jackrabbit jcr2spi state transientisfactori createnodest transientisfactori java
+org apach jackrabbit jcr2spi hierarchi nodeentryimpl doresolv nodeentryimpl java
+org apach jackrabbit jcr2spi hierarchi hierarchyentryimpl resolv hierarchyentryimpl java
+org apach jackrabbit jcr2spi hierarchi hierarchyentryimpl getitemst hierarchyentryimpl java
+org apach jackrabbit jcr2spi itemmanagerimpl getitem itemmanagerimpl java
+org apach jackrabbit jcr2spi sessionimpl getrootnod sessionimpl java
+wrong fundament problem jcr2spi rmi spi2jcr svn histori work
+session getrootnod test jcr2spi rmi spi2jcr setup wrong

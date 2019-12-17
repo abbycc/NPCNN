@@ -1,0 +1,3 @@
+implement repositoryfactori jcr2dav
+bit cumbersom set spi2dav instanc level factori repositoryfactori repositoryservicefactori involv process easier spi2dav implement repositoryfactori directli downstream user provid server uri paramet repositoryservicefactori classnam
+spi2dav depend jcr2spi chang simplifi downstream project depend jcr2spi jcr dav connect

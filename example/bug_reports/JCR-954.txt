@@ -1,0 +1,4 @@
+disabl referenti integr check workspac
+oper clone remov oper huge subtre node requir lot memori copi clone remov subtre node load transient space oper transact side requir lot heap size memori size directli depend size subtre number node result case imposs make oper step environ java heap succesfulli clone subtre workspac
+clone copi remov tree chunk refer subtre approach fail possibilti temporari disabl referenti integr check experienc jcr user useful
+case clone select subtre structur worskpac applic clone select subtre workspac exist refer clone whol estructur remov unwant node time expens memori consum

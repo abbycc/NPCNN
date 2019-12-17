@@ -1,0 +1,8 @@
+test index properti check default index properti
+org apach jackrabbit core queri lucen nodeindex addvalu condit propertytyp type properti
+isindex
+equal nameconst jcr primarytyp
+equal nameconst jcr mixintyp
+addnamevalu doc fieldnam getqnam
+
+effici test default properti node queri custom index rule time

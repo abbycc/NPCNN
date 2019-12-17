@@ -1,0 +1,2 @@
+extens patch simpl webdav servlet
+attach patch make simpl webdav servlet extens subclass provid support object davresourcefactori davlocatorfactori patch davresourceimpl make importxml importfil method protect subclass

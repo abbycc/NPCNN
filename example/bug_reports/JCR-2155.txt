@@ -1,0 +1,3 @@
+sql2 parser identifi case sensit
+sql2 parser convert queri uppercas pars identifi case sensit
+convert queri uppercas string equalsignorecas compar keyword

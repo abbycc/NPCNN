@@ -1,0 +1,11 @@
+move core modul subdirectori
+jackrabbit svn hold code main modul top level dir
+http svn apach org repo asf incub jackrabbit trunk
+subproject subdirectori
+http svn apach org repo asf incub jackrabbit trunk contrib
+layout checkout svn main modul trunk work modul id support nest project eclips
+request move main modul mean move file directori trunk contrib
+http svn apach org repo asf incub jackrabbit trunk
+
+http svn apach org repo asf incub jackrabbit trunk jackrabbit
+usual organ maven base project solv problem

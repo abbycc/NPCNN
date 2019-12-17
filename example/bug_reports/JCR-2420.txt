@@ -1,0 +1,15 @@
+node remov fail accessdeniedexcept
+hierarchi node access control hierarchi illustr setup problem
+root read permiss
+subfold permiss user
+subsubfold permiss user
+user right node subfold
+remov node subsubfold user permiss remov node call session save accessdeniedexcept thrown
+lot debug found fault led function aclprovid aclpermiss buildresult line refer base sourc code subvers repositori found http svn apach org viewvc jackrabbit tag jackrabbit core src main java org apach jackrabbit core secur author acl aclprovid java view markup
+line jackrabbit collect access control entri node remov parent put variabl entri variabl entri
+permiss user
+permiss user
+read permiss
+line collect access control entri node remov put localac variabl entri permiss user
+remov subsubfold user permiss parent node permiss parent node subsubfold permiss user read permiss access check fail line jackrabbit check permiss entri local localac permiss local recogn permiss node subfold local permiss parent node subsubfold read permiss remov node
+sourc error equal check access control entri permiss node subfold consid equal subsubfold explicitli assign permiss remov node permiss user node subfold work fine recogn parent permiss

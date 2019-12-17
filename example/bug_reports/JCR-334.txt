@@ -1,0 +1,45 @@
+loaduri compil error maven
+report mail list ashlei marten
+
+apach jackrabbit contrib util maven
+
+apach
+intellig project
+
+attempt download jackrabbit snapshot jar
+artifact org apach jackrabbit jar jackrabbit snapshot jar exist remot repositori exist local
+attempt download jackrabbit common snapshot jar
+artifact org apach jackrabbit jar jackrabbit common snapshot jar exist remot repositori exist local
+build start
+java prepar filesystem
+java compil
+echo compil apach jackrabbit contrib util target class
+javac compil sourc file apach jackrabbit contrib util target class
+apach jackrabbit contrib util src main java org apach jackrabbit util nodetyp schemaconvert java resolv symbol
+symbol method loaduri java lang string
+locat class org apach xerc impl xmlschemaload
+xsmodel xsmodel loader loaduri uri
+
+error
+build fail
+file document set ashleym maven cach maven java plugin plugin jelli
+element ant javac
+line
+column
+compil fail compil error output detail
+total time second
+finish mon jan est
+
+peeter piegaz found problem
+
+build problem maven beta jdk
+sound case maven set
+build classpath see older xerc jar
+xerxesimpl jar maven download
+xerc repositori intern code
+newer xerxesimpl jar jar overlap class wise
+implement addit loaduri method
+
+maven build process
+wrong jar
+

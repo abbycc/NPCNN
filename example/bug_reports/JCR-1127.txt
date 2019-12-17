@@ -1,0 +1,4 @@
+text extractor class obsolet web
+text extractor class obsolet http jackrabbit apach org doc compon index filter html
+org apach jackrabbit core queri org apach jackrabbit extractor
+plain text extractor continu org apach jackrabbit core queri lucen textplaintextfilt

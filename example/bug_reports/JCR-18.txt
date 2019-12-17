@@ -1,0 +1,11 @@
+multithread issu version
+multithread environ thread access version histori inconsist state encount concret thread check node version histori attach thread walk version histori mean built iter access successor version visit
+point point encount itemnotfoundexcept stack trace similar
+javax jcr itemnotfoundexcept c9bd405b dff4 46ef 845c d98e073e473a
+org apach jackrabbit core itemmanag createiteminst itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core sessionimpl getnodebyuuid sessionimpl java
+org apach jackrabbit core version versionimpl getsuccessor versionimpl java
+
+thread fill successor version node access createiteminst method
+bug enforc easili reproduc

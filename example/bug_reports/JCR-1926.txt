@@ -1,0 +1,7 @@
+text unescap throw stringindexoutofboundsexcept
+except
+java lang stringindexoutofboundsexcept string index rang
+java lang string substr string java
+org apach jackrabbit util text unescap text java
+org apach jackrabbit util text unescap text java
+fail illegalargumentexcept

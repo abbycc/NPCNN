@@ -1,0 +1,2 @@
+unnecessari paramet nodetyperegistri persistcustomnodetypedef nodetypedefstor store
+paramet store method suggest delet paramet make code readabl

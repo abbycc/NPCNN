@@ -1,0 +1,3 @@
+deadlock concurr commit
+report followup jcr case transact concurr insid commit bad break main assumpt http jackrabbit apach org concurr control html transact acquir version write lock
+deeper find version write lock acquir transact commit version oper incorrect transact case access version store check refer

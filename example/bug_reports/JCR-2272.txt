@@ -1,0 +1,36 @@
+error concurr session import node uuid
+error executor connectionrecoverymanag execut statement reason statement abort caus duplic kei uniqu primari kei constraint uniqu index identifi 'sql090821042140130' defin 'default bundle' state code connectionrecoverymanag java line
+error executor bundledbpersistencemanag fail write bundl 6c292772 349e 42b3 7729615c67de bundledbpersistencemanag java line
+error statement abort caus duplic kei uniqu primari kei constraint uniqu index identifi 'sql090821042140130' defin 'default bundle'
+org apach derbi iapi error standardexcept newexcept unknown sourc
+org apach derbi impl sql execut indexchang insertandcheckdup unknown sourc
+org apach derbi impl sql execut indexchang doinsert unknown sourc
+org apach derbi impl sql execut indexchang insert unknown sourc
+org apach derbi impl sql execut indexsetchang insert unknown sourc
+org apach derbi impl sql execut rowchangerimpl insertrow unknown sourc
+org apach derbi impl sql execut insertresultset normalinsertcor unknown sourc
+org apach derbi impl sql execut insertresultset open unknown sourc
+org apach derbi impl sql genericpreparedstat execut unknown sourc
+org apach derbi impl jdbc embedstat executestat unknown sourc
+org apach derbi impl jdbc embedpreparedstat executestat unknown sourc
+org apach derbi impl jdbc embedpreparedstat execut unknown sourc
+org apach jackrabbit core persist bundl util connectionrecoverymanag executestmtintern connectionrecoverymanag java
+org apach jackrabbit core persist bundl util connectionrecoverymanag executestmtintern connectionrecoverymanag java
+org apach jackrabbit core persist bundl util connectionrecoverymanag executestmt connectionrecoverymanag java
+org apach jackrabbit core persist bundl util connectionrecoverymanag executestmt connectionrecoverymanag java
+org apach jackrabbit core persist bundl bundledbpersistencemanag storebundl bundledbpersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag putbundl abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag storeintern abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag store abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl bundledbpersistencemanag store bundledbpersistencemanag java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit core concurrentimporttest execut concurrentimporttest java
+org apach jackrabbit core abstractconcurrencytest executor run abstractconcurrencytest java
+java lang thread run thread java

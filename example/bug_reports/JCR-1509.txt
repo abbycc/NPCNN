@@ -1,0 +1,88 @@
+submiss amazon persist manag project
+note previous dev list http markmail org search amazon list 3aorg apach jackrabbit dev queri amazon 20list 3aorg apach jackrabbit dev page mid qw27gopsn4lnbde5 state result written amazon bundl persist manag jackrabbit submit code sandbox full sourc includ zip file licens asf
+project aim implement normal persist manag abandon favor effici bundl implement work file system impl rough structur present spi impl connect dream info includ readm txt project
+
+jackrabbit persist amazon webservic
+
+modul persist option
+amazon webservic backend jackrabbit jcr amazon
+persist servic public simpledb beta
+option idea
+persist manag connect
+normal bundl work effici
+persist manag connect simpledb
+feasibl
+spi implement connect
+implement complic effici
+detail todo txt
+instal test
+
+patch jackrabbit version patch
+found directori patch patch modifi
+pom jackrabbit core gener jackrabbit test jar
+reus project build custom version
+step
+svn http svn apach org repo asf jackrabbit branch jackrabbit
+jackrabbit
+appli patch patch directori
+patch amazon path patch patch patch
+mvn instal
+amazon path
+chang jackrabbit version number pom xml built
+project parent version
+aw properti templat aw properti
+enter credenti aw properti
+mvn test
+debug chang log applic test log4j properti
+set proxi monitor traffic tcp mon
+applic test jets3t properti
+detail implement
+
+org apach jackrabbit persist amazon amazons3persistencemanag
+http www amazon
+store jcr node properti insid object uuid node
+uuid properti object name node refer store
+refer uuid
+configur paramet
+accesskei
+amazon aw access kei aka account user requir
+secretkei
+amazon aw secret kei aka account password requir
+bucket
+bucket option default accesskei
+note bucket name global accesskei
+recommend prevent conflict aw user
+objectprefix
+prefix object name option default
+includ workspac wsp version
+version put multipl workspac bucket
+xml config
+persistencemanag class org apach jackrabbit persist amazon amazons3persistencemanag
+param accesskei abcde01234
+param secretkei topsecret
+param bucket abcde01234 jcrstore
+param objectprefix wsp
+persistencemanag
+
+amazonsimpledbpersistencemanag
+feasibl restrict appli
+simpledb item attribut attribut
+string char
+link inform
+http doc amazonwebservic amazonsimpledb developerguid sdb api putattribut html
+
+org apach jackrabbit spi2s3
+todo
+lot work
+
+
+origin written alexand klimetschek
+alexand klimetschek googlemail dot
+apach jackrabbit web site http jackrabbit apach org
+document inform join
+jackrabbit mail list http jackrabbit apach org mail list html
+discuss compon jackrabbit issu tracker
+http issu apach org jira brows jcr report issu request
+featur
+apach jackrabbit project apach softwar foundat
+http www apach org

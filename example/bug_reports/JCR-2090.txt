@@ -1,0 +1,5 @@
+jsr method nodetyp
+jsr add method
+nodetyp getsubtyp
+
+nodetyp getdeclaredsubtyp

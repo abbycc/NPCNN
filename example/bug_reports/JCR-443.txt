@@ -1,0 +1,14 @@
+deadlock concurr commit read version state
+rear occat thread commit transact thread read versio relat inform deadlock occurr
+
+thread1
+begin
+session getworkspac clone default content content true
+commit
+thread2
+versionhistori folder getversionhistori
+versioniter iter getallvers
+iter hasnext
+version iter nextvers
+
+fix issu ensur method shareditemstatemgr call higher instanc itemmgr

@@ -1,0 +1,6 @@
+catch throwabl call textextractor
+except handl current textextractor
+method signatur throw ioexcept intern handl
+msexceltextextractor runtimeexception' catch extractor
+jcr
+catch throwabl nodeindex prevent outofmemoryerro index node

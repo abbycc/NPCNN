@@ -1,0 +1,15 @@
+unsynchron access 'itemcache' map itemmanag
+access 'itemcache' map itemmanag synchron itemstatelisten method
+
+public void statecr itemst creat
+itemimpl item retrieveitem creat getid
+item null
+item statecr creat
+
+
+
+privat itemimpl retrieveitem itemid
+return itemimpl itemcach
+
+
+result corrupt map subsequ access result endless loop

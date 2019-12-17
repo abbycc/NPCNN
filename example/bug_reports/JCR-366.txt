@@ -1,0 +1,2 @@
+jca jcarepositorymanag load repositori configur classpath
+current implement jca jcarepositorymanag load configur file file system configur load classpath

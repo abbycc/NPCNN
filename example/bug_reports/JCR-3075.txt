@@ -1,0 +1,32 @@
+incorrect html excerpt gener queri japanes text content
+gener excerpt highlight singl charact full word test case ad fulltextquerytest
+public void testjapaneseandhighlight throw repositoryexcept
+http translat googl auto
+string jcontent u30b3 u30f u30c6 u30f3 u30c8
+http translat googl auto
+string jtest u30c6 u30b9 u30c8
+string content text japanes jcontent
+'content' jtest 'test'
+expect excerpt note chang excerpt provid chang
+string expectedexcerpt div span text japanes jcontent
+'content' strong jtest
+strong 'test' span div
+node testrootnod addnod node1
+setproperti titl content
+testrootnod getsess save
+string xpath jcr root testroot element unstructur
+jcr jtest rep excerpt
+queri superus getworkspac getquerymanag
+createqueri xpath queri xpath
+queryresult execut
+rowiter getrow
+int cnt
+hasnext
+cnt
+row found nextrow
+assertequ getpath found getpath
+string excerpt found getvalu rep excerpt getstr
+assertequ expectedexcerpt excerpt
+
+assertequ cnt
+

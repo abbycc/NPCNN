@@ -1,0 +1,2 @@
+discoveri privileg set princip
+jsr defin mean discov privileg edit session determin privileg princip

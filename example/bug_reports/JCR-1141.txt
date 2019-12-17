@@ -1,0 +1,7 @@
+lockoper cluster environ lock creat server server
+cluster oper lock lockoper islock variabl set fals
+oper repres lock set islock variabl true
+
+flag indic lock
+
+privat boolean islock

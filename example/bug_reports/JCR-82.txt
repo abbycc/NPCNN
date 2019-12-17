@@ -1,0 +1,4 @@
+queri node fail restart
+queri handler initi index node type definit expos jcr system jcr nodetyp restart node type registr uuid node chang consist virtualnodest index uuid initi index return queri result refer uuid exist workspac anymor
+short term solut disabl index virtualnodest
+note appli xpath queri sql queri

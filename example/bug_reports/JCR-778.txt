@@ -1,0 +1,22 @@
+error queri initi intermitt
+ten time error shown stack trace run test start app resolv test blow repositori
+point queri manag access trigger queri subsystem start except thrown back caller notic log basic queri return data show test failur
+case startup system test repositori exist test clean delet root node user content start excit
+info need
+error lazyqueryresultimpl java getresult except execut queri
+java ioexcept file directori
+java unixfilesystem createfileexclus nativ method
+java file createnewfil file java
+org apach jackrabbit core queri lucen fsdirectori obtain fsdirectori java
+org apach lucen store lock obtain lock java
+org apach lucen store lock run lock java
+org apach lucen index indexread open indexread java
+org apach lucen index indexread open indexread java
+org apach jackrabbit core queri lucen abstractindex getreadonlyindexread abstractindex java
+org apach jackrabbit core queri lucen multiindex getindexread multiindex java
+org apach jackrabbit core queri lucen searchindex executequeri searchindex java
+org apach jackrabbit core queri lucen lazyqueryresultimpl executequeri lazyqueryresultimpl java
+org apach jackrabbit core queri lucen lazyqueryresultimpl getresult lazyqueryresultimpl java
+org apach jackrabbit core queri lucen lazyqueryresultimpl init lazyqueryresultimpl java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java

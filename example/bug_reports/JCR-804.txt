@@ -1,0 +1,2 @@
+avoid multitermdoc
+similar matchallqueri rangequeri wildcardqueri result multitermdoc queri multiscor issu jcr

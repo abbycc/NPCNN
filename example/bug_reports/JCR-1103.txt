@@ -1,0 +1,2 @@
+jcr2spi versionmanagerimpl getversionablenodeentri tostr getstr obtain properti
+versionmanagerimpl getversionablenodeentri tostr getstr obtain properti

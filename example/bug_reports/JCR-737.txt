@@ -1,0 +1,15 @@
+unexpect session xatest testaddnodecommit
+org apach jackrabbit core xatest java
+assert node exist session
+
+othersuperus getnodebyuuid getuuid
+catch itemnotfoundexcept
+fail commit node visibl session
+
+assert node exist session
+
+othersuperus getnodebyuuid getuuid
+catch itemnotfoundexcept
+fail commit node visibl session
+
+session instanc 'othersuperuser' time case 'othersuperuser' 'superuser'

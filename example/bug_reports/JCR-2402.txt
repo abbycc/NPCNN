@@ -1,0 +1,4 @@
+observ avoid run memori
+jackrabbit unbound observ queue event listen asynchron listen default observ listen slow observ queue larger larger jvm eventu run memori
+suggest maximum queue size 100'000 default ad event queue block observ listen remov item configur option system properti start add configur set turn
+special case observ listen write repositori event case make sens block ad event block system warn written log file

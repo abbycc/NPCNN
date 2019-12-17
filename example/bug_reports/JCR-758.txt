@@ -1,0 +1,3 @@
+queryresult' rowiter getsiz return wrong size result implement accessmanag
+background implement accessmanag execut queri back rowiter result call rowiter getsiz return size node match queri honor access control iter result find lot duplic result filter duplic final result origin number rowiteartor getsiz
+btw disabl doc order sort

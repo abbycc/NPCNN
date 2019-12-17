@@ -1,0 +1,2 @@
+convert batch implement spi rmi remot object local
+current implement batch interfac spi rmi simpl remot server side batch chang local object client transmit singl call server save

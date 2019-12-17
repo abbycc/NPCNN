@@ -1,0 +1,25 @@
+index present except open restor repositori
+creat repositori ad node copi file jackrabbit run
+close repositori restor backup open repositori
+result except
+javax jcr repositoryexcept index present index present index present
+org apach jackrabbit core searchmanag initializequeryhandl searchmanag java
+org apach jackrabbit core searchmanag init searchmanag java
+org apach jackrabbit core repositoryimpl workspaceinfo getsearchmanag repositoryimpl java
+org apach jackrabbit core repositoryimpl initworkspac repositoryimpl java
+backup index file
+workspac default index redo log
+file directori file directori directori content redo log
+str
+add cafebab cafe babe cafe babecafebab
+
+str
+del cafebab cafe babe cafe babecafebab
+add fa87759b f9fe 4ba8 986c d1914ffce3d
+add eda04b36 9c21 bedf 206c36f0e3d2
+add ae917cca a0bb 4ac0 a16d 805aac6c7b10
+add cafebab cafe babe cafe babecafebab
+
+str
+add 0121f271 bbe7 4f71 a793 5f4380f3c487
+

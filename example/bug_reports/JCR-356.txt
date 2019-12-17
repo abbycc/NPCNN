@@ -1,0 +1,18 @@
+replac licens header polici text
+replac licens header templat
+replac copyright licens line
+begin propos sourc file header
+licens apach softwar foundat asf
+contributor licens agreement asf licens file
+apach licens version licens
+file complianc licens
+obtain copi licens
+http www apach org licens licens
+requir applic law agre write softwar
+distribut licens distribut basi
+warranti condit kind express impli
+licens specif languag govern permiss
+limit licens
+end propos sourc file header
+copyright line remov file due legal advic asf attornei
+replac statement copyright owner licens asf

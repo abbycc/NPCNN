@@ -1,0 +1,3 @@
+jackrabbit concurr read data store copywhenread fals
+jackrabbit concurr read data store copywhenread fals maxconnect
+jcr test problem run copywhenread fals

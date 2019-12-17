@@ -1,0 +1,6 @@
+introduc daili integr test suit
+time ago discuss integr test run daili basi comment issu jcr reach consensu run daili integr test suit desir
+propos
+introduc test suit org apach jackrabbit core integr daili dailyintegrationtest includ test run daili basi
+configur continu integr system run test suit daili basi mvn dtest dailyintegrationtest packag
+approach introduc maven profil pom magic easi develop run daili test need

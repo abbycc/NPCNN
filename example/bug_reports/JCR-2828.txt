@@ -1,0 +1,38 @@
+internalversionmanag deadlock
+jcr expos internalversionmanag class deadlock scenario
+java lang thread state wait object monitor
+java lang object wait nativ method
+wait 0x0000000085edb5a0 org apach jackrabbit core state defaultismlock
+java lang object wait object java
+org apach jackrabbit core state defaultismlock acquirereadlock defaultismlock java
+lock 0x0000000085edb5a0 org apach jackrabbit core state defaultismlock
+org apach jackrabbit core version internalversionmanagerbas acquirereadlock internalversionmanagerbas java
+org apach jackrabbit core version internalversionmanagerimpl getitem internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerbas createinternalversionitem internalversionmanagerbas java
+org apach jackrabbit core version internalversionmanagerimpl getitem internalversionmanagerimpl java
+lock 0x0000000085edb770 org apach common collect map referencemap
+org apach jackrabbit core version internalversionmanagerbas getversionhistori internalversionmanagerbas java
+org apach jackrabbit core version internalversionmanagerimpl getversionhistori internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerimpl run internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerimpl dynamicescfactori dosourc internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerimpl checkin internalversionmanagerimpl java
+org apach jackrabbit core version internalxaversionmanag checkin internalxaversionmanag java
+org apach jackrabbit core version versionmanagerimplbas checkoutcheckin versionmanagerimplbas java
+org apach jackrabbit core versionmanagerimpl access versionmanagerimpl java
+org apach jackrabbit core versionmanagerimpl perform versionmanagerimpl java
+org apach jackrabbit core versionmanagerimpl perform versionmanagerimpl java
+org apach jackrabbit core session sessionst perform sessionst java
+org apach jackrabbit core versionmanagerimpl perform versionmanagerimpl java
+org apach jackrabbit core versionmanagerimpl checkin versionmanagerimpl java
+org apach jackrabbit core versionmanagerimpl checkin versionmanagerimpl java
+java lang thread state block object monitor
+org apach jackrabbit core version internalversionmanagerimpl getitem internalversionmanagerimpl java
+wait lock 0x0000000085edb770 org apach common collect map referencemap
+org apach jackrabbit core version internalxaversionmanag getitem internalxaversionmanag java
+org apach jackrabbit core version internalversionmanagerbas getversionhistori internalversionmanagerbas java
+org apach jackrabbit core version internalxaversionmanag getversionhistori internalxaversionmanag java
+org apach jackrabbit core version versionhistoryimpl getinternalversionhistori versionhistoryimpl java
+org apach jackrabbit core version versionhistoryimpl issam versionhistoryimpl java
+org apach jackrabbit core version versionhistoryimpl checkownvers versionhistoryimpl java
+org apach jackrabbit core version versionhistoryimpl getversionlabel versionhistoryimpl java
+problem referencemap synchron object 0x0000000085edb770 interfer gener read write lock mechan

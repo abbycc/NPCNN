@@ -1,0 +1,3 @@
+remov deprec class jcr common
+class jackrabbit jcr common replac altern spi common
+clean thing remov deprec version jcr common upgrad jackrabbit

@@ -1,0 +1,13 @@
+tck namespaceregistrytest testregisternamespac remov node namespac
+test creat node namespac remov prevent teardown unregist namespac
+propos test remov node return
+namespaceregistrytest java revis
+namespaceregistrytest java work copi
+
+testrootnod addnod namespaceprefix root
+testrootnod save
+
+remov teardown unregist
+testrootnod getnod namespaceprefix root remov
+testrootnod save
+

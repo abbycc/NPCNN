@@ -1,0 +1,25 @@
+concurrentmodificationexcept logout
+regularli except
+java util concurrentmodificationexcept
+org apach common collect map abstractreferencemap referenceentrysetiter checkmod abstractreferencemap java
+org apach common collect map abstractreferencemap referenceentrysetiter hasnext abstractreferencemap java
+java util collect unmodifiablecollect hasnext collect java
+java util collect unmodifiablecollect hasnext collect java
+org apach jackrabbit core state localitemstatemanag dispos localitemstatemanag java
+org apach jackrabbit core workspaceimpl dispos workspaceimpl java
+org apach jackrabbit core sessionimpl logout sessionimpl java
+org apach jackrabbit core xasessionimpl logout xasessionimpl java
+except identifi
+email dev list marcel reutegg
+session read item
+session transient remov item
+session log start iter localitemstatemanag lism
+session save remov item evict lism
+session concurr modif except
+scenario
+session iter valu primari cach itemstatereferencecach localitemstatemanag dispos
+session trigger cachemanag
+cachemanag call resizeal evict item secondari cach itemstatereferencecach localitemstatemanag valu iter
+garbag collector run evict remov item primari cach effect modifi set iter
+
+martijn hendrik

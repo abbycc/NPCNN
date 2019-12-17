@@ -1,0 +1,2 @@
+btreemanag flexibl mechan ignor intern properti
+current btreemanag implement hard code logic ignor jcr primarytyp properti mechan parametr btreemanag set properti ignor

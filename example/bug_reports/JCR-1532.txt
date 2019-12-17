@@ -1,0 +1,39 @@
+error 40xd0 contain close except derbi
+similar jcr regular databasepersistencemanag
+fix jcr merg
+relev part except
+info jvm caus javax jcr repositoryexcept fail retriev item state item fb648866 a236 42aa df68f26dd2ad http www jcp org jcr data fail read properti state fb648866 a236 42aa df68f26dd2ad http www jcp org jcr data fail read properti state fb648866 a236 42aa df68f26dd2ad http www jcp org jcr data
+info jvm org apach jackrabbit core itemmanag createiteminst itemmanag java
+info jvm org apach jackrabbit core itemmanag getitem itemmanag java
+info jvm org apach jackrabbit core nodeimpl getproperti nodeimpl java
+info jvm org artifactori jcr jcrfile getstream jcrfile java
+info jvm
+info jvm caus org apach jackrabbit core state itemstateexcept fail read properti state fb648866 a236 42aa df68f26dd2ad http www jcp org jcr data
+info jvm org apach jackrabbit core persist databasepersistencemanag load databasepersistencemanag java
+info jvm org apach jackrabbit core state shareditemstatemanag loaditemst shareditemstatemanag java
+info jvm org apach jackrabbit core state shareditemstatemanag getnonvirtualitemst shareditemstatemanag java
+info jvm org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+info jvm org apach jackrabbit core state localitemstatemanag getpropertyst localitemstatemanag java
+info jvm org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+info jvm org apach jackrabbit core state xaitemstatemanag getitemst xaitemstatemanag java
+info jvm org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+info jvm org apach jackrabbit core itemmanag createiteminst itemmanag java
+info jvm
+info jvm caus javax jcr repositoryexcept error creat temporari file error 40xd0 contain close error 40xd0 contain close
+info jvm org apach jackrabbit core blobintempfil init blobintempfil java
+info jvm org apach jackrabbit core blobintempfil getinst blobintempfil java
+info jvm org apach jackrabbit core internalvalu getblobfilevalu internalvalu java
+info jvm org apach jackrabbit core internalvalu creat internalvalu java
+info jvm org apach jackrabbit core persist util serial deseri serial java
+info jvm org apach jackrabbit core persist databasepersistencemanag load databasepersistencemanag java
+info jvm
+info jvm caus java ioexcept error 40xd0 contain close
+info jvm org apach derbi impl store raw data overflowinputstream fillbytehold unknown sourc
+info jvm org apach derbi impl store raw data bufferedbyteholderinputstream read unknown sourc
+info jvm java datainputstream read datainputstream java
+info jvm java filterinputstream read filterinputstream java
+info jvm java filterinputstream read filterinputstream java
+info jvm java sequenceinputstream read sequenceinputstream java
+info jvm java inputstream read inputstream java
+info jvm org apach jackrabbit core blobintempfil init blobintempfil java
+info jvm

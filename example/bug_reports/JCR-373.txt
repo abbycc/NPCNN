@@ -1,0 +1,34 @@
+refer incub replac locat
+file branch refer incub benign
+contrib bdb persist project properti
+contrib bdb persist project xml
+contrib bdb persist readm txt
+contrib classload project properti
+contrib classload project xml
+contrib exampl project xml
+contrib extens framework project properti
+contrib extens framework project xml
+contrib jcr command jmeter chain project properti
+contrib jcr command project properti
+contrib jcr command xdoc navig xml
+contrib jcr ext project xml
+contrib jcrtaglib project properti
+contrib orm persist project properti
+contrib orm persist project xml
+jackrabbit applic test cnd reader test input cnd
+jackrabbit project properti
+jackrabbit project xml
+jackrabbit readm txt
+jackrabbit src site fml faq fml
+jackrabbit src site xdoc doc arch overview jcrlevel xml
+jackrabbit src site xdoc doc build xml
+jackrabbit src site xdoc doc config xml
+jackrabbit src site xdoc download xml
+jackrabbit src site xdoc index xml
+jackrabbit src site xdoc task xml
+jackrabbit src test java org apach jackrabbit core nodetyp compact compactnodetypedeftest java
+jca project properti
+jca project xml
+textfilt project properti
+textfilt project xml
+edit sleep tomorrow beat

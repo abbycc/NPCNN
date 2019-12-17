@@ -1,0 +1,32 @@
+access control evalu properli cope transact
+test fail itemnotfoundexcept posit due fact
+parent exist visibl system session respons
+evalu
+public void testtransact throw except
+make testus privileg
+privileg privileg privilegesfromnam privileg jcr
+giveprivileg path privileg getrestrict superus path
+creat node lock
+session gettestsess
+usertransact utx usertransactionimpl
+utx begin
+add node save
+node getnod childnpath
+hasnod nodename1
+node getnod nodename1
+remov
+save
+
+node addnod nodename1
+save
+node addnod nodename2
+save except
+commit
+utx commit
+
+workaround make itemsaveoper persisttransientitem
+retriev parent checkpermiss enabl assum
+item ad parent readabl place care
+evalu requir
+note evalu properli deal transact
+convinc exampl find

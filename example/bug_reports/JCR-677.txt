@@ -1,0 +1,8 @@
+fulltext index jcr uuid properti
+uuid referenc node add index time
+system field uuid
+properti jcr uuid
+part node scope fulltext index
+part jcr uuid properti scope fulltext index
+repositori lot referenc node bloat index add search node uuid prefer equal oper jcr function
+suggest remov fulltext index jcr uuid properti exist index work chang updat node simpli properti jcr uuid fulltext index anymor

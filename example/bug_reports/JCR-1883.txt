@@ -1,0 +1,44 @@
+move node disappear
+move node refresh make disappear
+deletedirectori file repositori
+repositori rep transientrepositori
+session session rep login simplecredenti char
+node root session getrootnod
+node root addnod
+node addnod
+session save
+session move
+refresh fals
+session save effect
+nodeiter root getnod hasnext
+node nextnod
+system println getnam
+nodeiter it2 getnod it2 hasnext
+system println it2 nextnod getnam
+
+
+trunk node 'b' list refresh root page output
+jcr system
+jcr versionstorag
+jcr nodetyp
+
+jackrabbit throw except
+jcr system
+jcr versionstorag
+jcr nodetyp
+
+except thread main javax jcr repositoryexcept fail resolv acee31c4 c33b 4ed4 b1b5 39db6f17fb09
+org apach jackrabbit core hierarchymanagerimpl getnam hierarchymanagerimpl java
+org apach jackrabbit core cachinghierarchymanag getnam cachinghierarchymanag java
+org apach jackrabbit core nodeimpl getnam nodeimpl java
+org apach jackrabbit core fuzz testmoveremoverefresh test testmoveremoverefresh java
+org apach jackrabbit core fuzz testmoveremoverefresh main testmoveremoverefresh java
+void deletedirectori file file
+file isdirectori
+file list file listfil
+int list length
+deletedirectori list
+
+
+file delet
+

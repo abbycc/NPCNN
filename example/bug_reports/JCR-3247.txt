@@ -1,0 +1,2 @@
+sql2 isdescendantnod booleanqueri toomanyclaus return
+initi fix gener fail ad max claus count

@@ -1,0 +1,61 @@
+querymanag createqueri except handl
+queri superus getworkspac getquerymanag
+createqueri select base queri xpath
+produc
+org apach jackrabbit core queri xpath tokenmgrerror lexic error line column encount
+org apach jackrabbit core queri xpath xpathtokenmanag getnexttoken xpathtokenmanag java
+org apach jackrabbit core queri xpath xpath ntk xpath java
+org apach jackrabbit core queri xpath xpath predicatelist xpath java
+org apach jackrabbit core queri xpath xpath axisstep xpath java
+org apach jackrabbit core queri xpath xpath stepexpr xpath java
+org apach jackrabbit core queri xpath xpath relativepathexpr xpath java
+org apach jackrabbit core queri xpath xpath pathexpr xpath java
+org apach jackrabbit core queri xpath xpath valueexpr xpath java
+org apach jackrabbit core queri xpath xpath unaryexpr xpath java
+org apach jackrabbit core queri xpath xpath castexpr xpath java
+org apach jackrabbit core queri xpath xpath castableexpr xpath java
+org apach jackrabbit core queri xpath xpath treatexpr xpath java
+org apach jackrabbit core queri xpath xpath instanceofexpr xpath java
+org apach jackrabbit core queri xpath xpath intersectexceptexpr xpath java
+org apach jackrabbit core queri xpath xpath unionexpr xpath java
+org apach jackrabbit core queri xpath xpath multiplicativeexpr xpath java
+org apach jackrabbit core queri xpath xpath additiveexpr xpath java
+org apach jackrabbit core queri xpath xpath rangeexpr xpath java
+org apach jackrabbit core queri xpath xpath comparisonexpr xpath java
+org apach jackrabbit core queri xpath xpath andexpr xpath java
+org apach jackrabbit core queri xpath xpath orexpr xpath java
+org apach jackrabbit core queri xpath xpath exprsingl xpath java
+org apach jackrabbit core queri xpath xpath forclaus xpath java
+org apach jackrabbit core queri xpath xpath flworexpr xpath java
+org apach jackrabbit core queri xpath xpath exprsingl xpath java
+org apach jackrabbit core queri xpath xpath expr xpath java
+org apach jackrabbit core queri xpath xpath querybodi xpath java
+org apach jackrabbit core queri xpath xpath mainmodul xpath java
+org apach jackrabbit core queri xpath xpath modul xpath java
+org apach jackrabbit core queri xpath xpath querylist xpath java
+org apach jackrabbit core queri xpath xpath xpath2 xpath java
+org apach jackrabbit core queri xpath xpathquerybuild init xpathquerybuild java
+org apach jackrabbit core queri xpath xpathquerybuild createqueri xpathquerybuild java
+org apach jackrabbit core queri querypars pars querypars java
+org apach jackrabbit core queri lucen queryimpl init queryimpl java
+org apach jackrabbit core queri lucen searchindex createexecutablequeri searchindex java
+org apach jackrabbit core queri queryimpl init queryimpl java
+org apach jackrabbit core searchmanag createqueri searchmanag java
+org apach jackrabbit core queri querymanagerimpl createqueri querymanagerimpl java
+org apach jackrabbit test api queri illegalxpathtest testillegalstat illegalxpathtest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+junit framework testcas runtest testcas java
+junit framework testcas runbar testcas java
+junit framework testresult protect testresult java
+junit framework testresult runprotect testresult java
+junit framework testresult run testresult java
+junit framework testcas run testcas java
+org apach jackrabbit test abstractjcrtest run abstractjcrtest java
+junit framework testsuit runtest testsuit java
+junit framework testsuit run testsuit java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn run remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn main remotetestrunn java

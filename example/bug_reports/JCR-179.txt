@@ -1,0 +1,38 @@
+proppatch simpl webdav server fail forbidden error
+configur import collect chain call mkcol add node node type dav collect defin
+nodetypenam
+dav collect
+supertyp
+folder
+ismixin
+fals
+hasorderablechildnod
+fals
+primaryitemnam
+null
+propertydef
+
+requiredtyp undefin
+defaultvalu null
+autocr fals
+mandatori fals
+onparentvers copi
+protect fals
+multipl fals
+propertydef
+
+requiredtyp undefin
+defaultvalu null
+autocr fals
+mandatori fals
+onparentvers copi
+protect fals
+multipl true
+idea set arbitrari webdav properti singl multi webdav collect
+cadav mkcol collect creat jcr node type dav collect propset arbitrari properti collect understand set jcr properti dav collect node forbidden error
+dav home mkcol
+creat hi' succeed
+dav home propset
+set properti hi' fail
+forbidden
+clear cadav incorrectli misunderstand proppatch implement

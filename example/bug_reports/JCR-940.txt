@@ -1,0 +1,2 @@
+add connect autoconnect bundledbpersistencemanag
+bundl inherit databas reconnect databas bounc nice add featur

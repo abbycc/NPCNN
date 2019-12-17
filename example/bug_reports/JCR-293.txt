@@ -1,0 +1,4 @@
+properti setvalu inputstream close stream
+properti setvalu inputstream method set properti inputstream method close stream complet read nice situat imho standard behaviour stream consum close stream
+special case unpack content zip file zipinputstream stream content zip file entri properti zipinputstream close jackrabbit rest file read
+workaround give origin inputstream method creat fileinputstream wrapper overwrit close method

@@ -1,0 +1,3 @@
+filter jcr properti jcr server
+attach patch implement jcr properti filter jcr server node resourc filter default filter configur effect filter jcr creat jcr mixintyp jcr primarytyp folder file node
+expect default behavior webdav server return normal dav properti live properti defin dead properti defin client jcr intern properti intent purpos implement specif

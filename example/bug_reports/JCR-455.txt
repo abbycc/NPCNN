@@ -1,0 +1,5 @@
+internalxaresourc rollback call prepar
+prepar phase transact context resourc 'prepared' fail prepar rest rolledback rolledback
+resourc prepar roll back cleanup stuff
+resource' rollback call
+resourc buggi handl case correctli

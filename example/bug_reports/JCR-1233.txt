@@ -1,0 +1,3 @@
+creat org apach jackrabbit core
+creat separ packag identifi interfac class jackrabbit core identifi org apach jackrabbit core make packag depend core troubl packag level code qualiti depend analysi tool
+packag itemid nodeid propertyid class

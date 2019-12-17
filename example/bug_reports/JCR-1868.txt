@@ -1,0 +1,23 @@
+inconsist state remov mix lockabl lock node
+lock holder remov mix lockabl lock node lock relat properti remov
+lock live present node
+expect
+remov mix lockabl allow
+lock automat releas
+test code
+public void testremovemixlockablefromlockednod throw repositoryexcept
+node testrootnod addnod nodename1
+addmixin mixlock
+testrootnod save
+lock lock true true
+removemixin mixlock
+save
+assertfals isnodetyp mixlock
+assertfals isliv lock live
+assertfals islock node lock
+list token arrai aslist superus getlocktoken
+assertfals token getlocktoken session token
+assertfals hasproperti jcrlockown prop remov
+assertfals hasproperti jcrlockisdeep prop remov
+unlock lockexcept node lockabl
+

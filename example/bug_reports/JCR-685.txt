@@ -1,0 +1,25 @@
+remov synchron cachingnamespaceresolv
+method getqnam getjcrnam unnecessarili synchron monitor content concurr call method namecach interfac synchron
+propos chang
+index cachingnamespaceresolv java
+
+cachingnamespaceresolv java revis
+cachingnamespaceresolv java work copi
+
+
+deprec link nameformat pars string namespaceresolv
+
+public synchron qname getqnam string
+public qname getqnam string
+throw illegalnameexcept unknownprefixexcept
+return nameformat pars
+
+
+
+deprec link nameformat format qname namespaceresolv
+
+public synchron string getjcrnam qname
+public string getjcrnam qname
+throw noprefixdeclaredexcept
+return nameformat format
+

@@ -1,0 +1,46 @@
+problem child order restor parent
+sequenc lead swap child node mention trunk version work
+specif
+add node
+parent
+childa
+childb
+remov childa
+parent
+childb
+restor initi version
+parent
+childb
+childa
+parent node type unstructur carri
+orderablechildnod true assum restor order
+preserv
+cheer
+tanju
+
+testcas derbi inmempm boil sens
+add parent childa childb
+node parent session getrootnod addnod parent unstructur
+parent addmixin mix version
+node parent addnod childa unstructur
+addmixin mix version
+node parent addnod childb unstructur
+addmixin mix version
+session save
+checkin
+checkin
+version parent checkin
+parent getnod childa childb
+remov childa
+parent session getrootnod getnod parent
+parent checkout
+parent getnod nextnod
+checkout
+remov
+session save
+version parent checkin
+parent getnod childa childb
+remov childa
+parent session getrootnod getnod parent
+parent restor true
+parent getnod childb childa

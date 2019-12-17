@@ -1,0 +1,2 @@
+consistencycheck memori
+consist check load lucen document memori larg repositori lead outofmemoryerror consist check read lucen document demand discard

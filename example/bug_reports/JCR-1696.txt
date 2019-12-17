@@ -1,0 +1,2 @@
+add plaintextextractor default configur transientrepositori
+current default configur transientrepositori includ plaintextextractor mean resourc type text plain fulltext index plaintextextractor ad configur

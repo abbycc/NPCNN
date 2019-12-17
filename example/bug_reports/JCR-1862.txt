@@ -1,0 +1,6 @@
+jcr2spi transient remov mandatori item throw constraintviolationexcept
+report tobi
+transient remov mandatori protect item immedi fail
+check postpon save call perfectli legal remov mandatori item add
+suggest fix
+itemstatevalid checkremoveconstraint check protect ignor mandatori definit

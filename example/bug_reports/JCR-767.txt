@@ -1,0 +1,5 @@
+maven depend manag
+jackrabbit compon depend extern librari
+version ideal jackrabbit compon guarante
+deped version simplifi deped manag
+start maven depedencymanag featur jackrabbit parent pom

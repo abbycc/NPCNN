@@ -1,0 +1,2 @@
+spi descript path isdescendantof path
+descript path isdescendantof list reason illegalargumentexcept repositoryexcept isancestorof mistak

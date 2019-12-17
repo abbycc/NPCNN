@@ -1,0 +1,8 @@
+patch simplifi convers string primit parsexxx valueof xxx xxxvalu
+code convert string primit step process
+boolean valueof mystr booleanvalu
+simplifi
+boolean parseboolean mystr
+true float doubl int
+case avoid alloc temporari box object
+patch fix

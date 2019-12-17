@@ -1,0 +1,3 @@
+implement backup tool
+issu track progress googl summer code project assign nicola toper origin project requir
+implement tool back restor content apach jackrabbit content repositori addit basic content hierarchi tool effici manag binari content node version histori custom node type namespac map increment select backup nice addit strictli

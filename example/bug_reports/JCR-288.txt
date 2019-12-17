@@ -1,0 +1,18 @@
+inconsist session state item session save throw referentialintegrityexcept
+issu report tomasz dabrowski cognifid jackrabbit dev list
+code fragment reproduc issu
+setup test case
+node parent root addnod unstructur
+node child1 parent addnod unstructur
+child1 addmixin mix referenc
+node child2 parent addnod unstructur
+child2 setproperti ref child1
+root save
+perform test
+
+child1 remov
+parent save
+catch referentialintegrityexcept rie
+expect child1 referenc properti ref child2
+
+parent remov succe throw itemnotfoundexcept

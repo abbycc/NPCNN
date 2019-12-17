@@ -1,0 +1,3 @@
+spi common queri sql2 parsertest platform encod ascii charact
+parsertest class load seri test sql statement test sql2 txt ascii charact good test file read default platform encod break linux base test build
+recod file utf explicitli encod file read

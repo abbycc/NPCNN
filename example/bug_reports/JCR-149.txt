@@ -1,0 +1,2 @@
+textfilt implement project contrib
+afaik textfilt ján hala ad case creat project contrib implement order avoid ad depend core distribut

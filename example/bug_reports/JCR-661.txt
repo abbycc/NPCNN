@@ -1,0 +1,4 @@
+rmic work subproject compil parent maven2
+bug child build ant plugin inherit plugin depend time plugin declar
+workaround put antrun plugin toplevel add java jar plugin depend
+refer http mail archiv apach org mod mbox maven user mbox 3cc2cdefbecfc9a14892bccfb4c95f4868044f8230 mail navisit

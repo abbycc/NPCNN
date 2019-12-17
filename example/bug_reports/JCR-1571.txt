@@ -1,0 +1,32 @@
+davmethodbas getresponseexcept fail bodi valid xml
+set jcr webdav server custom remot client
+notic thing anytim request node exist error back server
+fatal error element type termin match end tag
+javax jcr repositoryexcept element type termin match end tag element type termin match end tag
+make sens handl
+problem
+partial popul repositori root node
+
+ibm
+creat node type folder
+mycompani folder1
+problem creat exist end
+mycompani folder1
+ahead parentnod hasnod foldernam method
+method return true portion test mycompani folder return fals error respons shown server
+webdav request
+propfind jackrabbit server default jcr 3aroot mycompani
+snippet code
+privat node createfold session session node parentnod list string folder
+throw repositoryexcept
+node foldernod null
+string folder folder
+parentnod hasnod folder
+foldernod parentnod getnod folder
+
+foldernod parentnod addnod folder folder
+parentnod foldernod
+
+session save
+return foldernod
+

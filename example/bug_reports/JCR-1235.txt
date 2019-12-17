@@ -1,0 +1,11 @@
+core integr preparetestrepositori fail 2nd subsequ invoc
+consol output
+
+test set org apach jackrabbit core integr preparetestrepositori
+
+test run failur error skip time elaps sec failur
+testpreparetestrepositori org apach jackrabbit core integr preparetestrepositori time elaps sec error
+javax jcr repositoryexcept invalid node type definit http www apach org jackrabbit test version exist http www apach org jackrabbit test version exist
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit core integr preparetestrepositori testpreparetestrepositori preparetestrepositori java

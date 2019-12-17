@@ -1,0 +1,2 @@
+queri throw arrayindexoutofboundsexcept
+bug descendantselfaxisqueri descendantselfaxisscor skipto except

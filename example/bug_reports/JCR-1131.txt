@@ -1,0 +1,32 @@
+jcr2spi nodeentryimpl throw npe reordernod
+folder node creat root root node 2nd folder order node request batch correctli save nodeentryimpl throw nullpointerexcept line completetransientchang method revertinfo oldpar null
+test code
+final string folder1 folder1 folder2 folder2
+creat folder server root
+session serversess login repositori cred
+node serverrootnod serversess getrootnod
+node serverfolder1 serverrootnod addnod folder1 folder
+creat folder server root
+node serverfolder2 serverrootnod addnod folder2 folder
+serversess save
+valid order todo
+perform reorder client
+session clientsess login clientrepositori cred
+node clientrootnod clientsess getrootnod
+clientrootnod orderbefor folder2 folder1
+clientsess save throw npe
+call stack
+junit java lang nullpointerexcept
+junit org apach jackrabbit jcr2spi hierarchi nodeentryimpl completetransientchang nodeentryimpl java
+junit org apach jackrabbit jcr2spi hierarchi nodeentryimpl access nodeentryimpl java
+junit org apach jackrabbit jcr2spi hierarchi nodeentryimpl revertinfo statuschang nodeentryimpl java
+junit org apach jackrabbit jcr2spi state itemst setstatu itemst java
+junit org apach jackrabbit jcr2spi state nodest adjustnodest nodest java
+junit org apach jackrabbit jcr2spi state nodest persist nodest java
+junit org apach jackrabbit jcr2spi state changelog persist changelog java
+junit org apach jackrabbit jcr2spi workspacemanag execut workspacemanag java
+junit org apach jackrabbit jcr2spi state sessionitemstatemanag save sessionitemstatemanag java
+junit org apach jackrabbit jcr2spi itemimpl save itemimpl java
+junit org apach jackrabbit jcr2spi sessionimpl save sessionimpl java
+junit testwsnodereord testreordernod testwsnodereord java
+spi implement conjunct jcr2spi spi2jcr bridg coupl back end jackrabbit memori filesystem possibl node properti spi call inject error downstream problem

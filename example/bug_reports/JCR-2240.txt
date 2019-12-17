@@ -1,0 +1,6 @@
+binari leav temp file
+call leav temp file delet
+inputstream
+valuefactori
+createbinari dispos
+datastor disabl

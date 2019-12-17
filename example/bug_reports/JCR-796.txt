@@ -1,0 +1,2 @@
+abstractquerytest handl unknown result size properli
+node rowiter getsiz return method abstractquerytest checkresult count node iter manual

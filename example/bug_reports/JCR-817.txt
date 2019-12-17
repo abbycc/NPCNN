@@ -1,0 +1,7 @@
+tck properti type
+tck test configur node type properti name test specif properti type account repositori support specif properti type similar issu jcr multipl workspac support
+jsr bit fuzzi requir type requir type exist settabl node type practic repositori support refer properti builtin nodetyp version storag
+configur test specif properti type test left possibl
+reserv special properti case test skip properti type support
+add config flag
+arguabl cleaner approach avoid introduc configur paramet lean feedback appreci

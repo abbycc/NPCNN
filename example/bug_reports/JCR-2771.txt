@@ -1,0 +1,8 @@
+simplifi repositori uri format jndi lookup
+jndirepositoryfactori class jcrutil support repositori uri format
+jcrutil getrepositori jndi repositori
+jcrutil getrepositori jndi org apach jackrabbit repositori jndi repositori paramet
+uri format extra jndi environ set pass pretti verbos simpli ignor author path part uri
+add support simplifi format make easi provid repositori initi context factori look
+jcrutil getrepositori jndi initi context factori repositori
+extra jndi environ set includ addit queri paramet backward compat previou format guarante base presenc absenc org apach jackrabbit repositori jndi paramet hierarch uri

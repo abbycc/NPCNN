@@ -1,0 +1,7 @@
+xatest error commit thread xid block
+test error server work
+testdistributedthreadaccess org apach jackrabbit core xatest time elaps sec error
+javax transact systemexcept commit thread xid block
+org apach jackrabbit core usertransactionimpl commit usertransactionimpl java
+org apach jackrabbit core xatest testdistributedthreadaccess xatest java
+system specif issu error local hudson

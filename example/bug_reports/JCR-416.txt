@@ -1,0 +1,14 @@
+webdav simpl deleg proppatch extend iohandl
+complet descript
+http articl gmane org gmane comp apach jackrabbit devel
+propos solut
+
+situat lead conclus
+iohandl read write resourc data properti put propfind
+care set remov properti proppatch
+previou suggest limit properti jcr encod jcr mimetyp
+jcr lastmodifi chang default nodetyp jcr content node
+unstructur
+guess meet requir expect webdav server step
+limit proppatch handl properti modif
+specif individu resourc type set properti uppermost node

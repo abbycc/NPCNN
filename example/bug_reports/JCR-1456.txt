@@ -1,0 +1,2 @@
+databas connect pool
+jackrabbit databas connect pool singl connect persist manag cluster journal databas data store

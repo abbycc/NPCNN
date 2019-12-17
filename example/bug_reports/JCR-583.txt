@@ -1,0 +1,7 @@
+tck nodereadmethodstest testgetnam fail npe 'testroot' child node
+'testgetname' assert childnod field popul setup
+reason test data provid singl childnod test root test fail nullpoint
+except
+suggest assert testgetpath throw notexecutableexcept case
+miss child node
+patch attach

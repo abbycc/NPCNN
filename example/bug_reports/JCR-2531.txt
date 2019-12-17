@@ -1,0 +1,2 @@
+jcr rmi problem larg binari valu
+report mail list jcr rmi connect hang binari larger default 64kb buffer size

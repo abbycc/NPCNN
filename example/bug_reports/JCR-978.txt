@@ -1,0 +1,9 @@
+remov circular depend versionmanagerimpl versionitemstateprovid
+architectur perspect versionmanagerimpl vmgr higher level versionitemstateprovid visp vmgr deal item visp deal itemst object nonetheless visp refer vmgr call method setnoderefer violat rule strictli layer system neg effect deadlock jcr make hard solv jcr
+attach patch includ
+move method versionmanagerimpl setnoderefer versionitemstatemanag method oper itemst versionmanagerimpl current method directli call peristencemanag locat lower layer
+promot class versionitemstatemanag top level class
+chang method versionmanagerimpl createsharedstatemanag return versionitemstatemanag
+remov versionmanagerimpl instanc variabl versionitemstateprovid
+versionitemstateprovid setnoderefer call versionitemstatemanag setnoderefer
+persistencemanag versionmanagerimpl getitemrefer itemstatemanag lock method

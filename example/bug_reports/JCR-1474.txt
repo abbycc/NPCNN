@@ -1,0 +1,6 @@
+consist check fail derbypm bundl size exce 32k
+due 'problem' derbi derbi interleav read bundl larger 32k result error
+error xj073 data blob clob longer
+blob clob transact commit
+connect close
+issu address jcr fix consist check

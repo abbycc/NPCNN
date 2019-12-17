@@ -1,0 +1,12 @@
+importxml depend xerc
+przemo pakulski comment jcr
+jackrabbit core depend xerc directli runtim sessionimpl importworkspac
+workspacempl importworkspac method folliwng line
+
+xmlreader parser
+xmlreaderfactori createxmlread org apach xerc parser saxpars
+
+work maven1 maven1 xerc run test goal
+
+suggest reopen issu
+creat issu jcr close releas

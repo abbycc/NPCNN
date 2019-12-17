@@ -1,0 +1,3 @@
+spi2davex srcworkspacenam build srcpath clone copi
+spi2davex simpl workaround miss clone cross workspac copi spi2dav
+src workspac build src path

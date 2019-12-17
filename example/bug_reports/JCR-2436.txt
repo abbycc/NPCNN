@@ -1,0 +1,12 @@
+webdav' propertydefinitionimpl' toxml attach queri oper element return dom
+propertydefinitionimpl toxml
+jcr extens
+element qopelem document createel queri oper element
+string qop getavailablequeryoper
+int qop length
+element opelem document createel queri oper element
+domutil settext opelem qop
+qopelem appendchild opelem
+
+return elem
+attach qopelem return dom

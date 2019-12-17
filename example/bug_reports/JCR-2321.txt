@@ -1,0 +1,24 @@
+zombiehierarchymanag return wrong child node entri replac node
+zombiehierarchymanag implement getchildnodeentri method
+child node overlai state remov child node
+found super implement child node date list
+purpos zombiehm return remov item id attic behavior imo wrong find exist child node
+child node super implement child node date list
+found overlai state remov
+reproduc issu replac node note custom access manag explain creat replac subnod structur save session remov replac node add replac replac subnod
+node rootnod session getrootnod
+creat structur replac subnod
+node test rootnod addnod replac
+test addnod subnod
+persist
+session save
+remov node recreat
+test remov
+test rootnod addnod replac
+creat previou child
+test addnod subnod
+except
+test getnod subnod getnod
+complic thing trigger custom access manag base jackrabbit back pre secur stuff era access manag zombiehm hierarchi manag implement call resolvepath check read access final getnod call tree travers getchildndeentri nodest int method node fail retriev real item state manag
+jackrabbit code work fine zombiehm
+fix check zombiehm current trunk test explicit implicit changelogbasedhierarchymgr sessionitemstatemanag getdescendanttransientitemst nodeid itemimpl validatetransientitem iter itemst iter itemst sessionitemstatemanag getdescendanttransientitemstatesinatt nodeid

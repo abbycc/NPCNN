@@ -1,0 +1,20 @@
+jcr basevers updat base version remov version histori
+session repo login simplecredenti user1 pwd1 tochararrai
+node root1 getrootnod
+node test1 root1 addnod test
+test1 addmixin mix version
+save
+system println test1 getproperti jcr basevers getvalu getstr
+test1 checkin
+system println test1 getproperti jcr basevers getvalu getstr
+test1 getversionhistori removevers
+base version updat
+system println test1 getproperti jcr basevers getvalu getstr
+line throw itemnotfoundexcept
+test1 getbasevers
+javax jcr itemnotfoundexcept c33bf049 c7e1 4b34 968a 63ff1b1113b0
+org apach jackrabbit core itemmanag createiteminst itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core propertyimpl getnod propertyimpl java
+org apach jackrabbit core nodeimpl getbasevers nodeimpl java
+org apach jackrabbit core removeversiontest main removeversiontest java

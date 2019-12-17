@@ -1,0 +1,4 @@
+accesscontrolmanag geteffectivepolici string expos content proper permiss
+implement accesscontrolmanag geteffectivepolici string defaultaccessmanag check session allow
+read content path result includ polici effect abspath visibl edit
+session read permiss deni ancestor node read edit session mean getpolici

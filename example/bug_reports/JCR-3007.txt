@@ -1,0 +1,29 @@
+setproperti access control evalu properli cope transact
+instanc problem acl evalu transact http issu apach org jira brows jcr
+case propertyimpl getpar call propertyimpl checksetvalu check read permiss uncommit parent fail itemnotfound except
+problem reproduc test
+public void testtransact throw except
+make testus privileg
+privileg privileg privilegesfromnam privileg jcr
+giveprivileg path privileg getrestrict superus path
+creat node lock
+session gettestsess
+usertransact utx usertransactionimpl
+utx begin
+add node save
+node getnod childnpath
+hasnod nodename1
+node getnod nodename1
+remov
+save
+
+creat node save
+node addnod nodename1
+save node failur
+set properti child node uncommit parent
+setproperti propertyname1 testsetproperti
+save fail propertyimpl getpar call propertyimpl checksetvalu
+check read permiss commit parent
+commit
+utx commit
+

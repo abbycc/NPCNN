@@ -1,0 +1,2 @@
+creat jackrabbit parent
+jackrabbit compon top level multi modul pom parent pom share common build set plan mix compon releas model increas version number top level pom affect individu compon move share set explicit jackrabbit parent compon top level pom simpli multi modul contain

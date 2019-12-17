@@ -1,0 +1,8 @@
+javacc maven plugin version jackrabbit core pom file
+notic pom xml file jackrabbit core project version javacc maven plugin take snapshot compil put version work fine
+plugin
+groupid org codehau mojo groupid
+artifactid javacc maven plugin artifactid
+version version
+execut
+work revis april est

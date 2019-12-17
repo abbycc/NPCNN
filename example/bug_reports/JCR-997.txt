@@ -1,0 +1,2 @@
+valuefactori extens
+jackrabbit valuefactori implement gener base class jackrabbit jcr common base class reus spi

@@ -1,0 +1,21 @@
+itemst constructor throw illegalargumentexcept
+run concurrentreadwritetest happen read session illegalargumentexcept
+except thread thread java lang illegalargumentexcept illeg statu
+org apach jackrabbit core state itemst init itemst java
+org apach jackrabbit core state propertyst init propertyst java
+org apach jackrabbit core state localitemstatemanag getpropertyst localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag getitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit core itemmanag createiteminst itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core lazyitemiter prefetchnext lazyitemiter java
+org apach jackrabbit core lazyitemiter init lazyitemiter java
+org apach jackrabbit core itemmanag getchildproperti itemmanag java
+org apach jackrabbit core nodeimpl getproperti nodeimpl java
+org apach jackrabbit core concurrentreadwritetest execut concurrentreadwritetest java
+org apach jackrabbit core abstractconcurrencytest executor run abstractconcurrencytest java
+java lang thread run thread java
+statu statu undefin read session retriev itemst shareditemstatemanag valid short time write session remov item statu statu undefin read session creat overlai itemst localitemstatemanag chang statu
+ad statu undefin list 'valid' statu itemst constructor solv issu
+opinion

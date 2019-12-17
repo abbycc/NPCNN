@@ -1,0 +1,2 @@
+implement persist event eventjourn
+http www dai spec jcr observ html 20event 20bundl 20in 20journal 20observ

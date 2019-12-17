@@ -1,0 +1,3 @@
+creat jackrabbit api jar respect jackrabbit rmi extens
+manag function cover jcr notetyp manag workspac creation expos specif api therfor access rmi
+creat jackrabbit api respect rmi extens

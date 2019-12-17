@@ -1,0 +1,3 @@
+enumer qom oper
+pfd version queryobjectmodelconst incorrect constant valu make unus sourc oper constant
+java propos ad replac constant string implement type safe oper enumer fix version oper constant declar queryobjectmodelconst

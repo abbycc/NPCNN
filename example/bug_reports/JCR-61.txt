@@ -1,0 +1,8 @@
+docview import fail attribut childelem
+docimport fail element attribut parent element
+
+xml version encod utf
+featur plugin foobar
+plugin test plugin
+featur
+import result itemexistsexcept 'plugin'

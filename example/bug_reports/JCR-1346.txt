@@ -1,0 +1,8 @@
+internalvalu createcopi binari properti jcr data problem
+run data store configur option org jackrabbit usedatastor set true code properti length
+node root getnod relpath
+session getworkspac copi getpath destpath
+node contentnod getnod jcrconstant jcr content
+properti contentnod getproperti jcrconstant jcr data
+system println length getlength
+internalvalu createcopi check data store return sourc node' state bundlebind writest call blobinmemori discard persist node chang exist node properti set option org jackrabbit usedatastor fals work fine possibl check binari properti type internalvalu createcopi

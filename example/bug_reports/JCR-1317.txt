@@ -1,0 +1,2 @@
+add mbean method programat creat workspac
+mbean method creat workspac jmx consol

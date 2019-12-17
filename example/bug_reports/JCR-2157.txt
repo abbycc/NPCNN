@@ -1,0 +1,2 @@
+sql2 parser support cast
+cast data convers implement string decim

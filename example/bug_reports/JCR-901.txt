@@ -1,0 +1,5 @@
+support synonym search
+jackrabbit support synonym search jcr function googl
+
+element resourc jcr food'
+find resourc node word food synonym food

@@ -1,0 +1,3 @@
+reduc memori usag transient node
+ad lot transient node child node leaf attach patch initi nodest childnodeentri unmodifi empti childnodeentri instanc turn modifi need
+run test 100k node children node memori consumpt child node entri drop 42mb 12mb patch

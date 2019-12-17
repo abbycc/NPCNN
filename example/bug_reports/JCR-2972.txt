@@ -1,0 +1,2 @@
+set propertyinfobuild nodeinfobuild
+properti properti node set builder creat suggest add method set name

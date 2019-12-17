@@ -1,0 +1,29 @@
+util method jcrutil
+add util method jcrutil
+log
+util method simplifi log messag debug print
+node type
+properti
+string tostr item item
+make node exist
+return identifi child node child exist
+ad default node type parent
+node setnod node parent string
+ensur isnodetyp type true
+return node addnod type setprimarytyp type
+need
+node setnod node parent string string type
+ad set folder node
+add folder node
+node addfold node parent string
+ensur folder node exist
+node setfold node parent string
+ad set file node
+add file resourc structur
+mime type charset paramet jcr encod properti set
+node addfil node parent string string mime inputstream data
+node addfil node parent string string mime calendar date inputstream data
+ensur file resourc structur exist data
+note type potenti exist jcr content node modifi
+node setfil node parent string string mime inputstream data
+node setfil node parent string string mime calendar date inputstream data

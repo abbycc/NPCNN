@@ -1,0 +1,5 @@
+userimport user changepassword
+userimport list limit password expect hash write
+retriev xml import
+make user changepassword implement present creat
+hash password found plain text

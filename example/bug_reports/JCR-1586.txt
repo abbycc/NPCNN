@@ -1,0 +1,14 @@
+creat org apach jackrabbit api jsr283 jackrabbit api move futur jsr283 interfac class
+discuss mail list
+implement featur jsr283 start
+suggest put jsr283 interfac jackrabbit api
+core figur
+inter modul depend issu peopl start experiment
+featur api cast object core
+interfac
+suggest 'org apach jackrabbit api jsr283' base packag
+jsr283 interfac class
+
+org apach jackrabbit api jsr283 nodetyp nodedefinitiontempl
+futur javax jcr nodetyp nodedefinitiontempl
+jcr2 releas drop interim interfac

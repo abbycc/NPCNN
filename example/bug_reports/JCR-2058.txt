@@ -1,0 +1,7 @@
+jsr versionmanag version method
+jsr introduc interfac versionmanag expos version function present node workspac
+addit method
+checkpoint string abspath version
+merg string abspath string srcworkspac boolean besteffort boolean isshallow nodeiter
+merg node activitynod nodeiter
+issu jcr activ configur featur

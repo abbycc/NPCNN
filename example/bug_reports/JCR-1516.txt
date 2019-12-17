@@ -1,0 +1,2 @@
+add compact namespac node type definit support spi common
+add support read write compact namespac node type definit cnd file spi common

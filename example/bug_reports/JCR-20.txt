@@ -1,0 +1,4 @@
+log repositori big version histori take long time
+wenn sessionimpl instanc creat versionmanag getvirtualitemstateprovid method call method thing load complet version histori memori walk map
+take long time minut version histori persistentversionmanag getversionhistori map version histori ultim result outofmemoryerror
+version histori small fraction expect final number version histori applic

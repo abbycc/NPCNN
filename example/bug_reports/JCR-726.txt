@@ -1,0 +1,2 @@
+improv nodetyperegistri effectivenodetyp
+current geteffectivenodetyp implement minor bug prevent proper cach nodetyp combin perform enhanc made effect node type cach

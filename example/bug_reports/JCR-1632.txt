@@ -1,0 +1,11 @@
+mixin type loss
+bundl persist manag mixin type inform corrupt lucen index caus queri element mixin fail
+problem 'jcr mixintypes' store bundl happen
+step creat node add mixin 'a'
+everything' fine queri element 'a' work
+step select node add mixin 'b'
+mixin ad abstractbundlepersistencemanag load propertyid call current mixin node method store propertyst 'jcr mixintypes' bundl mixin 'a' nodeimpl setmixintypesproperti set propertyst 'jcr mixintypes' node state mixin 'a' 'b'
+session save changelog abstractbundlepersistencemanag store modif 'jcr mixintypes' leav bundl mixin 'a' nodeindex node state mixin type index node correctli queri element 'a' element 'b' work
+thrid step select node updat properti
+session save nodeindex ask 'jcr mixintypes' properti call abstractbundlepersistencemanag load propertyid load bundl properti return mixin 'a' store step caus index mixin 'a' queri element 'a' work element 'b' work anymor
+simpl solut store propertyst 'jcr mixintypes' 'jcr uuid' 'jcr primarytype' class descript state bundl propertyst load fix issu content exist repositori repositori fix read write properti bundlebind readbundl bundlebind writebundl method wether perform impact

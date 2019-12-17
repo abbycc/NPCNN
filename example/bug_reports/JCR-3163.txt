@@ -1,0 +1,16 @@
+npe repositoryserviceimpl getpropertyinfo
+unknown condit npe properti info 'getvalu getstr dav properti null
+prop jcr string
+singl valu binari properti
+string str prop jcr string getvalu tostr
+qvalu qvalu valueformat getqvalu str propertytyp getnamepathresolv sessioninfo getqvaluefactori sessioninfo
+return propertyinfoimpl propertyid propertytyp qvalu
+
+properti propset
+getstr null
+type string
+length
+properti question properti node empti string error occur usag pattern consist depend fetch depth intern cach
+extend check
+prop jcr string prop jcr string getvalu null
+solv problem

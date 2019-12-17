@@ -1,0 +1,2 @@
+replac common log depend slf4j
+poi depend jackrabbit text extractor bring transit depend common log slf4j log exclud common log depend replac jcl104 slf4j

@@ -1,0 +1,12 @@
+repositoryfactori implement jcr2spi
+repositoryfactori implement jcr2spi cover acquir underli repositoryservic
+purpos suggest creat
+repositoryservicefactori jackrabbit spi encapsul spi implement specifc instanti repositoryservic factori singl method take paramet map
+repositoryfactori implement jcr2spi work uri requir inform connect acquir repositoryservic
+jcr2spi spi2jcr jackrabbit core
+jcr file path repositori home config repositori xml
+jcr2spi spi2dav
+jcr dav localhost server repositori
+jcr2spi spi2davex
+jcr davex localhost server repositori
+implement repositoryservicefactori check scheme decid handl creat repositoryservic instanc return null mean singl connect uri repositoryservicefactori implement

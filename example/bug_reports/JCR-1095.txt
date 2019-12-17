@@ -1,0 +1,2 @@
+referencespropertytest deal multivalu refer properti
+setup method prop getnod assum refer properti multivalu

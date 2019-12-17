@@ -1,0 +1,11 @@
+binari throw nullpointerexcept
+precondit repositori datastor disabl
+step reproduc
+creat binari stream
+set binari properti
+dispos binari
+binari properti dispos immedi
+
+binari dispos throw nullpointerexcept execut time
+except thrown properti save
+attach test

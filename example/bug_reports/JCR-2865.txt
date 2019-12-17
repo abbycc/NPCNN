@@ -1,0 +1,14 @@
+dead lock defaultismlock
+jackrabbit org apach jackrabbit core state defaultismlock defect dead lock concurr case
+case
+thread appli read lock activ reader hold read lock
+thread appli write lock thread wait thread read end code snippet jackrabbit sourc readercount current activ reader
+writerswait
+writerid null issamethreadid writerid currentid readercount
+wait
+
+thread appli read lock wait writer wait dead lock
+writerid null writercount issamethreadid writerid currentid writerswait
+wait
+
+lock defaultismlock global lock thread hold reader lock reader lock creat fix idea

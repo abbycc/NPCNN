@@ -1,0 +1,2 @@
+publish jackrabbit ocm dtd
+jackrabbit ocm dtd jackrabbit ocm src dtd made refer jackrabbit web site

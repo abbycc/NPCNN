@@ -1,0 +1,2 @@
+incomplet jcr fix bindablerepositori
+jcr fulli merg trunk branch due typo commit messag revis result bindablerepositori subclass bit cumbersom implement hope fix subclass written partial fulli merg jcr fix work

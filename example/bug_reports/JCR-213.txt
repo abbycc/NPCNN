@@ -1,0 +1,4 @@
+avoid creation jackrabbit instanc configur
+base mail list archiv user run jackrabbit instanc configur propos lock repositori creat empti file call lock repositori home startup remov shutdown
+lock file found jackrabbit startup messag log
+repositori home home getabsolutepath appear delet file lock getabsolutepath repositori shutdown properli

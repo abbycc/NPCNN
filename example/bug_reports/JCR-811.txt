@@ -1,0 +1,4 @@
+setpropertyassumetypetest check protect string arrai properti
+setpropertyassumetypetest testvaluesconstraintviolationexceptionbecauseofinvalidtypeparamet find properti definit writabl multivalu string properti consult nodetypeutil locatepropertydef purpos
+setup properti definit return jcr valueconstraint defin propertydefinit node type turn creat test node test fail creat node
+test suit smart chang node type properti configur paramet

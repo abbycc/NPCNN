@@ -1,0 +1,3 @@
+namespaceregistrytest make assumpt legal name
+org apach jackrabbit test api namespaceregistrytest testregisternamespac make assumpt namespac regist node practic repositori restrict node name support namespac prefix node name
+propos chang test case independ repository' abil creat node namespac

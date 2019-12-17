@@ -1,0 +1,2 @@
+tck nodereadmethodstest testgetprimaryitemitemnotfoundexcept select wrong test data
+method locatenodewithoutprimaryitem locat recurs node defin primari item method call intern locatenodewithprimaryitem locatenodewithoutprimaryitem

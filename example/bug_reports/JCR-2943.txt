@@ -1,0 +1,3 @@
+usermanag membership cach default size small
+membership cach introduc jcr make lrumap cach group membership authoriz nodeid group nodeid environ user belong group cach quickli ineffect due default maximum size lrumap
+cach limit hit expens node getweakrefer api call result search queri execut lead notic perform drop suggest make membership cach configur introduc logic cach grow dynam need kind hard limit avoid memori issu

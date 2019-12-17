@@ -1,0 +1,23 @@
+usermanag concurr user creation intermedi path fail
+concurr creat user intermedi path fail node modifi extern
+problem intermedi path exist multipl thread creat concurr
+jackrabbit core secur user usermanagerimpl line 1310ff
+string segmt defaultpath split
+nodeimpl folder nodeimpl session getrootnod
+string authroot isgroup groupspath userspath
+string segment segmt
+segment length
+continu
+
+folder hasnod segment
+folder nodeimpl folder getnod segment
+text isdescendantorequ authroot folder getpath
+folder isnodetyp rep authoriz folder
+throw constraintviolationexcept invalid intermedi path type rep authorizablefold
+
+
+node parent folder
+folder addnod folder session getqnam segment rep authoriz folder
+
+
+attach test case illustr issu

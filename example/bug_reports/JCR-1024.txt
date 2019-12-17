@@ -1,0 +1,2 @@
+load root node definit requir
+root node definit load session log

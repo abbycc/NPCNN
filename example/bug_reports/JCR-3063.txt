@@ -1,0 +1,17 @@
+nullpointerexcept itemmanag
+lot occur
+java lang nullpointerexcept
+org apach jackrabbit core itemmanag getdefinit itemmanag java
+org apach jackrabbit core itemdata getdefinit itemdata java
+org apach jackrabbit core abstractnodedata getnodedefinit abstractnodedata java
+org apach jackrabbit core nodeimpl getdefinit nodeimpl java
+org apach jackrabbit core itemvalid isprotect itemvalid java
+org apach jackrabbit core itemvalid checkcondit itemvalid java
+org apach jackrabbit core itemvalid checkremov itemvalid java
+org apach jackrabbit core itemremoveoper perform itemremoveoper java
+org apach jackrabbit core session sessionst perform sessionst java
+org apach jackrabbit core itemimpl perform itemimpl java
+org apach jackrabbit core itemimpl remov itemimpl java
+org apach jackrabbit core npeandcmetest testtask run npeandcmetest java
+java lang thread run thread java
+attach junit test reproduc except

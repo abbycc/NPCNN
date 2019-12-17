@@ -1,0 +1,15 @@
+bug duplic map check
+bug mappingdescriptor check map node type patch solv problem
+index user cziegel develop workspac default jackrabbit jackrabbit ocm src main java org apach jackrabbit ocm mapper model mappingdescriptor java
+
+user cziegel develop workspac default jackrabbit jackrabbit ocm src main java org apach jackrabbit ocm mapper model mappingdescriptor java revis
+user cziegel develop workspac default jackrabbit jackrabbit ocm src main java org apach jackrabbit ocm mapper model mappingdescriptor java work copi
+
+null classdescriptor getjcrtyp equal classdescriptor getjcrtyp
+managerconst unstructur equal classdescriptor getjcrtyp
+
+classdescriptorsbynodetyp classdescriptor getclassnam null
+classdescriptorsbynodetyp classdescriptor getjcrtyp null
+classdescriptor usesnodetypeperconcreteclassstrategi
+
+log warn duplic classdescriptor node type classdescriptor getjcrtyp

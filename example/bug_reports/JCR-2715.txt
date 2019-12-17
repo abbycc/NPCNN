@@ -1,0 +1,2 @@
+improv join queri perform
+current implement sql2 join queri perform pretti trivial data set

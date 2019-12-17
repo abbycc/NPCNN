@@ -1,0 +1,6 @@
+read permiss parent node requir access item' definit
+session grant permiss item lack permiss read parent node attempt
+access definit mean node getdefinit properti getdefinit fail accessdeniedexcept
+similarli session modifi item add child node case node implement check
+item protect determin definit
+feel item definit access parent node read

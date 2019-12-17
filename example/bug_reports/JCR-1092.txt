@@ -1,0 +1,57 @@
+bundl persist manag node kei store load symertr mysql caus nosuchitemst except
+binari valu read back mysql uuid 0' gener uuid getrawbyt call result store node uuid 0' found read back corrupt random place uuid gener
+test case
+attach file node corrupt import
+differ remov valu problem uuid file corrupt
+stefan point manipul test case standard type fact provid info stefan test folder type referenc jcr uuid alloc
+acm folder folder mix referenc
+import corrupt xml attempt aclobjectident loadbundl return null uuid
+a55f3f6b a909 4e8d b65a 93002ced0920 byte
+import work xml work fine node manual chang uuid replac section
+a55f3f6b a909 4e8d b65a 93112ced1921
+test show issu highlight problem bundl persist manag mysql method handl binari column
+solut replac binari varbinari quot http dev mysql doc refman binari varbinari html
+retriev storag pad prefer varbinari blob data type
+review log show corrupt relat node uuid includ 0'
+log jira ticket
+issu fix
+show bundl test1 workspac
+mysql select hex node test1 bundl
+
+hex node
+
+28126c3e36a0471d9cdc5ac423bac9c5
+a55f3f6ba9094e8db65a93002ced0920
+cafebabecafebabecafebabecafebab
+d638eaccdeb641fd8868804c8ecefffd
+deadbeefcafebabecafebabecafebab
+
+row set sec
+select uuid hex return row
+mysql select node test1 bundl
+mysql unhex 'a55f3f6ba9094e8db65a93002ced0920' node
+empti set sec
+creat test3 workspac modifi varbinari binari
+alter tabl test3 bundl modifi node varbinari alter tabl test3 ref modifi node varbinari
+import test case longer fail queri prove queri oper store return row expect
+mysql select node test3 bundl
+mysql unhex 'a55f3f6ba9094e8db65a93002ced0920' node
+
+node
+
+
+row set sec
+mysql desc test3 bundl
+error hy000 mysql server connect reconnect
+connect
+current databas mmptest
+
+field type null kei default extra
+
+node varbinari uni null
+bundl data longblob
+
+row set sec
+mysql alter tabl test3 bundl modifi node varbinari
+queri row affect sec
+record duplic warn

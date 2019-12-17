@@ -1,0 +1,3 @@
+decoupl packag core queri
+packag queri cyclic depend packag lucen sql xpath
+decoupl packag extend queri implement addit queri languag

@@ -1,0 +1,4 @@
+data store db2 fail creat tabl
+db2 throw except creat tabl correct sql sentenc creat
+createt creat tabl tableprefix tabl varchar primari kei null length bigint modifi bigint data blob 1000m
+except inform made chang week ago

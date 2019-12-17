@@ -1,0 +1,7 @@
+searchmanag throw handl cluster event
+handl event gener node cluster searchmanag index index longer exist result error messag npe scenario node repositori cluster
+add node
+save
+remov node
+save
+receiv event newli creat node start index node process conclud step throw

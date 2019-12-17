@@ -1,0 +1,5 @@
+indexmerg throw null pointer except stacktrac
+error log file randomli happen creat lucen indic happen time
+indexmerg error error merg index java lang nullpointerexcept
+code org apach jackrabbit core queri lucen indexmerg line appear point error log inform provid throwabl log tostr version except index corrupt
+suggest logger chang determin null pointer come resolv actual issu occur

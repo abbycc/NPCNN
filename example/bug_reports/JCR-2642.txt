@@ -1,0 +1,13 @@
+jackrabbitpars tika parser
+
+implement custom parser found problem
+tika implement custom parser servic provid configur file meta inf servic org apach tika parser parser maintain custom tika config xml file implement custom parser
+problem jackrabbitpars instanti autodetectpars default constructor instanti default tikaconfig constructor
+basic tika tikaconfig gettikaconfig instanti tikaconfig default constructor access tika config xml file with packag read servic provid configur file popul parser map
+propos chang jackrabbitpars instanti autodetectpars default constructor tika version easili implement parser reason maintain tika config xml sort backward compat maintain autodetectpars default constructor tikaconfig instanti tikaconfig gettikaconfig wich tika version call tikaconfig inputstream constructor whcih read configur directli packag
+basic jackrabbitpars
+public jackrabbitpars
+parser autodetectpars
+
+
+dan

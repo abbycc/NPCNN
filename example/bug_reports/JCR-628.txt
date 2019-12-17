@@ -1,0 +1,2 @@
+outofmemori problem handlemonitor releas close input stream
+class core local handlemonitor releas close monitoredinputstream close method call input stream hash set map handlemonitor eventu lead outofmemori except open close file

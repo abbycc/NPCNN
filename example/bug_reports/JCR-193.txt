@@ -1,0 +1,5 @@
+multistatu respons proppatch copi jcr
+rob owen comment jcr
+
+doproppatch abstractwebdavservlet send back multistatu respons success case
+collect success failur statu properti creat multistatu respons ad propstat properti setproperti removeproperti allow webdav client expect multistatu respons proppatch work correctli jcr server gener case actual properti statu code

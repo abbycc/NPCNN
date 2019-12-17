@@ -1,0 +1,15 @@
+updat spi lock match jcr
+jcr2spi jsr determin session own lock check lock token null
+jsr lock method defin hand lock token null session scope
+lock
+addit lock timeout hint hint owner info displai
+inform purpos
+propos spi
+extend org apach jackrabbit spi lockinfo cover function ad jsr
+add variant repositoryservic lock timeout owner hint
+propos jcr2spi
+chang jcr2spi make function modifi test session lock holder
+affect
+lockoper
+lockmanag impl
+lock impl

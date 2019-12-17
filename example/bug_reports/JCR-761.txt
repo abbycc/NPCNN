@@ -1,0 +1,2 @@
+jca build failur j2ee
+fix jcr introduc similar problem previous report jcr fix jcr appli case

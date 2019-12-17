@@ -1,0 +1,9 @@
+support queri wildcard prefix
+current implement wildcard middl end search term
+queri work
+jcr 'foo
+jcr 'fo
+
+jcr bar'
+thread mail list topic
+http thread gmane org gmane comp apach jackrabbit devel

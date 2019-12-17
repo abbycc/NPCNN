@@ -1,0 +1,2 @@
+dont frozennod creat node
+test case end creat node type frozennod fail

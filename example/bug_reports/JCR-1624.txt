@@ -1,0 +1,12 @@
+proxi improv
+improv
+detect bean ocm proxi load kind functionn hibern hibern isiniti object proxi
+develop similar modifi proxymanagerimpl invocationhandl lazyload make proxi implement special interfac method intercept
+bug
+beanconvert objectconverterimpl pass proxi callback let beanlazyload default objectconvert bug behavior bean properti proxifi
+improv
+jcrtype map java type objectconverterimpl make proxi type bean properti type bean properti type interfac
+report bundl seper item develop patch
+enclos patch
+sincer
+stéphane landel

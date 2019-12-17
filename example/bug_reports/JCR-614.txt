@@ -1,0 +1,12 @@
+weird lock behaviour cachinghierarchymanag
+itegr test repositori lock stacktrac
+thread daemon prio tid 0x08cb3908 nid 0xdd8 runnabl 9fef000 9fefd90
+org apach jackrabbit core cachinghierarchymanag removelru cachinghierarchymanag java
+wait lock 0x16a9b0e0 java lang object
+org apach jackrabbit core cachinghierarchymanag cach cachinghierarchymanag java
+lock 0x16a9b0e0 java lang object
+org apach jackrabbit core cachinghierarchymanag buildpath cachinghierarchymanag java
+org apach jackrabbit hierarchymanagerimpl buildpath hierarchymanagerimpl java
+
+sacktrac valid thread hold monitor wait lock scenario show lot stress test assum jit messesup synchorn
+fix remov doubl monitor entri case

@@ -1,0 +1,15 @@
+incorrect support java interfac type collect field
+type collect field defin interfac type except thrown main object insert
+org apach jackrabbit ocm except jcrmappingexcept load class interfac interfac
+
+node
+public class entitya
+field path true string path
+collect list myinterfac entityb
+
+
+insert instanc entitya null entityb except thrown
+workaround add elementclassnam annot collect
+collect elementclassnam myinterfac class list myinterfac entityb
+elementclassnam untyp collect type collect objectcontentmanag reflexion check collect class
+nice avoid usag elementclassnam type collect

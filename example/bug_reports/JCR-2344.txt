@@ -1,0 +1,412 @@
+classcastexcept org apach xerc parser xincludeawareparserconfigur cast org apach xerc xni parser xmlparserconfigur deploi jboss
+follow step http wiki apach org jackrabbit jackrabbitonjboss
+except jcr jar jcr jar
+except jboss server start
+
+error org jboss web tomcat servic deploy jbosscontextconfig main xml error pars context xml
+org jboss bind jbossxbruntimeexcept fail creat sax parser
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+org jboss web tomcat servic deploy jbosscontextconfig processcontextconfig jbosscontextconfig java
+org jboss web tomcat servic deploy jbosscontextconfig init jbosscontextconfig java
+org apach catalina startup contextconfig lifecycleev contextconfig java
+org apach catalina util lifecyclesupport firelifecycleev lifecyclesupport java
+org apach catalina core standardcontext init standardcontext java
+org apach catalina core standardcontext start standardcontext java
+org jboss web tomcat servic deploy tomcatdeploy performdeployintern tomcatdeploy java
+org jboss web tomcat servic deploy tomcatdeploy performdeploi tomcatdeploy java
+org jboss web deploy abstractwardeploy start abstractwardeploy java
+org jboss web deploy webmodul startmodul webmodul java
+org jboss web deploy webmodul start webmodul java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org jboss interceptor reflecteddispatch invok reflecteddispatch java
+org jboss server invoc dispatch invoc java
+org jboss server invoc invok invoc java
+org jboss server abstractmbeaninvok invok abstractmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system microcontain serviceproxi invok serviceproxi java
+proxy38 start unknown sourc
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss depend plugin action simplecontrollercontextact simpleinstallact simplecontrollercontextact java
+org jboss depend plugin action accesscontrollercontextact instal accesscontrollercontextact java
+org jboss depend plugin abstractcontrollercontextact instal abstractcontrollercontextact java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss system microcontain servicecontrollercontext instal servicecontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system servicecontrol dochang servicecontrol java
+org jboss system servicecontrol start servicecontrol java
+org jboss system deploy servicedeploy start servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss deploy spi deploy helper abstractsimplerealdeploy internaldeploi abstractsimplerealdeploy java
+org jboss deploy spi deploy helper abstractrealdeploy deploi abstractrealdeploy java
+org jboss deploy plugin deploy deployerwrapp deploi deployerwrapp java
+org jboss deploy plugin deploy deployersimpl dodeploi deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl instal deployersimpl java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss deploy plugin deploy deployersimpl process deployersimpl java
+org jboss deploy plugin main maindeployerimpl process maindeployerimpl java
+org jboss system server profileservic repositori maindeployeradapt process maindeployeradapt java
+org jboss system server profileservic repositori profiledeployact instal profiledeployact java
+org jboss system server profileservic repositori abstractprofileact instal abstractprofileact java
+org jboss system server profileservic repositori abstractprofileservic instal abstractprofileservic java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system server profileservic repositori abstractprofileservic activateprofil abstractprofileservic java
+org jboss system server profileservic profileservicebootstrap start profileservicebootstrap java
+org jboss bootstrap abstractserverimpl start abstractserverimpl java
+org jboss main boot main java
+org jboss main run main java
+java lang thread run thread java
+caus org jboss bind jbossxbexcept fail creat sax parser
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+org jboss bind unmarshallerimpl init unmarshallerimpl java
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+
+caus java lang classcastexcept org apach xerc parser xincludeawareparserconfigur cast org apach xerc xni parser xmlparserconfigur
+org apach xerc parser saxpars init unknown sourc
+org apach xerc parser saxpars init unknown sourc
+org apach xerc jaxp saxparserimpl jaxpsaxpars init unknown sourc
+org apach xerc jaxp saxparserimpl init unknown sourc
+org apach xerc jaxp saxparserfactoryimpl newsaxpars unknown sourc
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+
+error org jboss web tomcat servic deploy jbosscontextconfig main xml error pars jboss web localhost context xml default
+org jboss bind jbossxbruntimeexcept fail creat sax parser
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+org jboss web tomcat servic deploy jbosscontextconfig processcontextconfig jbosscontextconfig java
+org jboss web tomcat servic deploy jbosscontextconfig init jbosscontextconfig java
+org apach catalina startup contextconfig lifecycleev contextconfig java
+org apach catalina util lifecyclesupport firelifecycleev lifecyclesupport java
+org apach catalina core standardcontext init standardcontext java
+org apach catalina core standardcontext start standardcontext java
+org jboss web tomcat servic deploy tomcatdeploy performdeployintern tomcatdeploy java
+org jboss web tomcat servic deploy tomcatdeploy performdeploi tomcatdeploy java
+org jboss web deploy abstractwardeploy start abstractwardeploy java
+org jboss web deploy webmodul startmodul webmodul java
+org jboss web deploy webmodul start webmodul java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org jboss interceptor reflecteddispatch invok reflecteddispatch java
+org jboss server invoc dispatch invoc java
+org jboss server invoc invok invoc java
+org jboss server abstractmbeaninvok invok abstractmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system microcontain serviceproxi invok serviceproxi java
+proxy38 start unknown sourc
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss depend plugin action simplecontrollercontextact simpleinstallact simplecontrollercontextact java
+org jboss depend plugin action accesscontrollercontextact instal accesscontrollercontextact java
+org jboss depend plugin abstractcontrollercontextact instal abstractcontrollercontextact java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss system microcontain servicecontrollercontext instal servicecontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system servicecontrol dochang servicecontrol java
+org jboss system servicecontrol start servicecontrol java
+org jboss system deploy servicedeploy start servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss deploy spi deploy helper abstractsimplerealdeploy internaldeploi abstractsimplerealdeploy java
+org jboss deploy spi deploy helper abstractrealdeploy deploi abstractrealdeploy java
+org jboss deploy plugin deploy deployerwrapp deploi deployerwrapp java
+org jboss deploy plugin deploy deployersimpl dodeploi deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl instal deployersimpl java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss deploy plugin deploy deployersimpl process deployersimpl java
+org jboss deploy plugin main maindeployerimpl process maindeployerimpl java
+org jboss system server profileservic repositori maindeployeradapt process maindeployeradapt java
+org jboss system server profileservic repositori profiledeployact instal profiledeployact java
+org jboss system server profileservic repositori abstractprofileact instal abstractprofileact java
+org jboss system server profileservic repositori abstractprofileservic instal abstractprofileservic java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system server profileservic repositori abstractprofileservic activateprofil abstractprofileservic java
+org jboss system server profileservic profileservicebootstrap start profileservicebootstrap java
+org jboss bootstrap abstractserverimpl start abstractserverimpl java
+org jboss main boot main java
+org jboss main run main java
+java lang thread run thread java
+caus org jboss bind jbossxbexcept fail creat sax parser
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+org jboss bind unmarshallerimpl init unmarshallerimpl java
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+
+caus java lang classcastexcept org apach xerc parser xincludeawareparserconfigur cast org apach xerc xni parser xmlparserconfigur
+org apach xerc parser saxpars init unknown sourc
+org apach xerc parser saxpars init unknown sourc
+org apach xerc jaxp saxparserimpl jaxpsaxpars init unknown sourc
+org apach xerc jaxp saxparserimpl init unknown sourc
+org apach xerc jaxp saxparserfactoryimpl newsaxpars unknown sourc
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+
+error org jboss web tomcat servic deploy jbosscontextconfig main xml error pars web inf context xml
+org jboss bind jbossxbruntimeexcept fail creat sax parser
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+org jboss web tomcat servic deploy jbosscontextconfig processcontextconfig jbosscontextconfig java
+org jboss web tomcat servic deploy jbosscontextconfig init jbosscontextconfig java
+org apach catalina startup contextconfig lifecycleev contextconfig java
+org apach catalina util lifecyclesupport firelifecycleev lifecyclesupport java
+org apach catalina core standardcontext init standardcontext java
+org apach catalina core standardcontext start standardcontext java
+org jboss web tomcat servic deploy tomcatdeploy performdeployintern tomcatdeploy java
+org jboss web tomcat servic deploy tomcatdeploy performdeploi tomcatdeploy java
+org jboss web deploy abstractwardeploy start abstractwardeploy java
+org jboss web deploy webmodul startmodul webmodul java
+org jboss web deploy webmodul start webmodul java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org jboss interceptor reflecteddispatch invok reflecteddispatch java
+org jboss server invoc dispatch invoc java
+org jboss server invoc invok invoc java
+org jboss server abstractmbeaninvok invok abstractmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system microcontain serviceproxi invok serviceproxi java
+proxy38 start unknown sourc
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss depend plugin action simplecontrollercontextact simpleinstallact simplecontrollercontextact java
+org jboss depend plugin action accesscontrollercontextact instal accesscontrollercontextact java
+org jboss depend plugin abstractcontrollercontextact instal abstractcontrollercontextact java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss system microcontain servicecontrollercontext instal servicecontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system servicecontrol dochang servicecontrol java
+org jboss system servicecontrol start servicecontrol java
+org jboss system deploy servicedeploy start servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss deploy spi deploy helper abstractsimplerealdeploy internaldeploi abstractsimplerealdeploy java
+org jboss deploy spi deploy helper abstractrealdeploy deploi abstractrealdeploy java
+org jboss deploy plugin deploy deployerwrapp deploi deployerwrapp java
+org jboss deploy plugin deploy deployersimpl dodeploi deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl instal deployersimpl java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss deploy plugin deploy deployersimpl process deployersimpl java
+org jboss deploy plugin main maindeployerimpl process maindeployerimpl java
+org jboss system server profileservic repositori maindeployeradapt process maindeployeradapt java
+org jboss system server profileservic repositori profiledeployact instal profiledeployact java
+org jboss system server profileservic repositori abstractprofileact instal abstractprofileact java
+org jboss system server profileservic repositori abstractprofileservic instal abstractprofileservic java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system server profileservic repositori abstractprofileservic activateprofil abstractprofileservic java
+org jboss system server profileservic profileservicebootstrap start profileservicebootstrap java
+org jboss bootstrap abstractserverimpl start abstractserverimpl java
+org jboss main boot main java
+org jboss main run main java
+java lang thread run thread java
+caus org jboss bind jbossxbexcept fail creat sax parser
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+org jboss bind unmarshallerimpl init unmarshallerimpl java
+org jboss bind unmarshallerfactori unmarshallerfactoryimpl newunmarshal unmarshallerfactori java
+
+caus java lang classcastexcept org apach xerc parser xincludeawareparserconfigur cast org apach xerc xni parser xmlparserconfigur
+org apach xerc parser saxpars init unknown sourc
+org apach xerc parser saxpars init unknown sourc
+org apach xerc jaxp saxparserimpl jaxpsaxpars init unknown sourc
+org apach xerc jaxp saxparserimpl init unknown sourc
+org apach xerc jaxp saxparserfactoryimpl newsaxpars unknown sourc
+org jboss bind parser sax saxjbossxbpars init saxjbossxbpars java
+
+error org apach catalina startup contextconfig main mark applic unavail due previou error
+error org apach catalina core standardcontext main context jackrabbit webapp alpha9 startup fail due previou error
+error org jboss kernel plugin depend abstractkernelcontrol main error instal start jboss web deploy war jackrabbit webapp alpha9 state creat mode manual requiredst instal
+org jboss deploy spi deploymentexcept url file applic jboss server default tmp ahn1p 6tv4p6 g0bacatm g0bageil jackrabbit webapp alpha9 war deploy fail
+org jboss web tomcat servic deploy tomcatdeploy performdeployintern tomcatdeploy java
+org jboss web tomcat servic deploy tomcatdeploy performdeploi tomcatdeploy java
+org jboss web deploy abstractwardeploy start abstractwardeploy java
+org jboss web deploy webmodul startmodul webmodul java
+org jboss web deploy webmodul start webmodul java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org jboss interceptor reflecteddispatch invok reflecteddispatch java
+org jboss server invoc dispatch invoc java
+org jboss server invoc invok invoc java
+org jboss server abstractmbeaninvok invok abstractmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system microcontain serviceproxi invok serviceproxi java
+proxy38 start unknown sourc
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss depend plugin action simplecontrollercontextact simpleinstallact simplecontrollercontextact java
+org jboss depend plugin action accesscontrollercontextact instal accesscontrollercontextact java
+org jboss depend plugin abstractcontrollercontextact instal abstractcontrollercontextact java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss system microcontain servicecontrollercontext instal servicecontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system servicecontrol dochang servicecontrol java
+org jboss system servicecontrol start servicecontrol java
+org jboss system deploy servicedeploy start servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss deploy spi deploy helper abstractsimplerealdeploy internaldeploi abstractsimplerealdeploy java
+org jboss deploy spi deploy helper abstractrealdeploy deploi abstractrealdeploy java
+org jboss deploy plugin deploy deployerwrapp deploi deployerwrapp java
+org jboss deploy plugin deploy deployersimpl dodeploi deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl instal deployersimpl java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss deploy plugin deploy deployersimpl process deployersimpl java
+org jboss deploy plugin main maindeployerimpl process maindeployerimpl java
+org jboss system server profileservic repositori maindeployeradapt process maindeployeradapt java
+org jboss system server profileservic repositori profiledeployact instal profiledeployact java
+org jboss system server profileservic repositori abstractprofileact instal abstractprofileact java
+org jboss system server profileservic repositori abstractprofileservic instal abstractprofileservic java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system server profileservic repositori abstractprofileservic activateprofil abstractprofileservic java
+org jboss system server profileservic profileservicebootstrap start profileservicebootstrap java
+org jboss bootstrap abstractserverimpl start abstractserverimpl java
+org jboss main boot main java
+org jboss main run main java
+java lang thread run thread java
+error org jboss kernel plugin depend abstractkernelcontrol main error instal real vfszip applic jboss server default deploi jackrabbit webapp alpha9 war state prereal mode manual requiredst real
+org jboss deploy spi deploymentexcept url file applic jboss server default tmp ahn1p 6tv4p6 g0bacatm g0bageil jackrabbit webapp alpha9 war deploy fail
+org jboss web tomcat servic deploy tomcatdeploy performdeployintern tomcatdeploy java
+org jboss web tomcat servic deploy tomcatdeploy performdeploi tomcatdeploy java
+org jboss web deploy abstractwardeploy start abstractwardeploy java
+org jboss web deploy webmodul startmodul webmodul java
+org jboss web deploy webmodul start webmodul java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org jboss interceptor reflecteddispatch invok reflecteddispatch java
+org jboss server invoc dispatch invoc java
+org jboss server invoc invok invoc java
+org jboss server abstractmbeaninvok invok abstractmbeaninvok java
+org jboss server mbeanserverimpl invok mbeanserverimpl java
+org jboss system microcontain serviceproxi invok serviceproxi java
+proxy38 start unknown sourc
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss system microcontain startstoplifecycleact installact startstoplifecycleact java
+org jboss depend plugin action simplecontrollercontextact simpleinstallact simplecontrollercontextact java
+org jboss depend plugin action accesscontrollercontextact instal accesscontrollercontextact java
+org jboss depend plugin abstractcontrollercontextact instal abstractcontrollercontextact java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss system microcontain servicecontrollercontext instal servicecontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system servicecontrol dochang servicecontrol java
+org jboss system servicecontrol start servicecontrol java
+org jboss system deploy servicedeploy start servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss system deploy servicedeploy deploi servicedeploy java
+org jboss deploy spi deploy helper abstractsimplerealdeploy internaldeploi abstractsimplerealdeploy java
+org jboss deploy spi deploy helper abstractrealdeploy deploi abstractrealdeploy java
+org jboss deploy plugin deploy deployerwrapp deploi deployerwrapp java
+org jboss deploy plugin deploy deployersimpl dodeploi deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl doinstallparentfirst deployersimpl java
+org jboss deploy plugin deploy deployersimpl instal deployersimpl java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss deploy plugin deploy deployersimpl process deployersimpl java
+org jboss deploy plugin main maindeployerimpl process maindeployerimpl java
+org jboss system server profileservic repositori maindeployeradapt process maindeployeradapt java
+org jboss system server profileservic repositori profiledeployact instal profiledeployact java
+org jboss system server profileservic repositori abstractprofileact instal abstractprofileact java
+org jboss system server profileservic repositori abstractprofileservic instal abstractprofileservic java
+org jboss depend plugin abstractcontrollercontext instal abstractcontrollercontext java
+org jboss depend plugin abstractcontrol instal abstractcontrol java
+org jboss depend plugin abstractcontrol incrementst abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol resolvecontext abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss depend plugin abstractcontrol chang abstractcontrol java
+org jboss system server profileservic repositori abstractprofileservic activateprofil abstractprofileservic java
+org jboss system server profileservic profileservicebootstrap start profileservicebootstrap java
+org jboss bootstrap abstractserverimpl start abstractserverimpl java
+org jboss main boot main java
+org jboss main run main java
+java lang thread run thread java

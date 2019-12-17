@@ -1,0 +1,3 @@
+resourcetyp dav properti multipl valu
+attach patch resourcetyp dav properti multipl valu dav protocol extens caldav
+perfect patch subclass resourcetyp others' resourc type decent start address issu subclass regist extend resourc type xml represent resourcetyp remov overrid resourcetypetoxml isvalidresourcetyp

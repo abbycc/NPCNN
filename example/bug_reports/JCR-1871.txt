@@ -1,0 +1,2 @@
+jcr2spi jcr name path log except messag
+coupl place jcr2spi add string represent path itemid except error messag conveni convert jcr name jcr path

@@ -1,0 +1,5 @@
+workspac copi move versionabletest assumpt version
+test case assum ancestor version node made version true jcr compliant store
+skip test execut
+obviou approach throw notexecutableexcept attempt enabl version parent fail drawback mask configur error
+thought

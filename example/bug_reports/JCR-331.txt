@@ -1,0 +1,13 @@
+repositoryconfig instanc reus pass repositoryimpl constructor
+repositoryconfig config class maintain state pars configur inform
+specif instanti filesystem implement base configur make
+config consum hard control lifecycl filesystem instanc
+close file system repositori shutdown
+code illustr issu
+repositoryconfig repconf repositoryconfig creat configfil rephomedir
+repositoryimpl rep repositoryimpl creat repconf
+
+rep shutdown
+rep repositoryimpl creat repconf
+repconfig refer filesystem object
+close previou rep shutdown call

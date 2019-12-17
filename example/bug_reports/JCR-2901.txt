@@ -1,0 +1,3 @@
+jcr break transact handl contain manag environ
+cleanup return pool jca manag connect intern session creat object jcamanagedconnect method cleanup suppos fix jcr sideeffect resourc variabl xaresourc jcamanagedconnect anymor xasessionimpl object session object subsequ call connect lead intern session variabl anymor inform current transact context xaitemstatemanag variabl txlog null xaresourc inform transact context result complet transact handl work anymor
+attach sampl project show behaviour

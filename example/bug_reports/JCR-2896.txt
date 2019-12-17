@@ -1,0 +1,27 @@
+webdavresponseimpl cach transformerfactori
+jackrabbitresponeimpl sendxmlrespons creat instanc transformerfactori invoc transformerfactori initi consum signific amount time complex logic insid
+code
+java lang string intern nativ method
+java util jar attribut init attribut java
+java util jar attribut putvalu attribut java
+java util jar attribut read attribut java
+java util jar manifest read manifest java
+sun secur util signaturefileverifi processimpl signaturefileverifi java
+sun secur util signaturefileverifi process signaturefileverifi java
+java util jar jarverifi processentri jarverifi java
+java util jar jarverifi updat jarverifi java
+java util jar jarfil initializeverifi jarfil java
+java util jar jarfil getinputstream jarfil java
+sun net www protocol jar jarurlconnect getinputstream jarurlconnect java
+java net url openstream url java
+java lang classload getresourceasstream classload java
+javax xml transform securitysupport run securitysupport java
+java secur accesscontrol doprivileg nativ method
+javax xml transform securitysupport getresourceasstream securitysupport java
+javax xml transform factoryfind findjarserviceprovid factoryfind java
+javax xml transform factoryfind find factoryfind java
+javax xml transform transformerfactori newinst transformerfactori java
+org apach jackrabbit webdav webdavresponseimpl sendxmlrespons webdavresponseimpl java
+code
+transformerfactori cach static field
+privat static final transofmerfactori transformerfactori transformerfactori newinst

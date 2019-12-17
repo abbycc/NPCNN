@@ -1,0 +1,8 @@
+jsr repositori complianc
+jsr defin huge set chang repositori descriptor coupl method
+repositori interfac api consum determin featur set expos implement
+method
+repositori isstandarddescriptor string kei
+repositori issinglevaluedescriptor string kei
+repositori getdescriptorvalu string kei
+repositori getdescriptorvalu string kei

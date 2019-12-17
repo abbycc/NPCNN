@@ -1,0 +1,3 @@
+jcr2spi add jndi support
+ad jndi support jcr2spi improv f2f
+julian volunt

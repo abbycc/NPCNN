@@ -1,0 +1,17 @@
+safe namespac registr
+namespac registr method provid jcr namespaceregistri api cumbersom vulner race condit event conflict prefix map problem discuss mail list http articl gmane org gmane comp apach jackrabbit devel symptom problem code nodetypemanagerimpl jcr
+regist namespac
+
+nsreg getprefix uri
+catch namespaceexcept
+string origin prefix
+int true
+
+nsreg registernamespac prefix uri
+return
+catch namespaceexcept
+prefix origin
+
+
+
+add intern conveni method namespaceregistryimpl saferegisternamespac string prefixhint string uri throw except automat gener uniqu prefix base hint prefix conflict detect

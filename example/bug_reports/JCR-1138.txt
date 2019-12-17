@@ -1,0 +1,2 @@
+data store garbag collect
+data store garbag collect run manual simpler tool base automat

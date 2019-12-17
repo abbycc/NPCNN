@@ -1,0 +1,5 @@
+provid option ocm crud api writer enhanc function
+work extens object content manag angl requir method variabl base class expos protect access modifi getter issu current function request review addit trunk
+ad clone implement filterimpl
+expos
+public collectionconvert getcollectionconvert session session collectiondescriptor collectiondescriptor objectconvert

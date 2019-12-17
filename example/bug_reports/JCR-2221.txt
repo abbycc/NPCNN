@@ -1,0 +1,9 @@
+renam version manag
+versionmanag interfac versionmanagerimpl class oper version storag
+jsr283 javax jcr version versionmanag implement jcrversionmanag
+order avoid confus renam class
+core version versionmanag core version internalversionmanag
+core version versionmanagerimpl core version internalversionmanagerimpl
+core version abstractversionmanag core version abstractinternalversionmanag
+core version xaversionmanag core version xainternalversionmanag
+core version jcrversionmanagerimpl core version versionmanagerimpl

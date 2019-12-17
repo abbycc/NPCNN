@@ -1,0 +1,14 @@
+upgrad pdfbox
+upload pdf document view fine acrobat reader load except
+warn pdftextextractor fail extract pdf text content pdftextextractor java line
+java ioexcept error expect integ type actual eof'
+org pdfbox pdfparser basepars readint basepars java
+org pdfbox pdfparser pdfparser parseobject pdfparser java
+org pdfbox pdfparser pdfparser pars pdfparser java
+org apach jackrabbit extractor pdftextextractor extracttext pdftextextractor java
+org apach jackrabbit extractor compositetextextractor extracttext compositetextextractor java
+org apach jackrabbit core queri lucen jackrabbittextextractor extracttext jackrabbittextextractor java
+org apach jackrabbit core queri lucen nodeindex addbinaryvalu nodeindex java
+
+replac version pdfbox bundl jackrabbit war file recent version fontbox work fine bundl version upgrad
+hand softwar appear inact packag select long run simpl upgrad trick

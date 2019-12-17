@@ -1,0 +1,3 @@
+jcr server add possibl propfind jcr nodetyp cnd properti
+patch uw jaeger jcr
+includ resolut jcr jcr fix prerequisit

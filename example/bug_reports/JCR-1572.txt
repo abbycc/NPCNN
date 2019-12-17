@@ -1,0 +1,4 @@
+dbdatastor connect reconnect
+dbdatastor connect close due error subsequ addrecord call fail 'connect close autoreconnect false'
+getrecord call connect reconnect addrecord succe
+connect valid set autoreconnect fals retriev pool

@@ -1,0 +1,28 @@
+broken test addeventlisten
+test code comment inlin prefix reschk
+
+test link javax jcr observ event node ad creat
+path code isdeep code code fals code
+
+public void testisdeepfalsenodead throw repositoryexcept
+eventresult listen eventresult log
+reschk listen testroot nodename1 isdeep fals
+obsmgr addeventlisten listen event node ad testroot nodename1 fals null null fals
+reschk node testroot nodename1 creat parent node event testroot
+node testrootnod addnod nodename1 testnodetyp
+reschk node testroot nodename1 nodename2 creat parent node event testroot nodename1
+addnod nodename2
+testrootnod save
+event event listen getev default wait timeout
+obsmgr removeeventlisten listen
+reschk test case expect event path testroot nodename1
+checknodead event string nodename1
+
+plain english
+test case listen event parent node equal testroot nodename1
+expect singl event event getpath return testroot nodename1
+incorrect imho parent node event testroot
+correct test check
+checknodead event string nodename1 nodename2
+make chang lead test failur report
+feedback appreci

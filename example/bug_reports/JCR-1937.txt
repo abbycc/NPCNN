@@ -1,0 +1,2 @@
+automat licens header check apach rat plugin
+avoid problem incorrect licens header includ autom header check maven build hudson run check commit

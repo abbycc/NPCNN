@@ -1,0 +1,9 @@
+patch except thrown appear
+code creat expect appar error state throw
+class org apach jackrabbit webdav jcr search searchresultproperti
+ctor public searchresultproperti davproperti properti valuefactori valuefactori throw repositoryexcept
+line
+
+illegalargumentexcept searchresultproperti requir list 'dcr column' xml element
+
+patch fix

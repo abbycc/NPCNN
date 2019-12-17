@@ -1,0 +1,15 @@
+add jmx support regist jcr rmi server jboss
+ad class descriptor file jcr rmi project file provid support make gener jar deploy jboss server
+deploy descriptor paramet address local repositori instanc target address rmi server regist
+
+server
+mbean code org apach jackrabbit rmi server jmx jcrserver
+jackrabbit servic rmiserv jcr rmi server
+attribut local java jcr local attribut
+attribut target jnp localhost jcrserver attribut
+depend jboss jca servic managedconnectionfactori jcr local depend
+mbean
+server
+configur regist rmi server jcrserver wrap local repositori java jcr local
+
+edgar

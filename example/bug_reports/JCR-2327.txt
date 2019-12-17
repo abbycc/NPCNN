@@ -1,0 +1,4 @@
+java util uuid fromstr slow
+benchmark show java util uuid fromstr method time slower previou version jackrabbit jcr common method heavili queri section gener nodeid creat string
+introduc custom string uuid pars code jackrabbit jcr common uuid class nodeid string constructor
+wdyt

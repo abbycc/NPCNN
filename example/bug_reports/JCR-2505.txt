@@ -1,0 +1,3 @@
+high memori usag node multi valu string properti
+multi valu string properti token consum memori lot small valu properti memori footprint token separ token instanc token stream buffer byte
+valu concaten whitespac separ token

@@ -1,0 +1,2 @@
+avoid string intern index
+lucen creat field string intern constructor nodeindex avoid unnecessari string intern call field name jackrabbit fieldnam intern

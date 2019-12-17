@@ -1,0 +1,7 @@
+improv promot spi logger
+spi logger debug spi implement support repositoryservic interfac spi interfac support write log inform string bit restrict final includ jackrabbit spi packag introduc addit depend debug
+suggest
+add support major spi interfac
+replac current log string writer instanc versatil mechan client provid interfac consum structur log data
+provid default implement mechan write file write slf4j base logger write consol
+promot project jackrabbit spi

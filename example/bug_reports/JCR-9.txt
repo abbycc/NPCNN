@@ -1,0 +1,16 @@
+version issam object work
+version interfac implement frontend versionimpl class extend nodewrapp deleg intern nodeimpl class turn extend itemimpl
+
+node node version
+version version retriev node
+version basevers node getbasevers
+expect
+basevers issam version
+
+basevers version
+fail versionimpl deleg issam call delegate call
+versionimpl basevers delegate issam version
+method implement itemimpl class delegate nodeimpl extend
+implement itemimpl issam return true itemimpl case versionimpl version nodewrapp node itemimpl
+solut nodeimpl issam check otheritem nodewrapp und nodewrapp otheritem delegate otheritem delegate call
+track itemimpl issam fast check otheritem instanc prevent type check

@@ -1,0 +1,4 @@
+miss jackrabbit rmi servic xml jackrabbit jcr rmi jar
+file jackrabbit rmi servic xml miss jackrabbit jcr rmi jar
+issu appear directori structur jackrabbit jcr rmi project match maven standard
+fix src resourc move src main resourc

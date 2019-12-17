@@ -1,0 +1,52 @@
+databasejourn checkschema gener call commit autocommit true except
+activ cluster ad xml repositori xml
+cluster node syncdelai
+journal class org apach jackrabbit core journal databasejourn
+param revis rep home revis
+param driver mysql jdbc driver
+param url jdbc mysql localhost jcr
+param user userx
+param password passwordc
+param schema mysql
+param schemaobjectprefix
+journal
+cluster
+databs journal threw except
+
+caus javax jcr repositoryexcept unabl initi connect unabl initi connect
+org apach jackrabbit core repositoryimpl createclusternod repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+liferai portal jcr jackrabbit jcrfactoryimpl createsess jcrfactoryimpl java
+liferai portal jcr jcrfactoryutil createsess jcrfactoryutil java
+liferai portal jcr jcrfactoryutil createsess jcrfactoryutil java
+liferai documentlibrari util indexerimpl reindex indexerimpl java
+
+caus org apach jackrabbit core cluster clusterexcept unabl initi connect
+org apach jackrabbit core cluster clusternod init clusternod java
+org apach jackrabbit core cluster clusternod init clusternod java
+org apach jackrabbit core repositoryimpl createclusternod repositoryimpl java
+
+caus java sql sqlexcept call commit autocommit true
+mysql jdbc connect commit connect java
+org apach jackrabbit core journal databasejourn checkschema databasejourn java
+org apach jackrabbit core journal databasejourn init databasejourn java
+org apach jackrabbit core cluster clusternod init clusternod java
+
+examin sourc code releas jackrabbit init method databasejourn class
+
+class fornam driver
+con drivermanag getconnect url user password
+con setautocommit true
+checkschema
+preparestat
+
+checkschema method' final block
+
+commit
+con commit
+
+normal mention except comment commit express continu develop miss

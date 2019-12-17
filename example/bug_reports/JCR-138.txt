@@ -1,0 +1,6 @@
+typo log output
+jackrabbit src java org apach jackrabbit core local localfilesystem java
+133c133
+log info locaafilesystem initi root getpath
+
+log info localfilesystem initi root getpath

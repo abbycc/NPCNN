@@ -1,0 +1,3 @@
+deprec abstractwebdavservlet empti extend abstractwebdavservlet
+abstractwebdavservlet copi jcr server webdav project class locat mark deprec suggest addit mark deprec class extend abstractwebdavservlet class webdav project field method user class newest version class
+provid patch propos

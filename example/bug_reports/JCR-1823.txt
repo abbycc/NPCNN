@@ -1,0 +1,17 @@
+repositori login throw illegalstateexcept
+call login method repositori instanc shut throw illegalstateexcept caus repositoryimpl sanitycheck method
+except unexpect caller login method throw loginexcept nosuchworkspaceexcept repositoryexcept spec repositoryexcept thrown error occur
+suggest modifi repositoryimpl login credenti string patch trunk
+index usr src jackrabbit trunk jackrabbit core src main java org apach jackrabbit core repositoryimpl java
+
+usr src jackrabbit trunk jackrabbit core src main java org apach jackrabbit core repositoryimpl java revis
+usr src jackrabbit trunk jackrabbit core src main java org apach jackrabbit core repositoryimpl java work copi
+
+catch accessdeniedexcept ad
+authent subject author workspac
+throw loginexcept workspac access deni ad
+catch runtimeexcept
+throw repositoryexcept getmessag
+final
+shutdownlock readlock releas
+

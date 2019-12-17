@@ -1,0 +1,4 @@
+accesscontrolprovid geteffectivepolici set princip includ repo level
+jcr resourc base implement edit permiss repositori level oper
+aclprovid geteffectivepolici set princip compiledpermiss includ repo level
+result set due miss test regular acl repo level acl

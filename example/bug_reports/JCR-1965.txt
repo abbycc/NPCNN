@@ -1,0 +1,13 @@
+patch remov stutter itemvalid
+itemvalid duplic code reason remov duplic
+permiss permiss
+path path item getprimarypath
+accessmgr isgrant item getprimarypath permiss
+return fals
+
+
+permiss permiss
+path path item getprimarypath
+accessmgr isgrant path permiss
+return fals
+

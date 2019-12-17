@@ -1,0 +1,10 @@
+index rule wildcard global properti name
+
+index rule nodetyp
+properti text properti
+properti text properti
+index rule
+defin properti name 'text' end 'text' fulltext index
+properti includ namespac prefix wildcard allow 'any' namespac
+titl
+titl

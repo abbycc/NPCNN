@@ -1,0 +1,2 @@
+rowiteratorimpl make queryresultrow getvalu
+valu retriev regular node queryresultrow getvalu call server

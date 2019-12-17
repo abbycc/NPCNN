@@ -1,0 +1,2 @@
+path interfac spi
+spi interfac depend qname path class jackrabbit jcr common architectur path interfac spi packag implement class common

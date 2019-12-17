@@ -1,0 +1,2 @@
+queryimpl setlimit queryimpl setoffset nodeiter getsiz report wrong size
+queryimpl setlimit queryimpl setoffset nodeiter getsiz report wrong size return size allwai limit

@@ -1,0 +1,6 @@
+add target jvm maven properti compil
+compat level sourc binari defin project properti compil jackrabbit jdk run older
+nice add properti assur gener jar work jvm
+maven compil target
+maven compil sourc
+target java

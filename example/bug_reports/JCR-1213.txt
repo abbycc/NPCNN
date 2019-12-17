@@ -1,0 +1,6 @@
+uuiddocid cach work properli weakrefer combin instanc combin indexread
+queri childaxisqueri descendantselfaxisqueri make getpar function wether parent correct result allow getpar call recurs hit expens docid uuiddocid parent cach
+docid uuiddocid' cach weakref combinedindexread combinedindexread recreat time impli allow remov 'expensive' cach
+solut weakrefer combinedindexread refer indexread segment mean getpar int searchindex return
+return getdocumentnumb replac return getdocumentnumb subread similar cachingmultiread
+node properti ad remov chang part cach docid uuiddocid invalid small index updat frequent expens recomput

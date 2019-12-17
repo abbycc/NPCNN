@@ -1,0 +1,12 @@
+initvers crash npe
+delet version problem access version histori
+stacktrac
+java lang nullpointerexcept
+org apach jackrabbit core version versioniteratorimpl initvers versioniteratorimpl java
+org apach jackrabbit core version versioniteratorimpl init versioniteratorimpl java
+org apach jackrabbit core version versioniteratorimpl init versioniteratorimpl java
+org apach jackrabbit core version versionhistoryimpl getallvers versionhistoryimpl java
+step threw code method
+currentvers getsuccessor
+return empti arrai
+versionhistori corrupt

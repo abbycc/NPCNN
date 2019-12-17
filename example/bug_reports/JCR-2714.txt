@@ -1,0 +1,12 @@
+select disabl check itemvalid
+select disabl check itemvalid scope oper perform method sessionst class provid simpl mean intern modifi protect item modif 'manually' item state level approach error prone dry
+upcom patch place set protect properti
+final node parent
+final
+sessionst sessionst sessioncontext getsessionst
+properti properti sessionst performuncheck sessionoper properti
+public properti perform sessioncontext context throw repositoryexcept
+return parent setproperti foo
+
+itemvalid check constraint
+user access session context order disabl check make usabl insid jackrabbit

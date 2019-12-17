@@ -1,0 +1,5 @@
+add support larg number user group
+current implement factor limit number user group
+group membership record multi valu properti scale
+member group collect eagerli scale
+propos add complementari support record group membership node structur current solut node structur similar user group add intermedi node group reach threshold number user

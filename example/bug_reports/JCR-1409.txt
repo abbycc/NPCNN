@@ -1,0 +1,10 @@
+pathfactoryimpl creat illeg path object
+creat illeg inconsist path default path factori
+path object expect repres syntact correct path
+exampl
+pathfactori pathfactoryimpl getinst
+path element getrootel
+path illegalpath creat path element
+path element getparentel
+path nonnormalizedpath creat path element
+assertfals nonnormalizedpath isnorm

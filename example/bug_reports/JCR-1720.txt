@@ -1,0 +1,2 @@
+jcr2spi configur entri size itemcach
+order make size itemcach configur todo jcr2spi sessionimpl extend jcr2spi repositoryconfig default provid abstractrepositoryconfig test section

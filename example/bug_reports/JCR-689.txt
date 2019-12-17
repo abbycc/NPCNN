@@ -1,0 +1,5 @@
+minim call persistencemanag
+situat persistencemanag call
+item creat method nodeimpl getorcreateproperti check exist properti state node call full item state stack persistencemanag properti unnessessari exist properti persist manag node save
+propos add check method node properti case properti creat check
+patch appli time transient creat node properti drop

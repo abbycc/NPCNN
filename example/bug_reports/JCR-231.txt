@@ -1,0 +1,4 @@
+jcr rmi xpath queri work underli queryresult return row node size
+rmi server serverqueryresult assum underli nodeiter return number element migth return case afaik depend jcr impl return jcr rmi fail return queryresult
+fail xpath queri
+http www dai maven jsr170 javadoc jcr javax jcr rangeiter html getsiz

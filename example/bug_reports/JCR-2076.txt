@@ -1,0 +1,2 @@
+jsr qom sql2
+adjust titl issu cover queri enhanc jsr

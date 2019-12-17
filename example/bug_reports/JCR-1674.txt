@@ -1,0 +1,4 @@
+provid mean except handl querynodevisitor implement
+method querynodevisitor declar except queri tree syntact correct implement reach point continu support option queri featur case solut throw uncheck except commun error state visitor data object pass
+option throw check except creat patch declar repositoryexcept visit method querynodevisitor class querynodevisitor trivial
+opinion check except break trivial exist code check except

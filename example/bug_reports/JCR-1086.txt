@@ -1,0 +1,7 @@
+jcr2spi workspac getimporthandl creat handler work properli jdk
+jcr2spi return import handler deleg work saxtransformerhandl jdk issu process namespac prefix map properli attach separ test case
+propos
+drop jdk support
+tune jcr2spi handler creat namespac attribut need
+serial
+person prefer drop jdk support accept

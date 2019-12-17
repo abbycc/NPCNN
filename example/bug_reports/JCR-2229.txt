@@ -1,0 +1,2 @@
+improv behaviour 'too open files' occur
+multiindex leav unus directori creat attempt creat index segment directori remov error occur 'too open files'

@@ -1,0 +1,11 @@
+jcr2spi test regress workspacemovereferenceabletest testmovenodesreferenceablenodesnewuuid
+latest broken tck test
+
+test set org apach jackrabbit test testal
+
+test run failur error skip time elaps sec failur
+testmovenodesreferenceablenodesnewuuid org apach jackrabbit test api workspacemovereferenceabletest time elaps sec error
+javax jcr invaliditemstateexcept item 'org apach jackrabbit jcr2spi nodeimpl 13ef9df' exist anymor
+org apach jackrabbit jcr2spi itemimpl checkstatu itemimpl java
+org apach jackrabbit jcr2spi nodeimpl getnam nodeimpl java
+org apach jackrabbit test api workspacemovereferenceabletest testmovenodesreferenceablenodesnewuuid workspacemovereferenceabletest java

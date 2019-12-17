@@ -1,0 +1,4 @@
+root except log clusternod clusterexcept
+mysql server fail queri log
+error clusternod node1 org apach jackrabbit core cluster clusternod period sync journal fail unabl return record iterat
+root except sqlexcept case miss log prevent quickli find reason

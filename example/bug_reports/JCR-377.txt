@@ -1,0 +1,2 @@
+chang project name start jackrabbit
+releas project artifactid' start jackrabbit

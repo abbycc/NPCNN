@@ -1,0 +1,2 @@
+hudson build detect java class refer
+due fact maven support hudson work java current build http hudson zone apach org hudson job jackrabbit trunk detect refer class method java class librari

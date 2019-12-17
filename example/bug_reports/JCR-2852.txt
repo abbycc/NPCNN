@@ -1,0 +1,5 @@
+support multi selector constraint join queri
+current join implement support constraint refer selector queri
+select type join type foo bar baz 'x' baz 'y'
+limit result join execut split queri selector compon merg result base join condit
+simpl ineffici solut process constraint post process filter complex constraint type

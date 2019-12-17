@@ -1,0 +1,3 @@
+filelock lock empti file
+fsdirectori file createnewfil effect lock directori makelock java spec explcitli purpos filelock nio
+attach patch show chang intern makelock method function equival test appli

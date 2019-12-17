@@ -1,0 +1,5 @@
+incorrect outer join tck test
+tck test case outer join incorrect specif expect result set testrightouterjoin1 testleftouterjoin2 test case equijoinconditiontest invalid shown
+testrightouterjoin1 result set null node propertyname2 properti set tupl occur join type match exist node null includ result set correct result set queri
+testleftouterjoin2 result set null tupl leftmost node correct result set
+correct result set exercis outer join function node return tupl null modifi test case setup fix

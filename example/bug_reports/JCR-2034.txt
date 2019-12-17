@@ -1,0 +1,3 @@
+add option skip checkschema method
+checkschema method compon filesystem persist manag journal fail detect requir tabl exist result startup fail mail thread dev list http jackrabbit markmail org messag jtq2sqis2aceh7ro
+option skip checkschema method startup solv issu

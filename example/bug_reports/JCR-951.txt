@@ -1,0 +1,6 @@
+oraclefilesystem getclass getresourceasstream load schema file
+org apach jackrabbit core oraclefilesystem load schema getclass getresourceasstream
+make imposs extend class copi schema ddl file overwrit checkschema
+schema file access
+solut oraclefilesystem class getresourceasstream
+jcr fix org apach jackrabbit core persist databasepersistencemanag

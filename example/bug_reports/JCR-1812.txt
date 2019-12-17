@@ -1,0 +1,3 @@
+workspaceupdatechannel updatecommit log
+cluster record updat info messag log
+log reduc debug level

@@ -1,0 +1,228 @@
+staleitemstateexcept distribut transact
+jackrabbit jca compon weblog applic server distribut transact oracl databas jackrabbit jca
+updat node properti multipl time transact result xaexcept root staleitemstateexcept stack trace
+googl reveal similar bug fix jackrabbit code show propos fix jcr appli jackrabbit tag trunk
+appli propos fix trunk code base
+stack trace
+javax ejb transactionrolledbacklocalexcept error commit transact nest except javax transact xaexcept
+weblog ejb contain intern ejbruntimeutil throwtransactionrolledbackloc ejbruntimeutil java
+weblog ejb contain intern ejbruntimeutil throwejbexcept ejbruntimeutil java
+weblog ejb contain intern baselocalobject postinvoke1 baselocalobject java
+weblog ejb contain intern baselocalobject postinvoketxretri baselocalobject java
+ejpd sireneit facad ejb ablag dokumentfacadebean 7xdnsq dokumentfacadeimpl updatestructureddoku dokumentfacadebean 7xdnsq dokumentfacadeimpl java
+ejpd sireneit access rest ablag dokumentresourc updat dokumentresourc java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei server impl model method dispatch abstractresourcemethoddispatchprovid responseoutinvok dispatch abstractresourcemethoddispatchprovid java
+sun jersei server impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei server impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet webcompon servic webcompon java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+weblog servlet intern stubsecurityhelp servletserviceact run stubsecurityhelp java
+weblog servlet intern stubsecurityhelp invokeservlet stubsecurityhelp java
+weblog servlet intern servletstubimpl execut servletstubimpl java
+weblog servlet intern tailfilt dofilt tailfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+ejpd lib webclient jfa jfatokenservletfilt dofilt jfatokenservletfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern webappservletcontext servletinvocationact run webappservletcontext java
+weblog secur acl intern authenticatedsubject doa authenticatedsubject java
+weblog secur servic securitymanag runa unknown sourc
+weblog servlet intern webappservletcontext securedexecut webappservletcontext java
+weblog servlet intern webappservletcontext execut webappservletcontext java
+weblog servlet intern servletrequestimpl run servletrequestimpl java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+javax transact xaexcept
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl commit xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc commit transactionboundxaresourc java
+weblog connector secur layer adapterlay commit adapterlay java
+weblog connector transact outbound xawrapp commit xawrapp java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern serverscinfo startcommit serverscinfo java
+weblog transact intern servertransactionimpl localcommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalretrycommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl internalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl commit servertransactionimpl java
+weblog ejb contain intern baselocalobject postinvoke1 baselocalobject java
+weblog ejb contain intern baselocalobject postinvoketxretri baselocalobject java
+ejpd sireneit facad ejb ablag dokumentfacadebean 7xdnsq dokumentfacadeimpl updatestructureddoku dokumentfacadebean 7xdnsq dokumentfacadeimpl java
+ejpd sireneit access rest ablag dokumentresourc updat dokumentresourc java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei server impl model method dispatch abstractresourcemethoddispatchprovid responseoutinvok dispatch abstractresourcemethoddispatchprovid java
+sun jersei server impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei server impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet webcompon servic webcompon java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+weblog servlet intern stubsecurityhelp servletserviceact run stubsecurityhelp java
+weblog servlet intern stubsecurityhelp invokeservlet stubsecurityhelp java
+weblog servlet intern servletstubimpl execut servletstubimpl java
+weblog servlet intern tailfilt dofilt tailfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+ejpd lib webclient jfa jfatokenservletfilt dofilt jfatokenservletfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern webappservletcontext servletinvocationact run webappservletcontext java
+weblog secur acl intern authenticatedsubject doa authenticatedsubject java
+weblog secur servic securitymanag runa unknown sourc
+weblog servlet intern webappservletcontext securedexecut webappservletcontext java
+weblog servlet intern webappservletcontext execut webappservletcontext java
+weblog servlet intern servletrequestimpl run servletrequestimpl java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+org apach jackrabbit core transactionexcept unabl prepar transact
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl commit xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc commit transactionboundxaresourc java
+weblog connector secur layer adapterlay commit adapterlay java
+weblog connector transact outbound xawrapp commit xawrapp java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern serverscinfo startcommit serverscinfo java
+weblog transact intern servertransactionimpl localcommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalretrycommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl internalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl commit servertransactionimpl java
+weblog ejb contain intern baselocalobject postinvoke1 baselocalobject java
+weblog ejb contain intern baselocalobject postinvoketxretri baselocalobject java
+ejpd sireneit facad ejb ablag dokumentfacadebean 7xdnsq dokumentfacadeimpl updatestructureddoku dokumentfacadebean 7xdnsq dokumentfacadeimpl java
+ejpd sireneit access rest ablag dokumentresourc updat dokumentresourc java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei server impl model method dispatch abstractresourcemethoddispatchprovid responseoutinvok dispatch abstractresourcemethoddispatchprovid java
+sun jersei server impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei server impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet webcompon servic webcompon java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+weblog servlet intern stubsecurityhelp servletserviceact run stubsecurityhelp java
+weblog servlet intern stubsecurityhelp invokeservlet stubsecurityhelp java
+weblog servlet intern servletstubimpl execut servletstubimpl java
+weblog servlet intern tailfilt dofilt tailfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+ejpd lib webclient jfa jfatokenservletfilt dofilt jfatokenservletfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern webappservletcontext servletinvocationact run webappservletcontext java
+weblog secur acl intern authenticatedsubject doa authenticatedsubject java
+weblog secur servic securitymanag runa unknown sourc
+weblog servlet intern webappservletcontext securedexecut webappservletcontext java
+weblog servlet intern webappservletcontext execut webappservletcontext java
+weblog servlet intern servletrequestimpl run servletrequestimpl java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+org apach jackrabbit core state staleitemstateexcept e1863ec3 4eb7 483b b1db 7586c089bc64 modifi extern
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl commit xasessionimpl java
+org apach jackrabbit jca transactionboundxaresourc commit transactionboundxaresourc java
+weblog connector secur layer adapterlay commit adapterlay java
+weblog connector transact outbound xawrapp commit xawrapp java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern xaserverresourceinfo commit xaserverresourceinfo java
+weblog transact intern serverscinfo startcommit serverscinfo java
+weblog transact intern servertransactionimpl localcommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalretrycommit servertransactionimpl java
+weblog transact intern servertransactionimpl globalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl internalcommit servertransactionimpl java
+weblog transact intern servertransactionimpl commit servertransactionimpl java
+weblog ejb contain intern baselocalobject postinvoke1 baselocalobject java
+weblog ejb contain intern baselocalobject postinvoketxretri baselocalobject java
+ejpd sireneit facad ejb ablag dokumentfacadebean 7xdnsq dokumentfacadeimpl updatestructureddoku dokumentfacadebean 7xdnsq dokumentfacadeimpl java
+ejpd sireneit access rest ablag dokumentresourc updat dokumentresourc java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+sun jersei server impl model method dispatch abstractresourcemethoddispatchprovid responseoutinvok dispatch abstractresourcemethoddispatchprovid java
+sun jersei server impl model method dispatch resourcejavamethoddispatch dispatch resourcejavamethoddispatch java
+sun jersei server impl uri rule httpmethodrul accept httpmethodrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule sublocatorrul accept sublocatorrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule resourceclassrul accept resourceclassrul java
+sun jersei server impl uri rule righthandpathrul accept righthandpathrul java
+sun jersei server impl uri rule rootresourceclassesrul accept rootresourceclassesrul java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei server impl applic webapplicationimpl handlerequest webapplicationimpl java
+sun jersei spi contain servlet webcompon servic webcompon java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+sun jersei spi contain servlet servletcontain servic servletcontain java
+javax servlet http httpservlet servic httpservlet java
+weblog servlet intern stubsecurityhelp servletserviceact run stubsecurityhelp java
+weblog servlet intern stubsecurityhelp invokeservlet stubsecurityhelp java
+weblog servlet intern servletstubimpl execut servletstubimpl java
+weblog servlet intern tailfilt dofilt tailfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+ejpd lib webclient jfa jfatokenservletfilt dofilt jfatokenservletfilt java
+weblog servlet intern filterchainimpl dofilt filterchainimpl java
+weblog servlet intern webappservletcontext servletinvocationact run webappservletcontext java
+weblog secur acl intern authenticatedsubject doa authenticatedsubject java
+weblog secur servic securitymanag runa unknown sourc
+weblog servlet intern webappservletcontext securedexecut webappservletcontext java
+weblog servlet intern webappservletcontext execut webappservletcontext java
+weblog servlet intern servletrequestimpl run servletrequestimpl java
+weblog work executethread execut executethread java
+weblog work executethread run executethread java
+

@@ -1,0 +1,5 @@
+add support map referenc bean
+ocm support map map referenc bean
+collect collectionconvert beanreferencecollectionconverterimpl class
+privat java util map string referencedbean amap
+beanreferencecollectionconverterimpl method dogetcollect updat support interfac manageablemap interfac

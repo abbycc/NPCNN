@@ -1,0 +1,27 @@
+node restor fail exist version opv version child node
+node definit properti child node
+definit nodetyp node child includ
+mix version properti definit onparentvers copi
+child node onparentvers version creat node
+child node checkin restor node
+versionexcept restor root node allow
+occur restor child node
+spec
+child node
+checkin node subnod type versionedchild
+singl properti node
+jcr childversionhistori refer version histori
+actual version requir
+version version histori
+
+
+
+restor workspac exist node
+version histori removeexist flag
+restor set true instanc child
+restor workspac exist node
+version histori removeexist flag
+restor set fals itemexistsexcept thrown
+restor node
+node restor version true
+expect behavior

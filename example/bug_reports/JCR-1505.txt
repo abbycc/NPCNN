@@ -1,0 +1,24 @@
+improv handl inherit mixin
+abstract class annot mixin type annot repeat concret class
+
+node jcrmixintyp mix referenc isabstract true
+public abstract class content
+
+
+
+class referenc
+
+node extend content class
+public class page extend content
+
+
+
+
+
+
+node extend content class jcrmixintyp mix referenc
+public class folder extend content
+
+
+
+nice annot inherit default

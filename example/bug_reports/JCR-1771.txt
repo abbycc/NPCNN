@@ -1,0 +1,2 @@
+jcr2spi avoid unnecessari roundtrip nodeentri getpropertyentri
+nodeinfo getpropertyid return complet set properti name extra round trip spi nodeentri getpropertyentri code simplifi

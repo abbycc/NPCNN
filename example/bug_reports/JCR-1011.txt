@@ -1,0 +1,3 @@
+jcr2spi add configur cach item instanc itemmanag
+itemmanag implement simpl map weak kei itemst weak valu item cach
+marcel recent suggest replac sophist cach mechan configur

@@ -1,0 +1,3 @@
+precompil javacc parser jackrabbit spi common
+javacc gener java sourc file jackrabbit spi common requir special configur import jackrabbit sourc id eclips make id integr smoother nice precompil copi java file exist src main java folder
+precompil sourc avoid javacc process step jackrabbit build separ profil explicitli recompil javacc sourc modifi past year happen jcr bit extra complex justifi simplif achiev normal build id integr

@@ -1,0 +1,2 @@
+jackrabbit' lucen base queri implement check properti constraint root node
+xpath queri kind jcr root properti constraint appar match

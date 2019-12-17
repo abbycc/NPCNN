@@ -1,0 +1,14 @@
+tck sessionreadmethodstest testisl call logout
+sessionreadmethodstest testisl call logout session test teardown jsr prohibit implement throw uncheck except illegalstateexcept logout call
+propos chang teardown test isliv call logout
+sessionreadmethodstest java revis
+sessionreadmethodstest java work copi
+
+releas session aquir link setup
+
+protect void teardown throw except
+session null
+session null session isliv
+session logout
+
+super teardown

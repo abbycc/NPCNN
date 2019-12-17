@@ -1,0 +1,19 @@
+add usermanag creategroup string groupid method
+discuss dev list consist insid api usermanag creategroup string groupid method
+specif method
+
+creat group groupid code null code
+
+link creategroup princip string groupid
+simpl code princip code implement
+intermedi path code null code
+
+param groupid group code null code
+return code group code
+throw authorizableexistsexcept case groupid
+link authoriz
+link authoriz getid exist
+throw repositoryexcept error occur
+
+group creategroup string groupid throw authorizableexistsexcept repositoryexcept
+http markmail org messag rjofzg4t3kiht7xv

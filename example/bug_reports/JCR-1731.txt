@@ -1,0 +1,7 @@
+session checkpermiss add node throw pathnotfoundexcept accesscontrolexcept
+invok session checkpermiss add node pathnotfoundexcept thrown
+except thread main javax jcr pathnotfoundexcept ancestor path degre
+org apach jackrabbit spi common pathfactoryimpl pathimpl getancestor pathfactoryimpl java
+org apach jackrabbit core sessionimpl checkpermiss sessionimpl java
+test main test java
+assum getancestor return null earlier version

@@ -1,0 +1,21 @@
+problem custom node journal
+applic custom node type problem cluster configur
+issu definit nodetyp incorrectli read journal
+hierarchynod version
+store journal x002a qname escap
+read code core nodetyp compact compactnodetypedefread dochildnodedefinit test
+currenttokenequ
+ndi setnam itemdef
+
+ndi setnam toqnam currenttoken
+
+currenttoken x002a toqnam currenttoken call fail
+chang test
+currenttokenequ currenttokenequ x002a
+
+fix problem
+issu store nodetyp journal superclass base store read error node subclass base
+code core nodetyp compact compactnodetypedefwrit writesupertyp skip base write node
+read nodetyp definit journal except thrown
+unabl deliv node type oper http namespac app repositori resourc primari node type base directli indirectli deriv base
+base ad nodetyp definit

@@ -1,0 +1,7 @@
+occasion indexingqueuetest failur
+assert fail
+junit framework assertionfailederror
+junit framework assert fail assert java
+junit framework assert asserttru assert java
+junit framework assert asserttru assert java
+org apach jackrabbit core queri lucen indexingqueuetest testqueu indexingqueuetest java

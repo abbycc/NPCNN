@@ -1,0 +1,7 @@
+rowiter view result queri return jcr path column
+rowiter view queri result return jcr path column spec state queri equival
+select base queri select properti return residu properti declar node type multi valu pseudo properti jcr path jcr score
+base
+jcr primarytyp
+jcr path
+jcr score

@@ -1,0 +1,5 @@
+sysview export import multivalu properti work
+sysview export multivalu properti differ export singlevalu properti
+properti import find correct properti def
+throw
+javax jcr nodetyp constraintviolationexcept match properti definit found propertynam

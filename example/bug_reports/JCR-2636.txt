@@ -1,0 +1,6 @@
+litmu prophighunicod test failur jre
+webdav litmu test suit test case write read unicod charact x10000 repres singl bit char java charact store surrog pair bit char xalan xml serial sun jre incorrectli encod separ charact utf lead litmu test failur
+run props'
+
+prophighunicod pass
+propget fail propfind default litmu prop2' xml pars error line form invalid token

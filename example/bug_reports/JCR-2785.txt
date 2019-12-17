@@ -1,0 +1,2 @@
+effectivenodetyp getnamednodedef return arrai qitemdefinit qnodedefinit
+requir unnecessari cast

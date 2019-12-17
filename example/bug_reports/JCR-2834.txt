@@ -1,0 +1,2 @@
+make defaultsecuritymanag default secur manag simplesecuritymanag
+jcr made defaultsecuritymanag default secur manag test run repositori xml includ jackrabbit core cluster test refer simplesecuritymanag consist reason make sens chang place defaultsecuritymanag

@@ -1,0 +1,6 @@
+plaintextextractor return empti reader encod unsupport
+plaintextextractor fail index text file search content text file come back result
+extracttext inputstream stream string type string encod method encod come empti string throw java unsupportedencodingexcept line return inputstreamread stream encod
+modifi statement fix problem
+encod null
+encod null encod equal

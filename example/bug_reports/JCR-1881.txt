@@ -1,0 +1,49 @@
+rtf text extractor fail java environ
+rtf text extractor fail error java unix platform platform issu jackrabbit prepar case log warn return empti text stream encount error
+java lang unsatisfiedlinkerror home jukka bin java j2sdk1 jre lib i386 libawt libxp open share object file file directori
+java lang classload nativelibrari load nativ method
+java lang classload loadlibrary0 classload java
+java lang classload loadlibrari classload java
+java lang runtim loadlibrary0 runtim java
+java lang system loadlibrari system java
+sun secur action loadlibraryact run loadlibraryact java
+java secur accesscontrol doprivileg nativ method
+sun awt nativelibload loadlibrari nativelibload java
+sun awt debughelp clinit debughelp java
+java awt eventqueu clinit eventqueu java
+javax swing swingutil iseventdispatchthread swingutil java
+javax swing text stylecontext reclaim stylecontext java
+javax swing text stylecontext addattribut stylecontext java
+javax swing text stylecontext namedstyl addattribut stylecontext java
+javax swing text stylecontext namedstyl setnam stylecontext java
+javax swing text stylecontext namedstyl init stylecontext java
+javax swing text stylecontext addstyl stylecontext java
+javax swing text stylecontext init stylecontext java
+javax swing text defaultstyleddocu init defaultstyleddocu java
+org apach jackrabbit extractor rtftextextractor extracttext rtftextextractor java
+org apach jackrabbit extractor rtftextextractortest testextractor rtftextextractortest java
+java lang internalerror connect x11 window server displai variabl
+sun awt x11graphicsenviron initdisplai nativ method
+sun awt x11graphicsenviron clinit x11graphicsenviron java
+java lang class forname0 nativ method
+java lang class fornam class java
+java awt graphicsenviron getlocalgraphicsenviron graphicsenviron java
+sun awt motif mtoolkit clinit mtoolkit java
+java lang class forname0 nativ method
+java lang class fornam class java
+java awt toolkit run toolkit java
+java secur accesscontrol doprivileg nativ method
+java awt toolkit getdefaulttoolkit toolkit java
+java awt toolkit geteventqueu toolkit java
+java awt eventqueu isdispatchthread eventqueu java
+javax swing swingutil iseventdispatchthread swingutil java
+javax swing text stylecontext reclaim stylecontext java
+javax swing text stylecontext addattribut stylecontext java
+javax swing text stylecontext namedstyl addattribut stylecontext java
+javax swing text stylecontext namedstyl setnam stylecontext java
+javax swing text stylecontext namedstyl init stylecontext java
+javax swing text stylecontext addstyl stylecontext java
+javax swing text stylecontext init stylecontext java
+javax swing text defaultstyleddocu init defaultstyleddocu java
+org apach jackrabbit extractor rtftextextractor extracttext rtftextextractor java
+org apach jackrabbit extractor rtftextextractortest testextractor rtftextextractortest java

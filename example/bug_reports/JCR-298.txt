@@ -1,0 +1,3 @@
+miss blob remov berkelei persist manag
+org apach jackrabbit core state bdb berkeleydbpersistencemanag destroi propertyst state remov binari file
+blobstor filesystem impl

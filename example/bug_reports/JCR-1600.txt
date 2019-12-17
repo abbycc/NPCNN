@@ -1,0 +1,3 @@
+remov nolockhack shareditemstatemanag
+increas test coverag specif recent ad multi thread test confid nolockhack shareditemstatemanag need anymor
+attach patch remov hack test pass includ daili integr test

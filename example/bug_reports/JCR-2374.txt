@@ -1,0 +1,2 @@
+fieldselector sort lucenequeryhit read uuid
+lucenequeryhit read complet lucen document prevent usag underli uuid cach

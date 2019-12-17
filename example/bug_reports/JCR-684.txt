@@ -1,0 +1,2 @@
+servlet api depend scope provid jackrabbit jcr server
+default compil scope servlet api jackrabbit jcr server warn scope provid build jackrabbit webapp

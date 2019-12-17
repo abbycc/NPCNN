@@ -1,0 +1,13 @@
+tck nodetest testaddnodeitemexistsexcept fail valid defer save
+test expect addnod fail sibl exist jsr valid defer save
+propos call save block
+nodetest java revis
+nodetest java work copi
+
+
+add node
+defaulttestnod addnod nodename3 testnodetyp
+defaultrootnod save
+fail ad node locat sibl allow node
+exist throw itemexistsexcept
+catch itemexistsexcept

@@ -1,0 +1,2 @@
+propertyreadmethodstest testissam leak session
+test case obtain session logout

@@ -1,0 +1,35 @@
+jcr unit test invalid queri
+section jcr specif
+option support properti select order claus explicitli
+defin node type list claus defin subtyp node type
+option support properti select orderbi claus
+explicitli defin node type list claus defin mixin
+node type assign node instanc type mention select claus
+test method org apach jackrabbit test api queri sqljointest class produc execut queri claus properti node type list claus testjoinntbas method produc queri code
+stringbuff queri stringbuff select
+queri append ntbase append append testmixin
+queri append
+queri append testnodetyp append append jcrpath
+queri append
+queri append mixreferenc append append jcrpath
+queri append append jcrpath append
+queri append append testroot append
+code produc valid queri testnodetyp set base testmixin set mix referenc
+select base mix referenc
+base jcr path mix referenc jcr path
+valu testnodetyp testmixin produc invalid queri criteria refer tupl sourc exist claus testnodetyp type testmixin mixin queri
+select base mixin
+type jcr path mix referenc jcr path
+code correct simpli testnodetyp claus
+similar bug testjoinfilterprimarytyp method code
+stringbuff queri stringbuff select
+queri append testnodetyp append append ntbase
+queri append
+queri append testnodetyp append append jcrpath
+queri append
+queri append mixreferenc append append jcrpath
+queri append append jcrpath append
+queri append append testroot append
+code produc valid queri claus testnodetyp base node type claus testnodetyp mix referenc type testnodetyp type queri
+select type base
+type jcr path mix referenc jcr path

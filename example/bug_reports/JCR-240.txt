@@ -1,0 +1,6 @@
+redefinit xml namespac map allow
+throw except work
+remap xml namespac work
+session setnamespaceprefix foobar http www org xml namespac
+revert map throw except
+session setnamespaceprefix xml http www org xml namespac

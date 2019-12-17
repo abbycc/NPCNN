@@ -1,0 +1,62 @@
+move method return error precondit fail
+maco finder' webdav client test jackrabbit host tomcat window sp2 comput lan encount error remot edit open text document problem save
+find log tomcat sadli jackrabbit produc log file problem ether check packet window comput trace summari export text file packet analyz problem occur
+line
+time sourc destin protocol info
+http move jackrabbit webapp repositori default temporaryitem folder temporaryitem 20document 20be 20save 20by 20textedit copi 20of 20request gam user account rtf http
+frame byte wire byte captur
+ethernet src applecom dst
+internet protocol src dst
+transmiss control protocol src port dst port seq ack len
+sourc port
+destin port
+sequenc number rel sequenc number
+sequenc number rel sequenc number
+acknowledg number rel ack number
+header length byte
+flag 0x0018 psh ack
+window size scale
+checksum 0xd4f9 correct
+option byte
+hypertext transfer protocol
+move jackrabbit webapp repositori default temporaryitem folder temporaryitem 20document 20be 20save 20by 20textedit copi 20of 20request gam user account rtf http
+request method move
+request uri jackrabbit webapp repositori default temporaryitem folder temporaryitem 20document 20be 20save 20by 20textedit copi 20of 20request gam user account rtf
+request version http
+user agent webdavf darwin power macintosh
+accept
+destin http jackrabbit webapp repositori default gov arc www rtf copi 20of 20request gam user account rtf
+author basic ywrtaw46ywrtaw4
+credenti admin admin
+content length
+connect aliv
+host
+
+line
+time sourc destin protocol info
+http http precondit fail text html
+frame byte wire byte captur
+ethernet src dst applecom
+internet protocol src dst
+transmiss control protocol src port dst port seq ack len
+sourc port
+destin port
+sequenc number rel sequenc number
+sequenc number rel sequenc number
+acknowledg number rel ack number
+header length byte
+flag 0x0018 psh ack
+window size
+checksum 0x1c18 incorrect 0xa2f0
+option byte
+hypertext transfer protocol
+http precondit fail
+request version http
+respons code
+server apach coyot
+content type text html charset utf
+content length
+date fri feb gmt
+
+line base text data text html
+html head titl apach tomcat error report titl style font famili tahoma arial san serif color white background color 525d76 font size 22px font famili tahoma arial san serif color white background color

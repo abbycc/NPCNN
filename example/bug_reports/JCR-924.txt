@@ -1,0 +1,3 @@
+jackrabbit rmi extens default jackrabbit webapp
+jackrabbit rmi extens default jackrabbit webapp
+ref http www nabbl custom node type rmi tf3728625 html

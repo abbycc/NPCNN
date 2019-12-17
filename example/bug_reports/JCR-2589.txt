@@ -1,0 +1,34 @@
+webdav mkcol directori exist gener illegalstateexcept
+perform mkcol resourc exist thrown
+error 1270012450463 mkcol org apach sling launchpad test snapshot app http org apach sling engin impl slingmainservlet servic uncaught throwabl java lang illegalstateexcept respons commit
+org apach sling engin impl slinghttpservletresponseimpl checkcommit slinghttpservletresponseimpl java
+org apach sling engin impl slinghttpservletresponseimpl setstatu slinghttpservletresponseimpl java
+org apach jackrabbit webdav webdavresponseimpl setstatu webdavresponseimpl java
+org apach jackrabbit webdav server abstractwebdavservlet domkcol abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic abstractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org apach sling engin impl request requestdata servic requestdata java
+
+return senderror requir
+abstractwebdavservlet domkcol
+protect void domkcol webdavrequest request webdavrespons respons
+davresourc resourc throw ioexcept davexcept
+davresourc parentresourc resourc getcollect
+parentresourc null parentresourc exist parentresourc iscollect
+parent exist collect
+respons senderror davservletrespons conflict
+return
+
+shortcut mkcol allow delet exist resourc
+resourc exist
+respons senderror davservletrespons method allow
+return
+
+request getcontentlength request gethead transfer encod null
+parentresourc addmemb resourc getinputcontext request request getinputstream
+
+parentresourc addmemb resourc getinputcontext request null
+
+respons setstatu davservletrespons creat
+

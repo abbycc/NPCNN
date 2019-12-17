@@ -1,0 +1,6 @@
+failur connect mysql databas jackrabbit start session leav lock file repositori subsequ session creat thread
+investig robust jackrabbit face unexpect databas error databas unavail case attempt start jackrabbit session transientrepositori databas run correctli fail attempt creat session thread short except occur repositori lock expect repositori folder lock code meant remov lock file trigger uncaught except
+attach file
+test class reproduc problem
+repositori xml config
+log file quantel txt detail stack trace

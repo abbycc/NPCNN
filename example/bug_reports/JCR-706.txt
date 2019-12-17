@@ -1,0 +1,2 @@
+rtftextextractor support mime type text rtf
+exist mime type rtf document applic rtf text rtf current rtftextextractor recogn

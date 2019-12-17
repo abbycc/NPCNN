@@ -1,0 +1,2 @@
+iteminfobuild includ propertyinfo childinfo
+build nodeinfo instanc iteminfobuild getchildinfo return entri popertyinfo wrong getchildinfo includ entri child node

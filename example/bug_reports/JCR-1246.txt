@@ -1,0 +1,4 @@
+databasepersistencemanag store except null sqlexcept loop forev
+line
+is null is getcaus instanceof sqlexcept trial
+check fail shortcircuit decrement trial

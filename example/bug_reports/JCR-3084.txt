@@ -1,0 +1,7 @@
+script check releas
+script autom check releas similar
+heavili inspir sling script
+command line call
+check releas jukka 4fa1e032f9b641fbc5c9ff8d6ba76fdb58b539ba
+command embed email announc releas easili run
+http svn apach org repo asf sling trunk check stage releas

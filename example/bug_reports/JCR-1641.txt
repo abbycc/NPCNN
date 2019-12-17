@@ -1,0 +1,71 @@
+defaultloginmodul simpleloginmodul support custom principalprovid
+configur custom principalprovid simpleloginmodul defaultloginmodul insid repositori xml file configur
+secur appnam jackrabbit
+accessmanag
+class org apach jackrabbit core secur defaultaccessmanag
+accessmanag
+loginmodul
+class org apach jackrabbit core secur authent defaultloginmodul
+param principalprovid foo jcr basicprincipalprovid
+loginmodul
+securitymanag class org apach jackrabbit core defaultsecuritymanag
+securitymanag
+secur
+yield stacktrac
+javax jcr loginexcept org apach jackrabbit core secur authent defaultloginmodul support 'principalprovid org apach jackrabbit core secur authent defaultloginmodul support 'principalprovid org apach jackrabbit core secur authent defaultloginmodul support 'principalprovid
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+foo jcr principalprovidertest testprincipalprovid principalprovidertest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org junit intern runner testmethod invok testmethod java
+org junit intern runner methodroadi runtestmethod methodroadi java
+org junit intern runner methodroadi run methodroadi java
+org junit intern runner methodroadi runbeforesthentestthenaft methodroadi java
+org junit intern runner methodroadi runtest methodroadi java
+org junit intern runner methodroadi run methodroadi java
+org junit intern runner junit4classrunn invoketestmethod junit4classrunn java
+org junit intern runner junit4classrunn runmethod junit4classrunn java
+org junit intern runner junit4classrunn run junit4classrunn java
+org junit intern runner classroadi rununprotect classroadi java
+org junit intern runner classroadi runprotect classroadi java
+org junit intern runner junit4classrunn run junit4classrunn java
+org eclips jdt intern junit4 runner junit4testrefer run junit4testrefer java
+org eclips jdt intern junit runner testexecut run testexecut java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn run remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn main remotetestrunn java
+caus javax secur auth login loginexcept org apach jackrabbit core secur authent defaultloginmodul support 'principalprovid
+org apach jackrabbit core secur authent localauthcontext login localauthcontext java
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+
+javax secur auth login loginexcept org apach jackrabbit core secur authent defaultloginmodul support 'principalprovid
+org apach jackrabbit core secur authent localauthcontext login localauthcontext java
+org apach jackrabbit core repositoryimpl login repositoryimpl java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+foo jcr principalprovidertest testprincipalprovid principalprovidertest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+org junit intern runner testmethod invok testmethod java
+org junit intern runner methodroadi runtestmethod methodroadi java
+org junit intern runner methodroadi run methodroadi java
+org junit intern runner methodroadi runbeforesthentestthenaft methodroadi java
+org junit intern runner methodroadi runtest methodroadi java
+org junit intern runner methodroadi run methodroadi java
+org junit intern runner junit4classrunn invoketestmethod junit4classrunn java
+org junit intern runner junit4classrunn runmethod junit4classrunn java
+org junit intern runner junit4classrunn run junit4classrunn java
+org junit intern runner classroadi rununprotect classroadi java
+org junit intern runner classroadi runprotect classroadi java
+org junit intern runner junit4classrunn run junit4classrunn java
+org eclips jdt intern junit4 runner junit4testrefer run junit4testrefer java
+org eclips jdt intern junit runner testexecut run testexecut java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn runtest remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn run remotetestrunn java
+org eclips jdt intern junit runner remotetestrunn main remotetestrunn java

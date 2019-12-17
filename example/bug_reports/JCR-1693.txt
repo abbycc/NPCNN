@@ -1,0 +1,11 @@
+jndidatabasejourn work oracl schema unabl oracledatabasejourn jndi datasourc
+databas journal work fine oracl oracledatabasejourn implement jndi datasourc org apach jackrabbit core journal jndidatabasejourn work fine oracl schema
+configur
+cluster node1 syncdelai
+journal class org apach jackrabbit core journal jndidatabasejourn
+param schema oracl
+jackrabbit crash startup defin sql error investig problem oracl ddl file tablespac variabl replac oracledatabasejourn implement
+workaround user creat ddl tablespac variabl work box
+wdyt solut
+make base databasejourn implement support jndi datasourc persistencemanag specif configur properti jndi locat url properti
+move replac tablespac variabl add gener replac paramet found databasejourn configur main databasejourn implement handi make oracledatabasejourn extens useless moment problem mssql implement add tablespac set empti string

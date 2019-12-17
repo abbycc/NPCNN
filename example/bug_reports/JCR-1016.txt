@@ -1,0 +1,11 @@
+patch repositoryaccessservlet repositori servletcontext attribut
+attach patch add repositori context attribut init paramet repositoryaccessservlet
+init param
+param repositori context attribut param
+param javax jcr repositori param
+descript
+set repositoryaccessservlet expect repositori servletcontext
+attribut servlet modul repositori
+intial jackrabbit jcr servlet modul util
+descript
+init param

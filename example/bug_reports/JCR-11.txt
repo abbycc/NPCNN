@@ -1,0 +1,2 @@
+xmlpersistencemanag incorrectli handl properti
+jcr properti instanc written xmlpersistencemanag java util properti file load loadpropertyst method properti file reload method load properti state xml file

@@ -1,0 +1,6 @@
+pars custom element workspac config
+repositoryconfigurationpars config element extend deriv class
+public loginmoduleconfig parseloginmoduleconfig element secur
+parseworkspaceconfig expect inputsourc add
+protect workspaceconfig parseworkspaceconfig element root
+return workspaceconfig deriv class copi entir implement

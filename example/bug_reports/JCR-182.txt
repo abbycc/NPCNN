@@ -1,0 +1,2 @@
+add calendar mime type jcr server' mime type registri
+attach patch add mime type ic ifb file jcr server' mime type registri

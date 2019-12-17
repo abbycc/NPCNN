@@ -1,0 +1,6 @@
+xmltextextractor return empti reader encod unsupport
+xmltextextractor fail index xml file search content xml file come back result
+extracttext inputstream stream string type string encod method encod come empti string throw except line reader pars sourc
+modifi statement fix problem
+encod null
+encod null encod equal

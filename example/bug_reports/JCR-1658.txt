@@ -1,0 +1,2 @@
+execut queri throw unsupportedrepositoryoperationexcept level support level implement
+execut queri throw unsupportedrepositoryoperationexcept level support spi implement level org apach jackrabbit jcr2spi queri execut call session getvaluefactori contract throw level support quick fix call getjcrvaluefactori managerprovid interfac implement sessionimpl getvaluefactori fix pass managerprovid queryimpl constructor session manag provid separ

@@ -1,0 +1,12 @@
+potenti infinit loop internalversionimpl getsuccessor
+infinit loop wait happen underli persist version storag defect
+
+org apach jackrabbit core version internalversionimpl getsuccessor internalversionimpl java
+
+org apach jackrabbit core version internalversionhistoryimpl init internalversionhistoryimpl java
+
+org apach jackrabbit core version internalversionhistoryimpl reload internalversionhistoryimpl java
+
+org apach jackrabbit core version internalversionhistoryimpl getvers internalversionhistoryimpl java
+line number
+version instanti reload call turn call init part piec code label fix legaci call getsuccessor turn instanti version

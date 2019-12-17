@@ -1,0 +1,2 @@
+add rel path paramet rep excerpt
+creat excerpt node result node node rel result node

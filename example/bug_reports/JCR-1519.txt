@@ -1,0 +1,2 @@
+properti getlength return boolean refer date valu
+simpli miss propertyimpl getlength

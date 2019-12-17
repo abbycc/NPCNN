@@ -1,0 +1,2 @@
+set jcr encod import file simpl webdav server
+attach patch set jcr encod properti import file simpl webdav server strip paramet content type set jcr mimetyp properti

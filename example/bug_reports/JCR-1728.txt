@@ -1,0 +1,11 @@
+observ log error node move place
+error messag written log sequenc oper execut
+creat node 'parent'
+creat node 'child' child 'parent'
+save
+creat node 'tmp'
+move 'child' 'tmp'
+remov 'parent'
+move 'tmp' path 'parent'
+log eventstatecollect unabl calcul path move node
+zombi path 'child' equal path move eventstatecollect detect parentid assign 'child' expect path zombi path case show case path equal event gener

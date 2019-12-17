@@ -1,0 +1,8 @@
+spi2davex unspecif badrequest error error code match repositoryexcept
+jsondiffhandl nodehandl server part jcr remot throw ioexcept
+error occur result unspecif badrequest respons problem sourc
+specif lock node
+glanc make diffexcept subclass ioexcept
+gener specif respons code includ origin except
+detail
+attach patch time carefulli test conform test pass

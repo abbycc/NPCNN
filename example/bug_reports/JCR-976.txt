@@ -1,0 +1,6 @@
+mislead except messag index fail
+log
+error repositoryimpl fail initi workspac 'default' repositoryimpl java line
+javax jcr repositoryexcept error index root node 10022d38 c449 b8f0 9d07ac45ead5
+
+mention uuid root node root miss

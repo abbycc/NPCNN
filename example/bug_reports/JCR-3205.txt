@@ -1,0 +1,43 @@
+miss support lock timeout ownerhint jcr server
+set lock timeout creat lock work davex transport timeout
+test code
+import javax jcr
+import javax jcr lock
+import org apach jackrabbit jcr2spi repositoryimpl
+import org apach jackrabbit jcr2spi config repositoryconfig
+string url http localhost server
+string workspac test
+repositoryconfig config repositoryconfigimpltest repourl
+repositori repo repositoryimpl creat config
+credenti simplecredenti admin admin tochararrai
+session repo login workspac
+node
+getrootnod hasnod test
+getrootnod getnod test
+
+getrootnod addnod test unstructur
+
+addmixin mix lockabl
+save
+lockmanag getworkspac getlockmanag
+lock lock getpath fals true
+system println getsecondsremain
+output
+relev commun fragment attach full trace case miss
+lock server test jcr 3aroot test http
+timeout
+depth
+link urn uuid0c740bb9 042a 4ef2 b019 1a6c52784c29 rel http www dai jcr webdav session
+author basic ywrtaw46ywrtaw4
+user agent jakarta common httpclient
+host localhost
+content length
+content type text xml charset utf
+xml version encod utf standalon lockinfo xmln dav lockscop dcr exclus session scope xmln dcr http www dai jcr webdav lockscop locktyp write locktyp owner owner lockinfo
+http
+content type text xml charset utf
+content length
+lock token aa724c28 3c24 41e8 a3b4 9fc129adf732
+server jetti
+xml version encod utf standalon prop xmln dav lockdiscoveri activelock lockscop dcr exclus session scope xmln dcr http www dai jcr webdav lockscop locktyp write locktyp depth depth timeout timeout owner admin owner locktoken href aa724c28 3c24 41e8 a3b4 9fc129adf732 href locktoken activelock lockdiscoveri prop
+explicitli logout program exit lock releas session base session trigger logout destruct

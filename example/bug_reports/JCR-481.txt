@@ -1,0 +1,19 @@
+check option featur test case wrong
+report david sander
+tck jsr final releas
+http jcp org aboutjava communityprocess final jsr170 index html
+check level option featur compar
+repositori getdescriptor null
+spec javadoc getdescriptor return
+true fals capabl kei
+absractjcrest java
+setup custom namespac
+
+helper getrepositori getdescriptor repositori level support
+null
+namespaceregistri nsreg
+superus getworkspac getnamespaceregistri
+statement
+
+helper getrepositori getdescriptor repositori level support
+equal true

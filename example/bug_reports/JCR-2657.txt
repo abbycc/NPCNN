@@ -1,0 +1,3 @@
+defaultaccessmanag hasprivileg string set privileg close compil permiss
+defaultaccessmanag hasprivileg string set privileg retriev compil permiss set princip
+provid omit compiledpermiss close call return

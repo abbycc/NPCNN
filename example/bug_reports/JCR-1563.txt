@@ -1,0 +1,3 @@
+data store utfdataformatexcept larg minrecordlength
+larger minrecordlength store byte except thrown utfdataformatexcept reason valu serial dataoutputstream writeutf size limit method small entri hex encod prefix limit minrecordlength
+problem filedatastor dbdatastor

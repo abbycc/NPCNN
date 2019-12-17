@@ -1,0 +1,38 @@
+duplic kei databasepersistencemanag
+
+ran except past thread save race condit
+
+martijn hendrik
+creativ onlin develop
+
+
+martijnh
+wijchenseweg
+nijmegen
+http www
+jan org apach jackrabbit core persist databasepersistencemanag store
+sever fail write properti state e3847bad f1ee 4adb a109 e134900935b7 http edit languag
+error statement abort caus duplic kei uniqu primari kei constraint uniqu dex identifi 'default prop idx' defin 'default prop'
+org apach derbi iapi error standardexcept newexcept unknown sourc
+org apach derbi impl sql execut indexchang insertandcheckdup unknown sourc
+org apach derbi impl sql execut indexchang doinsert unknown sourc
+org apach derbi impl sql execut indexchang insert unknown sourc
+org apach derbi impl sql execut indexsetchang insert unknown sourc
+org apach derbi impl sql execut rowchangerimpl insertrow unknown sourc
+org apach derbi impl sql execut insertresultset normalinsertcor unknown sourc
+org apach derbi impl sql execut insertresultset open unknown sourc
+org apach derbi impl sql genericpreparedstat execut unknown sourc
+org apach derbi impl jdbc embedstat executestat unknown sourc
+org apach derbi impl jdbc embedpreparedstat executestat unknown sourc
+org apach derbi impl jdbc embedpreparedstat execut unknown sourc
+org apach jackrabbit core persist databasepersistencemanag executestmt databasepersistencemanag java
+org apach jackrabbit core persist databasepersistencemanag store databasepersistencemanag java
+org apach jackrabbit core persist abstractpersistencemanag store abstractpersistencemanag java
+org apach jackrabbit core persist databasepersistencemanag store databasepersistencemanag java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java

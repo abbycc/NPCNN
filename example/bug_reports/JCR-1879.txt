@@ -1,0 +1,29 @@
+directori previous creat lockfactori open close delet repositori loop
+open transientrepositori loop throw except directori previous creat lockfactori instanc
+test case
+int
+fileutil deletedirectori file repositori
+repositori rep transientrepositori
+session session rep login simplecredenti char
+session logout
+
+problem org apach lucen store fsdirectori directori clear fsdirectori close call
+stack trace
+except thread main javax jcr repositoryexcept directori previous creat lockfactori instanc pass null lockfactori instanc setlockfactori chang directori previous creat lockfactori instanc pass null lockfactori instanc setlockfactori chang directori previous creat lockfactori instanc pass null lockfactori instanc setlockfactori chang
+org apach jackrabbit core searchmanag initializequeryhandl searchmanag java
+org apach jackrabbit core searchmanag init searchmanag java
+org apach jackrabbit core repositoryimpl getsystemsearchmanag repositoryimpl java
+org apach jackrabbit core repositoryimpl access repositoryimpl java
+org apach jackrabbit core repositoryimpl workspaceinfo getsearchmanag repositoryimpl java
+org apach jackrabbit core repositoryimpl initworkspac repositoryimpl java
+org apach jackrabbit core repositoryimpl initstartupworkspac repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+caus java ioexcept directori previous creat lockfactori instanc pass null lockfactori instanc setlockfactori chang
+org apach lucen store fsdirectori getdirectori fsdirectori java
+org apach jackrabbit core queri lucen directori fsdirectorymanag getdirectori fsdirectorymanag java
+org apach jackrabbit core queri lucen multiindex init multiindex java
+org apach jackrabbit core queri lucen searchindex doinit searchindex java
+org apach jackrabbit core queri abstractqueryhandl init abstractqueryhandl java

@@ -1,0 +1,24 @@
+test failur org apach jackrabbit test testal
+subsequ test run fail mvn clean
+
+
+
+run org apach jackrabbit spi2jcr spi testal
+test run failur error skip time elaps sec
+run org apach jackrabbit test testal
+test run failur error skip time elaps sec failur
+run org apach jackrabbit spi2jcr jcr2spi testal
+test run failur error skip time elaps sec
+result
+fail test
+testorderbyascend org apach jackrabbit test api queri sqlorderbytest
+testorderbydescend org apach jackrabbit test api queri sqlorderbytest
+testorderbydefault org apach jackrabbit test api queri sqlorderbytest
+testdocorderindexednot org apach jackrabbit test api queri xpathposindextest
+testdocorderpositionfunct org apach jackrabbit test api queri xpathdocordertest
+testdocorderpositionindex org apach jackrabbit test api queri xpathdocordertest
+testdocorderlastfunct org apach jackrabbit test api queri xpathdocordertest
+testdocorderfirstfunct org apach jackrabbit test api queri xpathdocordertest
+testorderbyascend org apach jackrabbit test api queri xpathorderbytest
+testorderbydescend org apach jackrabbit test api queri xpathorderbytest
+testorderbi org apach jackrabbit test api queri xpathorderbytest

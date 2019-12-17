@@ -1,0 +1,13 @@
+group getmemb list inherit member multipl time
+happen detect regress introduc ago
+group getmemb defin return group member includ inherit group member group
+
+user
+group declar member
+group declar member
+group declar member
+expect result group getmemb
+happen includ return iter
+quickli test jackrabbit reveal work
+carefulli check bug introduc refactor membership
+collect culprit

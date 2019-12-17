@@ -1,0 +1,3 @@
+introduc cach frequent index lookup
+queri heavili hierarchi relat resolv locat step childaxisqueri descendantselfaxisqueri hierarchi relat look nativ lucen index effici index maintain cach frequent hierarchi lookup
+call indexread termdoc term field uuid parent

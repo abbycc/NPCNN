@@ -1,0 +1,19 @@
+maintan stabl order properti xml export
+export xml system view test document view order properti consist
+issu jcr specif order properti undefin keep order xml export
+moment run import export import export roundtrip notic export xml differ
+properti jcr uuid type string
+b4fb 45cd 59277caf14b7
+properti
+properti titl type string
+test
+properti
+properti visibl type string
+true
+properti
+properti titl type string
+test
+properti
+diff export file pretti annoi clear understand chang
+propos order consist export easi sort properti alphabet export
+behavior test recent jackrabbit build trunk snapshot

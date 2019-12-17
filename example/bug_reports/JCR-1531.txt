@@ -1,0 +1,2 @@
+patch add column line number repositori xml pars except messag
+code caught saxexcept xml pars except occur pars repositori xml catch saxparseexcept subclass access column line number problem catch except add except messag make easier fix error

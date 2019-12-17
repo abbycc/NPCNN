@@ -1,0 +1,2 @@
+replac uuid string uuid class nodeid
+uuid node store string itemid itemst alot overhead jackrabbit replac fast implement uuid class

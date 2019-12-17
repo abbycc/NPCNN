@@ -1,0 +1,2 @@
+reduc memori usag docid
+implement docid cach parent child relat node index lot duplic object docid instanc identifi parent node index sibl node docid docid instanc creat node cach recent docid reus reduc memori usag docid repres short int

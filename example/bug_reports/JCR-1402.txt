@@ -1,0 +1,10 @@
+path getancestor path isancestor symmetr
+method name refer ancestor oper path
+pathfactori pathfactoryimpl getinst
+path element getparentel
+path path creat path element
+path ancestor path getancestor
+assertfals ancestor isancestorof path
+expect method signatur
+suggest renam getancestor getsubpath clarifi javadoc deprec getancestorcount
+patch

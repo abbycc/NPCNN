@@ -1,0 +1,3 @@
+valid searchindex configur
+valid configur repositori xml workspac xml enabl jcr problem loginmodul searchindex found jcr disabl modul
+valid searchindex avoid problem major version minor version

@@ -1,0 +1,3 @@
+reus definitionbuild qitemdefinitionsbuild
+nice reus builder implement qitemdefinitionsbuild definit built
+extract relev class independ make qitemdefinitionsbuild

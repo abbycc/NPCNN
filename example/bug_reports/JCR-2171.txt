@@ -1,0 +1,70 @@
+deadlock shareditemstatemanag session move node save
+multipl thread test case perform action workflow instanc store insid jackrabbit repositori
+time test case hang deadlock
+actiontrigger38 daemon prio tid 0x9060ec00 nid 0x2f7e object wait 0x8f505000 0x8f505f20
+java lang thread state wait object monitor
+java lang object wait nativ method
+wait 0xb3ef0208 oswego util concurr writerpreferencereadwritelock readerlock
+java lang object wait object java
+oswego util concurr writerpreferencereadwritelock readerlock acquir unknown sourc
+lock 0xb3ef0208 oswego util concurr writerpreferencereadwritelock readerlock
+org apach jackrabbit core state defaultismlock readlockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock readlockimpl init defaultismlock java
+org apach jackrabbit core state defaultismlock acquirereadlock defaultismlock java
+org apach jackrabbit core state shareditemstatemanag acquirereadlock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag hasitemst shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag hasitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag hasitemst sessionitemstatemanag java
+org apach jackrabbit core hierarchymanagerimpl hasitemst hierarchymanagerimpl java
+org apach jackrabbit core cachinghierarchymanag nodead cachinghierarchymanag java
+org apach jackrabbit core cachinghierarchymanag nodead cachinghierarchymanag java
+lock 0xb4020630 java lang object
+org apach jackrabbit core state statechangedispatch notifynodead statechangedispatch java
+org apach jackrabbit core state sessionitemstatemanag nodead sessionitemstatemanag java
+org apach jackrabbit core state nodest notifynodead nodest java
+org apach jackrabbit core state nodest renamechildnodeentri nodest java
+lock 0xb26df780 org apach jackrabbit core state nodest
+org apach jackrabbit core nodeimpl renamechildnod nodeimpl java
+org apach jackrabbit core sessionimpl move sessionimpl java
+org ameti plugin repositori defaultsessionfactori sessionwrapp move defaultsessionfactori java
+org ameti plugin workflow store jackrabbitworkflowstor movetohistori jackrabbitworkflowstor java
+opensymphoni workflow abstractworkflow createnewcurrentstep abstractworkflow java
+opensymphoni workflow abstractworkflow transitionworkflow abstractworkflow java
+opensymphoni workflow abstractworkflow doaction abstractworkflow java
+org ameti plugin workflow workflow doaction workflow java
+org ameti plugin workflow workflowtestcas actiontrigg run workflowtestcas java
+actiontrigger12 daemon prio tid 0x904dd000 nid 0x2f64 wait monitor entri 0x8fd3f000 0x8fd40020
+java lang thread state block object monitor
+org apach jackrabbit core cachinghierarchymanag nodemodifi cachinghierarchymanag java
+wait lock 0xb4020630 java lang object
+org apach jackrabbit core state statechangedispatch notifynodemodifi statechangedispatch java
+org apach jackrabbit core state sessionitemstatemanag nodemodifi sessionitemstatemanag java
+org apach jackrabbit core state statechangedispatch notifynodemodifi statechangedispatch java
+org apach jackrabbit core state localitemstatemanag statemodifi localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag statemodifi xaitemstatemanag java
+org apach jackrabbit core state statechangedispatch notifystatemodifi statechangedispatch java
+org apach jackrabbit core state shareditemstatemanag statemodifi shareditemstatemanag java
+org apach jackrabbit core state itemst notifystateupd itemst java
+org apach jackrabbit core state changelog persist changelog java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+lock 0xb4004650 org apach jackrabbit core xasessionimpl
+org apach jackrabbit core sessionimpl save sessionimpl java
+org ameti plugin repositori defaultsessionfactori sessionwrapp save defaultsessionfactori java
+org ameti plugin workflow store jackrabbitworkflowstor markfinish jackrabbitworkflowstor java
+opensymphoni workflow abstractworkflow createnewcurrentstep abstractworkflow java
+opensymphoni workflow abstractworkflow transitionworkflow abstractworkflow java
+opensymphoni workflow abstractworkflow doaction abstractworkflow java
+org ameti plugin workflow workflow doaction workflow java
+org ameti plugin workflow workflowtestcas actiontrigg run workflowtestcas java
+session instanc thread
+node modifi
+actiontrigger38 move node session save
+actiontrigger12 updat node save
+reproduc behavior jackrabbit test case success
+inform test case give

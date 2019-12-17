@@ -1,0 +1,3 @@
+reduc memori usag parentaxisscor
+parentaxisscor map default score calcul parent match context scorer case score equal default score
+scorer score default

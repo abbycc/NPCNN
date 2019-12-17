@@ -1,0 +1,3 @@
+cach sync transientstor pathnotfoundexcept
+debug problem synchron cach transientstor retriev childnod made parent node transient remov prop ad cach remov node nodeid remov cach stateid save cach add node node retriev node path found except retriev nodeit resolv cach path remov node remov cach return nodeid remov node node present transientstor therefor throw pathnotfoundexcept
+provid fail junit test repositori xml

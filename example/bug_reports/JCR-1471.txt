@@ -1,0 +1,15 @@
+error regist nodetyp propdef supertyp
+error check
+getrequiredtyp epd getrequiredtyp
+ismultipl epd ismultipl
+conflict
+string msg properti definit
+node type
+def getdeclaringnodetyp
+conflict node type
+existingdef getdeclaringnodetyp
+ambigu properti definit
+log debug msg
+throw nodetypeconflictexcept msg
+
+invert

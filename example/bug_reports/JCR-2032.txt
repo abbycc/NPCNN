@@ -1,0 +1,3 @@
+jcr server basiccredentialsprovidertest throw npe defaultauthhead init param miss password
+issu report dominiqu jaeggi
+miss auth header init param form uid uid uid result npe simplecredenti creation

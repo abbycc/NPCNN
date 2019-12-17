@@ -1,0 +1,2 @@
+tck predefinednodetypetest addit predefin node type hierarchi
+explain section page jsr specif implement allow custom predefin noe type definit addit supertyp test predefinednodetypetest account expect exact match predefin node type

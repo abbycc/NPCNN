@@ -1,0 +1,7 @@
+spi2dav eventfilt respect
+impress event filter pass event subscript spi2dav properli respect
+marcel specif reason pass static subscriptioninfo constant node type filter noloc fals subscribemethod
+spi2dav repositoryserviceimpl createsubscript
+guess reason failur
+testnodetyp org apach jackrabbit test api observ addeventlistenertest
+testnolocaltru org apach jackrabbit test api observ addeventlistenertest

@@ -1,0 +1,5 @@
+fix jackrabbit groupid
+groupid maven project xml simpli jackrabbit
+name polici adopt maven requir groupid mirror main packag chang org apach jackrabbit
+good moment fix recent merg modif artifact id
+note polici groupid found http maven apach org refer repositori upload html

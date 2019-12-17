@@ -1,0 +1,24 @@
+tck setvaluedatetest compar calendar object
+setvaluedatetest testdatesess
+setvaluedatetest testdatepar
+test compar calendar object calendar equal object stronger test jsr specifi equal object lead fals failur purpos test equal object strong equal test repositori normal date time valu save read roundtrip convert ad remov trail zero fraction second
+propos compar gettimeinmilli valu
+setvaluedatetest java revis
+setvaluedatetest java work copi
+
+public void testdatesess throw repositoryexcept
+property1 setvalu
+superus save
+assertequ date node properti save getdat property1 getvalu getdat
+assertequ date node properti save
+getdat gettimeinmilli property1 getdat gettimeinmilli
+
+
+
+public void testdatepar throw repositoryexcept
+property1 setvalu getdat
+node save
+assertequ date node properti save getdat property1 getvalu getdat
+assertequ date node properti save
+getdat gettimeinmilli property1 getdat gettimeinmilli
+

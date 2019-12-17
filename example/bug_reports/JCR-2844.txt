@@ -1,0 +1,6 @@
+maxcount work correctli user group queri restrict group member
+user group queri scope limit claus maxcount work correctli
+builder setscop contributor fals
+builder setlimit
+case result result
+relat jcr

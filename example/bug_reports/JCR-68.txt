@@ -1,0 +1,3 @@
+lock getnod return lock holder
+spec getlock getnod lock node subtre lock holder call return
+return

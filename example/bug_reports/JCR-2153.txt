@@ -1,0 +1,39 @@
+introduc qvalueconstraint chang return type qpropertydefinit getvalueconstraint
+public interfac qvalueconstraint
+
+
+empti arrai code qvalueconstraint code
+
+public static final qvalueconstraint empti arrai qvalueconstraint
+
+
+check match constraint
+
+param test
+throw constraintviolationexcept
+code null code match constraint
+throw repositoryexcept error occur
+
+void check qvalu throw constraintviolationexcept repositoryexcept
+
+
+constraint namespac prefix map sensit
+method return defin
+code link propertydefinit getvalueconstraint code
+
+namespac prefix map sensit
+code nameconstraint code code pathconstraint code
+code referenceconstraint code return expand string
+
+return expand definit string
+
+string getexpandeddefinit
+
+
+jackrabbit spi src main java org apach jackrabbit spi qpropertydefinit java work copi
+
+
+return arrai constraint
+
+public string getvalueconstraint
+public qvalueconstraint getvalueconstraint

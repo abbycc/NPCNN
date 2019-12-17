@@ -1,0 +1,5 @@
+tck locktest testgetlock compar node equal
+comparison 'issame'
+line
+asserttru lock hold node parent lock getnod equal
+asserttru lock hold node parent lock getnod issam

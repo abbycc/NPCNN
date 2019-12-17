@@ -1,0 +1,4 @@
+extractor jar block usag newer poi version
+extractor jar http repo1 maven org maven2 org textmin extractor includ class poi poi referenc depend pom xml
+newer version poi poi final extractor jackrabbit
+solut function newer poi version scratchpad fix version extractor jar inlud poi class

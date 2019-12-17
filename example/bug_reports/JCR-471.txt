@@ -1,0 +1,3 @@
+creat resourc sensit cach item state
+lru cach strategi itemst share ism hardcod limit entri problem size state respect cach strategi pose problem
+state larg larg valu properti state larg number childnod entri

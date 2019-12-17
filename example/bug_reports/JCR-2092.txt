@@ -1,0 +1,2 @@
+make spi queri code compat jcr
+spi common outdat copi jcr queri interfac

@@ -1,0 +1,7 @@
+sql2 queri qomformatt creat incorrect condit
+queri pars
+select test test test 'hello' test
+sql statement gener
+select test test test 'hello' test
+pars differ
+select test test test 'hello' test

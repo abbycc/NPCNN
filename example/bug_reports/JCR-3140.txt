@@ -1,0 +1,5 @@
+add configur hook password valid
+common case applic enforc addit logic
+chang user password achiev deriv user implement
+extend function ad jcr fairli trivial provid hook
+custom password valid check write password expir date

@@ -1,0 +1,10 @@
+nodereferencesid equal symetr
+nodereferencesid equal symetr equal test nodeid
+code
+uuid uuid uuid randomuuid
+nodeid nodeid uuid
+nodereferencesid refid nodereferencesid uuid
+equal refid return true
+refid equal return fals
+nodereferencesid decoul itemid hierarchi class noderefer extend nodest make perfectli sens appli identifi noderefer
+attach patch nodereferencesid requir minor persist manag

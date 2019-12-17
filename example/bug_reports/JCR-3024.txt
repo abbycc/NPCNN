@@ -1,0 +1,3 @@
+spi node setproperti null throw itemnotfoundexcept
+node setproperti null throw itemnotfoundexcept case properti exist return stale properti throw invaliditemstateexcept method access
+behavior consist jackrabbit core

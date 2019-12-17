@@ -1,0 +1,2 @@
+databasejourn commit insid transact caus error mysql
+commit transact cluster setup multipl record append databasejourn append record commit call connect auto commit mode enabl semant correct commit connect auto commit mode throw error mysql backend

@@ -1,0 +1,26 @@
+provid possibl import protect item session import function
+sessionimport workspaceimport skip protect item encount import special case
+jcr workspaceimport postprocessnod
+specif mandat protect content treat consist manner implement import ignor
+find attach patch initi step extend default import behavior
+skip protect item case node complet tree pass separ handler
+deal assert valid format
+patch includ
+abstract class protect item import
+default implement import protect node behavior todai
+implement content work simpl case trivial test
+sessionimport demonstr import protect item enabl
+patch includ
+workspaceimport sessionimport
+workspaceimpl sessionimpl configur modifi default behavior
+exampl import protect properti
+exampl workspac import
+patch limit todo
+proper handl protect refer properti protect ref properti tree defin protect node
+test care review importuuidbehavior properli cover special case replac exist
+patch addit address
+inconsist sessionimport
+attempt import protect content exist protect node skip
+attempt import protect content exist node import constraintviolationexcept child node
+behavior reflect node stack case 'null' push case protect node
+jcr detail

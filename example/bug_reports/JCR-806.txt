@@ -1,0 +1,2 @@
+scorer skipto initi hit
+custom scorer implement jackrabbit initi intern hit bitset skipto call

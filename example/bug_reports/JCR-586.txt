@@ -1,0 +1,52 @@
+remov mixin add sibl child node throw itemnotfoundexcept
+apolog advanc previous note jira list find remov mixin defin sibl child itemnotfoundexcept thrown due child node indici maintain similar method nodeimpl onremov recongn amend remov tail removemixin issu
+simpl test reproduct
+type
+mix foo mixin
+bar bar multipl
+bar unstructur mix referenc
+code
+public class removemixintest extend abstractservertest
+privat static final string mixin mix foo
+privat static final string child bar
+privat static final string ptype bar
+public void testremovemixin throw repositoryexcept
+session session getsess
+node root session getrootnod addnod root
+root addmixin mixin
+root addnod child ptype
+root addnod child ptype
+root addnod child ptype
+session save
+nodeiter root getnod hasnext
+node node nextnod
+system println node getpath node getuuid
+
+
+root removemixin mixin
+root save
+catch repositoryexcept
+printstacktrac
+
+
+
+output
+root bar 0b09e0b4 978a 4eadfbf93fa8
+root bar 84d5e556 6f12 43fb 98e3 614bcf1f7bb7
+root bar 8db95029 df3b 4e26 affb 438de0206cf5
+javax jcr itemnotfoundexcept 8db95029 df3b 4e26 affb 438de0206cf5
+org apach jackrabbit core itemmanag createiteminst itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core nodeimpl removemixin nodeimpl java
+org apach jackrabbit core nodeimpl removemixin nodeimpl java
+appmw rcf server removemixintest testremovemixin removemixintest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+java lang reflect method invok method java
+junit framework testcas runtest testcas java
+msjava base testutil junit3 mstestcas runtest mstestcas java
+msjava base testutil junit3 testcaseteardownevenifsetupfail runbar testcaseteardownevenifsetupfail java
+msjava base testutil junit3 mstestcas runbar mstestcas java
+junit framework testresult protect testresult java
+miss uuid node found remov index valid

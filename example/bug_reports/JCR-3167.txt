@@ -1,0 +1,5 @@
+make jackrabbit compil java
+compil java fail error
+jackrabbit core src main java org apach jackrabbit core util datasourcewrapp java error
+datasourcewrapp abstract overrid abstract method getparentlogg commondatasourc
+fix

@@ -1,0 +1,2 @@
+consolid cnd relat class spi core
+spi common core cnd reader writer consolid core spi

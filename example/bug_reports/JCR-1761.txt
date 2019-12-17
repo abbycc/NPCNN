@@ -1,0 +1,8 @@
+ocm add abil collect element xml map file
+collect element map node collect element map xml config file abil control configur featur queri object structur pain structur
+class foo
+string
+list foo children
+list foo friend
+
+queri foo interest child node filter node name childfoo flexibl ad child node

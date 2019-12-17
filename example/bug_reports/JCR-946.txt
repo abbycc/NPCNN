@@ -1,0 +1,2 @@
+creat sampl search page
+web applic search page show queri featur jackrabbit

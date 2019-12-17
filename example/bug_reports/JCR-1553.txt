@@ -1,0 +1,63 @@
+clusternod properli shutdown repositori shutdown
+repositori shutdown clusternod shutdown updat record access close journal file setup gener except vm repositori connect databas stack trace repositori shutdown clusternod thread updat repositori journal time copi stack trace
+cdt systemout webcontain info org apach jackrabbit core repositoryimpl shut repositori
+cdt 0000054c systemout clusternod b06e4fe7 a602 4a93 b106 e0834046ae0f info org apach jackrabbit core cluster clusternod process revis
+cdt systemout webcontain info org apach jackrabbit core repositoryimpl shut workspac 'default'
+cdt systemout webcontain info org apach jackrabbit core observ observationdispatch notif eventlisten stop
+cdt systemout webcontain info org apach jackrabbit core repositoryimpl workspac 'default' shutdown
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod e609e8a6 320e 44ea be0f ab8c5cb89662 info org apach jackrabbit core journal abstractjourn synchron revis
+cdt systemout clusternod 4930503b ab33 999e c87fb3681bf7 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod 4930503b ab33 999e c87fb3681bf7 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod 4930503b ab33 999e c87fb3681bf7 info org apach jackrabbit core cluster clusternod process revis
+cdt systemout clusternod 4930503b ab33 999e c87fb3681bf7 info org apach jackrabbit core journal abstractjourn synchron revis
+cdt systemout webcontain info org apach jackrabbit core repositoryimpl repositori shutdown
+cdt 0000054c systemout clusternod b06e4fe7 a602 4a93 b106 e0834046ae0f error org apach jackrabbit core cluster clusternod unabl read revis '7174'
+org apach jackrabbit core journal journalexcept error read string
+org apach jackrabbit core journal readrecord readstr readrecord java
+org apach jackrabbit core cluster clusternod consum clusternod java
+org apach jackrabbit core journal abstractjourn dosync abstractjourn java
+org apach jackrabbit core journal abstractjourn sync abstractjourn java
+org apach jackrabbit core cluster clusternod sync clusternod java
+org apach jackrabbit core cluster clusternod run clusternod java
+java lang thread run thread java
+caus
+java ioexcept close connect
+oracl jdbc driver databaseerror sqltoioexcept databaseerror java
+oracl jdbc driver oracleblobinputstream needbyt oracleblobinputstream java
+oracl jdbc driver oraclebufferedstream readintern oraclebufferedstream java
+oracl jdbc driver oraclebufferedstream read oraclebufferedstream java
+java datainputstream readboolean datainputstream java
+org apach jackrabbit core journal readrecord readstr readrecord java
+
+cdt 0000054c systemout clusternod b06e4fe7 a602 4a93 b106 e0834046ae0f error org apach jackrabbit core journal databasejourn error move record
+java sql sqlexcept close connect
+oracl jdbc driver databaseerror throwsqlexcept databaseerror java
+oracl jdbc driver databaseerror throwsqlexcept databaseerror java
+oracl jdbc driver oracleresultsetimpl oracleresultsetimpl java
+org apach jackrabbit core journal databaserecorditer fetchrecord databaserecorditer java
+org apach jackrabbit core journal databaserecorditer hasnext databaserecorditer java
+org apach jackrabbit core journal abstractjourn dosync abstractjourn java
+org apach jackrabbit core journal abstractjourn sync abstractjourn java
+org apach jackrabbit core cluster clusternod sync clusternod java
+org apach jackrabbit core cluster clusternod run clusternod java
+java lang thread run thread java
+cdt 0000054c systemout clusternod b06e4fe7 a602 4a93 b106 e0834046ae0f warn org apach jackrabbit core cluster clusternod unabl set current revis
+org apach jackrabbit core journal journalexcept revis file close
+org apach jackrabbit core journal filerevis set filerevis java
+org apach jackrabbit core cluster clusternod setrevis clusternod java
+org apach jackrabbit core journal abstractjourn dosync abstractjourn java
+org apach jackrabbit core journal abstractjourn sync abstractjourn java
+org apach jackrabbit core cluster clusternod sync clusternod java
+org apach jackrabbit core cluster clusternod run clusternod java
+java lang thread run thread java

@@ -1,0 +1,20 @@
+javax jcr namespaceexcept regist namespac uri
+hop version repositori creat successfulli time run subsequ attempt login result javax jcr namespaceexcept
+debug initi transient repositori
+info start repositori
+info localfilesystem initi path repositori repositori
+except thread main javax jcr namespaceexcept regist namespac uri
+org apach jackrabbit core namespaceregistryimpl getprefix namespaceregistryimpl java
+org apach jackrabbit core nodetyp nodetyperegistri checknamespac nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri validatenodetypedef nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri internalregist nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri init nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri creat nodetyperegistri java
+org apach jackrabbit core repositoryimpl createnodetyperegistri repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+test firsthop main firsthop java

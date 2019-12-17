@@ -1,0 +1,2 @@
+queryhandl init context argument
+queryhandl init method take bunch argument need singl jackrabbit implement queri handler make extens easier argument packag context class extend effect queryhandl interfac

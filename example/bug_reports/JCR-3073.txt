@@ -1,0 +1,5 @@
+explicit manag public api
+start clirr maven plugin make accident break backward compat public api notabl jackrabbit api jackrabbit jcr common
+start explicitli manag api version expos part osgi packag metadata public packag simpli latest project version version number version explicitli manag updat api propos version annot bnd tool packag info java file packag consid part public api
+clirr plugin flag made api easi packag version number updat
+http mojo codehau org clirr maven plugin

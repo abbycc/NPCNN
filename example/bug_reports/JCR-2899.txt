@@ -1,0 +1,2 @@
+patch fix uppercas lowercas handl equal
+code miss break switch statement uppercas lowercas term equal lucen search patch fix

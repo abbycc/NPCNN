@@ -1,0 +1,15 @@
+namespaceadd addnamespac throw classcastexcept
+method
+public void addnamespac namespacemap nsm
+throw namespaceexcept
+unsupportedrepositoryoperationexcept repositoryexcept
+map nsm getprefixtourimap
+iter valu iter hasnext
+map entri map entri
+string prefix string getkei
+string uri string getkei
+registri registernamespac prefix uri
+
+
+entryset iter uri patch fix
+occur spi common jcr common duplic code

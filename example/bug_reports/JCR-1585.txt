@@ -1,0 +1,2 @@
+remov call system test
+test write system querytest hierarchynodetest

@@ -1,0 +1,8 @@
+abstractjcrtest fail level repositori
+test case read org apach jackrabbit test abstractjcrtest cleanup test root setup method test case fail level repositori throw unsupportedoperationexcept
+propos cleanup check function throw notexecutableexcept
+issupport repositori level support
+cleanup
+string msg test case requir level function
+throw notexecutableexcept msg
+

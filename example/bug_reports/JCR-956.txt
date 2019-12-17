@@ -1,0 +1,3 @@
+reusabl repositori access bind servlet
+discuss http mail archiv apach org mod mbox jackrabbit dev mbox 3c510143ac0705151453t7a0eb4cam859a40fb106e81f5 mail gmail jcr reusabl set servlet compon access expos repositori configur wai
+plan refactor current repositoryaccessservlet jackrabbit webapp place result servlet compon jackrabbit jcr common servlet api option provid depend

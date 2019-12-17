@@ -1,0 +1,3 @@
+creat transient repositori insid jcarepositorymanag
+jcr jukka chang code creat repositori repositoryfactori mechan
+creat transient repositori

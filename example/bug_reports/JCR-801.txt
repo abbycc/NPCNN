@@ -1,0 +1,3 @@
+support singl workspac repositori
+configur test case nodetest java pass repositori implement support multipl workspac
+cleanest approach javax jcr tck workspacenam stai undefin skip test case altern special indic lack support workspac addit config variabl

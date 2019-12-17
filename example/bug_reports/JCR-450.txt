@@ -1,0 +1,3 @@
+memori leak uuiddocid
+hierarchi cach search index docid' refer parent node implement docid uuiddocid hold refer indexread calcul uuiddocid' invalid lazi basi referenc indexread present indexread instanc long close
+uuiddocid hold weak refer indexread

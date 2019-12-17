@@ -1,0 +1,2 @@
+lower log level jcr2spi queri nodeiteratorimpl
+nodeiteratorimpl fetchnext log error load node skip node error condit node delet session log occur warn level

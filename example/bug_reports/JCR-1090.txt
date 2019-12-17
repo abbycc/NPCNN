@@ -1,0 +1,12 @@
+superflu andquerynod queri tree built sql parser
+test queri test http peopl apach org mreutegg jcr queri translat translat html
+select folder
+gener queri tree
+root node
+select properti
+pathquerynod
+locationstepquerynod nodetest descend true index
+andquerynod
+relationquerynod prop type long
+nodetypequerynod prop http www jcp org jcr primarytyp http www jcp org jcr folder
+andquerynod superflu

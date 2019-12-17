@@ -1,0 +1,5 @@
+regist nodetyp templat throw except invalid decl node type
+ad propertydefinitiontempl nodetypetempl intern declarednodetyp field set registr fail
+org apach jackrabbit api jsr283 nodetyp invalidnodetypedefinitionexcept foo test invalid declar node type
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java

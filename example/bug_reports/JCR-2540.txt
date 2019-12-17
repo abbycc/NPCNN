@@ -1,0 +1,2 @@
+spi2dav move reorder properli handl observ
+tck test includ move reorder fail setup jcr2spi spi2dav jcr server

@@ -1,0 +1,11 @@
+unsynchron namefactoryimpl initi
+org apach jackrabbit spi common namefactoryimpl unsaf pattern initi
+privat static namefactori factori
+privat namefactoryimpl
+public static namefactori getinst
+factori null
+factori namefactoryimpl
+
+return factori
+
+bad multi thread environ http www ibm developerwork librari dcl html detail

@@ -1,0 +1,2 @@
+sql2 implement support node name
+constraint local node throw javax jcr unsupportedrepositoryoperationexcept

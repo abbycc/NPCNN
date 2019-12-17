@@ -1,0 +1,5 @@
+simpl webdav dir repositori incorrect behavior
+default repositori name default creat directori name default repositori issu directori behav correctli
+view dir jetti http localhost jackrabbit repositori default default show content default directori click content incorrect url directori name test creat url test http localhost jackrabbit repositori default test http localhost jackrabbit repositori default default test
+notic default path provid jackrabbit
+content directori inaccess

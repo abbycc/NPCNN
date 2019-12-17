@@ -1,0 +1,2 @@
+default namespac jackrabbitnodetypemanag registernodetyp
+nice namespac node type definit file pass jackrabbitnodetypemanag registernodetyp node type parser default persist namespac map custom mappign pars node type definit file

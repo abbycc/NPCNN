@@ -1,0 +1,17 @@
+restor mix referenc check sessionimpl getnodebyuuid
+revis comment mix referenc check sessionimpl getnodebyuuid method
+uuid node expos jcr uuid declar
+mix referenc client possibl
+intern uuid referenc node omit
+check mix referenc reason
+compromis order improv perform
+
+node isnodetyp mix referenc
+return node
+
+node uuid node expos
+throw itemnotfoundexcept uuid tostr
+
+
+solv minor perform issu issu client code node uuid quick access node downsid slight incompat spec getnodebyuuid method suppos work mix referenc node
+jcr client session getnodebyidentifi method mix referenc limit restor origin correct function getnodebyuuid method

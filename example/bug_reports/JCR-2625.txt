@@ -1,0 +1,2 @@
+spi2davex reduc memori footprint node propertyinfoimpl
+memori footprint jackrabbit spi2davex nodeinfoimpl propertyinfoimp big

@@ -1,0 +1,2 @@
+login perform drop defaultaccessmanag
+jcr caus drop login perform defaultaccessmanag drop caus initi lru map compiledpermissionsimpl

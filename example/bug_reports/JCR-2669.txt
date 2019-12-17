@@ -1,0 +1,6 @@
+improv read cach uuid document number
+cachingindexread document int fieldselector fieldselector creat
+field cach uuid lucen field implement
+string intern field slow
+implement specif case
+intern uuidfield implement fieldabl

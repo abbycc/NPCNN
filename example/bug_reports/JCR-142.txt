@@ -1,0 +1,2 @@
+subclass nodetyperead
+work offlin tool import custom namespac node type found need make small nodetyperead domwalk subclass nodetyperead access namespac node type definit file attach patch

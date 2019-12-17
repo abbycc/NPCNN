@@ -1,0 +1,7 @@
+typo deltavconst class constant xml checkout checkin
+spot typo http svn apach org repo asf jackrabbit trunk jackrabbit webdav src main java org apach jackrabbit webdav version deltavconst java
+releas version
+line
+public static final string xml checkout checkin checkin checkout
+
+public static final string xml checkout checkin checkout checkin

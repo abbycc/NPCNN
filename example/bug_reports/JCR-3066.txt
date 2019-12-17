@@ -1,0 +1,2 @@
+schedul repositori task
+timer instanc jackrabbit task schedul central scheduledexecutorservic thread pool repositori

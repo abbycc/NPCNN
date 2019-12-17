@@ -1,0 +1,5 @@
+xml text extract jackrabbit access extern resourc
+discuss user add code extractorhandl class
+public inputsourc resolveent string publicid string systemid
+return inputsourc bytearrayinputstream byte
+

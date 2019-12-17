@@ -1,0 +1,18 @@
+itemstateexcept concurr commit transact version oper
+test jcr
+org apach jackrabbit core state itemstateexcept unabl resolv path item 69d80165 7ef5 4b6b 8aa9 be9c9be1f994
+org apach jackrabbit core observ eventstatecollect getpath eventstatecollect java
+org apach jackrabbit core observ eventstatecollect createeventst eventstatecollect java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state xaitemstatemanag prepar xaitemstatemanag java
+org apach jackrabbit core version xaversionmanag prepar xaversionmanag java
+org apach jackrabbit core transactioncontext prepar transactioncontext java
+org apach jackrabbit core xasessionimpl prepar xasessionimpl java
+test jcrusertransact commit jcrusertransact java
+org apach jackrabbit jrtestdeadlock run jrtestdeadlock java
+caus javax jcr itemnotfoundexcept fail build path 69d80165 7ef5 4b6b 8aa9 be9c9be1f994 a0ecd4b0 a442 4b1e a2f6 51441f40d452 child entri 69d80165 7ef5 4b6b 8aa9 be9c9be1f994
+org apach jackrabbit core hierarchymanagerimpl buildpath hierarchymanagerimpl java
+org apach jackrabbit core hierarchymanagerimpl getpath hierarchymanagerimpl java
+org apach jackrabbit core observ eventstatecollect getpath eventstatecollect java
+

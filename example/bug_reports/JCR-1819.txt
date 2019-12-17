@@ -1,0 +1,9 @@
+jcr2spi add specif deep load node properti
+jcr2spi item 'deep' load hierarchi complet session itemexist session getitem load node found properti inconveni gener unnecessari round trip spi case origin jcr call node properti expect
+case node getnod string relpath node getproperti string relpath
+suggest add specif method
+hierarchymanag getnodeentri
+hierarchymanag getpropertyentri
+nodeentri getdeepnodeentri
+nodeentri getdeeppropertyentri
+similar

@@ -1,0 +1,2 @@
+deadlock concurr commit checkin oper
+run concurr jackrabbit transact includ checkin oper lead deadlock

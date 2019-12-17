@@ -1,0 +1,26 @@
+sessionitemstatemanag getidofroottransientnodest npe
+regress jcr
+scenario call sessionitemstatemanag getidofroottransientnodest npe
+test case
+repositori repositori transientrepositori
+session session repositori login
+simplecredenti admin admin tochararrai
+session session2 repositori login
+simplecredenti admin admin tochararrai
+
+session getrootnod hasnod test
+session getrootnod getnod test remov
+
+node test session getrootnod addnod test
+session save
+node test addnod
+session save
+node session2 getrootnod getnod test getnod
+remov
+addnod
+session2 save
+session save throw npe
+final
+session logout
+session2 logout
+

@@ -1,0 +1,48 @@
+tck setpropertycalendartest compar calendar object
+setpropertycalendartest testnewcalendarpropertysess
+setpropertycalendartest testmodifycalendarpropertysess
+setpropertycalendartest testnewcalendarpropertypar
+setpropertycalendartest testmodifycalendarpropertypar
+test compar calendar object calendar equal object stronger test jsr specifi equal object lead fals failur purpos test equal object strong equal test repositori normal date time valu save read roundtrip convert ad remov trail zero fraction second
+propos compar gettimeinmilli valu
+setpropertycalendartest java revis
+setpropertycalendartest java work copi
+
+testnod setproperti propertyname1
+superus save
+assertequ set properti node setproperti string calendar session save work
+
+testnod getproperti propertyname1 getdat
+gettimeinmilli
+testnod getproperti propertyname1 getdat gettimeinmilli
+
+
+
+testnod setproperti propertyname1
+superus save
+assertequ modifi properti node setproperti string calendar session save work
+
+testnod getproperti propertyname1 getdat
+gettimeinmilli
+testnod getproperti propertyname1 getdat gettimeinmilli
+
+
+
+testnod setproperti propertyname1
+testrootnod save
+assertequ set properti node setproperti string calendar parentnod save work
+
+testnod getproperti propertyname1 getdat
+gettimeinmilli
+testnod getproperti propertyname1 getdat gettimeinmilli
+
+
+
+testnod setproperti propertyname1
+testrootnod save
+assertequ modifi properti node setproperti string calendar parentnod save work
+
+testnod getproperti propertyname1 getdat
+gettimeinmilli
+testnod getproperti propertyname1 getdat gettimeinmilli
+

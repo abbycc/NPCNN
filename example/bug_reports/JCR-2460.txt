@@ -1,0 +1,3 @@
+renam genericrepositoryfactori jndirepositoryfactori
+genericrepositoryfactori class introduc jcr refactor function distribut implement specif repositoryfactori class genericrepositoryfactori support repositori jndi renam class jndirepositoryfactori
+troublesom part renam genericrepositoryfactori uri constant document wiki part canon code snippet access remot repositori base repositori uri latest recommend jcrutil getrepositori string uri method constant longer need client code backward compat earlier jackrabbit beta good deprec constant beta releas

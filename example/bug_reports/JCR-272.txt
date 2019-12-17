@@ -1,0 +1,33 @@
+remov version throw javax jcr referentialintegrityexcept
+thread http www mail archiv jackrabbit dev 40incub apach org msg03483 html
+remov version node versionhistori removevers method throw javax jcr referentialintegrityexcept unabl remov version referenc
+secton remov version specif version graph automat repair remov versionhistori removevers care refer fact user alter refer jcr predecessor jcr successor protect properti
+updat
+node root1 session getrootnod
+node test1 root1 addnod test
+test1 addmixin mix version
+test1 setproperti test
+session save
+test1 checkin
+test1 checkout
+test1 setproperti test
+session save
+test1 checkin
+test1 checkout
+test1 setproperti test
+session save
+test1 checkin
+string basevers test1 getbasevers getnam
+system println base version basevers
+versionhistori test1 getversionhistori
+versioniter getallvers hasnext
+version currenvers nextvers
+string versionnam currenvers getnam
+versionnam equal jcr rootvers versionnam equal basevers
+string propertyvalu currenvers getnod jcr frozennod getproperti test getstr
+system println remov version versionnam propertyvalu
+removevers versionnam
+
+
+
+nicola

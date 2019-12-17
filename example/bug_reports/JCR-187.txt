@@ -1,0 +1,11 @@
+regist event listen listen mixin nodetyp
+nice enhanc defin mixin nodetyp listen
+
+addeventlisten
+event properti ad event properti chang event properti remov
+
+true
+null
+string mix custom
+fals
+

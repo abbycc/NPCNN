@@ -1,0 +1,8 @@
+regist cyclic depend nodetyp work
+regist followin nodetyp
+foo
+mybar bar
+bar
+myfoo foo
+nodetyperegistri registernodetyp collect throw
+org apach jackrabbit core nodetyp invalidnodetypedefexcept node type regist unresolv depend foo bar

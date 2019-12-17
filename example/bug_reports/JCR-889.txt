@@ -1,0 +1,2 @@
+add bundl support postgresql
+class dbnameindex work rdbm return gener kei jdbc featur implement current postgresql driver

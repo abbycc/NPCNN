@@ -1,0 +1,2 @@
+introduc sessioninfo paramet abstractrepositoryservic createrootnodedefinit
+spi implement requir access state current session order fulfil contract abstractrepositoryservic createrootnodedefinit suggest add sessioninfo paramet method

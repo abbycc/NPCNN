@@ -1,0 +1,2 @@
+ocm add unit test bundledbpersistencemanag
+check ocm framework bundledbpersistencemanag

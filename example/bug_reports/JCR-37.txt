@@ -1,0 +1,9 @@
+select queri fail 'like xxx322' statement
+class org apach jackrabbit core search lucen wildcardtermenum condit line
+
+charact islett likepattern charat
+
+fail queri
+select type locat new text asd2
+chang
+charact islett likepattern charat charact isdigit likepattern charat

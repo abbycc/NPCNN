@@ -1,0 +1,4 @@
+sql queri jcr path foo select children
+queri
+select base jcr path foo
+select children foo descend foo

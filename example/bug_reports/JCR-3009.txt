@@ -1,0 +1,2 @@
+prefix fulltext queri japanes chines charact fail match
+prefix fulltext queri japanes chines charact match prefix part token mean prefix length sequenc charact term index lookup match index time charact broken individu token

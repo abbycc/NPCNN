@@ -1,0 +1,2 @@
+make iteminfobuild space awar
+nodeinfobuild propertyinfobuild build nodeinfo iteminfo space default suggest add method nodeinfobuild propertyinfobuild set space

@@ -1,0 +1,11 @@
+overwrit refer properti type corrupt rep
+creat node
+creat node
+setproperti prop
+save
+setproperti prop world
+save
+remov
+save except
+referencestest case
+btw remov properti overwrit refer work

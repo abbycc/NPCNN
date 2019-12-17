@@ -1,0 +1,2 @@
+determin properti state differ skip binari valu
+jcr2spi state propertyst diffpropertydata propertydata alwai binari valu current implement compar binari valu equal implement gener byte byte comparison valu expens valu start

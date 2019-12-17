@@ -1,0 +1,3 @@
+diagnost version storag broken
+internalversionmanagerbas code null check predecessor properti assum present case due repositori problem npe
+propos add code gener meaning error messag make easier debug product

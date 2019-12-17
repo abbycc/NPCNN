@@ -1,0 +1,2 @@
+databasefilesystem mysql ddl work mysql5 mysql
+column primari kei ad tabl call uid md5checksum fsentri path fsentri

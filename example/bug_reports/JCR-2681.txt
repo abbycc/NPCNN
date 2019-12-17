@@ -1,0 +1,2 @@
+xmlpersistancemanag preserv property' 'multivalued' attribut
+multi valu properti persist read xmlpersistencemanag 'multivalued' attribut lost propertyst ismultivalu return fals

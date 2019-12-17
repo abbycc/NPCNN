@@ -1,0 +1,2 @@
+notqueri implement extractterm
+function queri rep excerpt function unsupportedoperationexcept thrown

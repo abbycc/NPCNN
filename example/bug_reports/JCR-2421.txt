@@ -1,0 +1,11 @@
+unabl creat repositori jackrabbit webapp directori call jackrabbit exist
+mount jackrabbit webapp war jetti instal
+startup except
+error repositorystartupservlet creat thejackrabbit bootstrap properti file
+error repositorystartupservlet config index jsp' easi configur
+error repositorystartupservlet repositorystartupservlet initi fail javax servlet servletexcept repositori startup configur valid
+access http localhost forward page
+http localhost bootstrap miss jsp
+creat repositori click creat content repositori button fail complain jackrabbit directori exist
+find jackrabbit directori jetti home start jetti
+workaround delet jackrabbit directori creat repositori click previou button access newli creat repositori

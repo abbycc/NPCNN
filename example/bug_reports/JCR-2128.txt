@@ -1,0 +1,3 @@
+ad derbydatastor handl proper close embed databas
+embed derbi conjunct dbdatastor derbi databas shutdown requir special code execut creat connect shutdown true
+provid derbydatastor extend standard dbdatastor handl

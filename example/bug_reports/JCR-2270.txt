@@ -1,0 +1,10 @@
+restor delet version work throw except
+java lang illegalstateexcept edit mode
+org apach jackrabbit core state localitemstatemanag createnew localitemstatemanag java
+org apach jackrabbit core version nodestateex createchildnod nodestateex java
+org apach jackrabbit core version nodestateex addnod nodestateex java
+org apach jackrabbit core version nodestateex addnod nodestateex java
+org apach jackrabbit core version versionmanagerimplrestor restor versionmanagerimplrestor java
+org apach jackrabbit core versionmanagerimpl restor versionmanagerimpl java
+org apach jackrabbit core nodeimpl restor nodeimpl java
+org apach jackrabbit test api version restoretest testrestoreremov restoretest java

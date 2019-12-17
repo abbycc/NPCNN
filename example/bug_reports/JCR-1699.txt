@@ -1,0 +1,2 @@
+log warn coerc queri
+lucenequerybuild log warn string liter coerc type deriv inform provid node type manag log level lower debug

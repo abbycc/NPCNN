@@ -1,0 +1,33 @@
+jcr2spi remov node oper miss submit spi batch
+jcr2spi sequenc oper lead incorrect spi batch submit
+remov
+add
+add
+session save
+creat spi batch remov oper miss
+note problem occur step part sequenc
+full java sourc test
+
+session getrepositori getdescriptor repositori level support equal true
+node testnod
+string delet test
+node root session getrootnod
+make
+root hasnod
+root addnod folder
+session save
+
+test remov add batch
+root hasnod
+testnod root getnod
+testnod remov
+session save comment make test pass
+
+testnod root addnod folder
+add child
+testnod addnod folder comment make test pass
+session save
+
+final
+session logout
+

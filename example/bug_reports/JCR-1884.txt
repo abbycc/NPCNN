@@ -1,0 +1,3 @@
+cachingindexread initializepar scale larg index
+index test time initi parent cach minut
+optim background thread

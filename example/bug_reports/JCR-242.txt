@@ -1,0 +1,11 @@
+registr namespac respect exist session map
+start default namespac registri
+remap namespac
+session setnamespaceprefix foobar http www jcp org jcr
+creat namespac
+namespaceregistri registernamespac foobar http www foo org bar
+session remap namespac ambig namespac map
+foobar http www jcp org jcr
+http www jcp org jcr foobar
+http www foo org bar foobar
+foobar namespac hidden session registr work automat prefix defin local session map

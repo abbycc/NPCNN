@@ -1,0 +1,2 @@
+iteminfobuild fail set correct path properti
+parent node' nodeid base contrast path base build method reli nodeid provid full path parent node' getpath method construct full path

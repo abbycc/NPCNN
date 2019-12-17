@@ -1,0 +1,12 @@
+sessionimpl issupportedopt skip descriptor evalu descriptor load
+followup issu jcr
+jukka state chang jcr server serv repositori descriptor mandat success login
+requir server side current flow demand success repositori login order
+access resourc includ root resourc act parent workspac
+repositori descriptor report request resourc mandat success login
+retriev descriptor jcr level repositori hand
+hand assum descriptor function present repositori rare
+suggest relax check support option jcr2spi session implement
+skip evalu descriptor failur support
+featur postpon point reach spi inform api consum upfront
+hand support oper fail descriptor load

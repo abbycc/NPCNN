@@ -1,0 +1,37 @@
+poor perform isdescendantnod sql queri
+latest sourc code notic bad perform sql queri isdescendantnod constraint larg tree queri
+select jnt new new isdescendantnod new root site' order new date desc
+execut 600m
+select jnt new new order new date desc
+execut 4m
+problem yourkit profil culprit constraint build recurs lucen search build list descend node id
+privat queri getdescendantnodequeri
+descendantnod jackrabbitindexsearch searcher
+throw repositoryexcept ioexcept
+booleanqueri queri booleanqueri
+
+linkedlist nodeid id linkedlist nodeid
+nodeimpl ancestor nodeimpl session getnod getancestorpath
+id add ancestor getnodeid
+id isempti
+string id removefirst tostr
+queri jackrabbittermqueri term fieldnam parent
+queryhit hit searcher evalu
+scorenod hit nextscorenod
+null
+queri add
+
+id add getnodeid
+hit nextscorenod
+null
+
+
+catch pathnotfoundexcept
+queri add jackrabbittermqueri term
+fieldnam uuid invalid node match
+
+
+return queri
+
+gener lucen queri culprit faster retriev id jcr retriev list child id
+miss find perform test constraint

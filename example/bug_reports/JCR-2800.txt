@@ -1,0 +1,7 @@
+implement search facil user group
+implement search facil user group support
+search user group properti directli user group node node
+full text search user group node node
+inclus exclus base group membership restrict search member group group member
+order
+page

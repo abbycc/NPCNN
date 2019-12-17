@@ -1,0 +1,24 @@
+node addnod scale increas content
+increas repositori content version time creat node increas node properti take second add singl node
+attach applic debugg delibaretli suspend stack trace displai time
+chang intern access list iter
+persistentnodest nodest getchildnodeentri string line
+persistentnod getnam line
+persistentversionmanag getvers string line
+versionmanag getvers string line
+versionitemstateprovid getnodest nodeid line
+versionitemstateprovid haspropertyst propertyid line
+versionitemstateprovid hasitemst itemid line
+sessionitemstatemanag getitemst itemid line
+itemmanag createiteminst itemid line
+itemmanag getitem itemid line
+nodeimpl getproperti qname line
+nodeimpl hasproperti qname line
+nodeimpl safeischeckedout line
+nodeimpl internaladdchildnod qname nodetypeimpl string line
+nodeimpl internaladdnod string nodetypeimpl string line
+nodeimpl internaladdnod string nodetypeimpl line
+nodeimpl addnod string string line
+
+virtual item state provid ask properti look return call version handler loop child entri entri find singl entri uuid
+optim scale problem

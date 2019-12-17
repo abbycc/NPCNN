@@ -1,0 +1,12 @@
+configur persist manag jdni
+persist manag hardcod url singl connect drawback concurr perform transaction
+fairli configur persist manag jdni refer datasourc give respons applic server concurr perform transaction highli boost approach
+sampl configur
+persistencemanag class org apach jackrabbit core state simpledbpersistencemanag
+param datasourc jdbc jackrabbitd
+pass param data sourc simpl
+param schema mysql
+param schemaobjectprefix
+wsp
+param externalblob fals
+persistencemanag

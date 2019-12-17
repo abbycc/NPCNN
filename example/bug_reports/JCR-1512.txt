@@ -1,0 +1,9 @@
+incorrect check replac import item collid
+fix jcr bug introduc due incorrect check uuid behavior current code
+exist getid equal
+uuidbehavior importuuidbehavior import uuid collis remov exist
+uuidbehavior importuuidbehavior import uuid collis remov exist
+throw itemexistsexcept exist safegetjcrpath
+
+check importuuidbehavior import uuid collis replac exist case line
+import item variabl null check fail nice case handl

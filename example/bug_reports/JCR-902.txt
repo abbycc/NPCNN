@@ -1,0 +1,2 @@
+put javadoc resourc src main javadoc
+maven javadoc plugin suggest javadoc resourc packag html file doc file subdirectori src main javadoc folder http maven apach org plugin maven javadoc plugin faq html move javadoc file argu

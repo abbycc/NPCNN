@@ -1,0 +1,2 @@
+provid name constant queryconst
+debug log user interact purpos queryconst includ descript name constant

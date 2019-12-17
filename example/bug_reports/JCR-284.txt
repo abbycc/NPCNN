@@ -1,0 +1,29 @@
+lock sibl unlock appar unlock
+execut test unlock lock sibl
+public void testlock throw repositoryexcept
+session jcrsession s1sessionimpl session getsess
+node rootnod jcrsession getrootnod
+node rootnod addnod path
+addmixin mix lockabl
+node rootnod addnod path
+addmixin mix lockabl
+jcrsession save
+lock true true
+lock true true
+system println islock islock
+system println islock islock
+asserttru islock
+asserttru islock
+save
+unlock
+system println islock islock
+system println islock islock
+assertfals islock
+asserttru islock
+
+result
+islock true
+islock true
+islock true
+islock fals
+wrong

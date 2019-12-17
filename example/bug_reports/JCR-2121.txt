@@ -1,0 +1,2 @@
+java util uuid
+replac org apach jackrabbit uuid uuid java util uuid class introduc java

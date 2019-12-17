@@ -1,0 +1,10 @@
+support lower upper case function
+queri languag support lower upper case function match properti valu string liter
+find node string properti foo lower case equal 'bar'
+xpath
+lower case foo 'bar'
+sql
+select base lower foo 'bar'
+find node string properti foo upper case match jcr
+xpath jcr upper case foo jcr
+sql select base uppper foo jcr

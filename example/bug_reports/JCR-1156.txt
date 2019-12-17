@@ -1,0 +1,8 @@
+databasejourn refactor subclass capabl
+upgrad jackrabbit databasepersistencemanag class refactor easi subclass project subclass requir dba specif name convent databas column default jackrabbit column fit name convent
+point cut cluster setup prepar product design databas journal dba chang column name name convent exist databasejourn class set type subclass persistencemanag filesystem hierarchi databasejourn class updat
+specif
+extract protect instanc variabl selectrevisionsstmtsql updateglobalstmtsql selectglobalstmtsql insertrevisionstmtsql
+extract method protect void buildsqlstat set sql subclass overrid
+updat exist preparestat method instanc variabl
+updat init method call buildsqlstat method call preparestat

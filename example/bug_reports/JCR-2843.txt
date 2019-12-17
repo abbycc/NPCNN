@@ -1,0 +1,13 @@
+constraintsplitt getselectornam support fulltextsearch constraint
+constraint type fulltextsearch miss test type org apach jackrabbit core queri lucen join constraintsplitt getselectornam constraint method submit qom queri full text constraint throw javax jcr unsupportedrepositoryoperationexcept repositori report support queri session getrepositori getdescriptorvalu repositori queri full text search support getboolean return true
+typic stack trace
+javax jcr unsupportedrepositoryoperationexcept unknown constraint type jcr titl 'rega apa'
+org apach jackrabbit core queri lucen join constraintsplitt getselectornam constraintsplitt java
+org apach jackrabbit core queri lucen join constraintsplitt getselectornam constraintsplitt java
+org apach jackrabbit core queri lucen join constraintsplitt getselectornam constraintsplitt java
+org apach jackrabbit core queri lucen join constraintsplitt split constraintsplitt java
+org apach jackrabbit core queri lucen join constraintsplitt split constraintsplitt java
+org apach jackrabbit core queri lucen join constraintsplitt init constraintsplitt java
+org apach jackrabbit core queri lucen join queryengin execut queryengin java
+org apach jackrabbit core queri lucen join queryengin execut queryengin java
+org apach jackrabbit core queri queryobjectmodelimpl execut queryobjectmodelimpl java

@@ -1,0 +1,2 @@
+rmi refer automat bound standalon server
+rmi servlet standalon server initi remot refer bound rmi registri http rmi url access rmi bind made standalon server start

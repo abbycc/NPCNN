@@ -1,0 +1,3 @@
+clean spi common pom xml
+pom xml line copi jackrabbit core need log4j properti miss test resourc
+attach patch

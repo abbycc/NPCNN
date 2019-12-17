@@ -1,0 +1,8 @@
+arraystoreexcept reregist exist node type
+class nodetypemanagerimpl
+method public nodetyp registernodetyp inputstream string contenttyp boolean reregisterexist
+
+return nodetyp nodetyp toarrai nodetypedef nodetyp size
+
+suppos
+return nodetyp nodetyp toarrai nodetyp nodetyp size

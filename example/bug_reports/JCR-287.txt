@@ -1,0 +1,20 @@
+session setnamespaceprefix creat ambigu map
+assum initi global map namespaceregistri
+prefix lowercas uri uppercas
+
+
+
+local remap namespac session code
+session setnamespaceprefix
+session setnamespaceprefix
+session setnamespaceprefix
+result session local map
+
+
+
+stmt
+session setnamespaceprefix
+produc ambigu map
+
+
+

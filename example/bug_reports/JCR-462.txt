@@ -1,0 +1,3 @@
+improv lifecycl manag jca connector
+shutdown mechan work correctli shutdown repositori resourc adapt garbag collect redeploy fail redeploi garbag collect
+implement jca interfac manag lifecycl

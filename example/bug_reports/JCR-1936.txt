@@ -1,0 +1,22 @@
+incorrect licens header multipl compon
+notic thoma number file miss incorrect licens header trunk branch
+list troublesom file releas candid
+jackrabbit api src main java org apach jackrabbit api secur user user java
+jackrabbit core src main java org apach jackrabbit core secur author principalbas acleditor java
+jackrabbit core src main java org apach jackrabbit core secur author principalbas aclprovid java
+jackrabbit core src test java org apach jackrabbit api jsr283 retent abstractretentiontest java
+jackrabbit core src test java org apach jackrabbit core secur author combin testal java
+jackrabbit core src test java org apach jackrabbit core secur author principalbas evaluationtest java
+jackrabbit core src test java org apach jackrabbit core secur author principalbas testal java
+jackrabbit core src test java org apach jackrabbit core secur princip testal java
+jackrabbit core src test java org apach jackrabbit core secur user administratortest java
+jackrabbit ocm src main java org apach jackrabbit ocm manag objectconvert impl abstractlazyload java
+jackrabbit ocm src main java org apach jackrabbit ocm manag objectconvert impl ocmproxi java
+jackrabbit ocm src main java org apach jackrabbit ocm manag objectconvert impl ocmproxyutil java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel multivaluewithobjectcollect java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel simpleannotedabstractclass java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel simpleannotedclass java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel simpleinterfac java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel unmappedinterfac java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel version author java
+jackrabbit ocm src test java org apach jackrabbit ocm testmodel version pressreleas java

@@ -1,0 +1,13 @@
+problemat except handl jackrabbit webapp
+project except messag
+catch except
+log error error configur tostr
+throw servletexcept error configur tostr
+
+addit problem servletexcept string messag throwabl rootcaus rootcaus printstacktrac mean log http closingbrac net servletexceptionrootcaus
+convert
+throw servletexcept unabl creat rmi repositori jcr rmi jar miss
+
+servletexcept servletexcept unabl creat rmi repositori jcr rmi jar miss
+initcaus
+throw

@@ -1,0 +1,5 @@
+introduc similar function
+queri handler support similar function find node similar exist
+
+rep similar foo bar
+find node similar node foo bar

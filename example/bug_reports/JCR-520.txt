@@ -1,0 +1,2 @@
+contribut classload project common log log
+jcr jackrabbit core code migrat log4j slf4j classload contribut common log time migrat project proper slf4j

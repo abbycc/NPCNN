@@ -1,0 +1,4 @@
+localnamespacemap make namecach namespaceregistryimpl
+basic mean namecach namespaceregistryimpl
+localnamespacemap implement namecach forward call namespaceregistryimpl name
+namespac uri local remap propos patch

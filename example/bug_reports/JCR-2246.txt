@@ -1,0 +1,4 @@
+deprec remov unus filesystem featur randomaccessoutputstream
+filesystem interfac includ method getrandomaccessoutputstream
+method class randomaccessoutputstream longer
+case suggest remov method deprec class

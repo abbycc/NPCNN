@@ -1,0 +1,2 @@
+run tck jackrabbit rc3
+run tck jackrabbit rc3

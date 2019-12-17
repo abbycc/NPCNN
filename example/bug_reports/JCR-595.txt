@@ -1,0 +1,18 @@
+refactor persist manag
+persist manag resid
+org apach jackrabbit core state
+org apach jackrabbit core state
+org apach jackrabbit core state mem
+org apach jackrabbit core state obj
+org apach jackrabbit core state xml
+org apach jackrabbit core state util
+lot class deal state
+shareditemstatemanag state packag relat
+pm
+move persistencemanag relat stuff
+org apach jackrabbit core persist
+current class deprec subclass
+jackrabbit core jar jackrabbit peopl
+extend exist class avoid break binari
+compat promis honor
+compatibl core

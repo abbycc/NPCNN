@@ -1,0 +1,17 @@
+junit test case success documentviewimporttest test depend xerx version
+xerx project xml test documentviewimporttest fail
+
+testcas testworkspaceimportxml org apach jackrabbit test api documentviewimporttest fail
+xml text correctli store expect
+
+junit framework comparisonfailur xml text correctli store expect
+
+org apach jackrabbit test api documentviewimporttest checkxmltextnod documentviewimporttest java
+org apach jackrabbit test api documentviewimporttest checkimportsimplexmltre documentviewimporttest java
+org apach jackrabbit test api documentviewimporttest performtest documentviewimporttest java
+org apach jackrabbit test api documentviewimporttest dotestimportxml documentviewimporttest java
+org apach jackrabbit test api documentviewimporttest testworkspaceimportxml documentviewimporttest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+org apach jackrabbit test abstractjcrtest run abstractjcrtest java

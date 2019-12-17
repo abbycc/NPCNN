@@ -1,0 +1,3 @@
+remov geronimo jta runtim depend
+geronimo jta mark depend runtim compil time depend
+remedi war build geronimo jar stow

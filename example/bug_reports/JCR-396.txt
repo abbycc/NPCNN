@@ -1,0 +1,4 @@
+rmi publish repositori jcr rmi librari lost time
+jcr server webapp project servlet repositorystartupservlet web app start repositori option regist repositori jndi rmi regist repositori jndi jcr rmi librari creat remot repositori instanc regist rmi registri insid rmi implement mechan base stub class creat rmi compil creat make remot repositori remot includ creat object tabl map remot refer local object tabl store refer local object weak refer support distribut garbag collect
+time remot repositori instanc collect object tabl access anymor prevent repositori access remot prevent happen repositorystartupservlet strong refer remot repositori drop refer servlet destroi repositori unregist
+note issu long run applic publish repositori instanc rmi jcr rmi librari

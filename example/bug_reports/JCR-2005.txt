@@ -1,0 +1,5 @@
+jcr2spi remov valid check name node properti
+jsr disallow parent node properti child node
+limit remov jsr jackrabbit core remov check
+suggest chang jcr2spi leav valid underli spi impl
+mistaken jsr requir assert singl place itemstatevalid

@@ -1,0 +1,9 @@
+avoid prematur public xaitemstatemanag
+xaitemstatemanag constructor call super constructor localitemstatemanag regist instanc listen shareditemstatemanag construct instanc finish access shareditemstatemanag result strang except
+java lang nullpointerexcept
+org apach jackrabbit core state xaitemstatemanag statemodifi xaitemstatemanag java
+org apach jackrabbit core state statechangedispatch notifystatemodifi statechangedispatch java
+org apach jackrabbit core state shareditemstatemanag statemodifi shareditemstatemanag java
+org apach jackrabbit core virtual abstractvisprovid statemodifi abstractvisprovid java
+org apach jackrabbit core state itemst notifystateupd itemst java
+npe caus commitlog field null initi final

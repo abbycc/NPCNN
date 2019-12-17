@@ -1,0 +1,44 @@
+workspac copi src dest throw unexpect repositoryexcept invalid path
+davex remot layer jcr2spi spi2davex
+code fragment unexpect repositoryexcept
+snip
+node testnode1 session getrootnod addnod test folder
+node copydestin testnode1 addnod copydestin folder
+testnode1 addnod copysourc folder addnod testcopycommand folder addnod abc folder
+session save
+copydestin addmixin mix referenc
+session save
+session getworkspac copi test copysourc testcopycommand test copydestin testcopycommand
+snip
+caus javax jcr repositoryexcept invalid path test copydestin testcopycommand
+sun reflect nativeconstructoraccessorimpl newinstance0 nativ method
+sun reflect nativeconstructoraccessorimpl newinst nativeconstructoraccessorimpl java
+sun reflect delegatingconstructoraccessorimpl newinst delegatingconstructoraccessorimpl java
+java lang reflect constructor newinst constructor java
+org apach jackrabbit spi2dav exceptionconvert gener exceptionconvert java
+org apach jackrabbit spi2dav exceptionconvert gener exceptionconvert java
+org apach jackrabbit spi2dav repositoryserviceimpl execut repositoryserviceimpl java
+org apach jackrabbit spi2dav repositoryserviceimpl copi repositoryserviceimpl java
+org apach jackrabbit spi2davex repositoryserviceimpl copi repositoryserviceimpl java
+org apach jackrabbit jcr2spi workspacemanag operationvisitorimpl visit workspacemanag java
+org apach jackrabbit jcr2spi oper copi accept copi java
+org apach jackrabbit jcr2spi workspacemanag operationvisitorimpl execut workspacemanag java
+org apach jackrabbit jcr2spi workspacemanag operationvisitorimpl access workspacemanag java
+org apach jackrabbit jcr2spi workspacemanag execut workspacemanag java
+org apach jackrabbit jcr2spi workspaceimpl copi workspaceimpl java
+
+slightli alter code fragment work expect
+snip
+node testnode1 session getrootnod addnod test folder
+
+node copydestin testnode1 addnod copydestin folder
+testnode1 addnod copysourc folder addnod testcopycommand folder addnod abc folder
+session save
+copydestin addmixin mix referenc
+session save
+
+testnode1 addnod copydestin folder addmixin nodetyp mix referenc
+node testnode1 addnod copysourc folder addnod testcopycommand folder addnod abc folder
+session save
+session getworkspac copi test copysourc testcopycommand test copydestin testcopycommand
+snip

@@ -1,0 +1,6 @@
+add support queri result highlight
+highlight match queri result list regularli need applic queri languag support pseudo properti function retriev text fragment highlight match content match node
+support featur enhanc requir
+defin pseudo properti function return text excerpt select claus
+index store origin text node index includ extract text binari properti
+text fragment creat base origin text queri index inform

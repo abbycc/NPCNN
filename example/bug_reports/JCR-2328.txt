@@ -1,0 +1,16 @@
+propertyvalu constraint fail implicit selectornam jcr sql2
+compil jcr sql2 queri involv propertyvalu constraint qualifi properti fail selectornam explicitli defin
+queri work
+select thing thing thing properti 'abc'
+
+select thing thing properti 'abc'
+thing unecessari leav result
+queri result
+javax jcr queri invalidqueryexcept queri
+select thing thing properti 'abc'
+expect
+spec final draft state
+propertyvalu selectorname' propertynam
+selector exist queri
+explicit specif selectornam
+option

@@ -1,0 +1,17 @@
+classcastexcept regist custom node xml file
+regist node type xml file code
+jackrabbitnodetypemanag nodetypemanag jackrabbitnodetypemanag workspac getnodetypemanag
+resourc resourc nodedefinit
+system println regist node resourc
+nodetypemanag registernodetyp resourc getinputstream jackrabbitnodetypemanag text xml
+
+receiv surpris
+caus java lang classcastexcept sun org apach xerc intern dom deferreddocumentimpl
+org apach jackrabbit core util domwalk iterateel domwalk java
+org apach jackrabbit core nodetyp xml nodetyperead getnodetypedef nodetyperead java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+codeservic jcr jcrcustomnoderegist registernod jcrcustomnoderegist java
+codeservic jcr jcrcustomnoderegist init jcrcustomnoderegist java
+
+regist node cnd file work fine

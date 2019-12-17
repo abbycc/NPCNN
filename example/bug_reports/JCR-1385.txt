@@ -1,0 +1,15 @@
+uuid field popul save node
+'article' class field set true 'path' 'uuid' jcr properti
+mixin referenc support uuid declar node level class
+save node objectcontentmanag uuid field popul expect
+node jcrmixintyp mix referenc mix lockabl mix version
+public class articl
+field uuid true
+privat string null
+field path true
+privat string path null
+field
+privat string content null
+constructor getter setter
+
+full discuss http www nabbl ocm issu path field 28annot tt15460625 html a15460625

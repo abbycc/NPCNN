@@ -1,0 +1,2 @@
+qdefinitionbuilderfactori auto subtyp base
+similar jcr qnodetypedefinit build qdefinitionbuilderfactori auto subtyp base

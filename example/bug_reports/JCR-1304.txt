@@ -1,0 +1,4 @@
+support system properti var xml config file
+variabl replac config file repositori xml special variabl introduc jackrabbit wsp rep home support java system properti kind standard java xml config file spring
+make easier inject variabl config file set command line inject programmat test case typic paramet includ databas connect credenti avoid put repositori xml file check svn
+true test case work persist manag compon includ repositori xml sourc tree applic test specif credenti appli load user specif properti file test case repositori start config read

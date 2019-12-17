@@ -1,0 +1,2 @@
+workspac wide default lock timeout
+defin workspac wide default jcr lock timeout case code creat lock

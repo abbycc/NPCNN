@@ -1,0 +1,21 @@
+pathnotfoundexcept item exist
+test case jcr2spi throw pathnotfoundexcept item exist throw mark line comment
+public void testbug24687 throw repositoryexcept
+string parentpath testnod getpath
+string foldernam folder system currenttimemilli
+session session gethelp getreadwritesess
+session session2 gethelp getreadonlysess
+session2 getitem parentpath remov line make failur
+node parent node session getitem parentpath
+node todelet parent addnod foldernam folder
+parent save
+
+item item2 session2 getitem parentpath foldernam wrongli throw pathnotfoundexcept
+assertequ parentpath foldernam item2 getpath
+
+final
+todelet remov
+parent save
+assertfals parent hasnod foldernam
+
+

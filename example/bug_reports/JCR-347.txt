@@ -1,0 +1,4 @@
+jcr server pars nodetypeproperti compliant definit
+creat nodetypeproperti exist davproperti fail assumpt made compliant definit
+nodetyp enclos 'nodetypename' element
+nodetyp properti empti 'nodetype' element

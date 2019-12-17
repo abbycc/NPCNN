@@ -1,0 +1,2 @@
+migrat maven ocm subproject
+migrat maven ocm subproject jcr nodemanag spring

@@ -1,0 +1,71 @@
+contribut pluggabl permiss user manag jackrabbit
+work jackrabbit base applict extend secur handl
+aim extens eitabl resourc base author
+solut end bee plugabl extend
+question jackrabbit developp list custom implement secur manag privileg jackrabbit suggest implement contribut attach patch
+find high level explan contain file concept
+hope prove usabl enhanc great repositori
+feed back kind inspect
+
+christian keller
+patch
+
+api jackrabbit core patch
+
+api implement configur mechan authent author
+api acl princip base
+acl princip manag independ jcr api implement back end system directori server
+current core jackrabbit core patch
+
+small core enabl configur access manag session access usermanag
+implement jackrabbit core implement patch
+
+addition implemen contain depend back end system default
+descript
+
+extens hook jackrabbit bei implement intefac accessmanag loginmodul
+addition configur set access object
+patch extend api order client inspect user permiss contain api patch
+short introduct
+
+secur extens patch authent author extens follwo model introduc
+authoriz
+
+user' group user user authent
+authent jackrabbit loginmodul issu princip result authent
+user object repres princip
+therfor base author
+acl
+
+acl polici authorzi
+acl grant deni princip privileg call action
+addit ther manag princip
+princip link user permiss
+user relat multipl princip depend loginmodul verfii idend login attemp
+loginmodul expos princip repositori provid interfac usag ac
+model manag class api' abstract fact repositori aka refer javax jcr item session
+implement extern sourc impos jcr specif method ldap userbas
+manag class usermang princpalmanag aclmanag
+set maintain repsoitori singular securitymang
+session specif version manag expos session
+principalmang aclmang feed multipl provid
+principalprovid exist loginmodul aclprovid workspac
+authent
+
+user loginmodul resolv base credenti credenti valid user resolv princip group membership result session' subject extend princip
+author
+
+acl implement accessmanag interfac
+aclmang relat item acl acl evalu permiss current subject' princip
+default implement
+
+default implement repositori store secur data
+user store dedic workspac
+acl attach node relat
+acl inherit item hierarchi
+princip author
+configur
+
+loginmodul declar principalprovid class properti kei princip provid class
+workspac specif acl provid ad configur element worskspac xml call workspacesecur
+factori class configur

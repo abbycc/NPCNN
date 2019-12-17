@@ -1,0 +1,3 @@
+remov warn log miss text extractor
+jackrabbit core src main java org apach jackrabbit core queri lucen jackrabbittextextractor java method extracttext log warn level index
+move debug applic full text index text node messag fill log

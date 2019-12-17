@@ -1,0 +1,15 @@
+charset content type header quot
+charset content type header return ioutil buildcontenttyp enclos quot token includ doubl quot
+index jproject eclips jackrabbit jcr server server src java org apach jackrabbit server ioutil java
+
+jproject eclips jackrabbit jcr server server src java org apach jackrabbit server ioutil java revis
+jproject eclips jackrabbit jcr server server src java org apach jackrabbit server ioutil java work copi
+
+public static string buildcontenttyp string mimetyp string encod
+string contenttyp mimetyp
+contenttyp null encod null
+contenttyp charset encod
+contenttyp charset encod
+
+return contenttyp
+

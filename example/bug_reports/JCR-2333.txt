@@ -1,0 +1,14 @@
+itemimpl validatetransientitem incomplet valid mandatori child item
+itemimpl validatetransientitem iter mandatori child node properti definit order assert item
+creat check item defin mandatori item definit present
+exist item mandatori definit
+
+mandatori singl properti
+possibl add residu prop
+ad residu properti mandatori prop multipl valu
+save except
+node properti mandatori definit
+child node
+suggest fix
+child item mandatori item make definit mandatori expect
+patch follow

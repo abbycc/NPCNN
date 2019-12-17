@@ -1,0 +1,27 @@
+add support provid custom classload class instanti configur
+configur framework base baseconfig class function instanti class configur repositori configur file exampl class filesystem persistencemanag element
+current implement beanconfig newinst method default classload load configur class class loader beanconfig class gener class loader load repositori environ class provid core repositori class loader environ osgi setup bundl class laoder separ class loader declar configur
+propos enhanc beanconfig class
+public class beanconfig
+
+current default class loader default beanconfig' class loader
+privat static classload defaultclassload
+beanconfig class getclassload
+current instanc class loader
+privat classload classload
+
+set default class loader beanconfig instanc
+public static void setdefaultclassload classload loader
+return default class loader beanconfig instanc
+public static classload getclassload
+set class loader beanconfig instanc
+public void setclassload classload loader
+return class loader beanconfig instanc
+public classload getclassload
+
+beanconfig newinst method class
+public object newinst throw configurationexcept
+class clazz class fornam getclassnam true getclassload
+
+
+discuss dev list http mail archiv apach org mod mbox jackrabbit dev mbox 3cae03024e0607272341l52aff9b2h3957131411790bc9 mail gmail

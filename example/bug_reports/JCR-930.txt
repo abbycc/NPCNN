@@ -1,0 +1,3 @@
+ocm renam ocm persist persistencemanag avoid confus core compon
+persistencemanag establish interfac jackrabbit' architectur name class
+jcr map contrib project imo renam order avoid confus mail list thread jira issu

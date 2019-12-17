@@ -1,0 +1,8 @@
+typo nodetyperegistri
+typo introduc nodetyperegistri illustr stack trace
+caus javax jcr repositoryexcept intern error invalid resourc nodetyp custom nodetyp xml
+org apach jackrabbit core nodetyp nodetyperegistri init nodetyperegistri java jackrabbit core snapshot jar snapshot
+org apach jackrabbit core repositoryimpl createnodetyperegistri repositoryimpl java jackrabbit core snapshot jar
+org apach jackrabbit core repositoryimpl init repositoryimpl java jackrabbit core snapshot jar
+dbfilesystem root filesystem problem
+patch attach ticket correct issu

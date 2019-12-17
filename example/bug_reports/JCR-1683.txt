@@ -1,0 +1,5 @@
+jcr2spi move test execut spi2jcr
+propos patch issu jcr
+
+remov depend jackrabbit spi2jcr jackrabbit core jcr2spi
+remov duplic test sandbox spi

@@ -1,0 +1,3 @@
+pre gener version xpath jjt
+workaround jcr caus extra step java user solv issu includ pre gener version xpath jjt file normal sourc file avoid xsl transform normal build remov extra step
+creat patch object plan includ branch svn trunk

@@ -1,0 +1,3 @@
+refactor dbm support jndi datasourc
+shop oracl project commonli applic server tomcat webspher configur j2ee datasourc class fix quirk specif dbm forc configur jdbc connect org apach jackrabbit core oraclefilesystem instanc bad idea applic server applic server manag resourc connect dbfilesystem base oracl databas datasourc jndi lookup effect make jackrabbit unus cluster enterpris environ
+refactor current databas support separ method implement obtain connect function

@@ -1,0 +1,23 @@
+cachinghieraarchymanag serv move item
+problem weak referenc item state event notif
+localitemstatemanag
+
+session travers node fill cach chachinghierarchymanag
+fill weak ref cach session localitemstatemanag
+session oper
+point decid remov weakli refferenc itemst session
+localitemstatemanag
+session move node save
+shareditemstatemanag notifi listen node modifi
+localitemstatemanag session receiv event bubbl
+item anymor cach
+cachinghierarchymanag session receiv modif event
+server item locat
+solut
+reconnect miss state localitemstatemanag event receiv
+drawback lot state gener need
+solut
+add event 'nodemodified' localitemstatemanag
+'statemodified' receiv item aymor
+drawback alot event gener
+implement solut

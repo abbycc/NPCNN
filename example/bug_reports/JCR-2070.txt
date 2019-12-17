@@ -1,0 +1,3 @@
+jcr server respect child node definit jcr content
+creat file jcr content default unstructur file creation fail underli persist store spi implement support unstructur jcr content
+suggest check underli implement node type jcr content default unstructur

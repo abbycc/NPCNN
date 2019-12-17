@@ -1,0 +1,13 @@
+nullpointerexcept remov node acquir search result
+code snip nullpointerexcept itemst
+session repo login workspac
+querymanag getworkspac getquerymanag
+queri createqueri select unstructur queri jcr sql2
+queryresult execut
+nodeiter getnod
+node nextnod
+remov break nullpointerexcept
+except thread main java lang nullpointerexcept
+org apach jackrabbit jcr2spi state itemst getpar itemst java
+org apach jackrabbit jcr2spi oper remov creat remov java
+org apach jackrabbit jcr2spi itemimpl remov itemimpl java

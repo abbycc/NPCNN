@@ -1,0 +1,2 @@
+backport jcr add connect autoconnect bundledbpersistencemanag
+backport issu jcr add connect autoconnect bundledbpersistencemanag branch separ issu avoid open jcr releas

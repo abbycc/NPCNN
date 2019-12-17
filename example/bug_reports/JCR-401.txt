@@ -1,0 +1,9 @@
+contrib bdb persist updat berkeleydb version
+berkeleydb depend updat ibiblio moment project xml list
+code requir work correctli berkeleydb
+depend
+groupid berkeleydb groupid
+artifactid artifactid
+version version
+type jar type
+depend

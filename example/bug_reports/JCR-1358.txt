@@ -1,0 +1,2 @@
+cluster revis file close repositori shutdown
+shut repositori configur cluster cluster revis file open

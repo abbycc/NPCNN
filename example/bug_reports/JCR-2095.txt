@@ -1,0 +1,2 @@
+enumer qom join type
+jcr join type join type constant pfd version queryobjectmodelconst broken type safe enumer case good altern string constant

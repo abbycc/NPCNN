@@ -1,0 +1,2 @@
+make observ poll time configur
+poll time hard code second org apach jackrabbit jcr2spi workspaceimpl suggest make configur similar cachebehaviour add respect set org apach jackrabbit jcr2spi config repositoryconfig

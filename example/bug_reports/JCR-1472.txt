@@ -1,0 +1,7 @@
+extend secur config repositori dtd
+issu jcr extend configur
+requir version repositori dtd repositori dtd present jackrabbit site src site resourc dtd order version repositori xml work properli
+attach diff show differ recent repositori dtd
+object put propos repositori dtd site
+properli adjust repositori xml file uncom doctyp tag start commit secur function
+angela

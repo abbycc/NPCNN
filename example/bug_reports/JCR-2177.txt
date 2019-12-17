@@ -1,0 +1,3 @@
+node getweakrefer throw unsupportedoperationexcept referenc
+node getrefer return empti propertyiter
+point view method behav prefer throw

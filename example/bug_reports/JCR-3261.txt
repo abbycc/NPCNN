@@ -1,0 +1,30 @@
+problem bundledbpersistencemanag getallnodeid
+mysql
+problem aris method paramet maxcount total amount record bundl tabl
+found mysql order nodeid object jackrabbit test describ idea
+public void testmysqlorderbynodeid throw except
+nodeid nodeid1 nodeid 7ff9e87c f87f 4d35 9d61 2e298e56ac37
+nodeid nodeid2 nodeid 9fd0d452 b5d0 426b 8a0f bef830ba0495
+preparedstat stmt connect preparestat select node default bundl node node order node
+object param object nodeid1 getrawbyt nodeid2 getrawbyt
+stmt setobject param
+stmt setobject param
+arraylist nodeid nodeid arraylist nodeid
+resultset resultset stmt executequeri
+resultset
+nodeid nodeid nodeid resultset getbyt
+system println nodeid
+nodeid add nodeid
+
+collect sort nodeid
+nodeid nodeid nodeid
+system println nodeid
+
+
+result output
+7ff9e87c f87f 4d35 9d61 2e298e56ac37
+9fd0d452 b5d0 426b 8a0f bef830ba0495
+9fd0d452 b5d0 426b 8a0f bef830ba0495
+7ff9e87c f87f 4d35 9d61 2e298e56ac37
+problem getallnodeid method fetch extra record top maxcount avoid problem kei want skip number record time nodeid compareto compareto statement return true unexpectedli mysql code expect mysql order
+situat record bundl tabl consecut id thousand record time return record

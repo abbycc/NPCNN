@@ -1,0 +1,3 @@
+jcr server improv implement davresourc getproperti davpropertynam
+issu jcr
+problem subset properti request client dav resourc initi complet set properti

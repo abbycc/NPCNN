@@ -1,0 +1,2 @@
+exclud javacc gener code static analysi
+javacc gener code spi common exclud static analysi tool sonar

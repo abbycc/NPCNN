@@ -1,0 +1,7 @@
+handl expand form jcr name node type templat class
+itemdefinitiontempl treat opqu string jcr
+set
+http org foo
+getnam return
+bar foo
+prefix bar map namesapc http org

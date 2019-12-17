@@ -1,0 +1,2 @@
+support transact jcr rmi
+time session obtain rmi client localadapterfactori implement method xasess therefor rmi access layer support transact session

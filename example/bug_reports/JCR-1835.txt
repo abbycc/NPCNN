@@ -1,0 +1,2 @@
+databas data store support databas type 'mssql'
+sql server refer schema 'mssql' persist manag cluster journal dbdatastor call 'sqlserver' consist

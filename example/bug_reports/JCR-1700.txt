@@ -1,0 +1,4 @@
+deprec namespacelisten abstractnamespaceresolv
+namespacelisten interfac longer jsr style namespac handl avoid lot synchron previous local namespac map date
+remain purpos abstractnamespaceresolv class add support manag namespacelisten function anymor make subclass namespaceresolv interfac directli
+namespacelisten abstractnamespaceresolv public jackrabbit spi common mark deprec rid jackrabbit

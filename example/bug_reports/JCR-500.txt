@@ -1,0 +1,21 @@
+tck namespaceregistrytest testunregisternamespaceexcept fail expect except thrown
+place test fail expect except thrown
+propos test fail expect except thrown
+namespaceregistrytest java revis
+namespaceregistrytest java work copi
+
+int system prefix length
+
+nsp unregisternamespac system prefix
+fail unregist system prefix fail
+catch namespaceexcept
+expect behaviour
+
+
+throw namespaceexcept
+
+nsp unregisternamespac thisnamespaceisnotcurrentlyregist
+fail unregist unus prefix fail
+catch namespaceexcept
+expect behaviour
+

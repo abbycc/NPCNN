@@ -1,0 +1,17 @@
+tck nodetest testmixintypesprotect incorrectli fail
+test call addmixin add mix referenc node step requir test jcr mixintyp protect fail node mix referenc mix referenc
+propos remov call addmixin
+test attempt set jcr mixintyp scalar report failur implement throw valueformatexcept constraintviolationexcept
+propos set jcr mixintyp arrai length
+nodetest java revis
+nodetest java work copi
+
+node defaultrootnod node superus getitem testrootnod getpath
+node testnod defaultrootnod addnod nodename1 testnodetyp
+testnod addmixin mixreferenc
+
+testnod setproperti jcrmixintyp mixlock
+testnod setproperti jcrmixintyp string mixlock
+fail manual set jcr mixintyp throw constraintviolationexcept
+
+catch constraintviolationexcept success

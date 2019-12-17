@@ -1,0 +1,3 @@
+remov depend jackrabbit core
+remov depend jackrabit core ocm subproject jcr map annot jackrabbit core unit test
+split jcr nodemanag subproject jcr repo impl subproject jackrabbit contribut jcr repo impl specif jcr nodemanag jar produc jcr repo impl jcr support node creation refactor jcr nodemanag

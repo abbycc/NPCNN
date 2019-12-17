@@ -1,0 +1,3 @@
+implement queryobjectmodelfactori fulltextsearch querymanagerimpl
+jcr upgrad jcr ran issu handl queryobjectmodelfactori fulltextsearch method chang bit spi common version written
+marcel time dummi implement ad line querymanagerimpl java jackrabbit core

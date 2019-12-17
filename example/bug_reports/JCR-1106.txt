@@ -1,0 +1,5 @@
+add simpl queri method objectcontentmanag
+discuss suggest method
+obejctcontentmanag getobjectiter string queri string languag
+easili queri repositori object predefin queri chose getobjectiter getobject intend method return iter collect
+http www mail archiv dev 40jackrabbit apach org msg07475 html

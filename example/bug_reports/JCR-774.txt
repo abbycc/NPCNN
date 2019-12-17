@@ -1,0 +1,8 @@
+tck test expect modif made session1 automat visibl session2
+made session1 automat visibl session2 requir
+specif suggest modifi test case
+nodeuuidtest testsavemovedrefnod
+sessionuuidtest testsavemovedrefnod
+patch
+nodetest testremoveinvaliditemstateexcept
+patch

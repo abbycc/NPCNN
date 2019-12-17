@@ -1,0 +1,41 @@
+concurrentmodificationexcept registr nodetyp
+registr set nodetyp except encount
+java util concurrentmodificationexcept
+org apach common collect map abstractreferencemap referenceentrysetiter checkmod abstractreferencemap java
+org apach common collect map abstractreferencemap referenceentrysetiter hasnext abstractreferencemap java
+org apach jackrabbit core nodetyp nodetyperegistri notifyregist nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri registernodetyp nodetyperegistri java
+copi listen trigger except
+privat void notifyregist qname ntname
+copi listen arrai avoid concurrentmodificationexcept
+nodetyperegistrylisten
+nodetyperegistrylisten listen size
+iter iter listen valu iter
+int cnt
+iter hasnext
+cnt nodetyperegistrylisten iter
+
+int length
+null
+nodetyperegist ntname
+
+
+
+method notifyreregist notifyunregist suffer problem
+reproduct except tricki occur applic race condit thread access listen copi help debugg set breakpoint middl copi give thread opportun access listen
+solut
+
+notifi listen node type code ntname code regist
+
+privat void notifyregist qname ntname
+copi listen arrai avoid concurrentmodificationexcept
+nodetyperegistrylisten
+synchron listen
+nodetyperegistrylisten listen valu toarrai nodetyperegistrylisten listen size
+
+int length
+null
+nodetyperegist ntname
+
+
+

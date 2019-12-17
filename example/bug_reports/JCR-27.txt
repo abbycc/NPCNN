@@ -1,0 +1,15 @@
+arrayindexoutofboundexcept set refer properti
+node whith multivalu refer properti
+add refer spec outdat point approach add refer
+referencevalu referencevalu getnod page mjo page
+valu
+tstn setproperti mjo testcon valu
+session save
+result
+warn org apach jackrabbit core itemmanag node page mjo page invalid definitionid
+java lang arrayindexoutofboundsexcept
+org apach jackrabbit core itemimpl validatetransientitem itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+freaquac test jcrtest main jcrtest java
+arrayindexoutofboundsexcept good sign assum bug crx throw except

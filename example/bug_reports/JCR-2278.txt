@@ -1,0 +1,2 @@
+move nodetypestorag spi common provid default implement
+facilit implement nodetyp method repositoryservic

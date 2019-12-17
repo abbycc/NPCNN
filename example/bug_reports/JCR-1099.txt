@@ -1,0 +1,24 @@
+jcr2spi nodeentryimpl getpath blow stack due getindex call
+jcr2spi nodeentryimpl class logic getindex call
+call code
+session sess repo login cred
+node inboxnod sess getrootnod getnod inbox
+inboxnod getpath blow stack
+trace reveal
+nodeentryimpl getpath ultim call getindex
+getindex call nodest getdefinit
+call itemdefinitionproviderimpl getqnodedefinit
+catch repositoryexcept call nodeentryimpl getworkspaceid
+call nodeentryimpl getworkspaceindex
+call getindex back step infinitum
+configur
+configur load memori persist manag
+config wrap transientrepositori
+wrap spi2jcr' repositoryservic default batchreadconfig
+jcr2spi provid instanti directli coupl spi2jcr
+node question creat
+session sess repo login cred
+sess getrootnod addnod inbox folder
+sess save
+guess
+david

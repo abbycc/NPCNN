@@ -1,0 +1,11 @@
+jcr server make auth header configur jcr server
+web inf web xml section comment default read
+init param
+param authent header param
+param basic realm jackrabbit webdav server param
+descript
+defin 'www authenticate' header
+descript
+init param
+paramet load code default string
+note problem jcr fix

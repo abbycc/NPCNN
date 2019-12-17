@@ -1,0 +1,1 @@
+reorgan jackrabbit 'core' 'api' 'commons'

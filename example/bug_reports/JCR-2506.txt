@@ -1,0 +1,2 @@
+stop text extract maxfieldlength limit reach
+index larg document text extract take lot memori maxfieldlength default token add maxextractlength paramet set maximum number charact extract binari default paramet ten time maxfieldlength set

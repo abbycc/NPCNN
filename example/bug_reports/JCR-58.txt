@@ -1,0 +1,31 @@
+warn unmapp charact encod utf8
+ascii charact jackrabbit sourc file warn environ warn caus smart quot charact
+exact warn
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+newer updat reflect
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+newer updat reflect
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+older ag left
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+older ag left
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+older ag left
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+older ag left
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+jcr basevers properti chang point
+
+home hukka workspac jackrabbit src java org apach jackrabbit core nodeimpl java warn unmapp charact encod utf8
+jcr ischeckedout properti set fals
+home hukka workspac jackrabbit src test org apach jackrabbit test api version checkintest java warn unmapp charact encod utf8
+assertequ version check node jcr predecessor properti copi version checkin arrai aslist npredecessorsvalu arrai aslist vpredecessorsvalu
+
+home hukka workspac jackrabbit src test org apach jackrabbit init nodetestdata java warn unmapp charact encod utf8
+writer write rld

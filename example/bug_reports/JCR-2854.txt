@@ -1,0 +1,2 @@
+add option make sort user group queri case insensit
+sort string properti case sensit user group search sort shuld case sensit

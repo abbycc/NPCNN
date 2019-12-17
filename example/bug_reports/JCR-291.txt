@@ -1,0 +1,10 @@
+jcr server webapp rmi registr unstabl
+registr repositori rmi registri repositorystartupservlet registerrmi web applic paramet inconsist succe regist repositori
+todai registerrmi paramet registr rmi
+rmi host host registri run
+rmi port port registri run
+rmi uri rmi uri registr
+repositori bind repositori
+problem rmi port creat registri make registri run local host rmi uri regist repositori static name bind method rmi uri configur uri creat rmi host rmi port repositori
+creat bunch problem rmi port rmi uri configur match registr fail rmi host resolv address registri bound registr fail
+encount issu regist repositori rmi registri default rmi port configur rmi host rmi uri configur run web app jetti

@@ -1,0 +1,3 @@
+common base class jackrabbit core jcr2spi
+part jcr implement number gener jcr base class adapt org apach jackrabbit common class base exist code jackrabbit core
+encourag code reus jackrabbit core jcr2spi make compon gener base class

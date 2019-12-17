@@ -1,0 +1,2 @@
+system view export truncat carriag return
+string carriag return charact truncat platform

@@ -1,0 +1,6 @@
+jcr2spi updat event swallow cachebehavior observ
+cachebehavior observ hierarchi held jcr2spi updat base event
+session persist add mix referenc node load session inform chang
+reason process spi event hierarchyeventlisten onev parent retriev event itemid case uniqueid part listen session
+nodeentri affect event updat
+fix parent entri event succe 2nd lookup event path perform

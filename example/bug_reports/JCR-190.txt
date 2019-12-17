@@ -1,0 +1,5 @@
+cach queryhandl scale
+cach class cachingindexread memori byte node strategi limit cach
+improv cover goal
+lower node memori cost cach
+implement cach strategi lru algorithm

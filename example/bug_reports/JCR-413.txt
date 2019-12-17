@@ -1,0 +1,8 @@
+jca compil j2ee1 class
+jcamanagedconnectionfactori constructor invok throw resourceexcept exist j2ee1 jca1 class
+throw resourceexcept line line
+code
+resourceexcept except resourceexcept fail creat session
+except setlinkedexcept
+throw except
+compil run j2ee1

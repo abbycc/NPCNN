@@ -1,0 +1,6 @@
+spi javadoc issu qnodetypedefinit getpropertydef getchildnodedef
+javadoc mention method state
+return arrai properti definit
+code null code set
+default implement return empti arrai find nicer
+object fix javadoc

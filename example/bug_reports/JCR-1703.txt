@@ -1,0 +1,5 @@
+oracl jndi datasourc support
+org apach jackrabbit core persist bundl util connectionfactori connect jndi datasourc login pasword user password retriev empti string null getconnect user password fail complet test line
+user null user length password null password length
+sincer
+stéphane landel

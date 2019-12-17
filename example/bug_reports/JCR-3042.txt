@@ -1,0 +1,5 @@
+jcr common add cnd writer function
+jcr common cnd reader writer function present spi common
+jcr implement independ cnd writer suggest
+add jcr common base code present spi common implement spi common
+extend gener function

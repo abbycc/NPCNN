@@ -1,0 +1,13 @@
+reorderreferenceablesnstest failur
+check jackrabbit branch directori call
+mvn clean instal
+error
+build jackrabbit jcr spi
+task segment clean instal
+
+
+testrevertreord org apach jackrabbit jcr2spi reorderreferenceablesnstest
+junit framework assertionfailederror reorder ad child node
+junit framework assert fail assert java
+org apach jackrabbit jcr2spi reordertest testord reordertest java
+org apach jackrabbit jcr2spi reordertest testrevertreord reordertest java

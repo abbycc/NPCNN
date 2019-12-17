@@ -1,0 +1,7 @@
+simpleselectiontest assum rowiter getsiz return
+test case testsingleproperti assum rowiter getsiz return incorrect assumpt javadoc rangeiter
+suggest chang
+long size result getrow getsiz
+size
+assertequ result size
+

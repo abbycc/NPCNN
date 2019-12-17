@@ -1,0 +1,2 @@
+usermanag miss assert princip
+creat user group princip empti allow

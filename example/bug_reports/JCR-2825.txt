@@ -1,0 +1,2 @@
+fals predic return true
+org apach jackrabbit spi common iter predic fals return true fals

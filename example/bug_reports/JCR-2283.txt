@@ -1,0 +1,49 @@
+incorrect cnd mix etag
+jackrabbit defin mix etag
+mix etag
+mixin
+default auto creation handl jcr
+jcr etag string protect autocr
+violat spec
+mix etag mixin
+jcr etag string protect autocr
+affect predefin node type test jackrabbit jcr test mix etag txt
+nodetypenam
+mix etag
+supertyp
+
+ismixin
+true
+hasorderablechildnod
+fals
+primaryitemnam
+null
+propertydefinit
+jcr etag
+requiredtyp string
+defaultvalu
+autocr true
+mandatori fals
+onparentvers copi
+protect true
+multipl fals
+
+nodetypenam
+mix etag
+supertyp
+
+ismixin
+true
+hasorderablechildnod
+fals
+primaryitemnam
+null
+propertydefinit
+jcr etag
+requiredtyp string
+defaultvalu null
+autocr true
+mandatori fals
+onparentvers copi
+protect true
+multipl fals

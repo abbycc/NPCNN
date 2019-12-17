@@ -1,0 +1,5 @@
+inconsist repositori overlap node add oper
+reproduc sequenc oper repositori inconsist
+short version session add name child node parent folder allow sibl session 1' save succe session 2' save fail succe retri
+oper child node creat session present parent list child node anymor
+add test case

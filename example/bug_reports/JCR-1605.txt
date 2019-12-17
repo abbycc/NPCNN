@@ -1,0 +1,3 @@
+repositorylock work nf
+repositorylock mechan jackrabbit filelock work nf file system nf version newer support lock older implement throw ioexcept lock mean nf support byte rang lock
+propos add lock mechan add configur option filelock class acm lock mechan cooper lock protocol background watchdog thread regular file oper

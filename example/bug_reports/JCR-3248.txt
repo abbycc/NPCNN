@@ -1,0 +1,4 @@
+timeouthandl visitor extract dedic class
+minor problem stumbl memori leak
+timeouthandl thread run custom elementvisitor busi creat instanc elementvisitor creat garbag avoid predefin class
+short stori unit test creat instanc byte dedic visitor class creat instanc lifespan repositori

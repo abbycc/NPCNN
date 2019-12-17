@@ -1,0 +1,44 @@
+cluster inform persist databas connect case sensit sql server
+call session save observ cluster inform written schemaobjectprefix journal schemaobjectprefix global revis tabl test oracl databas server sql server server problem notic sql server
+initi problem mask test written part unit test environ except gener jdbc show log separ test carri shown code
+pre
+import java fileinputstream
+import javax jcr node
+import javax jcr repositori
+import javax jcr session
+import javax jcr simplecredenti
+import org apach jackrabbit core transientrepositori
+import org apach jackrabbit core config repositoryconfig
+public class main
+
+public static void main string arg
+throw except
+
+system setproperti org apach jackrabbit core cluster node testid
+repositoryconfig config repositoryconfig creat fileinputstream repositori xml repositori
+repositori repositori transientrepositori
+session session repositori login simplecredenti usernam password tochararrai
+node root session getrootnod
+root addnod node1
+root addnod node2
+root addnod node3
+session save
+
+
+pre
+configur file configur repositori attach
+debug obtain except previous visibl note jackrabbit continu run cluster code run separ thread except problem 'revis id' field exist mssql ddl schema file set tabl name capit sql statement databasejourn lower case tabl name
+pre
+updateglobalstmt con preparestat
+updat schemaobjectprefix global revis
+set revis revis
+selectglobalstmt con preparestat
+select revis
+schemaobjectprefix global revis
+pre
+addit error mssql ddl file miss
+pre
+insert revis counter record help avoid race condit
+insert schemaobjectprefix global revis valu
+pre
+fix issu fix problem sql server

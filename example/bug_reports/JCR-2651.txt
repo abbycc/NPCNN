@@ -1,0 +1,3 @@
+add onworkspaceinconsist log
+workspac perform index startup inconsist process fail
+onworkspaceinconsist log log inconsist reindex process fail

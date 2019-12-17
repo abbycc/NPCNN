@@ -1,0 +1,5 @@
+avoid string concaten abstractbundlepersistencemanag
+line
+log debug store bundl bundl getid
+chang
+log debug store bundl bundl getid

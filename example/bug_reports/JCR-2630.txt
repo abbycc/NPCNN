@@ -1,0 +1,6 @@
+useraccesscontrolprovid handl user dont jackrabbit manag princip user node inconsist
+core
+useraccesscontrolprovid compilepermiss princip relat user node found set read compil permiss provid set session read access entir secur workspac path
+user node found instanc useraccesscontrolprovid compilepermiss useraccesscontrolprovid compilepermiss buildresult check user node user node permiss deni path
+case happen instal jackrabbit custom principalmanag suspect base impl useraccesscontrolprovid compilepermiss buildresult deni access secur workspac user node set princip
+effect extern princip manag bit hard produc compact unit test issu found code

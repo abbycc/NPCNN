@@ -1,0 +1,2 @@
+improv reusabl jca packag
+jackrabbit jca packag hardcod refer jackrabbit core make difficult reus packag relat code jcr implement repositoryfactori interfac jcr avoid hard depend

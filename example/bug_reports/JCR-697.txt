@@ -1,0 +1,33 @@
+war distribut configur prompt setup jndi repositori home config locat
+embed deploy model document http jackrabbit apach org doc deploi howto model1 html jackrabbit page describ packag war file jndi resourc set chang locat repositori home repositori configur xml file
+war file provid part jackrabbit distribut behav inbuilt repositori xml file set web xml act default default forc user act develop modifi file war file
+current situat war modif repositori xml file contain war make repositori home tomcat bin repositori directori default default setup clear error messag jndi setup web applic recognis jndi configur prompt user instruct webpag describ setup requir jndi set tomcat jboss
+
+war distribut jackrabbit ignor jndi set document tomcat config xml snippet configur tomcat
+
+xml version encod 'utf
+context displaynam ark docbas dev ark jackrabbit server war path ark
+usenam fals workdir work catalina localhost ark unpackwar fals
+resourc jcr repositori
+auth contain
+type javax jcr repositori
+factori org apach jackrabbit core jndi bindablerepositoryfactori
+configfilepath dev ark src main resourc repositori xml
+rephomedir jackrabbitrepo
+context
+
+jackrabbit load fine log show
+
+info repositorystartupservlet repositorystartupservlet initi repositorystartupservlet java line
+info repositorystartupservlet repositori home program file apach softwar foundat tomcat bin jackrabbit repositori repositorystartupservlet java line
+
+
+info localfilesystem localfilesystem initi path program file apach softwar foundat tomcat bin jackrabbit repositori repositori localfilesystem java line
+
+
+case jackrabbit host maven repositori compani ideal
+download jackrabbit war file mount tomcat server context maven2
+configur tomcat ldap authent point company' ldap server standard j2ee featur
+creat repositori xml file point accessmanag implement company' singlesignon servic author accessmanag implement tomcat share classpath
+set repositori home directori work file locat repositori xml file ideal jndi
+put jackrabbit war file develop hat jackrabbit user hat

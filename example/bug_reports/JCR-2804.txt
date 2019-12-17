@@ -1,0 +1,2 @@
+add isdeclaredmemb method group
+suggest add method check authoriz declar member group method check membership includ indirect membership

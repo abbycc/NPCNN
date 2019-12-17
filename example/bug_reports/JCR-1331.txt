@@ -1,0 +1,4 @@
+improp deprec lock class
+lock class jcr common packag deprec move spi common
+common class depend spi stai jcr common
+depend spi simpli remov

@@ -1,0 +1,8 @@
+session getattribut call return empti arrai
+repositori repositori rmiremoterepositori localhost jackrabbit repositori
+simplecredenti simplecredenti alex tochararrai
+setattribut anattribut avalu
+session repositori login aworkspac
+string attr getattributenam
+arrai attr empti
+doc attribut simplecredenti object

@@ -1,0 +1,9 @@
+refactor observationmanagerfactori
+current core observ observationmanagerfactori class main respons
+creat observationmanagerimpl instanc observ manag factori
+manag event consum dispatch event workspac
+respons unrel factori respons essenti boil method invok workspaceimpl getobservationmanag
+public observationmanagerimpl createobservationmanag sessionimpl session itemmanag itemmgr
+return observationmanagerimpl session itemmgr
+
+simplifi design inlin method renam observationmanagerfactori observationdispatch reflect remain respons

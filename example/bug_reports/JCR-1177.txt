@@ -1,0 +1,4 @@
+move jackrabbit trunk contrib jackrabbit sandbox
+discuss mail list http www nabbl move contrib trunk renam sandbox tf4635301 html
+svn move http svn apach org repo asf jackrabbit trunk contrib http svn apach org repo asf jackrabbit sandbox
+dai object

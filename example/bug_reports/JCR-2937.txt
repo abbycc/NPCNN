@@ -1,0 +1,6 @@
+acl glob restrict work
+defin acl 'read' node underneath desir effect
+
+jcr read
+deni jcr read glob
+work root node

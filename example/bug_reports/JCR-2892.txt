@@ -1,0 +1,5 @@
+larg fetch size potenti deleteri effect memori requir oracl
+releas 10g oracl jdbc driver fetch size alloc buffer cach row data
+http www oracl technetwork databas enterpris edit memori pdf
+r1060431 hard code fetch size resultset return statement signific potenti deleteri effect heap space requir moder size repositori bundl tabl 'oracl ddl' column node raw bundl data blob requir buffer space requir buffer
+issu jcr specif postgresql resolut move postgresql specif connectionhelp subclass fail overrid hard code oracleconnectionhelp

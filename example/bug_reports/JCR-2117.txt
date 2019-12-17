@@ -1,0 +1,3 @@
+jsr adopt cnd syntax
+cnd syntax chang public review draft public final draft
+syntax incompat

@@ -1,0 +1,27 @@
+abstractimportxmltest bug getunuseduri uri length grow quickli caus test fail orm
+test fail orm uri exce column size databas
+current implement
+protect string getunuseduri throw repositoryexcept
+set uri hashset arrai aslist nsp geturi
+string uri test uri
+int
+uri uri
+uri
+
+return uri
+
+run test uri grow
+
+www apach org jackrabbit test namespaceimporttest01234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950
+propos fix
+protect string getunuseduri throw repositoryexcept
+set uri hashset arrai aslist nsp geturi
+string uri test uri
+int
+uri uri
+uri test uri
+
+return uri
+
+
+www apach org jackrabbit test namespaceimporttest50

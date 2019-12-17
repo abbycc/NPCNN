@@ -1,0 +1,2 @@
+session log case except
+test case logout session except occur

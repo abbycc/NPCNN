@@ -1,0 +1,2 @@
+favour qvalu getpath getstr
+avoid extra convers round trip qvalu getpath qvalu getstr

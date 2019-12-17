@@ -1,0 +1,3 @@
+text isdescend return fals parent
+method isdescend string string text util class return fals
+pass potenti parent path repres root node

@@ -1,0 +1,5 @@
+queri liter namespac fail
+queri liter namespac fail
+
+foo 'bla'
+return node foo properti string 'bla' 'bla' namespac node string 'bla' return

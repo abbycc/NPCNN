@@ -1,0 +1,7 @@
+remov properti spi wai
+batch wai delet properti similarli jcr
+batch remov
+batch setvalu null
+jcr2spi afaik batch remov
+propos
+clarifi qvalu argument setvalu null setvalu

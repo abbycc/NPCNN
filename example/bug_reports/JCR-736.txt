@@ -1,0 +1,3 @@
+wrong exept return repositori login credenti string
+specif call repositori login credenti string exist wokspacenam return nosuchworkspaceexcept
+fact return repositoryexcept

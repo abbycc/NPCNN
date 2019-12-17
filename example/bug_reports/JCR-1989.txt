@@ -1,0 +1,5 @@
+appendrecord write singl byte disk
+appendrecord initi buffer write memori start
+write temp file occupi
+64k heap switch temp file data written
+unbuff

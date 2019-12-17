@@ -1,0 +1,7 @@
+util class tranform jcr sql2 jcr jqom
+jcr2 doc thing translat
+straightforward manner jackrabbit jcr common modul offer util class transform
+languag gener
+exempl
+string tosql2 queryobjectmodel qom
+queryobjectmodel tojqom queryobjectmodelfactori factori string queri

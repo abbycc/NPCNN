@@ -1,0 +1,8 @@
+simplefieldshelp emit lot warn
+simplefieldshelp retrievesimplefield method load jcr properti simpl java object field map descriptor node name properti warn messag emit
+miss properti defin option node type definit normal miss emit warn messag order
+miss properti declar requir descriptor throw except
+descriptor default miss properti
+properti defin default node type definit
+emit debug messag leav field undefin
+make absolut sens defin properti mandatori descriptor node type definit opinion

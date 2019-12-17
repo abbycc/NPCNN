@@ -1,0 +1,3 @@
+initi seededsecurerandom slow
+system read dev random slow altern seed algorithm initi org apach jackrabbit core seededsecurerandom singleton slow synchron thread call seededsecurerandom getinst wait singleton initi
+time add entropi altern seed algorithm

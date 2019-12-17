@@ -1,0 +1,7 @@
+jcarepositorymanag createnontransientrepositori throw npe jcamanagedconnectionfactori configfil kei
+jcarepositorymanag createnontransientrepositori fail
+string configfil paramet jcamanagedconnectionfactori configfil kei
+null
+config repositoryconfig creat configfil homedir
+throw npe call
+config repositoryconfig creat homedir

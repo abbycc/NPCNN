@@ -1,0 +1,5 @@
+broke lock test jcr2spi jcr upgrad
+jcr upgrad broken test spi2jcr
+org apach jackrabbit test api lock locktest
+org apach jackrabbit jcr2spi lock sessionscopedlocktest
+mark issu hudson build back continu breakag

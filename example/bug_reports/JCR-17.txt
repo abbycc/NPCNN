@@ -1,0 +1,11 @@
+creat save mix version node creat versionhistori node
+step
+creat mix version node
+creat versionhistori node jcr persistentversionstor
+set node' versionhistori properti uuid
+versionhistori node
+save session altern save parent node
+creat versionhistori node jcr persistentversionstor
+set node' versionhistori properti uuid
+versionhistori node
+end versionhistori node node versionhistori node versionhistori node

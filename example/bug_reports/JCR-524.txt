@@ -1,0 +1,45 @@
+tck predicatestest respect testroot configur properti
+test respect testroot configur properti
+propos testroot configur properti construct test queri
+predicatestest java revis
+predicatestest java work copi
+
+throw repositoryexcept
+
+public void testequ throw repositoryexcept
+string stmt jcrroot jcrprimarytyp nodetypenam
+string stmt jcrroot testpath jcrprimarytyp nodetypenam
+
+createqueri stmt queri xpath
+
+throw repositoryexcept
+
+public void testcombinedor throw repositoryexcept
+string stmt jcrroot jcrprimarytyp nodetypenam jcrprimarytyp ntbase
+string stmt jcrroot testpath jcrprimarytyp nodetypenam jcrprimarytyp ntbase
+
+createqueri stmt queri xpath
+
+throw repositoryexcept
+
+public void testor throw repositoryexcept
+string stmt jcrroot jcrprimarytyp jcrmixintyp
+string stmt jcrroot testpath jcrprimarytyp jcrmixintyp
+
+createqueri stmt queri xpath
+
+throw repositoryexcept
+
+public void testand throw repositoryexcept
+string stmt jcrroot jcrprimarytyp jcrmixintyp
+string stmt jcrroot testpath jcrprimarytyp jcrmixintyp
+
+createqueri stmt queri xpath
+
+throw repositoryexcept
+
+public void testcombinedand throw repositoryexcept
+string stmt jcrroot jcrprimarytyp nodetypenam jcrprimarytyp ntbase
+string stmt jcrroot testpath jcrprimarytyp nodetypenam jcrprimarytyp ntbase
+
+createqueri stmt queri xpath

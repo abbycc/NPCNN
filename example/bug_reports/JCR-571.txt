@@ -1,0 +1,244 @@
+jackrabbit jca pom xml
+add attach inlin
+note move src rar meta inf xml src main rar meta inf xml default locat maven rar packag
+
+xml version encod utf
+
+licens apach softwar foundat asf
+contributor licens agreement notic file distribut
+work addit inform copyright ownership
+asf licens file apach licens version
+licens file complianc
+licens obtain copi licens
+http www apach org licens licens
+requir applic law agre write softwar
+distribut licens distribut basi
+warranti condit kind express impli
+licens specif languag govern permiss
+limit licens
+
+project xmln http maven apach org pom
+xmln xsi http www org xmlschema instanc
+xsi schemaloc http maven apach org pom
+http maven apach org maven xsd
+modelvers modelvers
+
+
+
+groupid org apach jackrabbit groupid
+artifactid jackrabbit jca artifactid
+packag rar packag
+jackrabbit jca
+version snapshot version
+
+descript singl line maven gener
+corrupt manifest http jira codehau org brows mjar
+
+descript
+resourc adapt jackrabbit jca
+descript
+url http jackrabbit apach org url
+prerequisit
+maven maven
+prerequisit
+issuemanag
+system jira system
+url http issu apach org jira brows jcr url
+issuemanag
+inceptionyear inceptionyear
+
+
+
+mailinglist
+mailinglist
+jackrabbit announc list
+subscrib announc subscrib jackrabbit apach org subscrib
+unsubscrib announc unsubscrib jackrabbit apach org unsubscrib
+archiv http mail archiv apach org mod mbox jackrabbit announc archiv
+mailinglist
+mailinglist
+jackrabbit user list
+subscrib user subscrib jackrabbit apach org subscrib
+unsubscrib user unsubscrib jackrabbit apach org unsubscrib
+post user jackrabbit apach org post
+archiv http mail archiv apach org mod mbox jackrabbit user archiv
+otherarch
+otherarch
+http dir gmane org gmane comp apach jackrabbit user
+otherarch
+otherarch
+http www mail archiv user jackrabbit apach org
+otherarch
+otherarch
+mailinglist
+mailinglist
+jackrabbit develop list
+subscrib dev subscrib jackrabbit apach org subscrib
+unsubscrib dev unsubscrib jackrabbit apach org unsubscrib
+post dev jackrabbit apach org post
+archiv http mail archiv apach org mod mbox jackrabbit dev archiv
+otherarch
+otherarch
+http dir gmane org gmane comp apach jackrabbit devel
+otherarch
+otherarch
+http www mail archiv dev jackrabbit apach org
+otherarch
+otherarch
+http www mail archiv jackrabbit dev incub apach org
+otherarch
+otherarch
+mailinglist
+mailinglist
+jackrabbit sourc control list
+subscrib commit subscrib jackrabbit apach org subscrib
+unsubscrib commit unsubscrib jackrabbit apach org unsubscrib
+archiv http mail archiv apach org mod mbox jackrabbit commit archiv
+mailinglist
+mailinglist
+licens
+licens
+apach softwar licens version
+url http www apach org licens licens url
+distribut repo distribut
+licens
+licens
+scm
+connect scm svn http svn apach org repo asf jackrabbit trunk jca connect
+developerconnect scm svn http svn apach org repo asf jackrabbit trunk jca developerconnect
+url http svn apach org viewvc jackrabbit trunk jca url
+scm
+organ
+apach softwar foundat
+url http www apach org url
+organ
+build
+resourc
+resourc
+directori src java directori
+resourc
+resourc
+
+testresourc
+testresourc
+directori applic test directori
+includ
+includ properti includ
+includ xml includ
+includ
+testresourc
+testresourc
+directori src test java directori
+includ
+includ xml includ
+includ txt includ
+includ
+testresourc
+testresourc
+
+plugin
+plugin
+artifactid maven compil plugin artifactid
+configur
+target target
+sourc sourc
+configur
+plugin
+
+plugin
+artifactid maven surefir plugin artifactid
+configur
+exclud
+exclud init exclud
+exclud
+includ
+includ testal java includ
+includ
+forkmod forkmod
+arglin xmx128m enableassert arglin
+systemproperti
+properti
+derbi system durabl
+test
+properti
+properti
+issu
+org apach jackrabbit core xml documentviewtest testmultivalu org apach jackrabbit binaryvaluetest testbinaryvalueequ
+properti
+systemproperti
+configur
+plugin
+
+plugin
+build
+depend
+depend
+groupid org apach jackrabbit groupid
+artifactid jackrabbit core artifactid
+version snapshot version
+depend
+depend
+groupid concurr groupid
+artifactid concurr artifactid
+version version
+depend
+depend
+groupid common collect groupid
+artifactid common collect artifactid
+version version
+depend
+depend
+groupid org apach geronimo spec groupid
+artifactid geronimo jta spec artifactid
+version version
+depend
+depend
+groupid javax jcr groupid
+artifactid jcr artifactid
+version version
+depend
+depend
+groupid log4j groupid
+artifactid log4j artifactid
+version version
+depend
+depend
+groupid org slf4j groupid
+artifactid slf4j log4j12 artifactid
+version version
+depend
+depend
+groupid lucen groupid
+artifactid lucen artifactid
+version version
+depend
+depend
+groupid org apach derbi groupid
+artifactid derbi artifactid
+version version
+option true option
+depend
+depend
+groupid junit groupid
+artifactid junit artifactid
+version version
+scope test scope
+depend
+depend
+distributionmanag
+repositori
+apach releas
+apach repositori pmc approv releas
+url scp peopl apach org www www apach org dist maven repositori url
+repositori
+snapshotrepositori
+apach snapshot
+apach develop repositori
+url scp peopl apach org www cv apach org maven snapshot repositori url
+snapshotrepositori
+site
+websit
+url scp peopl apach org www jackrabbit apach org url
+site
+distributionmanag
+project

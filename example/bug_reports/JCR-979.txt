@@ -1,0 +1,2 @@
+extend apach parent pom apach wide configur
+apach wide config publish apach parent pom

@@ -1,0 +1,2 @@
+noderefer jcr2spi
+happen org apach jackrabbit jcr2spi state noderefer interfac realiz current spi definit abstract propertyid arrai return nodeinfo getrefer good jcr2spi noderefer wrap

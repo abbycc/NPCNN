@@ -1,0 +1,3 @@
+nodetypedefdiff compar restrict
+nodetypedefdiff class compar nodetypedef instanc class report nodetypedef instanc equal structur differ trivial correct result modif
+suggest modifi nodetypedefdiff init method initi type trivial compar hasorderablechildnod rais level trivial equal rest current comparison follow

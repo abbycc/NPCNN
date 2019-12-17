@@ -1,0 +1,3 @@
+transact lead memori leak
+result jcr fix code txglobal remov xid call statement xasessionimpl commit xasessionimpl rollback method except thrown result call commit prepar rollback
+result transact remov txglobal commit rollback fail reason suggest move txglobal remov xid final block

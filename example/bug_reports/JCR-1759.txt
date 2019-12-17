@@ -1,0 +1,8 @@
+simplifi usag ocm annot
+reflect ocm init phase class descriptor load ocm annot set
+node isabtract true abstract class
+node extend ancestor class
+node isinterfac entiti interfac
+implement interfac
+refactor set deprec
+perform suffer applic startup objectcontentmanag initi

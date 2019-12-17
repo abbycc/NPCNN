@@ -1,0 +1,4 @@
+namespaceregistrytest invalid uri namespac uri
+test case www apach org namespac uri uri
+suggest fix proper uri prefix http
+relat question expect jcr implement allow reject pars uri rfc3986

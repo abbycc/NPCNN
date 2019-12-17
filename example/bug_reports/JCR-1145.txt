@@ -1,0 +1,10 @@
+objectconverterimpl getobject session class string resolv map correctli incomplet map
+node map call objectconvert getobject session class string method discrimin properti configur objectconverterimpl class find map effect node walk class descriptor hierarchi start descriptor select class map node type found
+case class descriptor hierarchi incomplet improperli defin class descriptor perfectli map node declar extend implement parent class interfac hierarchi walk find map end origin request class instanti class abstract interfac fail
+exact class descriptor node type look directli map found immedi class descriptor verifi assign compat request class fail walk hierarchi find classdescriptor
+clarifi issu abstract base class concret extens class node type
+abstractbaseclass map abstractli abstractbasetyp
+baseclass extend abstractbaseclass map basetyp supertyp abstractbasetyp
+note baseclass map declar extend abstractbaseclass
+call objectconverterimpl getobject session abstractbaseclass class abasetypenod descriptor fore abstractbaseclass inspect again node decid check class descriptor hierarchi node map found walk hierarchi abstractbaseclass instanti fail
+baseclass map declar extend abstractbaseclass map fine

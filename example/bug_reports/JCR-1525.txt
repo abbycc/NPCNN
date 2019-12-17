@@ -1,0 +1,2 @@
+jackrabbit depend oracl driver blob support oracl version previou
+oracl version previou jackrabbit explicitli class oracl driver provid blob support oraclefilesystem init special handl longer necesari oracl provid implement discuss list creat class oracl make inherit dbfilesystem overrid createschema tabl space relat method special handl refactor current oraclefilesystem break clase current behavior common code renam oraclebasefilesystem similar maintain compatibl code oraclefilesystem version previou make oracle10filesystem inherit

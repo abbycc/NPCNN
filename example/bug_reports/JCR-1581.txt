@@ -1,0 +1,4 @@
+classcastexcept regist node type
+java lang classcastexcept org apach jackrabbit core nodetyp nodetypeimpl
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java

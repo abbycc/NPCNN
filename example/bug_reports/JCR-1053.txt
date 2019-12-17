@@ -1,0 +1,7 @@
+call size method manageablearraylist nullpointerexcept
+ntcollectionconverterimpl proxi true call size method manageablearraylist nullpointerexcept underli list lazycollectionload doload return null children
+manageablearraylist creat isnul method ntcollectionconverterimpl class return fals
+comment line getcollectionnod return list
+fix jcr correct anymor
+attach fix correct
+question remain differ empti list null field list

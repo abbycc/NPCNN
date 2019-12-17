@@ -1,0 +1,6 @@
+updat depend version common collect slf4j derbi
+depend beta1 upgrad
+common collect
+slf4j
+derbi
+derbi drop replac older verison

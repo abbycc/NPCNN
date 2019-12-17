@@ -1,0 +1,8 @@
+eventfilt miss event nodetyp
+observationlisten regist nodetyp filter
+inform event nodetyp filter nodetyp
+
+
+observationmanag wsp getobservationmanag
+addeventlisten listen event properti ad true null string unstructur true
+receiv notif node type rep root base unstructur unstructur

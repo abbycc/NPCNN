@@ -1,0 +1,3 @@
+dbdatastor delet temporari file final
+read dbdatastor creat temporari file default applic fulli read close input stream file delet solut final close applic easili forgotten
+suggest delet temp file final small perform penalti creat temporari object compar small note fileinputstream fileoutputstream final

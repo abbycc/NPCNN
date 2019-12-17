@@ -1,0 +1,3 @@
+spi2dav queri offset respect
+tck queri test setoffsettest fail setup jcr2spi spi2dav jcr server
+due miss implement client server part complet

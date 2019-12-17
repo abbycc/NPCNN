@@ -1,0 +1,19 @@
+problem escap jcr node name upgrad jackrabbit
+unit test fail
+code
+import static org junit assert
+import org apach jackrabbit util text
+import org junit test
+public class testescap
+
+test
+public void testescap throw except
+
+expect escap string escap jackrabbit
+string escap nam 27e
+string unescap text unescapeillegaljcrchar escap
+assertequ escap text escapeillegaljcrchar unescap
+
+
+code
+major problem upgrad node name escap jackrabbit longer escap break backward compat problem jcr

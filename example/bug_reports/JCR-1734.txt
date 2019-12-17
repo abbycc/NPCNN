@@ -1,0 +1,2 @@
+gener cluster node persist
+cluster node configur cluster node automat gener persist startup cluster node automat gener cluster persist insid repositori home

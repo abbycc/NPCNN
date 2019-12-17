@@ -1,0 +1,4 @@
+set omit term freq posit flag parent field index
+flag omit term frequenc set true default chang constructor field class
+info index safe remov
+index size gain 130k node leve node level 150kb 30mb index

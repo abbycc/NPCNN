@@ -1,0 +1,19 @@
+accessmanag cachinghierarchymanag problem
+problem implement cachinghierarchymanag
+simpleaccessmanag hold refer
+
+add subnod node reorder
+process reorder function
+orderbefor javax jcr node accessmanag call time check permiss node accessmanag
+function cachinghierarchymanag
+path itempath hiermgr getpath
+return itempath denotesroot
+
+path itempath hiermgr getpath itemid
+path parentpath itempath getancestor
+return hiermgr resolvepath parentpath
+problem call method
+cachinghierarchymanag node cach idcach wrong state reorder element
+delet node reorder node
+look idcach cach index node
+wrong node delet

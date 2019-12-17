@@ -1,0 +1,20 @@
+unabl save session save renam node
+transientrepositori repo transientrepositori
+applic test repositori xml applic test
+session repo login simplecredenti test tochararrai
+getrootnod hasnod parent
+getrootnod getnod parent remov
+save
+
+creat parent node
+node parent getrootnod addnod parent
+creat node renam
+parent addnod newnod
+save
+renam node
+move parent newnod parent renamednewnod
+save renam node
+getrootnod getnod parent renamednewnod save
+save session fail
+save
+logout

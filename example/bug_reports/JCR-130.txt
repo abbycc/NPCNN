@@ -1,0 +1,2 @@
+extens simplewebdavservlet
+simplewebdavservlet class lost extens webdavservlet allow subclass ignor depend repositoryaccessservlet provid support object attach patch add back qualiti

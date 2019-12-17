@@ -1,0 +1,8 @@
+version node importxml fail
+import system view xml previous export repositori node version histori reimport appear due version manag attempt creat version histori node fail due previou histori exist uuid behavior occur importuuidbehavior import uuid collis replac exist importuuidbehavior import uuid collis remov exist stack trace
+javax jcr version versionexcept histori exist node a892651d 46cd bb12 14f2f0b3d886
+org apach jackrabbit core version versionmanagerimpl createversionhistori versionmanagerimpl java
+org apach jackrabbit core itemimpl initversionhistori itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+dev version revis obtain jul est attach find repositori configur test code

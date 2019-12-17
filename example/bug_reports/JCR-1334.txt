@@ -1,0 +1,3 @@
+deadlock due thread access prepar commit transact
+configur j2c resourc adapt modif repositori end
+deadlock

@@ -1,0 +1,3 @@
+restor empti multivalu properti properti type string
+restor empti multivalu properti opv copi restor properti string type matter properti type frozen state solut set properti type frozen state retriv 'first' mulitvalu valu type set undefin final chang string restor method
+attach patch test case

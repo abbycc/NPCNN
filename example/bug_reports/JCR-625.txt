@@ -1,0 +1,13 @@
+memori freed jackrabbit server war redeploi tomcat
+bug introduc cachemanag featur jcr
+cachemanag start background thread optim memori distribut accross cach jackrabbit repositori shutdown background thread run prevent collect classload jackrabbit deploi web applic
+step reproduc
+build jackrabbit jcr server trunk deploi tomcat
+touch web xml file jcr server web app forc redeploy
+step thing happen
+memori consumpt increas cachemanag thread shutdown
+
+cachemanag thread di unexpectedli nullpointerexcept
+except thread org apach jackrabbit core state cachemanag java lang nullpointerexcept
+org apach jackrabbit core state cachemanag run cachemanag java
+java lang thread run unknown sourc

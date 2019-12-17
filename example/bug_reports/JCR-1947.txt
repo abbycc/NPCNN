@@ -1,0 +1,5 @@
+jsr node type attribut subtyp rule
+jcr clarifi node type attribut subtyp rule jcr mandat specif behavior
+node type attribut subtyp rule state assum subtyp
+order child node order child node
+specifi primari item inherit set overrid

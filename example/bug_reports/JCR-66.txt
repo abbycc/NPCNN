@@ -1,0 +1,11 @@
+refactor davsess acquisit jcr server
+subclass webdavserv logic find credenti request log repositori instanti davsess
+webdavservlet getsess friend class davsessionimpl declar privat chang webdavservlet getsess protect overrid access davsessionimpl copi past class subclass yuck
+propos make extens
+creat interfac davsessionprovid org apach jackrabbit server method
+public void acquiresess webdavrequest request throw davexcept
+public void releasesess webdavrequest request
+make jcrwebdavserv implement davsessionprovid includ method
+move webdavservlet davsessionimpl davsessionimpl org apach jackrabbit server simpl
+creat davsessionproviderimpl org apach jackrabbit server simpl implement davsessionprovid return instanc davsessionimpl
+chang webdavservlet davsessionprovid getsess method davsessionproviderimpl default subclass overrid setdavsessionprovid

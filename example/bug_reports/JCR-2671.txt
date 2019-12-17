@@ -1,0 +1,2 @@
+abstractloginmodul call abort commit
+abstractloginmodul commit call abort detect login succe abort reset state login modul includ state share multipl login modul princip subject multipl modul delet share state set login modul method commit call authent succeed strang call abort commit

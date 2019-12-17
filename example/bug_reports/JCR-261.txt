@@ -1,0 +1,40 @@
+iter remov sibl node circumst throw unexpect except
+code fragment reproduc issu
+setup test
+root hasnod tmp
+root getnod tmp remov
+session save
+
+node tmp root addnod tmp
+int
+node tmp addnod
+system println ad getpath
+
+session save
+iter remov sibl child node
+nodeiter tmp getnod
+hasnext
+node nextnod
+system println remov getpath
+remov
+tmp save
+
+consol output
+ad tmp
+ad tmp
+ad tmp
+ad tmp
+remov tmp
+remov tmp
+remov
+javax jcr repositoryexcept remov root node
+org apach jackrabbit core itemimpl internalremov itemimpl java
+org apach jackrabbit core itemimpl remov itemimpl java
+org apach jackrabbit core test main test java
+note msg except mislead code remov
+root node
+except caus bug cachinghierarchymanag fail updat
+cach correctli
+btw comment log stmt
+system println ad getpath
+problem occur anymor

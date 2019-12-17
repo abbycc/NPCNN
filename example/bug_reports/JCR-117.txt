@@ -1,0 +1,30 @@
+test case fulli initi run
+test case test api queri test api properli initi test repositori run test repositori initi test case run troublesom test report error
+problem appear fresh checkout tree cleanup command sequenc illustr problem error messag report initi test run workspac test data testdata queri workspac test data testdata
+trace problem find easili familiar test setup
+svn
+maven test
+junit run org apach jackrabbit test api queri testal
+junit test run failur error time elaps sec
+junit error test org apach jackrabbit test api queri testal fail
+junit run org apach jackrabbit test api testal
+junit test run failur error time elaps sec
+junit error test org apach jackrabbit test api testal fail
+maven test
+junit run org apach jackrabbit test api queri testal
+junit test run failur error time elaps sec
+junit run org apach jackrabbit test api testal
+junit test run failur error time elaps sec
+maven clean
+maven test
+junit run org apach jackrabbit test api queri testal
+junit test run failur error time elaps sec
+junit error test org apach jackrabbit test api queri testal fail
+junit run org apach jackrabbit test api testal
+junit test run failur error time elaps sec
+junit error test org apach jackrabbit test api testal fail
+maven test
+junit run org apach jackrabbit test api queri testal
+junit test run failur error time elaps sec
+junit run org apach jackrabbit test api testal
+junit test run failur error time elaps sec

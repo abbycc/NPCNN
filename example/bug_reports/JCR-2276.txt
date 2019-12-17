@@ -1,0 +1,3 @@
+org apach jackrabbit server remot davex jsonwrit wrong type nodeiterators attribut
+nodeiterators attribut serial string client expect long
+unnecesseri server roundtrip client detect hint

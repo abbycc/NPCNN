@@ -1,0 +1,2 @@
+spi testsuit spi interfac
+peopl start write spi implement provid test suit run spi directli order provid develop assert basic complianc implement jcr api

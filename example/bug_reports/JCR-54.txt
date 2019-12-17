@@ -1,0 +1,3 @@
+remov jdom depend
+propos sylvain wallez dev mail list
+replac jdom code config nodetyp xml persist manag code equival standard dom code chang introduc extra line code remov extern depend avoid unnecessari deploy problem

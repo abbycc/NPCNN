@@ -1,0 +1,8 @@
+node removemixin remov valid item
+assum defin mixin
+test mix
+aprop string
+anod base
+add mixin unstructur add 'anode' set 'aprop'
+subsequ node removemixin test remov 'anode' 'aprop' valid definit unstructur
+imo item remov invalid definit result effect node type

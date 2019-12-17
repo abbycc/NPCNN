@@ -1,0 +1,2 @@
+repositori servic wide namespac cach
+jcr2spi layer request namespac session creat cach make session

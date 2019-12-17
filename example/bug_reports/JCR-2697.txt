@@ -1,0 +1,5 @@
+add support encrpt password repositori xml
+basic issu http issu apach org jira brows jcr reopen jcr file
+reason jira lot compani allow store password clear text
+dont implement hope requir clear
+

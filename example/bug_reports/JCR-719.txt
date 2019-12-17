@@ -1,0 +1,4 @@
+xpath parser ignor parent axi
+queri handler jackrabbit support parent axi throw invalid queri except case
+queri
+foo

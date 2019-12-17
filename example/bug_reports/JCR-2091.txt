@@ -1,0 +1,3 @@
+searchabl set propertydefinit
+relat jcr jcr properti definit set searchabl properti
+deepli implement set hard code valu case relev method implement

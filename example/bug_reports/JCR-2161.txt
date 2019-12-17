@@ -1,0 +1,7 @@
+deprec org apach jackrabbit api jackrabbitnodetypemanag
+jackrabbitnodetypemanag defin method remov version longer need
+nodetyp registernodetyp inputsourc throw saxexcept repositoryexcept
+nodetyp registernodetyp inputstream string contenttyp throw ioexcept repositoryexcept
+deal directli regist nodetyp xml cnd sourc support xml serial longer cnd import easili spi common compactnodetypedefread jcr2 node type registr xml support suggest detach reader similar cnd
+boolean hasnodetyp string throw repositoryexcept
+jcr2 api

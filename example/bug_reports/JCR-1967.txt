@@ -1,0 +1,9 @@
+imposs comparison nodetypeimpl
+org apach jackrabbit jcr2spi nodetyp nodetypeimpl
+public boolean isnodetyp nodetypenam
+return getnam equal nodetypenam ent includesnodetyp nodetypenam
+
+getnam string nodetypenam fals meant
+public boolean isnodetyp nodetypenam
+return getnam equal nodetypenam getlocalnam ent includesnodetyp nodetypenam
+

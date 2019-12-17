@@ -1,0 +1,3 @@
+jcr2spi avoid extra round trip spi node getnod session getitem
+session getitem itemexist node getnod hasnod jcr2spi load node persist layer spi entri exist hierarchi
+jcr flag introduc indic child node entri complet case extra round trip omit

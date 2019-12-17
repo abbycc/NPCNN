@@ -1,0 +1,2 @@
+deprec repositoryservic getnodeinfo method
+suggest deprec repositoryservic getnodeinfo favor repositoryservic getiteminfo method call jsr2spi anymor requir

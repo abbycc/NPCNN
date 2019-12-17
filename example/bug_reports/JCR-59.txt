@@ -1,0 +1,2 @@
+nodetyp cansetproperti includ type convers
+nodetyp cansetproperti string propertynam return true properti requir stringvalu datevalu

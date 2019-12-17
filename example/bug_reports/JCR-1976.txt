@@ -1,0 +1,2 @@
+text unescap preserv 'unicode' charact
+input text unescap charact u00ff signific byte lost result garbl output unescap function preserv charact order decod internation resourc identifi rfc

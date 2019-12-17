@@ -1,0 +1,2 @@
+upgrad slf4j
+version slf4j log facad recent releas function improv split separ slf4j api librari set backend specic log adapt avoid expos log4j transit depend project depend jackrabbit

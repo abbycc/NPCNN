@@ -1,0 +1,16 @@
+node restor fail multipl mixin type
+restor node mixin type except
+java lang nullpointerexcept
+org apach jackrabbit core nodeimpl restorefrozenst nodeimpl java
+org apach jackrabbit core nodeimpl internalrestor nodeimpl java
+org apach jackrabbit core nodeimpl internalrestor nodeimpl java
+org apach jackrabbit core nodeimpl restor nodeimpl java
+gtnet jcr versionednodetest testnodeversionandrestor versionednodetest java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut junit2 junitstart main junitstart java
+sun reflect nativemethodaccessorimpl invoke0 nativ method
+sun reflect nativemethodaccessorimpl invok nativemethodaccessorimpl java
+sun reflect delegatingmethodaccessorimpl invok delegatingmethodaccessorimpl java
+intellij execut applic appmain main appmain java

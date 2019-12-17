@@ -1,0 +1,17 @@
+jcr2spi npe parentid return nodeinfo getparentid show parent' child node list
+custom spi implement version histori node children jcr versionstorag jcr versionstorag return children impract perform reason expect similar approach
+getparentid nodeinfo versionhistori return nodeid jcr versionstorag case npe
+java lang nullpointerexcept
+org apach jackrabbit jcr2spi state workspaceitemstatefactori createnodest workspaceitemstatefactori java
+org apach jackrabbit jcr2spi state cachingitemstatemanag resolv cachingitemstatemanag java
+org apach jackrabbit jcr2spi state cachingitemstatemanag getitemst cachingitemstatemanag java
+org apach jackrabbit jcr2spi workspacemanag getitemst workspacemanag java
+org apach jackrabbit jcr2spi state transientisfactori createnodest transientisfactori java
+org apach jackrabbit jcr2spi state cachingitemstatemanag resolv cachingitemstatemanag java
+org apach jackrabbit jcr2spi state cachingitemstatemanag getitemst cachingitemstatemanag java
+org apach jackrabbit jcr2spi state transientitemstatemanag getitemst transientitemstatemanag java
+org apach jackrabbit jcr2spi state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit jcr2spi sessionimpl getnodebyid sessionimpl java
+org apach jackrabbit jcr2spi sessionimpl getnodebyuuid sessionimpl java
+return null special case fix problem creat problem
+clarifi spi potenti fix jcr2cpi

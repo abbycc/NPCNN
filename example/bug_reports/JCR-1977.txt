@@ -1,0 +1,19 @@
+authent order chang
+insid repositoryimpl login local configur check configur loginmodul unsuccess jaa compon ask
+authcontext authctx
+loginmoduleconfig lmc repconfig getloginmoduleconfig
+lmc null
+authctx authcontext jaa repconfig getappnam credenti
+
+
+behaviour move simplesecuritymanag init chang
+loginmoduleconfig loginmodconf config getloginmoduleconfig
+authctxprovid authcontextprovid config getappnam loginmodconf
+authctxprovid isjaa
+log info init jaa loginmodul configur config getappnam
+authctxprovid isloc
+
+problem jboss jaa implemant authctxprovid isjaa true
+reason result configur getappconfigurationentri appnam empti
+jaa config liferai appnam take effect configur insid jaa config
+local configur concern jaa

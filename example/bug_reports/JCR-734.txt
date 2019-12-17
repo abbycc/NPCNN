@@ -1,0 +1,5 @@
+updat namespac uri prefix
+searchmanag class outdat namespac uri 'fn' prefix http www org xpath function
+prefix map offic namespac http www org xpath function
+http www org xqueri oper namespac prefix
+minimum backward compat exist namespac uri exist namespac registri refer prefix

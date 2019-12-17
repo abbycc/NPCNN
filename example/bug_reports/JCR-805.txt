@@ -1,0 +1,4 @@
+introduc temprari cach intermedi queri result
+queri execut queri multipl time
+element resourc jcr mimetyp 'text plain' jcr mimetyp 'text html'
+result intern matchallqueri jcr mimetyp queri previous calcul result

@@ -1,0 +1,2 @@
+repositoryconfig creat jcr2spirepositoryfactori return repositoryservic instanc
+jcr2spirepositoryfactori default implement repositoryconfig pass user default implement return repositoryservic instanc call getrepositoryservic correct consum repositoryconfig instanc expect repositoryservic instanc call

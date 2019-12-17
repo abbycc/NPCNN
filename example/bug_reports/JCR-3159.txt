@@ -1,0 +1,6 @@
+lower operand nest localnam operand work sql2
+queri run success queri sql languang
+select file 'jon' lower jon jcr path resourc order jcr score
+equival queri queri jcr sql2 fail except unsupportedrepositoryoperationexcept
+select file file 'jon' lower localnam jon isdescendantnod resources' order score
+investig lower function work nest function localnam section lowercas jcr spec lower operand work dynamicoperand argument

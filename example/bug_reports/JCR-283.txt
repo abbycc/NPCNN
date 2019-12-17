@@ -1,0 +1,7 @@
+namespaceregistri registernamespac pre uri accident remov namespac situat
+assum map exist global namespaceregistri
+pre1 uri1
+pre2 uri2
+stmt correclti throw namespaceexcept complain exist prefix remap
+nsreg registernamespac pre2 uri1
+sideeffect remov map pre1 uri1

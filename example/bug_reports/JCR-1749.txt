@@ -1,0 +1,3 @@
+jcrurlconnect reli file resourc
+jcrurlconnect class implement jcr url handler jcr class loader reli fact intend primari type jcr content child node file node type resourc write file jackrabbit webdav server case jcr content child node type unstructur
+result jcrurlconnect connect method fail itemnotfoundexcept util getproperti item method primari item unstructur node type defin

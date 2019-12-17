@@ -1,0 +1,2 @@
+add tostr method qom tree class
+qom tree class render sql2 tostr method make debug qom code bit easier

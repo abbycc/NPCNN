@@ -1,0 +1,2 @@
+setup nightli build jackrabbit
+jackrabbit zone creat infra setup nightli jackrabbit build discuss http thread gmane org gmane comp apach jackrabbit devel

@@ -1,0 +1,3 @@
+resourceconfig read addit paramet iohandl propertyhandl cover public setter
+reason default node type defaulthandl chang resourc config
+bit cumbersom lead useless copi defaultiomanag

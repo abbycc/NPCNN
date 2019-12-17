@@ -1,0 +1,24 @@
+queri throw unsupportedoperationexcept
+execut absolut xpath statement locat step jcr root queri throw unsupportedoperationexcept
+queri foo element unstructur prop 'bar'
+stacktrac
+java lang unsupportedoperationexcept
+org apach jackrabbit core queri lucen cachingmultiread multitermdoc skipto cachingmultiread java
+org apach lucen search termscor skipto termscor java
+org apach lucen search conjunctionscor donext conjunctionscor java
+org apach lucen search conjunctionscor conjunctionscor java
+org apach lucen search scorer score scorer java
+org apach jackrabbit core queri lucen childaxisqueri childaxisscor calculatechildren childaxisqueri java
+org apach jackrabbit core queri lucen childaxisqueri childaxisscor childaxisqueri java
+org apach lucen search scorer score scorer java
+org apach jackrabbit core queri lucen descendantselfaxisqueri descendantselfaxisscor calculatesubhit descendantselfaxisqueri java
+org apach jackrabbit core queri lucen descendantselfaxisqueri descendantselfaxisscor descendantselfaxisqueri java
+org apach lucen search scorer score scorer java
+org apach lucen search indexsearch search indexsearch java
+org apach lucen search hit getmoredoc hit java
+org apach lucen search hit init hit java
+org apach lucen search searcher search searcher java
+org apach lucen search searcher search searcher java
+org apach jackrabbit core queri lucen searchindex executequeri searchindex java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java

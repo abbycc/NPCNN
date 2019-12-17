@@ -1,0 +1,2 @@
+put jackrabbit spi common org apach jackrabbit spi common
+avoid confus name conflict put class packag jackrabbit spi common org apach jackrabbit spi common

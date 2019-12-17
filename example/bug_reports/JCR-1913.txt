@@ -1,0 +1,2 @@
+configur credenti repositoryfactoryimpltest
+test hard code credenti configur credenti test

@@ -1,0 +1,8 @@
+complet fresh namespaceregistri nodetyperegistri
+defin requir complet fresh repositoryservic getregisterednamespac
+optimist assumpt spi provid report namespac occur repositori potenti target spi simpli wast time namespac prefix
+spi namespac prefix relev enabl transient layer return meaning prefix automat gener
+propoal
+clarifi map return getregisterednamespac requir complet
+enhanc jcr2spi auto gener prefix encount namespac registri
+expect affect repositoryservic registernamespac discuss underli issu

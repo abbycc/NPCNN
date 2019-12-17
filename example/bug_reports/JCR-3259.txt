@@ -1,0 +1,2 @@
+augment log inform cachingentrycollector
+add log inform purpos debug cachingentrycollector bottleneck

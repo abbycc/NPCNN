@@ -1,0 +1,10 @@
+deprec xasess
+xasess interfac jackrabbit api extend session singl getxaresourc method idea transact client transact manag test session implement xasess xaresourc instanc bind session distribut transact essenti code
+session instanceof xasess
+return xasess session getxaresourc
+
+work fine extra depend jackrabbit api introduc code jcr api link transact enabl session relat xaresourc instanc avoid depend make session directli implement xaresourc lead code
+session instanceof xaresourc
+return xaresourc session
+
+essenti jackrabbit jcr rmi avoid jackrabbit api depend maintain transact support extend solut part jackrabbit

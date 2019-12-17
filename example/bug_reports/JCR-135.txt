@@ -1,0 +1,2 @@
+extens patch davresourceimpl
+attach simpl patch subclass davresourceimpl access node repres dav resourc

@@ -1,0 +1,50 @@
+deadlock concurr save checkin oper
+save checkin oper acquir lock order lead deadlock
+save
+shareditemstatemanag acquirewritelock
+abstractversionmanag acquirewritelock lock
+checkin
+abstractversionmanag acquirewritelock
+shareditemstatemanag acquirereadlock lock
+thread prio tid 0x0312d840 nid 0x824 object wait 0x03cef000 0x03cefa68
+java lang object wait nativ method
+wait 0x23210968 oswego util concurr writerpreferencereadwritelock writerlock
+java lang object wait unknown sourc
+oswego util concurr writerpreferencereadwritelock writerlock acquir unknown sourc
+lock 0x23210968 oswego util concurr writerpreferencereadwritelock writerlock
+org apach jackrabbit core version abstractversionmanag acquirewritelock abstractversionmanag java
+org apach jackrabbit core version versionmanagerimpl setnoderefer versionmanagerimpl java
+org apach jackrabbit core version versionitemstateprovid setnoderefer versionitemstateprovid java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+lock 0x2332eaa0 org apach jackrabbit core xasessionimpl
+jrtestdeadlock run jrtestdeadlock java
+thread prio tid 0x0312db18 nid 0xa04 object wait 0x03caf000 0x03cafae8
+java lang object wait nativ method
+wait 0x232d1360 oswego util concurr writerpreferencereadwritelock readerlock
+java lang object wait unknown sourc
+oswego util concurr writerpreferencereadwritelock readerlock acquir unknown sourc
+lock 0x232d1360 oswego util concurr writerpreferencereadwritelock readerlock
+org apach jackrabbit core state shareditemstatemanag acquirereadlock shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag hasitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag hasitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag hasitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag hasitemst sessionitemstatemanag java
+org apach jackrabbit core itemmanag itemexist itemmanag java
+org apach jackrabbit core nodeimpl hasproperti nodeimpl java
+org apach jackrabbit core version internalfrozennodeimpl checkin internalfrozennodeimpl java
+org apach jackrabbit core version internalfrozennodeimpl checkin internalfrozennodeimpl java
+org apach jackrabbit core version internalversionhistoryimpl checkin internalversionhistoryimpl java
+org apach jackrabbit core version abstractversionmanag checkin abstractversionmanag java
+org apach jackrabbit core version versionmanagerimpl run versionmanagerimpl java
+org apach jackrabbit core version versionmanagerimpl dynamicescfactori dosourc versionmanagerimpl java
+lock 0x2320c5d8 org apach jackrabbit core version versionmanagerimpl dynamicescfactori
+org apach jackrabbit core version versionmanagerimpl checkin versionmanagerimpl java
+org apach jackrabbit core version xaversionmanag checkin xaversionmanag java
+org apach jackrabbit core nodeimpl checkin nodeimpl java
+jrtestdeadlock run jrtestdeadlock java

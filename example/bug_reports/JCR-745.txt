@@ -1,0 +1,4 @@
+tck test assum 'addmixin' immedi take effect
+jsr170 implement node addmixin take affect save call
+test adjust
+attach patch addit test make usag addmixin

@@ -1,0 +1,2 @@
+make sessionprovid pluggabl jcrwebdavserverservlet
+sessionprovid interfac server sessionproviderimpl implement class hard code jcrwebdavserverservlet

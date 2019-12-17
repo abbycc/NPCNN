@@ -1,0 +1,2 @@
+remov depend xerc
+classload j2ee server plai xerc requir

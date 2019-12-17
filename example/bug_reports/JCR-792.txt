@@ -1,0 +1,6 @@
+enabl access manag createnod setproperti node save middl
+ad access manag code work
+node createnewnod parentnod
+setproperti
+parentnod save
+setproperti invok access control check node repositori access manag implement grant permiss hierachymanag path node return null

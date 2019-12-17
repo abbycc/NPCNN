@@ -1,0 +1,3 @@
+multipl propertydef
+ad properti def set singlevalu multivalu respect creat properti
+problem 'nameditemdefs' hashmap effectivenodetyp list def def

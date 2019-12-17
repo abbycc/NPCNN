@@ -1,0 +1,3 @@
+make collect element name configur
+add jcrelementnam collectiondescriptor collect annot
+make collect element protect privat

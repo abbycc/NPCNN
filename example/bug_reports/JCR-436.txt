@@ -1,0 +1,23 @@
+invalidqueryexcept thrown sql queri 'someword'
+sql queri
+select document 'software'
+throw invalidqueryexcept except
+javax jcr queri invalidqueryexcept encount line column
+expect
+
+
+
+
+
+
+null
+
+order
+
+select
+
+
+regular identifi
+delimit identifi
+syntax correct latest jcr spec
+asterisk dot paramet work fine

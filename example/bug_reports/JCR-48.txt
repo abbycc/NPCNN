@@ -1,0 +1,2 @@
+xmlpersistencemanag trim string properti valu
+xmlpersistencemanag trim text properti valu read return match set includ whitespac start end

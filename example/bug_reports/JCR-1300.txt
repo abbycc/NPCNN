@@ -1,0 +1,10 @@
+spi2dav improv perform larg binari properti
+send larg binari properti spi2dav slow requir lot heap space client server
+problemat part base64 convers properti
+contrari 'normal' webdav interfac repositori default server upload file tradit webdav client pretti fast impact heap space
+suggest previou discuss
+avoid temporari copi data persist larg object earli
+transfer larg object block jackrabbit spi client server back
+make usag global data store jcr
+straight forward put singl valu properti
+link discuss http www mail archiv dev jackrabbit apach org msg09481 html

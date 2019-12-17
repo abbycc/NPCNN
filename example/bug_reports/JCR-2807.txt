@@ -1,0 +1,35 @@
+concurrentmodificationexcept sessionitemstatemanag getidofroottransientnodest
+sessionitemstatemanag getidofroottransientnodest throw concurrentmodificationexcept line
+snippet code
+code
+nodeid candidateid
+nodeid equal hiermgr isancestor nodeid
+candid descend thereof
+skip
+skip true
+break
+
+hiermgr isancestor nodeid
+candid descend remov
+candidateid remov
+
+
+code
+collect remov object middl iter chang iter remov
+code
+iter nodeid nodeiditor candidateid iter
+nodeiditor hasnext
+nodeid nodeiditor
+nodeid equal hiermgr isancestor nodeid
+candid descend thereof
+skip
+skip true
+break
+
+hiermgr isancestor nodeid
+candid descend remov
+nodeiditor remov
+
+
+code
+idea differ workaround issu

@@ -1,0 +1,3 @@
+provid renam method node
+renam node nuisanc node' parent order child node parent child node search successor node move node move order successor case move node node special case
+propos provid function directli renam node

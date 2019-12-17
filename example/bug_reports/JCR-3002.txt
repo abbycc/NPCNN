@@ -1,0 +1,2 @@
+add read acessor user data sessioninfoimpl
+add method sessioninfoimpl getuserdata retriev user data set sessioninfoimpl setuserdata string

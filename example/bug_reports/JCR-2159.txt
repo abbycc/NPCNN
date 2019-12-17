@@ -1,0 +1,40 @@
+test case fail declar base hierarchi node type 'abstract'
+jsr283 introduc node type attribut 'abstract' defin base hierarchynod
+chang nodetyp test case fail
+fail test
+testdefinedandlegaltyp org apach jackrabbit test api nodetyp canaddchildnodecallwithnodetypetest
+testresidualandlegaltyp org apach jackrabbit test api nodetyp canaddchildnodecallwithnodetypetest
+test error
+testaddnodeconstraintviolationexceptionundefinednodetyp org apach jackrabbit test api nodetest
+testremovemandatorynod org apach jackrabbit test api nodetest
+testclonenodesconstraintviolationexcept org apach jackrabbit test api workspaceclonetest
+testcopynodesconstraintviolationexcept org apach jackrabbit test api workspacecopybetweenworkspacestest
+testcopynodesconstraintviolationexcept org apach jackrabbit test api workspacecopytest
+testmovenodesconstraintviolationexcept org apach jackrabbit test api workspacemovetest
+testnodetypeconstraintviolationworkspacewithhandl org apach jackrabbit test api serializationtest
+testnodetypeconstraintviolationsessionwithhandl org apach jackrabbit test api serializationtest
+testnodetypeconstraintviolationworkspac org apach jackrabbit test api serializationtest
+testnodetypeconstraintviolationsess org apach jackrabbit test api serializationtest
+testjoinfilterprimarytyp org apach jackrabbit test api queri sqljointest
+testelementtest org apach jackrabbit test api queri elementtest
+testelementtestanynod org apach jackrabbit test api queri elementtest
+testelementtestanynodentbas org apach jackrabbit test api queri elementtest
+testelementtestanynodeso org apach jackrabbit test api queri elementtest
+testelementtestnametest org apach jackrabbit test api queri elementtest
+testelementtestnametestntbas org apach jackrabbit test api queri elementtest
+testelementtestnametestso org apach jackrabbit test api queri elementtest
+testelementtestnametestsomentwithsn org apach jackrabbit test api queri elementtest
+testnodetyp org apach jackrabbit test api observ addeventlistenertest
+stacktrac fail test
+javax jcr nodetyp constraintviolationexcept hierarchynod abstract node type
+org apach jackrabbit core nodeimpl internaladdchildnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdnod nodeimpl java
+org apach jackrabbit core nodeimpl addnod nodeimpl java
+org apach jackrabbit test api sessiontest testmoveitemexistsexcept sessiontest java
+fail test backward compat issu base hierarchynod
+abstract jcr
+node addnod foo base
+perfectli legal
+jcr statement fail mention test fail
+creat node type base hierarchynod

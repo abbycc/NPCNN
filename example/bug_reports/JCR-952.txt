@@ -1,0 +1,7 @@
+support lower upper case function order claus
+queri languag support lower upper case function order claus provid case insensit order queri result
+find base node order foo properti ignor case
+xpath
+element base order lower case foo
+sql
+select base order lower foo

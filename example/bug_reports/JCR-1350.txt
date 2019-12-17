@@ -1,0 +1,4 @@
+add serial content handler
+jcr jcr xml serial function previous jcr jcr implement similar
+good central code referenc code cocoon basi serializingcontenthandl class jackrabbit jcr common
+http svn apach org repo asf cocoon trunk core cocoon pipelin cocoon pipelin impl src main java org apach cocoon serial abstracttextseri java

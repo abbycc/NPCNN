@@ -1,0 +1,9 @@
+spi implement comput default valu autocr properti
+creat node transient space jcr2spi hard wire logic popul system gener properti jcr creat jcr uuid
+problemat
+scale fail autocr properti jcr2spi
+syntax default depend back end legal syntax id
+propos
+extend qvaluefactori
+qvalu computedefaultvalu qpropertydefinit
+jcr2spi rid hard wire logic

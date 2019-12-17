@@ -1,0 +1,4 @@
+speed hierarchi cach initi
+initi workspac long time big number node search index involv reason setup cachingindexread process chunk size 400k order reduc memori footprint number document exce limit oper travers complet index perform
+current algorithm initializepar cachingindexread class optim increas memori consumpt promis approach persist state class main member arrai map reload startup
+load state implicitli initi phase cach obviou correct point time call save oper obviou doclos method class suffici

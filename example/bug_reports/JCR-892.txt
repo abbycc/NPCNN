@@ -1,0 +1,22 @@
+xml export stream initi transformerhandl properli
+instanc sessionimpl java
+public void exportsystemview string abspath outputstream
+boolean skipbinari boolean norecurs
+throw ioexcept pathnotfoundexcept repositoryexcept
+saxtransformerfactori stf saxtransformerfactori saxtransformerfactori newinst
+
+transformerhandl stf newtransformerhandl
+setresult streamresult
+gettransform setparamet outputkei method xml
+gettransform setparamet outputkei encod utf
+gettransform setparamet outputkei indent
+exportsystemview abspath skipbinari norecurs
+catch transformerexcept
+throw repositoryexcept
+catch saxexcept
+throw repositoryexcept
+
+
+setoutputproperti setparamet
+test show set paramet effect call setresult
+effect minor default set transformerhandl correct anwai

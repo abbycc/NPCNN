@@ -1,0 +1,4 @@
+real memori repositori
+unit test desir memori repositori hold data propertytyp binari memori
+actual implement org apach jackrabbit core persist mem inmempersistencemanag filesystemblobstor localfilesystem
+binari properti serial filesystem

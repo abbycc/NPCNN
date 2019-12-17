@@ -1,0 +1,17 @@
+transientrepositori applic exit quickli
+transientrepositori repositori close session log work case long second delai close session close repositori
+test case
+public static void main string arg throw except
+repositori repositori transientrepositori
+session session repositori login simplecredenti char
+session getrootnod setproperti
+session save quick logout line
+session logout
+system println logout
+final long time system currenttimemilli
+runtim getruntim addshutdownhook thread
+public void run
+system println end system currenttimemilli time
+
+
+

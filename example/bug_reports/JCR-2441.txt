@@ -1,0 +1,2 @@
+jcr2spirepositoryfactori make class load robust
+jcr2spirepositoryfactori load repositoryservicefactori context class loader osgi environ fail classnotfoundexcept suggest fall back class loader class jcr2spirepositoryfactori case

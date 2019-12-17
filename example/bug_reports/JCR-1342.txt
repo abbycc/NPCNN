@@ -1,0 +1,2 @@
+creat osgi bundl manifest header
+easili librari jackrabbit insid osgi framework apach sling helpful jackrabbit librari includ osgi bundl manifest header defin manifest header definit librari jackrabbit api jackrabbit jcr common jackrabbit jcr rmi good candid

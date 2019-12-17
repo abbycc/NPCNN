@@ -1,0 +1,2 @@
+remot resourc plugin add licens notic file binari
+jcrsite remot resourc plugin configur automat add licens notic file binari artifact includ sourc javadoc jar adapt configur file includ correct licens metadata maintain src main resourc meta inf

@@ -1,0 +1,2 @@
+maven pom variabl depend version resolv break transit depend resolut
+problem depend declar jackrabbit server pom variabl depend version variabl resolv break transit resolut depend

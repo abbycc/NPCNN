@@ -1,0 +1,16 @@
+extend indexingconfigur configur reuseabl analyz
+index configur xml xml block analyz configur index rule properti analyz assign mean properti analyz specif analyz place enabl multilingu index
+document ad explain differ search node scope jcr 'foo' properti jcr myprop 'foo' node scope search index default analyz configur workspac xml searchindex element
+index configur xml snippet shown node enhanc wether implement requir lot filter factori scope ad custom filter factori easier
+analyz
+analyz class org apach lucen analysi frenchanalyz
+analyz class org apach lucen analysi germananalyz
+analyz compound class org apach lucen analysi simpleanalyz
+filter class stopfilterfactori word stopword txt
+filter class edgengramtokenizerfactori side front mingram maxgram
+analyz
+analyz
+index rule nodetyp unstructur
+properti analyz bode properti
+properti analyz bode properti
+index rule

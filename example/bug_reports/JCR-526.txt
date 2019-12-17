@@ -1,0 +1,61 @@
+tck xpathquerylevel2test option column specifi syntax
+test assum implement termin attribut step column specifi allow requir jcr
+propos remov column specifi process result getnod getrow
+xpathquerylevel2test java revis
+xpathquerylevel2test java work copi
+
+checkresult result
+evalu result
+checkvalu result getrow propertyname1
+checkvalu result getnod propertyname1
+
+
+
+checkresult result
+evalu result
+checkvalu result getrow propertyname1 exist
+checkvalu result getnod propertyname1 exist
+
+
+
+tmp append jcrroot append testroot
+tmp append append propertyname2 append 'two'
+tmp append append propertyname1 append 'existence'
+tmp append append propertyname1
+return statement tmp tostr queri xpath
+
+
+tmp append propertyname1
+tmp append 'b'
+tmp append propertyname1
+tmp append 'a' append propertyname1
+tmp append 'a'
+return statement tmp tostr queri xpath
+
+
+abstractquerylevel2test java revis
+abstractquerylevel2test java work copi
+
+import org apach jackrabbit test notexecutableexcept
+import javax jcr nodetyp nodetyp
+import javax jcr nodeiter
+import javax jcr queri rowiter
+import javax jcr queri row
+import javax jcr
+
+expectedvalu getstr
+
+
+
+protect void checkvalu nodeiter itr
+string propertynam
+string expectedvalu throw repositoryexcept
+itr hasnext
+node node itr nextnod
+check fulltext
+node getproperti propertynam getvalu
+assertequ queri result row match expect
+expectedvalu getstr
+
+
+

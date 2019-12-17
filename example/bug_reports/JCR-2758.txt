@@ -1,0 +1,3 @@
+session save potenti endless loop read permiss deni root node
+current session read permiss root node call session save trigger call sessionitemstatemanag getidofroottransientnodest
+order find root minim subtre includ transient state endless loop depend transient

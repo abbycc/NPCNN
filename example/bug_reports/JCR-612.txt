@@ -1,0 +1,9 @@
+restructur jackrabbit sourc tree
+reintroduc jcr gener restructur simplifi jackrabbit project structur http thread gmane org gmane comp apach jackrabbit devel rational discuss main part restructur
+creat jackrabbit super project artifactid jackrabbit trunk
+super project pom parent jackrabbit compon pom
+move content trunk jackrabbit src site directli trunk src site super project gener web site
+creat independ subproject jackrabbit api jackrabbit common compon move part sourc tree
+move jcr server subproject level
+renam subproject directori match artifactid
+note restructur depend jcr jcr implement util snapshot repositori compon depend

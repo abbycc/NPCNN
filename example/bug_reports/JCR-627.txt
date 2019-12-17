@@ -1,0 +1,6 @@
+deprec serial properli deleg method call
+deprec org apach jackrabbit core state util serial class forward method call replac call repeatedli lead infinit recurs attach test demonstr yield trace
+
+java lang stackoverflowerror
+org apach jackrabbit core state util serial serial serial java
+

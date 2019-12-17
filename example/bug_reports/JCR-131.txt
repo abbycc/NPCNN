@@ -1,0 +1,3 @@
+remov hook implement hard link
+earli draft jcr specif repositori support hard link woud lead situat item multipl parent node meantim hard link remov spec ad futur revis
+jackrabbit refer support mechan nodest parentuuid field remov

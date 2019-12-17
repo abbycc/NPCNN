@@ -1,0 +1,2 @@
+background text extract supporthighlight set true
+indexingqueu hold node index background thread text extract take time configur limit supporthighlight set true indexingqueu text extract immedi request nodeindex text extract retriev node ad index

@@ -1,0 +1,13 @@
+sharedfieldcach memori leak
+sharedfieldcach problem build cach
+kei indexread
+cach map kei static class call 'key'
+'key' hold refer compar queri ran
+assum compar type extend abstractfieldcompar custom compar refer inderread instanc order load valu compar
+circl complet sharedfieldcach entri gc'ed
+option implement 'purge' method cach similar lucen mechan inderread close call 'purge' ugli work
+radic option remov cach complet instanc simplefieldcompar client cach build arrai valu cach instanc type analyz
+propos solut patch follow shortli remov compar refer kei class
+real purpos impact 'equals' kei make sens place lucen queri compar info
+field compar cach entri base valu lucen index
+feedback appreci

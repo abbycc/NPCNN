@@ -1,0 +1,19 @@
+creat multipl repositori instanc point home open session remov lock file
+test case reproduc bug
+repositori repo1 transientrepositori repoconfig
+session session1 repo1 login
+session session2 repo1 login
+repositori repo2 transientrepositori repoconfig fail expect
+session session2 repo2 login fail javax jcr repositoryexcept repositori home tmp repositori appear lock current process expect
+session session2 repo2 login work
+repositori repo3 transientrepositori repoconfig fail expect
+session session3 repo3 login fail javax jcr repositoryexcept repositori home tmp repositori appear lock current process expect
+session session3 repo3 login fail javax jcr repositoryexcept directori previous creat lockfactori instanc
+open session repo2 fail remov lock file
+session succe corrupt repositori multipl session
+open multipl repositori
+behaviour occur repo3 lock file remov slightli case
+except thrown creat lucen index
+twist case repositori point home creat
+simultan robust prevent data corrupt
+reproduc bug affect version

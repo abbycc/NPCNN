@@ -1,0 +1,4 @@
+patch entryset iter avoid map up loop
+code keyset iter loop map kei retriev iter
+entryset iter avoid map lookup
+patch

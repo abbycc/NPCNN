@@ -1,0 +1,3 @@
+drop maven compat
+migrat maven maven build system jackrabbit compat relat maven build maven plugin deploi build local maven repositori
+downstream project maven anymor safe simplifi build drop maven plugin

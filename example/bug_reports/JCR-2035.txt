@@ -1,0 +1,2 @@
+indexingqueu check initi index creation
+default extractorbacklogs lot text extract time temp folder fill extractor tmp file indexingqueu getfinisheddocu call initi index creation issu regular oper method call period timer thread

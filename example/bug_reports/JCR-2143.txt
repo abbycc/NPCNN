@@ -1,0 +1,7 @@
+regist nodetyp base exist nodetyp fail
+creat nodetypetempl code show
+nodetypemanagerimpl ntm nodetypemanagerimpl session getworkspac getnodetypemanag
+nodetypedefinit nodetypedefinit ntm getnodetyp entiti
+nodetypetempl ntt ntm createnodetypetempl
+list declaredsupertyp origin nodetyp repet declaredsupertyp origin nodetyp base file
+ntt getdeclaredsupertypenam entiti entiti

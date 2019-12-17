@@ -1,0 +1,4 @@
+defaultloginmodul perform anonym login case unsupport credenti implement
+repositori login call unsupport credenti implement defaultloginmodul getcredenti return null
+anonym login expect behavior point view login unsupport credenti
+handl loginmodul modul handl login fail

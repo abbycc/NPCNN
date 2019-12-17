@@ -1,0 +1,10 @@
+cluster sync call session refresh
+session refresh suppos synchron cluster happen special syncdelai low reason wrong assumpt clusternod sync code avoid duplic sync call work expect algorithm
+int count synccount
+synclock acquir
+count synccount
+journalsync
+synccount
+
+synclock releas
+problem background thread line synccount session refresh call main thread believ journalsync call call

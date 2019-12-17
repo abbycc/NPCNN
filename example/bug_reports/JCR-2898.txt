@@ -1,0 +1,2 @@
+patch remov bogu test
+code check int bigger max imposs remov

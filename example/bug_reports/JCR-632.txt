@@ -1,0 +1,13 @@
+versionmanag lock releas circumst
+circumst lock releas versionmanag checkin method
+block code checkin nethod
+aquirereadlock
+
+
+catch illegalstateexcept
+releasereadlock
+throw repositoryexcept unabl start edit oper
+
+lock releas final block make lock releas unexpect except thrown
+environ npe mention block code result persisten lock
+version oper applic server run thread thread lock

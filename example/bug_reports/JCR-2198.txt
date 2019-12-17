@@ -1,0 +1,2 @@
+text escapeillegaljcrchar adjust match set illeg char
+text escapeillegaljcrchar char illeg jcr remov set jcr

@@ -1,0 +1,4 @@
+deni primarytyp work xpath
+queri work
+element type jcr 'foo' jcr primarytyp 'nt frozennode'
+jcr primarytyp predic respect 'not equal' oper

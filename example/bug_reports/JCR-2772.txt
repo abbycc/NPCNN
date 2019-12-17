@@ -1,0 +1,13 @@
+replac extend mixin supertyp problemat
+node addmixin node removemixin check avoid redund mixin set node node save
+mixin mix mix mix mix node mix
+addmixin mix effect regard redund remov mix add mix
+problem appli mixin type programmat remov ad
+2nd problem occur mix mandatori properti downgrad mix mix inform lost save call result
+unabl save node 'n' javax jcr nodetyp constraintviolationexcept test mandatori properti prop exist
+touch properti work
+work
+removemixin mix
+addmixin mix
+setproperti prop getproperti prop getvalu
+session save

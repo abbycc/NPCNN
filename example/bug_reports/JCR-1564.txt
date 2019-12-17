@@ -1,0 +1,3 @@
+jsr namespac handl
+jsr make namespac handl flexibl user friendli except unexpect map session compliant jsr implement jackrabbit
+todo jsr namespac handl relat tck test

@@ -1,0 +1,3 @@
+blobfilevalu read byte long po ignor return inputstream skip
+inputstream skip long return long paramet possibl lower
+blobfilevalu read byte long po return

@@ -1,0 +1,14 @@
+initi login except repositori
+
+repositoryimpl java8 revis
+repositoryimpl java work copi
+
+
+authctx login
+catch javax secur auth login loginexcept
+throw loginexcept getmessag
+loginexcept nle loginexcept getmessag
+nle initcaus
+throw nle
+
+creat session

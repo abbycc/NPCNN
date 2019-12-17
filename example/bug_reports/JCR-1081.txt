@@ -1,0 +1,6 @@
+bad test assumpt org apach jackrabbit test api lock
+test make lot assumpt true compliant repositori
+abil add node specifii node type
+assumpt order sibl support
+assumpt addmixin lockabl requir newli ad node
+repositori support shallow lock leaf node compliant failur abort test test

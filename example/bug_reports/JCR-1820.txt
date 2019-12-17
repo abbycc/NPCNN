@@ -1,0 +1,14 @@
+ensur queri block larg updat
+index guarante long run queri block updat addit queri run updat guarante depend avail index reader updat start index reader invalid end updat forc creation index reader queri execut
+scenario
+updat index transact
+potenti index reader invalid
+execut queri creat index reader includ
+updat index transact
+index reader invalid
+updat index larg transact transact
+previou updat run execut queri thread block reader
+improv detect larg transact prepar index reader potenti queri updat split
+detect larg transact prepar index reader includ
+updat index transact
+updat run queri index reader

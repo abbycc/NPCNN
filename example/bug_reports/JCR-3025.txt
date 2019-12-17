@@ -1,0 +1,2 @@
+npe consolidatingchangelog
+hassn nodeid method consolidatingchangelog throw npe nodeid null return fals

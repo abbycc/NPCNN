@@ -1,0 +1,52 @@
+line separ differ predefinednodetypetest fail oper system
+testpredefinednodetyp test read test file file system perform string comparison fail due line separ differ
+privat void testpredefinednodetyp string
+throw notexecutableexcept
+
+stringbuff spec stringbuff
+string resourc
+org apach jackrabbit test api nodetyp spec
+replac txt
+reader reader inputstreamread
+getclass getclassload getresourceasstream resourc
+int reader read reader read
+spec append char
+
+nodetyp type manag getnodetyp
+assertequ
+predefin node type
+spec tostr
+getnodetypespec type
+
+work file read line separ match oper system test run mismatch string comparison fail
+fix replac line separ string compar
+helper method replac line separ
+standard line separ
+public string replacelinesepar string stringvalu
+replac window format unix format
+stringvalu stringvalu replaceal
+replac mac format unix format
+stringvalu stringvalu replaceal
+return stringvalu
+
+updat test method
+privat void testpredefinednodetyp string
+throw notexecutableexcept
+
+stringbuff spec stringbuff
+string resourc
+org apach jackrabbit test api nodetyp spec
+replac txt
+reader reader inputstreamread
+getclass getclassload getresourceasstream resourc
+int reader read reader read
+spec append char
+
+nodetyp type manag getnodetyp
+string nodetypespecvalu replacelinesepar getnodetypespec type
+string specvalu replacelinesepar spec tostr
+assertequ
+predefin node type
+specvalu
+nodetypespecvalu
+

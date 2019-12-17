@@ -1,0 +1,3 @@
+oracl bundl fail check schema user databas
+oraclebundlepersistencemanag issu user databas persist case checkschema method bundledbpersistencemanag work precis call metadata gettabl null null tablenam null includ tabl name schema user effect user databas creat schema
+issu jcr

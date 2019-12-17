@@ -1,0 +1,49 @@
+deadlock dbcp access node
+found deadlock situat problem dbcp fix dbcp trunk dbcp updat
+ticket dbcp dbcp relat ticket dbcp dbcp dbcp
+stack trace call stall
+code
+main prio group 'main' statu 'monitor'
+block timer
+wait timer releas lock
+org apach common pool impl genericobjectpool addobjecttopool genericobjectpool java
+org apach common pool impl genericobjectpool returnobject genericobjectpool java
+org apach common dbcp poolableconnect close poolableconnect java
+org apach common dbcp poolingdatasourc poolguardconnectionwrapp close poolingdatasourc java
+org apach jackrabbit core util dbutil close dbutil java
+org apach jackrabbit core util resultsetwrapp invok resultsetwrapp java
+proxy12 close unknown sourc
+org apach jackrabbit core persist pool bundledbpersistencemanag loadbundl bundledbpersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag getbundl abstractbundlepersistencemanag java
+org apach jackrabbit core persist bundl abstractbundlepersistencemanag load abstractbundlepersistencemanag java
+org apach jackrabbit core state shareditemstatemanag loaditemst shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag getnonvirtualitemst shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag getnodest localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag getitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit core itemmanag getitemdata itemmanag java
+org apach jackrabbit core itemmanag getnod itemmanag java
+org apach jackrabbit core itemmanag getnod itemmanag java
+org apach jackrabbit core lazyitemiter prefetchnext lazyitemiter java
+org apach jackrabbit core lazyitemiter lazyitemiter java
+info magnolia jcr iter delegatingnodeiter delegatingnodeiter java
+code
+offend thread
+code
+timer daemon prio group 'main' statu 'monitor'
+block main
+wait main releas lock
+org apach common dbcp abandonedtrac addtrac abandonedtrac java
+org apach common dbcp abandonedtrac init abandonedtrac java
+org apach common dbcp abandonedtrac init abandonedtrac java
+org apach common dbcp delegatingstat init delegatingstat java
+org apach common dbcp delegatingconnect createstat delegatingconnect java
+org apach common dbcp poolableconnectionfactori validateconnect poolableconnectionfactori java
+org apach common dbcp poolableconnectionfactori validateobject poolableconnectionfactori java
+org apach common pool impl genericobjectpool evict genericobjectpool java
+org apach common pool impl genericobjectpool evictor run genericobjectpool java
+java util timerthread mainloop timer java
+java util timerthread run timer java
+code

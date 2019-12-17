@@ -1,0 +1,3 @@
+patch reduc duplic convers offsetcharsequ lower upper string
+code repetit convert offsetcharsequ string repetit convert lower upper case gener search term
+patch fix

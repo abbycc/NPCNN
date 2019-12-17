@@ -1,0 +1,30 @@
+textfilt call time checkin method
+add pdf document repositori pdftextfilt step
+session save
+node checkin
+method pdftextfilt dofilt call time
+session' save method call dofilt time normal
+checkin method call dofilt time normal sens
+
+marcel reutegg
+marcel reutegg gmx net jackrabbit dev
+option minut ago
+martin
+unfortun improv reason
+
+search index implement index node
+improv queri perform mean singl properti
+parent node properti index
+checkin method set properti separ
+'transactions' caus search index node
+time
+issu index implement
+buffer pend index work chang properti
+time save setproperti call
+index time text filter behav differ
+extract text text
+eventu improv chang search index
+implement version particip properli
+transact call index node checkin
+quick fix improv text filter class pars
+binari return reader acut

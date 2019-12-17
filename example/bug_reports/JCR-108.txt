@@ -1,0 +1,14 @@
+node' childnod sync unsuccess save
+node save fail due except persistancemanag store changelog success call node getnod refer node fail persist
+case call refresh fals
+restart jackrabbit order rid refer
+usecas kind dummi code
+node addnod unstructur
+node save
+itemstateexcept persist
+node refresh fals
+iter itr node getnod
+itr hasnext
+child itr nextnod
+
+except fail build path

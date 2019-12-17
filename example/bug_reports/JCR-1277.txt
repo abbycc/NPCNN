@@ -1,0 +1,16 @@
+connectionrecoverymanag creat dbdatastor init method
+introduc pool initizi connectionrecoverymanag remov
+index dbdatastor java
+
+dbdatastor java revis
+dbdatastor java work copi
+
+initdatabasetyp
+connectionpool pool maxconnect
+connectionrecoverymanag conn getconnect
+conn connectionrecoverymanag fals driver url user password
+conn setautoreconnect true
+databasemetadata meta conn getconnect getmetadata
+log info jdbc driver meta getdrivernam meta getdriververs
+meta getdriververs
+duplic initi remov run code

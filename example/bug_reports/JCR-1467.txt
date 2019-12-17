@@ -1,0 +1,2 @@
+hide ugli repositori init code ocm
+hide repositori namespac registr ocm discrimin node type registr implement ocm

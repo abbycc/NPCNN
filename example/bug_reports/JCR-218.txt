@@ -1,0 +1,3 @@
+jcr rmi clientitem issam throw repositoryexcept
+clientitem issam item method wrap repositoryexcept thrown path comparison runtimeexcept omit except declar method contrast api specif repositoryexcpt thrown
+suggest modifi clientitem issam item repositoryexcept declar thrown

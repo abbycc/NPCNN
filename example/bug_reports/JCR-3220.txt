@@ -1,0 +1,2 @@
+simpl webdav server support lock timeout
+simpl webdav server support lock timeout http trace show word request 3600 timeout infin

@@ -1,0 +1,2 @@
+add myqsql ddl cluster databasejourn
+default ddl cluster does't work mysql nice includ mysql specif ddl cluster

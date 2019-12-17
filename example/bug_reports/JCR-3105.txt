@@ -1,0 +1,42 @@
+npe version oper concurr
+internalversionmanagerbas getparentnod occasion throw npe
+protect static nodestateex getparentnod nodestateex parent string uuid internt
+throw repositoryexcept
+nodestateex parent
+int
+getnam uuid substr
+hasnod
+getnod
+assert null
+internt null
+addnod internt null fals
+store
+getnod
+assert null
+
+return null
+
+
+return
+
+appar getnod occasion return null due race condit
+chang code appear fix
+protect static nodestateex getparentnod nodestateex parent string uuid internt
+throw repositoryexcept
+nodestateex parent
+int
+getnam uuid substr
+nodestateex getnod
+null
+
+internt null
+addnod internt null fals
+store
+
+
+return null
+
+
+return
+
+move race condit

@@ -1,0 +1,3 @@
+jndi data sourc bundledbpersistencemanag unsupportedoperationexcept
+org apach tomcat dbcp dbcp basicdatasourcefactori bundledbpersistencemanag open databas connect jndi method datasourc getconnect user password support datasourc getconnect work
+connectionfactori getconnect chang call method user password empti

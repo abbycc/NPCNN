@@ -1,0 +1,2 @@
+add support simpl test case
+discuss mail list add simpl org apach jackrabbit core testrepositori helper class simpl unit test templat

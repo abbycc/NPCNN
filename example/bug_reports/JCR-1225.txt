@@ -1,0 +1,2 @@
+readonlyindexread creat access
+abstractindex getreadonlyindexread creat instanc call return index reader cach open long underli index

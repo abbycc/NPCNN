@@ -1,0 +1,2 @@
+pdftextextractor close temp file case error
+pdf pars fail pdfparser pars temp file close result open file handl

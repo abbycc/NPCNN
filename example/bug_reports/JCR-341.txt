@@ -1,0 +1,4 @@
+jcr server registr reporttyp fail
+registr reporttyp
+reporttyp regist string localnam namespac namespac class reportclass reporttyp
+fail due wrong evalu interfac implement class object

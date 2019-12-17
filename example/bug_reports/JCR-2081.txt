@@ -1,0 +1,20 @@
+nameset implement equal object hashcod method
+merg context nameset equal nameset method compar set nameset class overrid default object equal object method inherit abstractset merg check fail mixin set object instanc equival perform oppos set equival behavior observ thread check ism time demonstr code request
+nodestatemerg line
+mixin type
+state getmixintypenam equal overlayedst getmixintypenam
+mixin modifi diff
+determin chang happen diff
+remov mixin overlai ad mixin
+transient state ident
+return fals
+
+propos solut
+implement nameset equal method
+public boolean equal object obj
+obj null obj instanceof nameset
+nameset nameset obj
+return name equal name
+
+return fals
+

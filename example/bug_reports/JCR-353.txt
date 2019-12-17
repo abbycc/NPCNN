@@ -1,0 +1,3 @@
+transientrepositori shutdown login fail
+transientrepositori login method initi underli repositori call initi repositori previous shut bug shut initi repositori login fail applic decid exit start session repositori remain initi state activ session
+issu fix properli handl login failur transientrepositori login method

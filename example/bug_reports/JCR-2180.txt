@@ -1,0 +1,3 @@
+assembl plugin packag test jar
+spi jcr2spi compon test code packag jar test jar goal test depend compon
+extra jar plugin invoc creat extra maven build number problem snapshot depend repositori apach org repositori recent start assembl plugin creat test jar avoid problem

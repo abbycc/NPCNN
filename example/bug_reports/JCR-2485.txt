@@ -1,0 +1,2 @@
+add method getid interfac iteminfo
+iteminfo base nodeinfo propertyinfo declar method getid return type nodeid propertyid java overrid method covari return type propos introduc method getid iteminfo return type itemid common base type nodeid propertyid

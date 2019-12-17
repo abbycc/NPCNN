@@ -1,0 +1,6 @@
+jcr server report init limit report interfac deltav compliant resourc
+report featur defin rfc requir deltav compliant resourc limit deltav rfc webdav access control protocol addit usag report function
+order report interfac open usag resourc provid support rfc
+init method signatur modifi
+report init davresourc reportinfo
+report init deltavresourc reportinfo

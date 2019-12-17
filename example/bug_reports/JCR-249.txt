@@ -1,0 +1,23 @@
+webdav review usag command chain
+review usag command chain import export simpl webdav server
+concept command chain offer lot flexibl show implement gener drawback mechan advantag experi made command chain
+point view issu consider
+provid mean extend modifi import export logic minim effort
+consist import export function collect collect
+export import complet separ
+interfac encourag consist
+increas maintain reduc error
+distinct collect collect import export behaviour
+put result coll mkcol collect
+defin set import export handler order
+handler reli
+import export complet handler success
+class involv order complet import export
+avoid huge configur file avoid program flow defin java code
+avoid duplic configur resourc filter duplic code duplic logic
+hard maintain
+additon logic defin import export handler
+case webdav limit extra logic addmixin checkin
+cover webdav method lock version control checkin
+
+angela

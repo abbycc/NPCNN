@@ -1,0 +1,5 @@
+virtualitemst node type definit access uuid
+virtualnodetypestateprovid map node type definit workspac jcr system jcr nodetyp implement method
+internalgetnodest nodeid
+internalhasnodest nodeid
+effect itemst reflect node type definit access directli uuid

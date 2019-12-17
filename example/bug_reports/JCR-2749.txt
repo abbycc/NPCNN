@@ -1,0 +1,4 @@
+close session write warn log
+close session warn written log file jcr
+session close chain except trace session close
+close simpli warn

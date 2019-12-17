@@ -1,0 +1,6 @@
+workspaceaccessmanag defin securitymanag user workspac test user exist
+workspaceaccessmanag defin secur manag keep user workspac return true call grant set string
+workspac exist
+fine initi check session creation method call test access workspac name
+workspac getaccessibleworkspacenam workspac clone copi workspac
+test princip correspond valid user workspac identifi workspacenam

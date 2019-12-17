@@ -1,0 +1,2 @@
+jackrabbitindexread prevent docnumbercach
+jackrabbitindexread introduc jcr overwrit method termdoc term mean default implement indexread bypass docnumbercach built cachingindexread uuid term individu document

@@ -1,0 +1,3 @@
+renam packag core search core queri
+packag org apach jackrabbit core search renam org apach jackrabbit core queri consist jcr api packag jackrabbit packag name suggest jcr api javax jcr subpackag
+implement jackrabbit org apach jackrabbit core search queryhandl interfac adapt packag

@@ -1,0 +1,28 @@
+sql server support cluster modul
+realiz cluster modul specif support sql server mssql ddl run repositori sql server cluster enabl hope default schema default ddl suffic appar wrong error write oper attempt
+warn org apach jackrabbit core journal databasejourn error roll back connect rollback autocommit set
+error org apach jackrabbit core cluster clusternod unabl commit log entri
+org apach jackrabbit core journal journalexcept unabl append revis
+org apach jackrabbit core journal databasejourn append
+org apach jackrabbit core journal appendrecord updat appendrecord java
+org apach jackrabbit core cluster clusternod workspaceupdatechannel updatecommit clusternod java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+caus java sql datatrunc data truncat
+net sourceforg jtd jdbc sqldiagnost adddiagnost sqldiagnost java
+net sourceforg jtd jdbc tdscore tdserrortoken tdscore java
+net sourceforg jtd jdbc tdscore nexttoken tdscore java
+net sourceforg jtd jdbc tdscore getmoreresult tdscore java
+net sourceforg jtd jdbc jtdsstatement processresult jtdsstatement java
+net sourceforg jtd jdbc jtdsstatement executesql jtdsstatement java
+net sourceforg jtd jdbc jtdspreparedstat execut jtdspreparedstat java
+org jboss resourc adapt jdbc wrappedpreparedstat execut wrappedpreparedstat java
+org apach jackrabbit core journal databasejourn append
+
+thing work modifi version default ddl chang type revis data field varbinari imag

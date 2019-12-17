@@ -1,0 +1,9 @@
+test assum implement javax jcr item overrid equal
+test line number bad assert
+org apach jackrabbit test api referencestest testreferencetarget
+org apach jackrabbit test api referencestest testalterrefer
+org apach jackrabbit test api version versionhistorytest
+assum implement javax jcr item overrid equal
+assert assertequ
+java util set
+work equal node node previous put set section specif mandat test replac assertequ mechan offici support javax jcr node issam

@@ -1,0 +1,4 @@
+problem jackrabbit standalon
+problem jackrabbit standalon compon start properli issu
+bundl packag includ web inf config xml file assum recent bundl plugin version treat whitespac differ inlin set
+rmi bind fail local rmi registri run repositori refer think simpli disabl rmi registri bind http localhost rmi address recommend rmi endpoint

@@ -1,0 +1,2 @@
+chang log level text extractor timeout
+info messag written log text extractor job time happen frequent chang log level debug

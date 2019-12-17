@@ -1,0 +1,27 @@
+setfetchs fail getallnodeid
+except persistencemanageriteratortest window
+org apach jackrabbit core state itemstateexcept getallnodeid fail
+org apach jackrabbit core persist pool bundledbpersistencemanag getallnodeid bundledbpersistencemanag java
+org apach jackrabbit core data persistencemanageriteratortest testgetallnodeid persistencemanageriteratortest java
+caus java sql sqlexcept invalid paramet '10'000' statement setfetchs int row
+org apach derbi impl jdbc sqlexceptionfactory40 getsqlexcept unknown sourc
+org apach derbi impl jdbc util newembedsqlexcept unknown sourc
+org apach derbi impl jdbc util newembedsqlexcept unknown sourc
+org apach derbi impl jdbc util generatecssqlexcept unknown sourc
+org apach derbi impl jdbc embedconnect newsqlexcept unknown sourc
+org apach derbi impl jdbc connectionchild newsqlexcept unknown sourc
+org apach derbi impl jdbc embedstat setfetchs unknown sourc
+org apach common dbcp delegatingstat setfetchs delegatingstat java
+org apach common dbcp delegatingstat setfetchs delegatingstat java
+org apach jackrabbit core util connectionhelp reallyexec connectionhelp java
+org apach jackrabbit core util connectionhelp call connectionhelp java
+org apach jackrabbit core util connectionhelp call connectionhelp java
+org apach jackrabbit core util connectionhelp retrymanag dotri connectionhelp java
+org apach jackrabbit core util connectionhelp exec connectionhelp java
+org apach jackrabbit core persist pool bundledbpersistencemanag getallnodeid bundledbpersistencemanag java
+caus code connectionhelp maxrow
+stmt setmaxrow maxrow
+stmt setfetchs
+simpl fix
+stmt setmaxrow maxrow
+stmt setfetchs math min maxrow

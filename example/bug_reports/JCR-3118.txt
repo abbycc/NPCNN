@@ -1,0 +1,5 @@
+configur action authoriz creation remov
+add possibl configur custom action execut user group creation
+oper persist applic run custom code subclass
+usermanag implement creat addit mandatori properti set permiss calcul default
+group membership appli user group remov

@@ -1,0 +1,17 @@
+tck orderbymultitypetest respect nodetyp configur properti
+orderbymultitypetest creat test data call addnod string fail default primari type
+propos call addnod string string
+orderbymultitypetest java revis
+orderbymultitypetest java work copi
+
+test order queri string properti long properti
+
+public void testmultipleord throw except
+node testrootnod addnod nodename1
+node testrootnod addnod nodename2
+node testrootnod addnod nodename3
+node testrootnod addnod nodename1 testnodetyp
+node testrootnod addnod nodename2 testnodetyp
+node testrootnod addnod nodename3 testnodetyp
+setproperti propertyname1 aaa
+setproperti propertyname2

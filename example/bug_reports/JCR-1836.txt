@@ -1,0 +1,6 @@
+persist support properti databasetyp
+persist manag cluster journal term 'schema' 'databas type'
+term 'schema' confus view
+definit schema http wikipedia org wiki databas schema schema defin tabl field tabl relationship field tabl
+addition databas schema space databas http java sun j2se doc api java sql databasemetadata html getschema
+suggest support properti 'databasetype' addit 'schema' persist manag cluster journal

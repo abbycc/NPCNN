@@ -1,0 +1,8 @@
+patch remov code stutter
+method call getqnam reason
+public string getnam throw repositoryexcept
+checkstatu
+qname getqnam
+return session getnameresolv getjcrnam getqnam
+
+patch fix

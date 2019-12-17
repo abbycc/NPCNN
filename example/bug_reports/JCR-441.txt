@@ -1,0 +1,2 @@
+session logout releas lock acquir addlocktoken
+session addlocktoken regist lock session logout call releas lock acquir maintain refer session logout session attempt acquir lock fail

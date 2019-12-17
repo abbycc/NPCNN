@@ -1,0 +1,2 @@
+full text search test incorrect charact escap phrase
+queri test case singl quot escap phrase grammar requir doubl quot

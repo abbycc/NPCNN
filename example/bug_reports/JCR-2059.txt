@@ -1,0 +1,12 @@
+jsr access properti node session
+method access properti node session
+getnod string abspath node
+getnodebyidentifi string node
+getproperti string abspath properti
+test exist
+nodeexist string abspath boolean
+propertyexist string abspath boolean
+remov
+removeitem string abspath void
+function ad rev rev session removeitem
+test case present

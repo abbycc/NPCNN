@@ -1,0 +1,2 @@
+avoid maven warn
+jackrabbit trunk build fine maven alpha releas warn deprec pom variabl unspecifi report plugin version fix

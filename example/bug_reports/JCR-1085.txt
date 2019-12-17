@@ -1,0 +1,9 @@
+remov unus lucenequerybuild createqueri method
+method anymor jackrabbit remov
+public static queri createqueri queryrootnod root
+sessionimpl session
+itemstatemanag shareditemmgr
+namespacemap nsmap
+analyz analyz
+propertytyperegistri propreg
+throw repositoryexcept

@@ -1,0 +1,61 @@
+larg file download webdav except
+download larg file 2gb webdav except
+note upload file work jackrabbit configur filesystem datastor
+retriev file wget error
+gozer desktop greg wget http user xxx http passwd xxx http localhost jackrabbit repositori workbench pkg demo zip zip largetest zip
+http localhost jackrabbit repositori workbench pkg demo zip zip largetest zip
+largetest zip'
+resolv localhost
+connect localhost connect
+http request await respons input string 3156213760
+error input string 3156213760
+server log
+info repositoryimpl securitymanag class org apach jackrabbit core secur simpl simplesecuritymanag repositoryimpl java line
+warn jackrabbit repositori workbench pkg demo zip zip largetest zip
+java lang numberformatexcept input string 3156213760
+java lang numberformatexcept forinputstr numberformatexcept java
+java lang integ parseint integ java
+java lang integ parseint integ java
+org apach jackrabbit webdav outputcontextimpl setcontentlength outputcontextimpl java
+org apach jackrabbit server exportcontextimpl informcomplet exportcontextimpl java
+org apach jackrabbit server iomanagerimpl exportcont iomanagerimpl java
+org apach jackrabbit webdav simpl davresourceimpl spool davresourceimpl java
+org apach jackrabbit webdav server abstractwebdavservlet spoolresourc abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet doget abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet execut abstractwebdavservlet java
+org apach jackrabbit webdav server abstractwebdavservlet servic abstractwebdavservlet java
+javax servlet http httpservlet servic httpservlet java
+org mortbai jetti servlet servlethold handl servlethold java
+org mortbai jetti servlet servlethandl handl servlethandl java
+org mortbai jetti secur securityhandl handl securityhandl java
+org mortbai jetti servlet sessionhandl handl sessionhandl java
+org mortbai jetti handler contexthandl handl contexthandl java
+org mortbai jetti webapp webappcontext handl webappcontext java
+org mortbai jetti handler contexthandlercollect handl contexthandlercollect java
+org mortbai jetti handler handlercollect handl handlercollect java
+org mortbai jetti handler handlerwrapp handl handlerwrapp java
+org mortbai jetti server handl server java
+org mortbai jetti httpconnect handlerequest httpconnect java
+org mortbai jetti httpconnect requesthandl headercomplet httpconnect java
+org mortbai jetti httpparser parsenext httpparser java
+org mortbai jetti httpparser parseavail httpparser java
+org mortbai jetti httpconnect handl httpconnect java
+org mortbai nio selectchannelendpoint run selectchannelendpoint java
+org mortbai thread boundedthreadpool poolthread run boundedthreadpool java
+problem lie outputcontextimpl java make mistak potenti pars long integ http svn apach org repo asf jackrabbit trunk jackrabbit webdav src main java org apach jackrabbit webdav outputcontextimpl java
+method setcontentlength long contentlength
+public void setcontentlength long contentlength
+int length integ parseint contentlength
+length
+respons setcontentlength length
+
+
+fix
+public void setcontentlength long contentlength
+contentlength integ max contentlength
+respons setcontentlength int contentlength
+contentlength integ max
+respons addhead content length long tostr contentlength
+
+
+set content length header preliminari test download file

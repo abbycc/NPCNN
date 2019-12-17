@@ -1,0 +1,2 @@
+set jcr servlet api depend scope provid
+jcr servlet api librari typic provid deploy environ includ compil runtim depend jackrabbit artifact scope depend set provid dependencymanag section jackrabbit parent pom

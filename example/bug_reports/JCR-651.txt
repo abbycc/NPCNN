@@ -1,0 +1,2 @@
+improv perform queri larg result set
+current implement queryresult requir access right check nodeid pass queryresult handl improv lazi approach result node check configur batch client interest top score result

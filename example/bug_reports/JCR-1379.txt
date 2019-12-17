@@ -1,0 +1,2 @@
+abstractexcerpt wrong logger
+defaultxmlexcerpt abstractexcerpt

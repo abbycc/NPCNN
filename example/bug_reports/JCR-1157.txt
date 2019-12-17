@@ -1,0 +1,2 @@
+expos namespac registri workspac session spi2jcr
+spi2jcr sessioninfoimpl getnamespaceresolv return namespac registri current session wrap repositori session scope namespac remap visibl spi method return namespac registri current workspac

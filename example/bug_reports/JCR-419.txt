@@ -1,0 +1,14 @@
+request rmi bind option repositorystartupservlet
+current deploy option repositorystartupservlet bind local repositori jndi regist remot serverrepositori rmi rmiserversocketfactori locateregistri
+locateregistri mechan work default weblog environ
+request option bind serverrepositori registerrmi jndi servlet current context attempt locateregistri createregistri locateregistri getregistri jndi bind option interfer jndi bind attempt registerjndi
+request web xml config registerrmi bind refer serverrepositori
+context ctx initialcontext
+ctx bind repositorynam remot remot
+easi remot access weblogic' nativ protocol client
+context ctx initialcontext djava name provid url djava name factori initi set
+object ref ctx lookup repositorynam remot
+localadapterfactori laf clientadapterfactori
+repositori remot laf getrepositori remoterepositori ref
+initi test appear work insid weblog contain
+paul

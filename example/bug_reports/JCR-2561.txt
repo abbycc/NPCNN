@@ -1,0 +1,20 @@
+sql2 queri suppli column selector fail npe getcolumnnam
+prepar execut sql2 queri jcr
+querymanag jcrsession getworkspac getquerymanag
+string querystr select order customeraccountuuid cust atl order order
+queri queri createqueri querystr queri jcr sql2
+queryresult queryresult queri execut
+queri fail
+select order customeraccountuuid atl order order
+java lang nullpointerexcept
+org apach jackrabbit common queri sql2 qomformatt issimplenam qomformatt java
+org apach jackrabbit common queri sql2 qomformatt formatnam qomformatt java
+org apach jackrabbit common queri sql2 qomformatt format qomformatt java
+org apach jackrabbit common queri sql2 qomformatt format qomformatt java
+org apach jackrabbit common queri sql2 qomformatt format qomformatt java
+line getcolumnnam return null
+queri fine
+select order customeraccountuuid cust atl order order
+test case http svn apach org viewvc jackrabbit trunk jackrabbit spi common src test resourc org apach jackrabbit spi common queri sql2 test sql2 txt view markup guidelin
+cheer
+jame

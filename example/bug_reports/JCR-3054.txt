@@ -1,0 +1,9 @@
+deprec repositoryservic getpropertyinfo method
+deprec ultim remov repositoryservic getpropertyinfo method extend repositoryservic getiteminfo function getiteminfo chang
+
+method 'batch read' persist storag return
+code iteminfo code code itemid code
+element code iter code addit iter
+arbitrari code iteminfo code
+
+public iter extend iteminfo getiteminfo sessioninfo sessioninfo itemid itemid throw itemnotfoundexcept repositoryexcept

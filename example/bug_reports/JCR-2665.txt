@@ -1,0 +1,5 @@
+jcr test ad node type test abstract node ad children contrari jcr specif
+tck test method testlegalandresidualtyp canaddchildnodecallwithnodetypetest class pick node residu type filter abstract node local test hierarchynod select local variabl 'type'
+abstract node type directli assign node canaddchildnod anypropertynam hierarchynod return fals test assum abstract node type chosen expect canaddchildnod string string return true
+fix nodetypeutil locatechildnodedef extend add extra argument allow disallow abstract type extra argument filter type testlegalandresidualtyp locatechildnodedef automat exclud abstract type manner automat exclud protect type
+section jcr2 specif

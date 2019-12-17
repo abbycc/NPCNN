@@ -1,0 +1,9 @@
+call propertydef getdefaultvalu rmi result except
+jukka
+mark servletengin servlet threw except
+org apach jackrabbit rmi client remoteruntimeexcept java rmi unmarshalexcept error unmarshal return nest except
+java writeabortedexcept write abort java notserializableexcept javax jcr booleanvalu
+org apach jackrabbit rmi client clientpropertydef getdefaultvalu clientpropertydef java
+
+
+angela

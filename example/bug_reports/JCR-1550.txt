@@ -1,0 +1,2 @@
+remov iteminfo getnam redund
+propos remov method getnam org apach jackrabbit spi iteminfo redund element path getpath method

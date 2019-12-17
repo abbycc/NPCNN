@@ -1,0 +1,13 @@
+databasejourn java lang illegalstateexcept batch mode
+databas journal databas fail stack trace
+java lang illegalstateexcept batch mode
+org apach jackrabbit core util connectionhelp startbatch connectionhelp java
+org apach jackrabbit core journal databasejourn dosync databasejourn java
+org apach jackrabbit core journal abstractjourn lockandsync abstractjourn java
+org apach jackrabbit core journal defaultrecordproduc append defaultrecordproduc java
+org apach jackrabbit core cluster clusternod workspaceupdatechannel updatecr clusternod java
+org apach jackrabbit core state shareditemstatemanag updat begin shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag beginupd shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java

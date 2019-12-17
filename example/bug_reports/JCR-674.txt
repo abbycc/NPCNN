@@ -1,0 +1,17 @@
+string properti invalid xml charact export invalid xml
+note current jcr mainten draft section
+xml export string properti invalid xml
+charact defin charact
+permiss xml propos fix base64
+encod valu system view
+charact x20 exampl
+escap numer output amp
+escap sequenc pars xml
+import method
+current behavior problemat user
+output corrupt import
+invalidserializeddataexcept
+reason base64 option delai
+make sens interim solut fail export
+patch import relax pars
+escap code

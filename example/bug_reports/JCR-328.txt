@@ -1,0 +1,10 @@
+transientrepositori localfilesystem eventu repositori data store path
+transitoryrepositori unit test repository' file system
+filesystem class org apach jackrabbit core local localfilesystem
+param path rep home repositori
+filesystem
+notic todai run unit test jackrabbit creat directori root hard drive meta namespac nodetyp data track problem fact localfilesystem close set root null invalid state transitoryrepositori invalid state discov localfilesystem object releas initi simpli creat basedfilesystem object repositoryimpl call basedfilesystem defer localfilesystem object null root insid localfilesystem call java' file constructor null parent paramet caus file fall back singl argument constructor see path meta happili creat file root disk
+solut thought
+set root properti null close localfilesystem
+make repositoryconfig init filesystem variabl access
+cach repositoryconfig transitoryrepositori requir constructor take class path resourc repositori configur file

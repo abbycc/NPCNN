@@ -1,0 +1,2 @@
+creat jackrabbit site subproject
+jackrabbit web site sourc move jackrabbit site subproject top level jackrabbit pom multimodul build setup gener project metadata web site built easili invok subproject eclips happier site project jackrabbit modul

@@ -1,0 +1,17 @@
+add file gener eclips maven svn ignor
+make life easier eclips maven user add file svn ingor
+jackrabbit jcr rmi
+
+set
+classpath
+project
+jackrabbit jcr rmi pom snapshot version
+project xml md5
+jackrabbit core
+
+set
+classpath
+project
+jackrabbit core pom snapshot version
+project xml md5
+file miss list develop idea

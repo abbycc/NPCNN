@@ -1,0 +1,4 @@
+blob store open stream
+propertyimpl getvalu open fileinputstream blobstor
+applic stream close
+jcr filedatastor

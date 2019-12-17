@@ -1,0 +1,5 @@
+cachebehaviour observ broken
+fix jcr discov cachebehaviour observ broken
+hierarchyeventlisten onev ignor local event comment local event jcr occur cachebehaviour observ
+nodeentryimpl refresh event set child node entri incomplet node properti ad
+tent fix issu discov nodeentryimpl refresh event event listen oper nodeentryimpl childnodeentryimpl instanc set childnodeentri complet fals nodeentryimpl refresh event event listen retriev node entri instanc childnodeentri complet set true

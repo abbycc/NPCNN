@@ -1,0 +1,10 @@
+automat repositori shutdown
+jackrabbit reli mechan safe shut repositori
+client applic invok repositoryimpl shutdown
+shutdown hook instal repositoryimpl run
+mechan problem
+shutdown method part jcr api make client applic depend jackrabbit specif featur
+case shutdown hook properli run issu jcr jcr
+jcr spec think repositori session interfac similar jdbc datasourc connect interfac repositori instanc real lifecycl method session instanc login logout step datasourc getconnect repositori login session logout connect close jackrabbit implement defin explicit lifecycl repositoryimpl instanc
+problem contain environ jndi spring hard imposs shutdown mechan resourc factori repositori instanc current solut environ shutdown hook report solut work perfectli case
+bound repositoryimpl lifecycl lifecycl instanti session repositoryimpl instanc initi lock repositori session open automat shut session log long session properli log final garbag collector explicitli repositoryimpl shutdown call current behaviour pre initi repositori shut shutdown hook enabl configur option environ global jndi resourc shutdown hook work

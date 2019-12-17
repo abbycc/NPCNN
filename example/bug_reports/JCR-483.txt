@@ -1,0 +1,8 @@
+lock token reain session unlock
+followin step
+node lock
+session getlocktoken show lock token gener
+previou lock
+node unlock
+session getlocktoken show gener token
+unlock node token should'n delet session

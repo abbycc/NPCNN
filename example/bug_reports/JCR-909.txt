@@ -1,0 +1,38 @@
+checkifnodelock jcr map layer behav properli open scope lock
+plan open scope lock persist locktoken node session unlock test jackrabbit rmi client work fine
+jcr map layer achiev project node check lock session lock store locktoken properti node document updat document node lock
+public void checkout string path throw cmsexcept
+getpersistencemanag
+
+checkout path
+string locktoken lock path true fals
+document doc getdocu path
+doc setlocktoken locktoken persist locktoken
+doc updat
+catch lockedexcept
+system println getlockednodepath lock getlockown catch except
+throw cmsexcept getmessag getcaus
+
+
+doc updat fail lock except problem persistencemanagerimpl method checkifnodelock path return lockexcept node lock method check updat insert updat lock node persist locktoken node reason check lock save ideal throw error node lock session hold locktoken
+session lock node save node unlock allow
+
+achiev simpl jackrabbit rmi client
+code
+clientrepositoryfactori factori clientrepositoryfactori
+repositori repositori factori getrepositori rmi localhost jackrabbit
+session session repositori login simplecredenti superus superus tochararrai portal string user session getuserid
+string repositori getdescriptor repositori rep desc
+system println
+log user repositori
+test lock function
+node session getrootnod getnod cm childfolder1 check txt
+lock lck lock true fals deeplock open scope
+setproperti locktoken lck getlocktoken
+setproperti languag sanskrit
+
+system println lock isliv lck isliv
+system println node islock session getrootnod getnod cm childfolder1 check txt islock
+session save
+session logout
+code

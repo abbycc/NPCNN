@@ -1,0 +1,10 @@
+wrap illegalargumentexcept uuid bad pass session getnodebyuuid
+
+david kennedi davek ibm wrote
+invok session getnodebyuuid pass invalid
+illegalargumentexcept thrown wrap
+itemnotfoundexcept repositoryexcept sessionimpl
+good point itemnotfoundexcept
+file jira issu
+
+jukka zit

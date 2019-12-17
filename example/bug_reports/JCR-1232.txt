@@ -1,0 +1,4 @@
+merg uuid nodeid
+current nodeid class wrapper uuid object instanti node identifi system memori process overhead small ton nodeid instanc good elimin overhead
+lot code convert uuid nodeid vice versa simplifi code nodeid
+open possibl uuid node identifi point futur make lot sens remov nodeid getuuid method reli directli nodeid equal hashcod tostr method place uuid

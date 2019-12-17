@@ -1,0 +1,8 @@
+global data store binari
+main problem jackrabbit handl larg binari valu
+persist larg binari block access persist layer extend amount time jcr
+copi binari stream made save jcr api transient space persist
+versioin copi oper node subtre larg binari valu quickli end consum excess amount storag space
+solv issu nice benefit propos implement global data store concept repositori data store append set binari valu short identifi identifi access store binari valu data store trivial fit requir transient space transact handl due append natur explicit mark sweep garbag collect process ad avoid concern store garbag valu
+recent ngp record discuss background idea
+http mail archiv apach org mod mbox jackrabbit dev mbox 3c510143ac0705120919k37d48dc1jc7474b23c9f02cbd mail gmail

@@ -1,0 +1,3 @@
+ocm translat project goal found
+jackrabbit ocm pom requir version retrotransl plugin case build older version plugin translat plugin goal
+goal includ latest version alpha plugin

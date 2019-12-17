@@ -1,0 +1,13 @@
+filedatastor open stream
+propertyimpl getvalu open fileinputstream filedatastor
+applic stream close
+propertyimpl getvalu
+return internalgetvalu tojcrvalu session
+internalvalu tojcrvalu
+case propertytyp binari
+return binaryvalu blobfilevalu val getstream
+blobindatastor getstream
+return getdatarecord getstream
+filedatarecord getstream
+return fileinputstream file
+solut return 'lazy' file input stream open file read stream close file byte read class apach common

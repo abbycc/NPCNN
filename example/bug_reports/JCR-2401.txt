@@ -1,0 +1,5 @@
+osgi bundl symbol name chang due maven bundl plugin
+felix notic jackrabbit jcr common beta3 assum modul maven bundl plugin affect
+bundl symbol problemat osgi framework bundl compon version compon
+simplest back previou symbol name maven bundl plugin config workaround felix jackrabbit parent pom whever plugin configur
+suppli patch

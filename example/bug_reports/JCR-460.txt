@@ -1,0 +1,2 @@
+add rar meta inf xml descriptor jca1
+ad xml let jackrabbit jca jca1 jboss

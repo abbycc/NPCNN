@@ -1,0 +1,32 @@
+npe openofficetextextractor
+load open offic writer document attach receiv except
+warn btpool0 compositetextextractor fail extract text content
+java lang nullpointerexcept
+org apach jackrabbit extractor openofficetextextractor extracttext openofficetextextractor java
+
+org apach jackrabbit extractor compositetextextractor extracttext compositetextextractor java
+org apach jackrabbit core queri lucen jackrabbittextextractor extracttext jackrabbittextextracto
+java
+org apach jackrabbit core queri lucen nodeindex addbinaryvalu nodeindex java
+org apach jackrabbit core queri lucen nodeindex addvalu nodeindex java
+org apach jackrabbit core queri lucen nodeindex createdoc nodeindex java
+org apach jackrabbit core queri lucen searchindex createdocu searchindex java
+org apach jackrabbit core queri lucen searchindex searchindex java
+org apach jackrabbit core queri lucen multiindex updat multiindex java
+org apach jackrabbit core queri lucen searchindex updatenod searchindex java
+org apach jackrabbit core searchmanag onev searchmanag java
+org apach jackrabbit core observ eventconsum consumeev eventconsum java
+org apach jackrabbit core observ observationdispatch dispatchev observationdispatch
+java
+org apach jackrabbit core observ eventstatecollect dispatch eventstatecollect java
+
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit jca jcasessionhandl save jcasessionhandl java

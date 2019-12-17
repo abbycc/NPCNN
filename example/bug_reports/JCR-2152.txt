@@ -1,0 +1,6 @@
+valueformat provid method getjcrstr
+order retriev jcr string represent qvalu call requir
+valueformat getjcrvalu qvalu namepathresolv valuefactori
+getstr
+simplifi valueformat provid
+valueformat getjcrstr qvalu namepathresolv

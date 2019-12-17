@@ -1,0 +1,2 @@
+select return declar properti node type claus
+queri return default column jcr primarytyp jcr score jcr path

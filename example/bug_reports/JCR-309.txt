@@ -1,0 +1,10 @@
+extract public api interfac core api
+document track public jcr extens compon api provid jackrabbit room refactor jackrabbit core shoud move creat support api interfac org apach jackrabbit api packag
+interfac move support implement independ class
+persistencemanag
+filesystem
+accessmanag
+queryhandl
+textfilt
+depend implement specif class prefer abstract extra interfac
+workspac node type administr method publish jackrabbit specif extens jcr api interfac

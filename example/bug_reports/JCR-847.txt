@@ -1,0 +1,5 @@
+provid method getcredentialsprovid simplewebdavservlet
+provid easi chang default credentialsprovid basiccredentialsprovid sessionprovid creat
+make sens sessionprovid return credentialsprovid basicauthent wil prompt
+
+clau

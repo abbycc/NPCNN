@@ -1,0 +1,2 @@
+optim readonlyindexread read int doc int freq
+method implement trivial doc freq read block filter delet doc

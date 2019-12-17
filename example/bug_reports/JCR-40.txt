@@ -1,0 +1,6 @@
+node merg method doesnt recurs child sourc node
+check nodeimpl merg
+process child node wrong
+call merg child src node sourc workspac
+case srcnode null end nullpointerexcept
+nodeiter srcnode getnod statment condit

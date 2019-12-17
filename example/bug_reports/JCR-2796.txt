@@ -1,0 +1,43 @@
+restor node fail partial transact
+problem occur sequenc step
+creat version node child grandchild
+perform check version node give version label
+perform restor version label
+access grandchild
+step fail step execut transact transact step succe
+test case attach execut xatest java http svn apach org repo asf jackrabbit trunk jackrabbit core src test java org apach jackrabbit core xatest java
+public void testrestor throw except
+session session null
+
+session gethelp getsuperusersess
+make 'testnode' exist begin test
+nodeiter session getrootnod getnod hasnext
+node anod nextnod
+anod getnam equal testnod
+anod remov
+
+
+creat 'testnode' child grandchild
+session getrootnod addnod testnod addmixin nodetyp mix version
+session getrootnod getnod testnod addnod child addnod grandchild
+session save
+check 'testnode' give version label
+version version session getworkspac getversionmanag checkin
+session getrootnod getnod testnod getpath
+session getworkspac getversionmanag getversionhistori
+session getrootnod getnod testnod getpath addversionlabel version getnam
+testlabel fals
+restor label
+usertransact utx usertransactionimpl session
+utx begin
+session getworkspac getversionmanag restorebylabel
+session getrootnod getnod testnod getpath testlabel true
+utx commit
+grandchild fail restor transact
+session getrootnod getnod testnod getnod child getnod grandchild
+final
+session null
+session logout
+
+
+

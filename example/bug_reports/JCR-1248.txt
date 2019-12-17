@@ -1,0 +1,5 @@
+helper method escap illeg xpath search term
+perform search
+element base jcr 'test
+except
+javax jcr repositoryexcept except build queri org apach jackrabbit core queri lucen fulltext parseexcept encount eof line column

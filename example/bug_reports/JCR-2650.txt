@@ -1,0 +1,3 @@
+silent merg session local transient extern save
+extern commit session silent merg transient potenti concurr issu inconsist transient state jcr
+isol transient extern save true copi write

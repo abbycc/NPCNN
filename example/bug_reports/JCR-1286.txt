@@ -1,0 +1,9 @@
+filterimpl getstringvalu custom convert class field annot
+pojo field
+field convert localeconvert class
+privat local local
+attempt queri object base field nullpointerexcept
+java lang nullpointerexcept
+org apach jackrabbit ocm queri impl filterimpl getstringvalu filterimpl java
+org apach jackrabbit ocm queri impl filterimpl addequalto filterimpl java
+filterimpl preferenti atom type convert defin field annot convert fallback global convert convert local string queri workaround logic string convers resid localeconvert class

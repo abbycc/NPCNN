@@ -1,0 +1,16 @@
+databasejourn assign revis revis
+run transact updat multipl workspac version oper fail databasejourn individu updat ultim assign revis indic failur oracl backend journal
+java sql sqlexcept ora uniqu constraint journal idx violat
+oracl jdbc dbaccess dberror throwsqlexcept dberror java
+oracl jdbc ttc7 ttioer processerror ttioer java
+oracl jdbc ttc7 oall7 receiv oall7 java
+oracl jdbc ttc7 ttc7protocol dooall7 ttc7protocol java
+oracl jdbc ttc7 ttc7protocol executefetch ttc7protocol java
+oracl jdbc driver oraclestat executenonqueri oraclestat java
+oracl jdbc driver oraclestat doexecuteoth oraclestat java
+oracl jdbc driver oraclestat doexecutewithtimeout oraclestat java
+oracl jdbc driver oraclepreparedstat executeupd oraclepreparedstat java
+oracl jdbc driver oraclepreparedstat execut oraclepreparedstat java
+org apach jackrabbit core journal databasejourn append databasejourn java
+
+bug report rafał kwiecień

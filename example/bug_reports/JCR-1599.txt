@@ -1,0 +1,9 @@
+lucenequerybuild assum readabl root node grant case
+user
+user deni read
+user allow read home
+queri user workspac fail accessdeniedexcept
+except caus call insid lucenequerybuild ln212
+nodeid nodeimpl session getrootnod getnodeid
+find specif impos readabl root node precondt queri
+behavior bug

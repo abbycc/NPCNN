@@ -1,0 +1,49 @@
+filedatastor garbag collector empti directori
+org apach jackrabbit core data garbagecollector call filedatastor file object correctli delet
+directori remov
+time result huge tree unus empti directori
+creat small chanc method filedatastor deleteolderrecurs
+remov directori file entri note file object store level deep
+call remov directori problem implement lightweight
+current filedatastor java
+privat int deleteolderrecurs file file long min
+int count
+file isfil file exist file canwrit
+file lastmodifi min
+dataidentifi dataidentifi file getnam
+inus containskei
+file delet
+count
+
+
+file isdirectori
+file list file listfil
+int list length
+count deleteolderrecurs list min
+
+
+return count
+
+
+privat int deleteolderrecurs file file long min
+int count
+file isfil file exist file canwrit
+file lastmodifi min
+dataidentifi dataidentifi file getnam
+inus containskei
+file delet
+count
+
+
+file isdirectori
+file list file listfil
+list length
+file delet
+
+int list length
+count deleteolderrecurs list min
+
+
+
+return count
+

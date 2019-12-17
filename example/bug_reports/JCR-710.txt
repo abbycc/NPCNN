@@ -1,0 +1,13 @@
+nullpointerexcept databasepersistencemanag databasefilesystem fail reconnect attempt
+report dev mail list
+reconnect retri mechan databasepersistencemanag databasefilesystem behav fine connect time kill reason server fact run
+problem connect establish directli transient network outag last longer reconnect attempt
+insid databasepersistencemanag reestablishconnect initconnect fail preparedstat map stai empti
+turn trigger nasti nullpointerexcept caught time executestmt call map empti check
+propos fix stefan guggisberg test work appli rc2
+simplest fix remov line
+databasepersistencemanag java line
+databasefilesystem java
+stmt
+
+preparedstat clear

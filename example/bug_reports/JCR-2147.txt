@@ -1,0 +1,2 @@
+remov deprec class jackrabbit core
+similar jcr favor rid stuff mark deprec releas

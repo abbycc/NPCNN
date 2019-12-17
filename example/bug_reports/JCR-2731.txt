@@ -1,0 +1,11 @@
+lockmethod getresponseaslockdiscoveri fail statu
+rfc section specifi valid respons code lock creat lock request unmap url request succeed result creation resourc dav lockdiscoveri properti includ respons bodi
+lockmethod getresponseaslockdiscoveri fail scenario
+org apach jackrabbit webdav davexcept creat
+org apach jackrabbit webdav client method davmethodbas getresponseexcept davmethodbas java
+org apach jackrabbit webdav client method lockmethod getresponseaslockdiscoveri lockmethod java
+reason lockmethod
+return statuscod davservletrespons
+
+return statuscod davservletrespons
+statuscod davservletrespons creat

@@ -1,0 +1,3 @@
+setproperti propertytyp long lose properti type
+ad empti multivalu properti specif string type unstructur node undefin multivalu properti definit creat empti multivalu properti type string
+case keep explicit type inform import avoid lose

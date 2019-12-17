@@ -1,0 +1,6 @@
+remov propdefid nodedefid
+propdefid nodedefid quickli lookup childnod properti definit nodetyp registri effect nodetyp
+heavili read call properti getdefinit check ismultipl flag write definit properti childnod
+pose problem nodetyp chang content properti definit chang due alter nodetyp subsequ access properti result invalid propdefid warn log recomput problem upgrad jackrabbit builtin nodetyp defin differ
+feasibl remov propdefid nodedefid comput definit demand implement perform loss sort 'signatures' item comput quickli find definit effect node type common usecas properti definit ismultipl check properti interfac definit lookup
+save byte item persist layer

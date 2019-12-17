@@ -1,0 +1,6 @@
+repositori lock file remov clean shutdown
+repositori load lock file creat file remov clean shutdown jackrabbit instanc kill manual delet file order load repositori live instanc jackrabbit
+problem fact simpl presenc lock file live instanc
+suggest replac behavior method eclips open workspac
+instanc load creat lock file open exclus access
+instanc start delet eventu lock file file delet assum jackrabbit instanc run

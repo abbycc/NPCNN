@@ -1,0 +1,2 @@
+bundl persist default configur
+default repositori configur file jackrabbit core webapp simpl databas persist updat bundl persist releas

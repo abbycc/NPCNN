@@ -1,0 +1,2 @@
+basic support
+add basic support xpath queri jackrabbit support function equal express

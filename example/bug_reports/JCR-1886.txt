@@ -1,0 +1,11 @@
+jcr2spi unprocess iteminfo call repositoryservic getiteminfo
+stefan report problem
+batchread config read depth infin
+invalid tree call node refresh fals
+forc load tree node getpath
+invalid item state indic iteminfo process
+addit call getiteminfo cover load tree
+problem occur relat limit item cach size
+problem analysi
+bug workspaceitemstatefactori createitemst
+wrapper built iteminfo iter iteminfo iter wrapper pre fetch item underli iter process hasnext

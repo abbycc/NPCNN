@@ -1,0 +1,4 @@
+versionhistori removevers throw referentialintegrityexcept
+insid xatransact immedi remov version creat checkin succe fail referenti integr violat reason creat version return refer
+end transact fail referenti integr check shareditemstatemanag correct imo removevers fail
+ad test case org apach jackrabbit core version checkinremoveversiontest

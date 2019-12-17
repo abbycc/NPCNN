@@ -1,0 +1,6 @@
+namespaceregistrytest testregisternamespac test assumpt
+namespaceregistrytest testregisternamespac make assumpt creat arbitrarili node insid root folder
+requir case
+propos
+test node config
+properti child node test repositori node name namespac empti

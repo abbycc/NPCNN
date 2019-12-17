@@ -1,0 +1,2 @@
+remov duplic code qvaluefactoryimpl spi2dav
+qvaluefactoryimpl spi2dav code duplic spi common qvaluefactoryimpl jcr appli spi2dav variant extend factori spi common simpli

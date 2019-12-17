@@ -1,0 +1,5 @@
+postgresql fail guess valid queri
+postgresql warn appear log file
+warn org apach jackrabbit core util connectionfactori main
+fail guess valid queri url
+jdbc postgresql

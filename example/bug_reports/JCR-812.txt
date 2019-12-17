@@ -1,0 +1,10 @@
+tck restoretest testrestorelabel
+tobi jackrabbit implement 'node restorebylabel' interpret
+specif restor behaviour version child node interpetr
+legal specif violat argu tck test interpret
+suggest modifi
+org apach jackrabbit test api version restoretest testrestorelabel
+skip line order limit test case behaviour defin specif
+
+angela
+mention test execut scope workspacerestoretest extend restoretest mislead

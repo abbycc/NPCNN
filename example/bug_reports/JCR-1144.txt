@@ -1,0 +1,3 @@
+investig wai compil refactor jcr map java
+refactor jcr map project includ annot base map descript main code base requir compil java higher
+case requir java goal investig defin build profil pom compil ignor annot class

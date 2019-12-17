@@ -1,0 +1,2 @@
+deprec blobstor datastor
+blob store deprec favor data store sourc code document blob store support version

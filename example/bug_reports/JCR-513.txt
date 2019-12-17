@@ -1,0 +1,21 @@
+tck setpropertyassumetypetest valueformatexcept type convers failur
+setpropertyassumetypetest testvaluesconstraintvioloationexceptionbecauseofinvalidtypeparamet
+test implement throw valueformatexcept section javadoc setproperti string int state properti type suppli object effort convers attempt convers fail valueformatexcept thrown
+propos catch consum valueformatexcept
+setpropertyassumetypetest java revis
+setpropertyassumetypetest java work copi
+
+import javax jcr propertytyp
+import javax jcr repositoryexcept
+import javax jcr properti
+import javax jcr valueformatexcept
+import java util calendar
+import java util date
+
+catch constraintviolationexcept
+success
+
+catch valueformatexcept
+success
+
+

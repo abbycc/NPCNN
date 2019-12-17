@@ -1,0 +1,27 @@
+dbclustertest failur due network configur
+report serg dbclustertest case fail run network configur
+thoma suggest fix
+eclips workspac patch
+jackrabbit core
+index src test java org apach jackrabbit core cluster dbclustertest java
+
+
+src test java org apach jackrabbit core cluster dbclustertest java revisi
+
+
+src test java org apach jackrabbit core cluster dbclustertest java workin
+copi
+
+public void setup throw except
+deleteal
+server1 server createtcpserv tcpport basedir
+target dbclustertest db1 start
+target dbclustertest db1 tcpallowoth start
+server2 server createtcpserv tcpport basedir
+target dbclustertest db2 start
+target dbclustertest db2 tcpallowoth start
+fileutil copyfil
+
+file src test resourc org apach jackrabbit core cluster repositori
+xml
+file target dbclustertest node1 repositori xml

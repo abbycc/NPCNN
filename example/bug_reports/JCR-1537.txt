@@ -1,0 +1,10 @@
+classdescriptor hasidfield fail declar upper class
+org apach jackrabbit ocm mapper model classdescriptor hasidfield current class hierarchi fail field declar upper class
+hasidfield getidfielddescriptor access idfielddescriptor field directli
+public boolean hasidfield
+return getidfielddescriptor null
+getidfielddescriptor isid
+
+find patch enclos
+sincer
+stéphane landel

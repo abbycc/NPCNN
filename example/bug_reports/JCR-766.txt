@@ -1,0 +1,5 @@
+remov maven file
+work maven build environ jcr remov maven
+project file avoid confus misunderstand maven build environ
+work anymor
+object proce remov project xml maven xml project properti file dai

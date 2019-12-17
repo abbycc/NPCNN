@@ -1,0 +1,8 @@
+warn build dav parent set root node resourc
+warn gener calcul dav parent set resourc repres root node
+warn davresourceimpl unabl calcul parent set davresourceimpl java line
+javax jcr itemnotfoundexcept root node parent
+org apach jackrabbit core nodeimpl getpar nodeimpl java
+org apach jackrabbit webdav simpl davresourceimpl getparentel davresourceimpl java
+org apach jackrabbit webdav simpl davresourceimpl initproperti davresourceimpl java
+simpli avoid slightli modifi method getparentel start line ad test assert node getpar call root node

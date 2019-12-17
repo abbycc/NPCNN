@@ -1,0 +1,9 @@
+beanlazyload serializ
+class org apach jackrabbit ocm manag objectconvert impl beanlazyload serializ
+ocm modul mark properti lazi load bean proxi true
+scenario object proxi beanlazyload serializ
+problemat technolog
+spring webflow requir object model store scope serializ
+proxi model spring webflow receiv except org springframework webflow execut repositori snapshot snapshotcreationexcept serial flow execut make object store flow flash scope serializ caus java notserializableexcept org apach jackrabbit ocm manag objectconvert impl beanlazyload
+
+make beanlazyload serializ

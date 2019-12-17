@@ -1,0 +1,7 @@
+eventconsum canread reli accessmanag isgrant
+current implement eventconsum canread
+accessmanag canread issu item
+exist anymor accessmanag isgrant explicitli
+mention support check path item
+exist exist anymor
+jcr

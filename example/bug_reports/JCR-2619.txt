@@ -1,0 +1,6 @@
+improv intern represent date valu
+date valu intern repres java util calendar object
+calendar object huge memori footprint approx 200byte instanc
+mutabl
+suggest replac intern date represent iso8601 format string
+immut approx smaller footprint

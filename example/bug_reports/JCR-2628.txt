@@ -1,0 +1,2 @@
+registernodetyp implement cli
+registernodetyp list standalon client implement

@@ -1,0 +1,4 @@
+implement cach mechan iteminfo batch
+iteminfo return repositoryservic getiteminfo hierarchi big batch size prohibit expens overhead great quickli outweigh overhead network round trip spi implement choos batch determin back persist store requir consum applic jcr side item batch need
+suggest implement cach iteminfo batch conceptu cach live insid jcr2spi spi api actual implement provid spi implement approach fine tune cach batch size persist store network environ separ concern purpos exist item cach optim requir consum jcr api 'the application' iteminfo cach optim specif network environ back persist store
+number follow

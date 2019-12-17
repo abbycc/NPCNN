@@ -1,0 +1,6 @@
+avoid convert properti valu string
+qvalu expos properti type long doubl pars format set retriev properti type requir roundtrip string avoid
+propos
+add long getlong doubl getdoubl qvalu
+add match creat method qvaluefactori
+advantag method jcr2spi instanc allow implement intern hold qvalu

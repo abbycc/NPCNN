@@ -1,0 +1,2 @@
+add path encod iso9075
+util class iso9075 encod decod name method pass path xpath queri creat path constraint base node getpath

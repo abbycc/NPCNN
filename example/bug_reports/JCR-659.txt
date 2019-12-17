@@ -1,0 +1,6 @@
+import multivalu properti singl result incorrect properti creation
+import file export system view multivalu properti store singlevalu properti bug reason propdef ismultipl true properti valueformatexcept thrown set properti singl
+workaround
+work chang propinfo appli line
+length def ismultipl
+

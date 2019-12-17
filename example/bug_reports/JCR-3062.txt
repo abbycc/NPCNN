@@ -1,0 +1,2 @@
+move filteriter sizediter packag flat packag iter
+suggest move class packag org apach jackrabbit common flat packag org apach jackrabbit common iter

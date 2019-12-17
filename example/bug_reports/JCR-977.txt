@@ -1,0 +1,12 @@
+jcr deref parent axi xpath predic
+jcr deref function allow xpath queri predic
+book hold refer properti author
+author
+book specif author
+jcr root element booktyp jcr deref author 'authortype' 'king'
+fail invalidqueryexcept support
+error rais xpathquerybuild class function privat querynod createfunct simplenod node querynod querynod block
+nameformat format jcr deref resolv equal fname
+problem queri evalu jcr deref function method point querynod gettyp test rais except querynod gettyp querynod type locat querynod type path
+place put deref function queri test referenc node properti
+freder esnault

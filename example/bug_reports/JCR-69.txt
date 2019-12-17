@@ -1,0 +1,34 @@
+remov sourc parent node session move throw save
+code fragment illustr problem
+
+creat node tree
+
+
+
+
+
+
+node
+root hasnod
+root getnod
+
+root addnod
+
+node addnod
+node addnod
+node addnod
+root save
+move
+session move
+remov
+getnod remov
+
+expect result node tree
+
+
+
+
+
+save
+save throw
+javax jcr repositoryexcept inconsist fail retriev transient state

@@ -1,0 +1,7 @@
+locktest testlogout fail refresh session check lock session
+locktest testlogout fail refresh session check lock state node lock session
+propos
+insert
+refresh fals
+
+asserttru node lock islock

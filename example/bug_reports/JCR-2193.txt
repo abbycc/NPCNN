@@ -1,0 +1,15 @@
+builtin nodetyp cnd ascii char correctli decod webspher
+jackrabbit start webspher error
+caus
+org apach jackrabbit spi common nodetyp compact parseexcept ioexcept
+attempt read input stream
+org apach jackrabbit core nodetyp builtin nodetyp cnd line
+
+
+caus
+sun malformedinputexcept
+sun bytetocharutf8 convert bytetocharutf8 java
+sun nio streamdecod convertersd convertinto streamdecod java
+sun nio streamdecod convertersd implread streamdecod java
+quickli check file ascii charact store packag read utf8 somth list translat
+simplest fix remov ascii7 charact file

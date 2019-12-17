@@ -1,0 +1,6 @@
+internalvers getfrozennod confus root version
+javadoc internalvers getfrozennod confus
+return frozen node version code null code
+root version
+afaiu frozen node root version present captur node type version node
+recal svn forev

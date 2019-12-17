@@ -1,0 +1,3 @@
+chang default respectdocumentord
+current default search index configur paramet respectdocumentord true applic interest document order default add signific overhead queri execut document order inform present index calcul complet result set
+propos chang default fals document chang releas note applic reli document order explicitli set paramet configur true

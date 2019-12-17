@@ -1,0 +1,2 @@
+poiextractor
+poi scratchpad coupl text extractor util make easier extract text util write extractor code help avoid issu jcr

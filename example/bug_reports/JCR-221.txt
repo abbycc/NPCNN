@@ -1,0 +1,14 @@
+nosuchitemstateexcept node checkin invok transact
+run code take version transact run insid transact fail
+stacktrac
+error transactionalitemstatemanag java
+java lang except commit transact
+
+caus org apach jackrabbit core state transactionexcept unabl
+commit transact
+31f78b39 4ec8 b41e 2571b6807b05 http www jcp org jcr ischeckedout
+
+caus org apach jackrabbit core state nosuchitemstateexcept
+31f78b39 4ec8 b41e 2571b6807b05 http www jcp org jcr ischeckedout
+
+dont checkin node transact commit node left check

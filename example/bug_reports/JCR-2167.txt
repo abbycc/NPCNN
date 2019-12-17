@@ -1,0 +1,2 @@
+compactnodetypedefread auto provid default namespac map omit
+default namespac 'jcr' 'nt' 'mix' automat regist pars need

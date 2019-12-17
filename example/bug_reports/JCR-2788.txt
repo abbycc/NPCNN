@@ -1,0 +1,13 @@
+provid jackrabbitnod setmixin string mixinnam method
+assum scenario
+mixin declar mandatori properti
+mixin extend
+node mixin
+migrat downgrad node mixin
+easi replac assign mixin
+assign result nop redund
+remov remov mandatori properti
+method setmixin string migrat
+node mixin preserv 'shared' content
+semant setmixin string similar
+node setprimarytyp string

@@ -1,0 +1,22 @@
+enhanc test data
+run test case result number test case run test data repositori execut test
+find affect test case set log level 'org apach jackrabbit test' debug grep 'executable' jcr log file
+return list
+testgetdeclaringnodetyp org apach jackrabbit test api nodetyp propertydeftest execut
+testismandatori org apach jackrabbit test api nodetyp nodedeftest execut
+testvalueconstraintnotsatisfi org apach jackrabbit test api nodetyp cansetpropertybinarytest execut
+testvalueconstraintnotsatisfi org apach jackrabbit test api nodetyp cansetpropertybooleantest execut
+testvalueconstraintnotsatisfi org apach jackrabbit test api nodetyp cansetpropertydoubletest execut
+testgets org apach jackrabbit test api observ eventiteratortest execut
+testgetattribut org apach jackrabbit test api sessionreadmethodstest execut
+testreferenceablerootnod org apach jackrabbit test api referenceablerootnodestest execut
+testbinaryproperti org apach jackrabbit test api setvalueconstraintviolationexceptiontest execut
+testbooleanproperti org apach jackrabbit test api setvalueconstraintviolationexceptiontest execut
+testdoubleproperti org apach jackrabbit test api setvalueconstraintviolationexceptiontest execut
+testreferenceproperti org apach jackrabbit test api setvalueconstraintviolationexceptiontest execut
+testmultiplereferenceproperti org apach jackrabbit test api setvalueconstraintviolationexceptiontest execut
+testbinaryproperti org apach jackrabbit test api setpropertyconstraintviolationexceptiontest execut
+testbooleanproperti org apach jackrabbit test api setpropertyconstraintviolationexceptiontest execut
+testdoubleproperti org apach jackrabbit test api setpropertyconstraintviolationexceptiontest execut
+testreferenceproperti org apach jackrabbit test api setpropertyconstraintviolationexceptiontest execut
+test data jackrabbit enhanc order run test case successfulli

@@ -1,0 +1,6 @@
+queri builder jcr deref problem add predic jcr deref
+add predic properti 'value' jcr deref function
+queri builder throw invalidqueryexcept unsupport locat jcr deref
+queri
+element categori member jcr deref member properti 'value'
+invalid valid

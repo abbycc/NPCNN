@@ -1,0 +1,3 @@
+exportsysviewtest fail system properti org xml sax driver
+exportsysviewtest class xmlreaderfactori createxmlread method depend system properti org xml sax driver appar transformerfactori work issu problem appear chang xml export featur custom serial class jaxp transform serial jcr
+current workaround explicitli forc transform load fix issu replac xmlreader instanc saxpars

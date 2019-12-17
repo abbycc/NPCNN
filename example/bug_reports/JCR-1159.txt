@@ -1,0 +1,11 @@
+spi improv descript lock method repositoryservic
+detail
+getlockinfo
+intend behavior lock present
+intend behavior lock support
+lock
+invaliditemstateexcept list make sens
+refreshlock
+intend behavior lock support
+unlock
+invaliditemstateexcept list make sens

@@ -1,0 +1,4 @@
+qvaluefactori improv
+creat method throw repositoryexcept
+document creat type throw valueformatexcept
+remov special case creat file

@@ -1,0 +1,4 @@
+remov unnecessari nodeimpl refer lucenequeryfactori
+lucenequeryfactori cast nodeimpl node
+info api cast unnecessari
+attach patch tini issu

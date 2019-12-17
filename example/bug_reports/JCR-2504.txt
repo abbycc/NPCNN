@@ -1,0 +1,5 @@
+indexingconfigur load classpath
+indexingconfigur attribut searchindex configur http wiki apach org jackrabbit indexingconfigur requir absolut filesystem path
+nice searchindex accept file classpath variabl wsp home similar scenario classpath resourc creat workspac directori structur automat creat jackrabbit index configur file
+attach simpl patch searchindex load file classpath found prioriti behavior file classpath fulli backward compat
+diff gener trunk nice patch branch

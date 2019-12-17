@@ -1,0 +1,2 @@
+abstractquerytest evaluateresultord fail workspac content
+method abstractquerytest evaluateresultord throw notexecutableexcept workspac node order fail error messag tell workspac suffici content run test

@@ -1,0 +1,3 @@
+session imperson function
+sessionimpl imperson simpli call repositori login credenti workspac session credenti incomplet password miss method throw loginexcept fail authent userid mislead text reason failur authent userid session access right imperson userid
+applic crucial session imperson implement sens method creation session password credenti accept method fail fail correct messag

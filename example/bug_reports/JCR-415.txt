@@ -1,0 +1,7 @@
+enhanc index binari content
+index binari content enhanc order configur field index provid support custom nodeindex implement
+current design coupl flaw address time
+reader instanc request text filter reader
+jcr data properti resourc node fulltext index
+text filter implement decid lucen field text represent respons move nodeindex text filter provid reader instanc
+custom nodeindex decid binari properti represent index

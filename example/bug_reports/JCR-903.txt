@@ -1,0 +1,2 @@
+put resourc file java main test resourc
+maven standard directori layout http maven apach org guid introduct introduct standard directori layout html suggest resourc file src main resourc src test resourc put insid java subdirectori guidelin simplifi pom file explicitli configur resourc directori move resourc file argu

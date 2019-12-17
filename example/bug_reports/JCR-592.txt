@@ -1,0 +1,2 @@
+standard maven repositori depend
+jcr api jar standard maven repositori http jira codehau org brows mavenupload remov depend dai repositori request http jira codehau org brows mev

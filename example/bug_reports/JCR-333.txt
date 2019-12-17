@@ -1,0 +1,3 @@
+nodetypedef depend supertyp order
+nodetypedef setsupertyp method simpli set qname arrai supertyp qname arrai defin node type preserv order node type parser ultim node type definit file problem equal method order sensit arrai equal method check equal supertyp qname arrai current implement node type definit equal consid
+problem affect child node properti definit proper fix issu set store handl inform

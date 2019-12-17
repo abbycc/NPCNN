@@ -1,0 +1,6 @@
+virtualnodetypestateprovid creat propertyst type gettyp
+virtualnodetypestateprovid creat item state content represent node type definit case jcr defaultvalu hard code type properti state jcr properti propertytyp string
+definit propertydefinit state jcr defaultvalu requir type type determin base valu
+current behaviour lead situat
+properti gettyp properti getvalu gettyp
+point view bug

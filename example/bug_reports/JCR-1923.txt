@@ -1,0 +1,4 @@
+startup fail cluster jackrabbit upgrad
+close relat jcr
+call checklocalrevisionschema late preaprestat local revis tabl
+checklocalrevisionschema call checkschema

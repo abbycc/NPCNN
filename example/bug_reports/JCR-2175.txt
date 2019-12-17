@@ -1,0 +1,2 @@
+return bind variabl name repositoryservic checkquerystat
+properli support jsr bind variabl spi layer return name bind variabl jcr2spi implement check unknown name

@@ -1,0 +1,2 @@
+support jndi configur bundledbpersistencemanag
+nice option configur bundledbpersistencemanag databas jndi datasourc

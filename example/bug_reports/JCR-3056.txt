@@ -1,0 +1,3 @@
+jcr common add util translat string authorizablequeri execut user manag
+conveni jackrabbit jcr common provid util gener authoriz
+queri string

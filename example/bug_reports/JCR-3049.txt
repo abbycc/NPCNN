@@ -1,0 +1,2 @@
+npe consolidatingchangelog base nodeid
+consolidatingchangelog guard guard null path nodeid

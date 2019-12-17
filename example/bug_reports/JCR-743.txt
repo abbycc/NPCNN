@@ -1,0 +1,9 @@
+transact recoveri
+add node repositori xaexcept run timeout
+warn messag transact roll back timeout expir
+default timeout set sec dont set higher
+problem restart server webspher recoverymanag recov transact
+nullpointerexcept jcamanagedconnectionfactori createmanagedconnect beacus
+connectionrequestinfo null
+dont recoverymanag recov transact solut delet tran log file wich webspher recvoer
+trasnact

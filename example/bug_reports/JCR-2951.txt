@@ -1,0 +1,10 @@
+item remov fail child item visibl edit session
+test setup fail
+session allow remov node
+node polici child node visibl edit session miss read permiss
+node invis child item base permiss remov session
+call node remov fail accessdeniedexcept intern remov
+mechan access child item mark remov access execut
+regular itemmgr call retriev item jcr api
+result accessdeni except child item visibl session
+item remov argu bug intern remov process

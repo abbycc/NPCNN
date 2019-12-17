@@ -1,0 +1,4 @@
+test execut present mixin
+org apach jackrabbit test api noderemovemixintest testcheckedin
+org apach jackrabbit test api nodeaddmixintest testcheckedin
+fail mixin ad present node test check trow notexecutableexcept

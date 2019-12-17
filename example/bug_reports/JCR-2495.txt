@@ -1,0 +1,6 @@
+exclud test skip
+jcr2spi test run spi2jcr modul default configur skip jcr2spi built manual run jcr2spi test
+mvn dtest mytest dmaven test skip fals test
+work pom configur preced
+fix propos exclud test skip make manual execut test
+mvn dtest mytest test

@@ -1,0 +1,7 @@
+redesign spi observ
+current spi observ design happen event lost filter event listen chang
+
+http www nabbl spi observ eventfilt lifecycl tf4732281 html
+http peopl apach org mreutegg spi event problem png
+propos introduc subscript interfac attach patch
+http peopl apach org mreutegg spi event propos png

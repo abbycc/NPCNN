@@ -1,0 +1,2 @@
+speed nodeindex isindex check
+isindex method call multi valu properti expens lot valu

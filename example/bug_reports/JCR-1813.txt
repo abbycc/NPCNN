@@ -1,0 +1,34 @@
+invalid journal record xatransact
+prepar phase xatransact xaitemstatemanag prepar call shareitemstagemanag beginupd case clusternod call clusternod updateprepar changelogrecord write
+method locat clusterrecord systemat write begin end journal record
+consequ useless corrupt record written journal everytim transact end jackrabbit updat polut journal cluster node sync corrupt updat fail clusterrecorddeseri deseri record identifi empti
+changelogrecord clusterrecord implement write effect updat
+propos solut
+add method changelog client effect updat
+public boolean hasupd
+return addedst isempti modifiedst isempti deletedst isempti modifiedref isempti
+
+chang clusterrecord
+public final void write throw journalexcept
+hasupd
+record writestr workspac
+dowrit
+record writechar end marker
+
+
+protect abstract boolean hasupd
+implement hasupd clusterrecord implement
+changelogrecord
+protect boolean hasupd
+return hasupd event isempti
+
+lockrecord namespacerecord
+protect boolean hasupd
+return true
+
+nodetyperecord
+protect boolean hasupd
+return collect isempti
+
+
+stephan landel

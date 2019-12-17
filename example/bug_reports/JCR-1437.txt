@@ -1,0 +1,2 @@
+add framework perform test
+add test suit run kind perform test

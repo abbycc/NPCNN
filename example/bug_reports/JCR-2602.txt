@@ -1,0 +1,13 @@
+remov version throw javax jcr referentialintegrityexcept
+referentialintegrityexcept occur delet version succeed root version delet version work fine stack
+javax jcr referentialintegrityexcept unabl remov version referenc
+org apach jackrabbit core version internalversionhistoryimpl removevers internalversionhistoryimpl java
+org apach jackrabbit core version internalversionmanagerbas internalremovevers internalversionmanagerbas java
+org apach jackrabbit core version internalversionmanagerimpl run internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerimpl dynamicescfactori dosourc internalversionmanagerimpl java
+org apach jackrabbit core version internalversionmanagerimpl removevers internalversionmanagerimpl java
+org apach jackrabbit core version internalxaversionmanag removevers internalxaversionmanag java
+org apach jackrabbit core version versionhistoryimpl removevers versionhistoryimpl java
+code simpl
+versionhistori session getworkspac getversionmanag getversionhistori path
+removevers version version version succeed root version

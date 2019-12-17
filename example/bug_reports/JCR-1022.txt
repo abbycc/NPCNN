@@ -1,0 +1,2 @@
+reduc call repositoryservic getrepositorydescriptor
+descriptor chang request session

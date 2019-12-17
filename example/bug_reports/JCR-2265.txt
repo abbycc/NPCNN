@@ -1,0 +1,2 @@
+abstractreadablerepositoryservic pass credenti createsessioninfo
+abstractreadablerepositoryservic obtain call checkcredenti createsessioninfo pass userid credenti case implement credenti creat sessioninfo

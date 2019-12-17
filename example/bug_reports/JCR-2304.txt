@@ -1,0 +1,2 @@
+jackrabbit jcr client test fail disabl pom
+suggest enabl test fix issu caus fail

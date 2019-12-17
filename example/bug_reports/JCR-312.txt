@@ -1,0 +1,21 @@
+compactnodetypedefread add base declar supertyp extend
+report list michael singer
+wrote simpl program util contribut
+regist custom node type written cnd languag
+defin simpl custom node type
+test 'http foo bar test'
+test firstnodetyp
+test secondnodetyp mandatori
+test 'http foo bar test'
+test secondnodetyp test firstnodetyp
+test thirdnodetyp
+test 'http foo bar test'
+test thirdnodetyp test secondnodetyp
+test catalog string 'uri' 'urn' 'doi' 'isbn' 'issn'
+test entri string
+result custom nodetyp xml custom node
+supertyp base explicit defin supertyp
+base test secondnodetyp test thirdnodetyp
+behavior wrong method getdeclaredsupertyp
+class nodetyp return base explicit declar
+supertyp folder

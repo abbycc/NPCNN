@@ -1,0 +1,21 @@
+invalid queri result jcr case transform function pattern start wildcard
+repositori node properti
+john
+john
+joe
+joei
+run queri
+element document jcr lower case 'joh
+previou node match node
+reason rang scan lucen term index
+joh
+
+joh
+
+joh
+
+joh
+rang joe properti joei
+pattern 'joh regexp rang scan match
+substr valu properti rang 'y' rang
+solut full pattern 'joh match properti

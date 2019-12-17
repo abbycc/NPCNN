@@ -1,0 +1,17 @@
+jsr refer dereferenc properti valu
+refer
+
+method
+node getrefer string propertyiter
+node getweakrefer propertyiter
+node getweakrefer string propertyiter
+derferenc
+
+jsr properti type dereferenc node
+refer
+weakrefer
+path
+type convert type
+method
+properti getproperti return properti point path
+type convert path

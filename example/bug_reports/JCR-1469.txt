@@ -1,0 +1,4 @@
+data store garbag collect scaneventlisten work
+scaneventlisten call 'scan node recursively' strategi call persist manag implement iterablepersistencemanag garbagecollector scanpersistencemanag scaneventlisten call case progress garbag collect
+problem iterablepersistencemanag getallnodeid return node object make sens creat real node object perform advantag scanpersistencemanag lost
+propos workaround scaneventlisten call 'pseudonode' class implement node meaning getuuid tostr method creat meaning progress bar uuid return order

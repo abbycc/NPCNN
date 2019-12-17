@@ -1,0 +1,2 @@
+spi helper properli retriev org apach jackrabbit spi workspacenam param
+helper obtain sessioninfo null workspac

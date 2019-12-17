@@ -1,0 +1,2 @@
+move repositori home directori target directori
+spi test client repositori home directori jackrabbit core modul repositori home prefer target directori reset maven clean goal

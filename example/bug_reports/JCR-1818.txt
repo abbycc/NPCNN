@@ -1,0 +1,4 @@
+open file merg larg index segment
+larg index segment merg happen lot smaller index segment creat wait larg
+index merg complet lead 'too open files' except system
+find solut larg index merg decoupl regular index oper

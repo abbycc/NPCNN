@@ -1,0 +1,3 @@
+bad transit depend common httpclient
+report httpclient common httpclient depend introduc junit transit compil scope depend librari common log sidestep jackrabbit' slf4j log
+avoid issu local overrid junit depend common httpclient replac common log depend jcl104 slf4j

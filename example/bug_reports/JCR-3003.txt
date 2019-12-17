@@ -1,0 +1,2 @@
+tika configur wrong class loader
+configur tika parser construct mechan ad jcr construct parser instanc lazili index request made confus thing context class loader tika load parser class class loader creat repositori avoid problem tika parser construct normal repositori initi

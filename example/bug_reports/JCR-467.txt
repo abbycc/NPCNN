@@ -1,0 +1,15 @@
+compactnodetyperead fail explain valid jcr name error
+underscor node type definit
+breaks2
+fact allow quot error messag make mistak give hint
+miss delimit end node type nodetyp cnd line
+document websit javadoc compactnodetypedefread
+unquot string string
+help made mistak end need sourc figur wrong
+suggest solut
+chang document unquot string
+chang error messag mention token caus problem
+currenttokenequ lexer end node type
+lexer fail miss lexer end node type delimit end node type found currenttoken
+
+add wordchar lexer common doesnt conflict rule

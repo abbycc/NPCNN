@@ -1,0 +1,3 @@
+version merg corrupt repositori
+version merg corrupt repositori 'protected' flag version nodetyp properli check
+due wrong test case call merg version normal node

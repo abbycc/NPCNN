@@ -1,0 +1,5 @@
+miss 'node removed' event remov version
+version remov 'node removed' event trigger version node frozen node version remov event frozen node
+fail test case
+org apach jackrabbit core observ versioneventstest testremovevers
+org apach jackrabbit core observ versioneventstest testxaremovevers

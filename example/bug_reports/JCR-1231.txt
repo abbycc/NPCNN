@@ -1,0 +1,2 @@
+jcr2spi unneed call getpropertyinfo creat nodest
+creat nodest result addit unneed call getpropertyinfo jcr uuid jcr mixintyp properti present avoid properti valu present

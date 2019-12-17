@@ -1,0 +1,16 @@
+jcr2spi updatetest testupdateremovesextraproperti testupdateaddsmissingsubtre fail occasion
+issu report jukka
+jcr2spi test failur
+clean checkout
+test error
+testupdateremovesextraproperti org apach jackrabbit jcr2spi updatetest
+testupdateaddsmissingsubtre org apach jackrabbit jcr2spi updatetest
+problem caus test case automat
+choos secur workspac updat test reason
+test fail occasion order
+string arrai return getaccessibleworkspacenam
+determinist
+work issu make
+repositoryimpl getworkspacenam explicitli sort return arrai
+name proper fix ensur
+workspac select updatetest test

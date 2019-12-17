@@ -1,0 +1,5 @@
+set queri setoffset pass result total return neg getsiz
+queri return result
+set queri setoffset pass total
+row nodeiter getsiz return incorrect
+expect getsiz return

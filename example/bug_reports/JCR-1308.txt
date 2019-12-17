@@ -1,0 +1,14 @@
+unnecessari null check effectivenodetyp getapplicablechildnodedef
+trivial thing notic inspect code getapplicablechildnodedef
+name node definit
+itemdef def getnameditemdef
+def null
+getnameditemdef defin return null
+public itemdef getnameditemdef
+list def list nameditemdef
+def null def size
+return itemdef empti arrai
+
+return itemdef def toarrai itemdef def size
+
+check unnecessari null check

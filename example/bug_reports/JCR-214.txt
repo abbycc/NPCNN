@@ -1,0 +1,27 @@
+nullpointerexcept lucenequerybuild
+set queri
+mycoreclass 'archnachl class 003' label 'a'
+nullpointerexcept
+java lang nullpointerexcept
+org apach jackrabbit core queri lucen lucenequerybuild visit lucenequerybuild java
+org apach jackrabbit core queri relationquerynod accept relationquerynod java
+org apach jackrabbit core queri naryquerynod acceptoperand naryquerynod java
+org apach jackrabbit core queri lucen lucenequerybuild visit lucenequerybuild java
+org apach jackrabbit core queri locationstepquerynod accept locationstepquerynod java
+org apach jackrabbit core queri lucen lucenequerybuild visit lucenequerybuild java
+org apach jackrabbit core queri pathquerynod accept pathquerynod java
+org apach jackrabbit core queri lucen lucenequerybuild visit lucenequerybuild java
+org apach jackrabbit core queri queryrootnod accept queryrootnod java
+org apach jackrabbit core queri lucen lucenequerybuild createlucenequeri lucenequerybuild java
+org apach jackrabbit core queri lucen lucenequerybuild createqueri lucenequerybuild java
+org apach jackrabbit core queri lucen queryimpl execut queryimpl java
+org apach jackrabbit core queri queryimpl execut queryimpl java
+valid queri search label properti properti specif mycoreclass node jackrabbit exit nullpointerexept
+current svn snapshot jackrabbit record line lucenequerybuild java
+string field
+
+field node getproperti tojcrnam nsmap
+catch noprefixdeclaredexcept
+happen
+except add
+

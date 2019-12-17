@@ -1,0 +1,2 @@
+row getvalu rep excerpt throw arrayindexoutofboundsexcept
+match node properti configur excerpt

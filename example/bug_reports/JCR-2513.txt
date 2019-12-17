@@ -1,0 +1,9 @@
+omit default batchreadconfig spi2davexrepositoryservicefactori
+remov default batchread configur creat spi2davexrepositoryservicefactori pass
+null servic configur defin batch read config
+test execut default optim session short life time read
+limit amount item gener read depth add benefit case
+run level1 jcr test jcr2dav defin extra batchread config minut
+null config depth2 depth4
+strong reason keep default factori chang test
+michael

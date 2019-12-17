@@ -1,0 +1,6 @@
+improv user manag
+contain issu improv need user manag implement core
+improv
+extens
+current structur user group jcr content easi find user group
+groupid unescap return getid

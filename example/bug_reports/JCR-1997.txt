@@ -1,0 +1,13 @@
+perform fix deseri larg jcr binari valuehelp deseri
+profil import larg pdf file magnolia jackrabbit jcr repositori found larg cpu time spent
+http daemon prio tid 0x5569fc00 nid 0x6ec runnabl 0x5712d000 0x5712fb14
+java lang thread state runnabl
+java fileoutputstream writebyt nativ method
+java fileoutputstream write fileoutputstream java
+org apach jackrabbit util base64 decod base64 java
+org apach jackrabbit util base64 decod base64 java
+org apach jackrabbit valuehelp deseri valuehelp java
+org apach jackrabbit core xml bufferedstringvalu getvalu bufferedstringvalu java
+org apach jackrabbit core xml propinfo appli propinfo java
+sourc code base64 decod obviou write 1to3byt chunk unbuff fileoutputstream call kernel time write byte lot cpu usag disk usag
+provid fix trivial wrap fileoutputstream bufferedoutputstream

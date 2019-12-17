@@ -1,0 +1,2 @@
+provid base class simplifi read repositoryservic implement
+base class simplifi implement repositoryservic read access

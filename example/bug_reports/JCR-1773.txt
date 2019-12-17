@@ -1,0 +1,24 @@
+shareabl node wrong path return remov delet wrong node
+shareabl node happen getpath return wrong path node share set
+
+verifi share node return correct path
+
+public void testpath throw except
+node testrootnod addnod
+node addnod
+node addnod
+addmixin mix shareabl
+testrootnod save
+shareabl node path
+session session testrootnod getsess
+workspac workspac session getworkspac
+string path getpath
+workspac clone workspac getnam getpath path fals
+shareabl node share set path
+path node
+item item session getitem path
+string item getpath
+assertfals unexpectedli path node share set equal getpath
+
+note subsequ remov delet wrong node
+manfr spot

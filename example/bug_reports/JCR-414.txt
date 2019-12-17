@@ -1,0 +1,7 @@
+jcr successor properti persist correctli transact
+transact creat version read version histori jcr successor properti updat note jcr predecessor updat properli
+version histori propertli read transact empti behavior consist execut
+restart repositori version histori jcr successor properti read properli
+test case follow shortli
+
+nicola

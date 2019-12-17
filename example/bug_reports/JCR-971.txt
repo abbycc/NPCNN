@@ -1,0 +1,6 @@
+documentviewexportvisitor class incorrectli handl xml escap element name
+method privat static string escapenam string test
+xmlchar isncnamestart xmlchar isncnam
+chang
+xmlchar isncnamestart xmlchar isncnam
+order properli escap text method xmlchar return true charact valid

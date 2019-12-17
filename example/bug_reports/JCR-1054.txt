@@ -1,0 +1,8 @@
+duplic attribut beandescriptor collectiondescriptor
+attribut beandescriptor collectiondescriptor store jcr type jcrtype jcrnodetyp jcrnodetyp remov
+impli modif dtd implement map xml file unit test
+nice jcrtype descriptor lot confus descriptor jcrtype jcrnodetyp propos jcrtype purpos
+classdescriptor store primari node type class
+fielddescriptor store properti type
+beandescriptor defin child node type
+collectiondescriptor defin child node type

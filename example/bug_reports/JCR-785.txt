@@ -1,0 +1,4 @@
+updat multipl workspac transact lock cluster journal
+run transact updat multipl workspac version oper lock acquir reentrant lock cluster' journal short term fix make lock entrant long run transact context sensit lock
+reproduc enabl cluster test environ test core xatest testsetversionlabel run result deadlock commit oper
+initi report rafał kwiecień problem springmodul cluster turn gener problem transact cluster report

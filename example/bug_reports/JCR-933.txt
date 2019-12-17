@@ -1,0 +1,22 @@
+repositoryimpl acquirerepositorylock fail detect file lock held current process
+java nix base platform concurr instanti
+repositori instanc jvm base ident configur
+critic issu lead data corrupt
+issu exist java version prior nix base platform verifi
+mac
+note issu exist file lock held jvm
+code snippet reproduc issu
+repositori rep1 transientrepositori
+session rep1 login simplecredenti johndo tochararrai
+repositori rep2 transientrepositori
+session rep2 login simplecredenti johndo tochararrai
+root problem incorrect behavior java nio channel filechannel trylock
+demonstr code snippet
+
+filelock fl1 fileoutputstream foo getchannel trylock
+system println 1st lock fl1
+filelock fl2 fileoutputstream foo getchannel trylock
+system println 2nd lock fl2
+catch throwabl
+printstacktrac
+

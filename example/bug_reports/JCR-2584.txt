@@ -1,0 +1,2 @@
+switch log4j logback
+logback http logback qo nativ slf4j implement wai superior log4j http logback qo reasonstoswitch html notabl includ packag version inform log stack trace http logback qo reasonstoswitch html packagingdata case

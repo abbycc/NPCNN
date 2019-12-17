@@ -1,0 +1,21 @@
+tck propertydeftest nodedeftest respect testroot configur properti
+propertydeftest nodedeftest test setup respect testroot configur properti
+propos testroot configur properti
+patch propertydeftest
+nodetyp propertydeftest java revis
+nodetyp propertydeftest java work copi
+
+session helper getreadonlysess
+manag session getworkspac getnodetypemanag
+rootnod session getrootnod
+rootnod testrootnod
+
+patch nodedeftest
+nodetyp nodedeftest java revis
+nodetyp nodedeftest java work copi
+
+session helper getreadonlysess
+manag session getworkspac getnodetypemanag
+rootnod session getrootnod
+rootnod testrootnod
+

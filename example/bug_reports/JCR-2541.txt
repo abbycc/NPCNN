@@ -1,0 +1,4 @@
+spi2dav eventjourn implement
+detail realiz eventjournaltest tck fail setup
+jcr2spi spi2dav jcr server
+assum due miss implement spi method throw unsupportedrepositoryoperationexcept

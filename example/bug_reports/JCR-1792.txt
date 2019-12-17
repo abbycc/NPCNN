@@ -1,0 +1,120 @@
+jcr frozenuuid jcr content
+store version file problem retriev jcr data custom node type
+store node type
+xrc learningcont
+xrc keyword
+xrc mimetyp
+jcr mixintyp
+xrc descript
+xrc languag
+xrc creator
+jcr creat
+xrc titl
+jcr primarytyp
+extend resourc
+jcr uuid
+jcr mixintyp
+jcr data
+jcr encod
+jcr mimetyp
+jcr lastmodifi
+jcr primarytyp
+commit pull version frozennod
+node frozennod getnod jcrconstant jcr frozennod
+return properti contain
+propertyiter frozennod getproperti
+hasnext
+system println nextproperti getnam
+
+return
+jcr frozenuuid
+jcr uuid
+jcr frozenprimarytyp
+jcr frozenmixintyp
+jcr primarytyp
+frozen node type
+frozennod
+
+
+jcr frozenuuid
+jcr uuid
+jcr mixintyp
+jcr frozenprimarytyp
+jcr frozenmixintyp
+jcr primarytyp
+basic recurs copi insid internalfrozennodeimpl work case code trace add line internalfrozennodeimpl java
+system println node creat prop
+
+propertyst node getproperti
+propertyst
+system println getnam
+system println tostr
+
+nodestateex node getchildnod
+nodestateex
+system println getnam
+system println tostr
+
+catch itemstateexcept
+todo auto gener catch block
+printstacktrac
+
+result
+node creat prop
+http www jcp org jcr uuid
+org apach jackrabbit core state propertyst 10dd791
+http www jcp org jcr frozenprimarytyp
+org apach jackrabbit core state propertyst 1c38291
+http www jcp org jcr frozenmixintyp
+org apach jackrabbit core state propertyst b12fbb
+http www jcp org jcr basevers
+org apach jackrabbit core state propertyst b4d4b6
+http www jcp org jcr primarytyp
+org apach jackrabbit core state propertyst 1f9045f
+http www jcp org jcr ischeckedout
+org apach jackrabbit core state propertyst 18e16b5
+http www jcp org jcr frozenuuid
+org apach jackrabbit core state propertyst 174cb00
+http www jcp org jcr predecessor
+org apach jackrabbit core state propertyst bb7c1b
+http www jcp org jcr data
+org apach jackrabbit core state propertyst d10133
+http www jcp org jcr versionhistori
+org apach jackrabbit core state propertyst 1a5f001
+http www jcp org jcr encod
+org apach jackrabbit core state propertyst 12fe3ef
+http www jcp org jcr mimetyp
+org apach jackrabbit core state propertyst 11d92c8
+http www jcp org jcr lastmodifi
+org apach jackrabbit core state propertyst 8fb83a
+node creat prop
+http www xerceo learn jcr keyword
+org apach jackrabbit core state propertyst 18808f3
+http www jcp org jcr uuid
+org apach jackrabbit core state propertyst 397a4
+http www jcp org jcr frozenprimarytyp
+org apach jackrabbit core state propertyst 1d88ffd
+http www xerceo learn jcr creator
+org apach jackrabbit core state propertyst d5625b
+http www xerceo learn jcr languag
+org apach jackrabbit core state propertyst 12c70e6
+http www xerceo learn jcr titl
+org apach jackrabbit core state propertyst a836b3
+http www jcp org jcr frozenmixintyp
+org apach jackrabbit core state propertyst 19f273c
+http www jcp org jcr primarytyp
+org apach jackrabbit core state propertyst 1c8e97d
+http www jcp org jcr frozenuuid
+org apach jackrabbit core state propertyst 15915a3
+http www jcp org jcr predecessor
+org apach jackrabbit core state propertyst 19ba907
+http www xerceo learn jcr mimetyp
+org apach jackrabbit core state propertyst 763ca1
+http www xerceo learn jcr descript
+org apach jackrabbit core state propertyst 8687e8
+http www jcp org jcr versionhistori
+org apach jackrabbit core state propertyst 44ca0f
+http www jcp org jcr content
+org apach jackrabbit core version nodestateex 2da721
+node defin properti
+extend frozennod work

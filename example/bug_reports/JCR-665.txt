@@ -1,0 +1,2 @@
+rmi properti getvalu fail eofexcept read
+read binari properti rmi happen fail throw eofexcept caus server side open file bacaus binaryvalu writeobject close underli inputstream

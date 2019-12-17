@@ -1,0 +1,2 @@
+improv reusabl abstractrepositoryservic abstractreadablerepositoryservic
+function abstractreadablerepositoryservic specif read appli implement node type space descriptor suggest pull function abstractreadablerepositoryservic abstractrepositoryservic

@@ -1,0 +1,10 @@
+collaps nest express
+execut queri multipl express predic lead score valu depend order operand
+queri
+jcr prop1 'foo' jcr prop2 'foo' jcr prop3 'foo' order jcr score descend
+return slightli result compar
+jcr prop3 'foo' jcr prop1 'foo' jcr prop2 'foo' order jcr score descend
+intern jackrabbit pars predic queri tree
+orexpr orexpr prop1 'foo' prop2 'foo' prop3 'foo'
+lucen calcul score express outer equival nest express properti name sequenc
+queri translat intern singl express operand score irrespect order operand

@@ -1,0 +1,6 @@
+sql parser fail sql timestamp format
+sql queri parser fail except sql timestamp format
+
+date timestamp '1976 00'
+work succe iso8601
+date timestamp '1976 01t00 00'

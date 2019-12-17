@@ -1,0 +1,3 @@
+core state childnodeentri overrid equal object hashcod method
+state nodestatemerg call childnodeentri equal childnodeentri compar child node entri collect
+childnodeentri overrid equal object method

@@ -1,0 +1,4 @@
+fix unexpect behavior text getnam
+text getnam variant return empti string path
+text getnam foo return foo expect rel path
+suggest chang

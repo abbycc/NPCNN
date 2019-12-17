@@ -1,0 +1,4 @@
+refactor mapper descriptotread class
+refactor mapper descriptor reader order
+creat abstract mapper impl mapper class lot code common annotedobjectmapp digestermapperimpl reader mapper make process
+mapper class respons creat jcr node type mapper option oper case node type creation annot object mapper creat jcr node type

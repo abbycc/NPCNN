@@ -1,0 +1,14 @@
+workspac clone fail time clone referenc
+testcod fail 2nd clone note 'folder' node made
+referenc test pass copi adapt test workspaceclonetest
+public void testclonenodestwic throw repositoryexcept
+clone referenc node referenc node
+string dstabspath node2w2 getpath node1 getnam
+node folder node1 addnod folder
+folder addmixin mix referenc
+node1 save
+workspacew2 clone workspac getnam node1 getpath dstabspath true
+workspacew2 clone workspac getnam node1 getpath dstabspath true
+pend clone
+assertfals superuserw2 haspendingchang
+

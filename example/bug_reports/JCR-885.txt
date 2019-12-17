@@ -1,0 +1,4 @@
+bundlepersistencemanag externalblob configur
+configur properti externalblob workspac xml work
+bundlepersistencemanag method setexternalblob boolean externalblob configur
+bean conform databasepersistencemanag method

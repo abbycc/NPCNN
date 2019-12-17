@@ -1,0 +1,10 @@
+pom xml sandbox spi wrong scm url
+pom sandbox spi wrong scm url
+pom
+http svn apach org repo asf jackrabbit sandbox spi pom xml
+
+scm
+connect scm svn http svn apach org repo asf jackrabbit sandbox spi connect
+developerconnect scm svn http svn apach org repo asf jackrabbit sandbox spi developerconnect
+url http svn apach org viewvc jackrabbit sandbox spi url
+scm

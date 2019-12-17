@@ -1,0 +1,2 @@
+support db2 bundledbpersistencemanag
+bundledbpersistencemanag work db2 db2 ddl file miss creat databas scheme db2

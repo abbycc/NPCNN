@@ -1,0 +1,2 @@
+journal buffer input output stream
+journal buffer input output stream place byte directli written journal file degrad perform

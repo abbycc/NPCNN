@@ -1,0 +1,15 @@
+cach jcr qname map
+jcr name pars resolv qname instanc introduc cach increas perform save memori jcr name return qname instanc cach
+test common read oper show perform improv
+test involv method node interfac
+getproperti
+getproperti
+getnam
+getpath
+islock
+isnodetyp
+getprimarynodetyp
+hasnod
+getnod
+attach propos implement qnameresolv
+comment

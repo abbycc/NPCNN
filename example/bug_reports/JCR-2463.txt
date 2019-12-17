@@ -1,0 +1,5 @@
+minor spi2dav exceptionconvert improv
+nice exceptionconvert class spi2dav return unsupportedrepositoryoperationexcept undeclar unsupportedoperationexcept http respons
+exceptionconvert gener method clean return gener except case return throw
+final unus code chanc java cleanup
+attach patch commit object

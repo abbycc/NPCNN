@@ -1,0 +1,6 @@
+lenient behavior node addmixin mixin present
+chang implement addmixin fail mixin present
+
+jackrabbit core chang http svn apach org viewvc view rev revis
+jsr issu http jsr dev java net issu show bug cgi
+affect tck jcr2spi compon

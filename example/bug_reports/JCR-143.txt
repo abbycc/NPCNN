@@ -1,0 +1,5 @@
+queri string liter broken liter coerc type
+string liter coerc type integ properti type string match liter found
+queri match prop string '1234'
+prop '1234'
+queri match properti string '1234' integ

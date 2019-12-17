@@ -1,0 +1,30 @@
+build fail system
+fail test testfilecontain org apach jackrabbit core queri fulltextquerytest
+caus
+java lang internalerror connect x11 window server displai variabl
+sun awt x11graphicsenviron initdisplai nativ method
+sun awt x11graphicsenviron access x11graphicsenviron java
+sun awt x11graphicsenviron run x11graphicsenviron java
+java secur accesscontrol doprivileg nativ method
+sun awt x11graphicsenviron clinit x11graphicsenviron java
+java lang class forname0 nativ method
+java lang class fornam class java
+java awt graphicsenviron getlocalgraphicsenviron graphicsenviron java
+sun awt x11 xtoolkit clinit xtoolkit java
+java lang class forname0 nativ method
+java lang class fornam class java
+java awt toolkit run toolkit java
+java secur accesscontrol doprivileg nativ method
+java awt toolkit getdefaulttoolkit toolkit java
+java awt toolkit geteventqueu toolkit java
+java awt eventqueu isdispatchthread eventqueu java
+javax swing swingutil iseventdispatchthread swingutil java
+javax swing text stylecontext reclaim stylecontext java
+javax swing text stylecontext addattribut stylecontext java
+javax swing text stylecontext namedstyl addattribut stylecontext java
+javax swing text stylecontext namedstyl setnam stylecontext java
+javax swing text stylecontext namedstyl init stylecontext java
+javax swing text stylecontext addstyl stylecontext java
+javax swing text stylecontext init stylecontext java
+javax swing text defaultstyleddocu init defaultstyleddocu java
+org apach tika parser rtf rtfparser pars rtfparser java

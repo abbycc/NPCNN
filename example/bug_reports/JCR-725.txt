@@ -1,0 +1,5 @@
+configur cachemanag memori size
+post comment jcr
+maximum size cach cachemanag hardcod megabyt chang nice cachemanag paramet configur wast run jackrabbit server gigabyt memori megabyt cach
+creat simpl straightforward patch jackrabbit cachemanag config patch enabl reach cachemanag instanc repositoryimpl object set memori paramet memori paramet longer static constant instanc field initi valu constant default behavior class remain
+nicer paramet configur configur file implement close project

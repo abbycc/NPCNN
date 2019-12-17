@@ -1,0 +1,2 @@
+namespac handl abstractsess synchron
+abstractsess base class common implicitli assum session access concurr thread synchron access namespac map problem session access concurr reli client code enforc thread safeti explicitli synchron potenti unsaf oper session instanc

@@ -1,0 +1,8 @@
+cluster race condit duplic entri search index
+race condit duplic search index entri reproduc jackrabbit
+start clusternod add singl node node type cluster test
+shutdown clusternod
+start clusternod empti search index
+execut queri element cluster test
+print result queri uuid node result set
+run clusternod node resultset expect debug clusternod breakpoint paus second line repositoryimpl java clusternod start resultset result uuid

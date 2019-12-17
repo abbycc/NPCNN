@@ -1,0 +1,5 @@
+databasefilesystem' logger refer wrong class
+databasefilesystem logger construct
+privat static logger log loggerfactori getlogg dbfilesystem class
+construct
+privat static logger log loggerfactori getlogg databasefilesystem class

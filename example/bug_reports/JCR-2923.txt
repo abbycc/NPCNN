@@ -1,0 +1,6 @@
+sql2 parser improv error messag ambigu properti join
+queri form
+select parent join child parent child parentid
+sql2 parser return gener error messag queri result selector
+error messag point problemat token
+queri select parent join child parent child parentid expect selector queri selector

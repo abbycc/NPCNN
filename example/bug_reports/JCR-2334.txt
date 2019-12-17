@@ -1,0 +1,2 @@
+tika base type detect jcr server
+discuss dev make jackrabbit jcr server compon apach tika automat media type detect

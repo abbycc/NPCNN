@@ -1,0 +1,2 @@
+jackrabbit parent pom
+offici releas org apach jackrabbit parent pom start parent jackrabbit build

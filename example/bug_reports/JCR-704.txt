@@ -1,0 +1,2 @@
+enabl maven sourc plugin
+maven sourc plugin enabl default jackrabbit jcr rmi good enabl global jackrabbit compon

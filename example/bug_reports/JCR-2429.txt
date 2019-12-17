@@ -1,0 +1,4 @@
+cluster broken due duplic cachingpersistencemanag interfac
+interfac cachingpersistencemanag packag org apach jackrabbit core persist bundl org apach jackrabbit core persist pool persist manag implement bundl interfac receiv onexternalupd event requir cluster work
+move interfac packag org apach jackrabbit core persist remov implement
+chang affect backward compat break past nodeid uuid

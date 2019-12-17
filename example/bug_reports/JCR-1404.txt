@@ -1,0 +1,9 @@
+javadoc write gener mvn
+mvn sourc javadoc javadoc work line ad pom xml
+plugin
+artifactid maven javadoc plugin artifactid
+configur
+sourc sourc
+configur
+plugin
+write comprehens javadoc sourc understand develop oper

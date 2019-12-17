@@ -1,0 +1,2 @@
+base64 bug buffer flush
+found issu org apach jackrabbit util base64 encod inputstream outputstream method appear issu buffer flush writer creat return method work issu creat writer program call encod method call flush method data sourc trunk appear

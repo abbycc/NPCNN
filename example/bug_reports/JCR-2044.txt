@@ -1,0 +1,2 @@
+pass resultfetchs limit hint sortedlucenequeryhit
+sortedlucenequeryhit default lucen initi retriev sort result larger result set optim execut underli queri valu queri hit limit set queri resultfetchs configur searchindex

@@ -1,0 +1,8 @@
+tck nodemixinutil exclud mix shareabl
+mixin test noderemovemixintest testremovesuccessfulli remov mixin
+retriev addabl mixin nodetypeutil getaddablemixinnam add remov
+addabl mixin retriev complet set mixin test node canaddmixin
+jackrabbit core mix shareabl ad remov
+test chanc mixin test fail except explicit check core case
+tck exclud special case
+michael found issu

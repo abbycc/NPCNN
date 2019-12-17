@@ -1,0 +1,31 @@
+inputstream explicitli close
+deploi j2ee artifact jackrabbit org apach jackrabbit core persist pool mysqlpersistencemanag glassfish start complain input stream explicitli close
+specif inputstream mei found org apach jackrabbit core persist pool bundledbpersistencemanag createcheckschemaoper bundledbpersistencemanag java
+check code bundledbpersistencemanag run method invok object checkschemaoper
+run method checkschemaoper final block call ioutil closequietli ddl close stream insid condit conhelp tableexist tabl checkschemaoper
+condit fals inputstream explicitli close
+opinion fix altern
+robust
+insert final method
+overrid
+protect void final throw throwabl
+ddl null
+ioutil closequietli ddl
+
+super final
+
+altern
+put condit conhelp tableexist tabl insid final block
+stacktrac
+05t11 warn glassfish3 javax enterpris system core classload sun enterpris loader threadid threadnam thread input stream final forc close explicitli close stream instanti report stack trace
+java lang throwabl
+sun enterpris loader asurlclassload sentinelinputstream init asurlclassload java
+sun enterpris loader asurlclassload internaljarurlconnect getinputstream asurlclassload java
+java net url openstream url java
+java lang classload getresourceasstream classload java
+sun enterpris loader asurlclassload getresourceasstream asurlclassload java
+java lang class getresourceasstream class java
+org apach jackrabbit core persist pool bundledbpersistencemanag createcheckschemaoper bundledbpersistencemanag java
+org apach jackrabbit core persist pool bundledbpersistencemanag init bundledbpersistencemanag java
+org apach jackrabbit core persist pool mysqlpersistencemanag init mysqlpersistencemanag java
+org apach jackrabbit core repositoryimpl createpersistencemanag repositoryimpl java

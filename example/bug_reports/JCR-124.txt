@@ -1,0 +1,25 @@
+session import fail resolv propert properti definit case
+properti assign wrong definiton import sysview xml
+selecteion definit fail condit
+nodetyp multi valu properti singl valu
+residu properti
+data import multivalu properti creat residu definit
+access propertie' valu fail valueformatexcept
+
+node type
+properti
+myapp
+mulitpl true
+properti
+
+multibl fals
+sysview
+node somenod
+properti jcr primarytyp type
+myapp samplent
+properti
+properti myapp type string
+multi valu
+properti
+node
+mayapp import residul properti

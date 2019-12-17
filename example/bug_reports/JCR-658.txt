@@ -1,0 +1,2 @@
+canaddchildnodecallwithnodetypetest testdefinedandlegaltyp fail protect child node definit pick
+util nodetypeutil locatechildnodedef pick protect child node definit test case fail allow add protect child node

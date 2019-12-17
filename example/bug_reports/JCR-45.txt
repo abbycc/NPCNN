@@ -1,0 +1,5 @@
+version getrefer work correctli
+jcr system jcr versionstorag share workspac refer version version histori workspac sensit workspac version node respect version histori visibl jcr versionstorag call getrefer return jcr versionhistori properti node access repositori workspac node correspond call getrefer return empti set true version node referenc jcr basevers jcr predecessor properti
+spec chapter jcr versionstorag
+full set version histori version storag store singl locat repositori reflect workspac subtre node jcr system jcr versionstorag
+

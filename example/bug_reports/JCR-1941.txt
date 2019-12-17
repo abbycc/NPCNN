@@ -1,0 +1,32 @@
+accessmanag ask properti jcr creat permiss actual creation object
+implement custom accessmanag jackrabbit bug creat object
+perform addnod accessmanag isgrant method override'd perform code
+
+string perm null
+nodeid nodeid mhiermgr resolvenodepath ppath
+propertyid propid null
+nodeid null
+propid mhiermgr resolvepropertypath ppath
+system println path ppath tostr
+todo object creat accessmanag read access properti
+propid null return true
+nodeid propid getparentid
+
+system println result
+path jecar default group testgroup http www jcp org jcr creat
+stacktrac
+org jecar car accessmanag isgrant car accessmanag java
+org jecar car accessmanag isgrant car accessmanag java
+org apach jackrabbit core itemmanag canread itemmanag java
+org apach jackrabbit core itemmanag canread itemmanag java
+org apach jackrabbit core itemmanag createitemdata itemmanag java
+org apach jackrabbit core itemmanag getitemdata itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core nodeimpl createchildproperti nodeimpl java
+org apach jackrabbit core nodeimpl createchildnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdchildnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdnod nodeimpl java
+org apach jackrabbit core nodeimpl internaladdnod nodeimpl java
+org apach jackrabbit core nodeimpl addnod nodeimpl java
+read permiss jcr creat properti request object creat

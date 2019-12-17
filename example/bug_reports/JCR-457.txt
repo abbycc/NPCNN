@@ -1,0 +1,9 @@
+path return filesystemblobstor createid absolut
+
+develop filesystem call filesystempathutil checkformat path oper file system
+file system call store blob path rel result absolut path filesystemexcept
+problem trace back org apach jackrabbit core state util filesystemblobstor creatid
+
+append filesystem separ char
+loop
+

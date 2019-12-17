@@ -1,0 +1,2 @@
+nodecanaddmixintest testcheckedin wrong option check
+nodecanaddmixintest testcheckedin check lock option version option

@@ -1,0 +1,3 @@
+spi repositoryservic getiteminfo allow return entri request tree
+michael duerig ask extens semant repositoryservic getiteminfo
+work lead inconsist hierarchi

@@ -1,0 +1,6 @@
+implement anonym login credenti
+jackrabbit implement anonym login detect null credenti argument login compliant specif
+spec
+credenti null assum authent handl mechan extern repositori jaa framework repositori implement exist context applic server handl author request access workspac
+spec
+jackrabbit support anonym login defin credenti subclass simplecredenti predefin userid read access

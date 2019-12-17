@@ -1,0 +1,27 @@
+tck documentviewimporttest call refresh direct workspac import
+perform direct workspac import test call refresh ensur transient layer stale data
+propos call refresh fals perform direct workspac import
+documentviewimporttest java revis
+documentviewimporttest java work copi
+
+saxexcept notexecutableexcept
+importxml target createsimpledocu uuidbehaviour withworkspac
+
+withworkspac
+
+session refresh fals
+
+
+performtest
+
+
+saxexcept ioexcept notexecutableexcept
+importwithhandl target createsimpledocu uuidbehaviour withworkspac
+
+withworkspac
+
+session refresh fals
+
+
+performtest
+

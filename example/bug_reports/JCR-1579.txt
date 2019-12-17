@@ -1,0 +1,3 @@
+improv xml export handl
+mention jcr current xml export function gener workaround propertywrapp class refactor clean xml export stuff workaround need
+addit bonu make core jcr2spi xml export mechan core support jsr shareabl node jcr2spi

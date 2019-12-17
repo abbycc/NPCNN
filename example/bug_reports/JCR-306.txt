@@ -1,0 +1,13 @@
+repositoryconfig setter intern compon
+mail list archiv moment
+jukka' repli
+refactor config class year chang
+config instanc jackrabbit gener
+ioc approach setter configur jackrabbit
+compon pass config object
+let compon instanti subcompon base
+configur make config
+constructor public easili backward
+compat issu chang configur
+handl
+

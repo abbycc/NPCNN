@@ -1,0 +1,10 @@
+arrayindexoutofboundsexcept nodetypedefdiff
+appear code build diff child node definit loop incorrectli open possibl arrayindexoutofbound except offend portion buildchildnodedefdiff method
+
+nodedef cnda2 newdef getchildnodedef
+hashmap defs2 hashmap
+int cnda1 length
+defs2 put cnda2 getid cnda2
+
+
+simpli chang length check cnda2 buildpropdefsdiff suffic

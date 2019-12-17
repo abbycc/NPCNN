@@ -1,0 +1,6 @@
+support easi pre authent login
+applic authent user access repositori behalf pre authent user
+exampl pre authent includ sso solut web applic web base authent protocol easili implement jaa loginmodul openid similar
+situat password provid simplecredenti regular login user password
+propos enhanc abstractloginmodul set specif attribut simplecredenti attribut map attribut set authent login succe session user name simplecredenti creat
+starter check presenc attribut

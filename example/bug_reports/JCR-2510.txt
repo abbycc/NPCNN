@@ -1,0 +1,3 @@
+abstractresourc jcr createdbi expos dav creator displaynam
+jcr deltav properti dav creator displaynam extract jcr createdbi properti
+comment abstract resourc creator displaynam comment jcr outdat subsequ line

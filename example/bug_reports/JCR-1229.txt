@@ -1,0 +1,2 @@
+remov build xml jackrabbit core
+jcr build xml jackrabbit core singl ant task move pom xml file run inlin maven antrun plugin

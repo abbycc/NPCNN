@@ -1,0 +1,7 @@
+dbdatastor improv error messag init fail
+initi databas data store fail error messag
+data analyz problem
+driver oracl jdbc driver
+execut statement reason ora invalid datatyp state code
+init data store driver oracl jdbc oracledriv url jdbc oracl thin localhost orcl user jackrabbit
+addition creat tabl statement log tabl

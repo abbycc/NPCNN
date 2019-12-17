@@ -1,0 +1,4 @@
+workspac xml load bom
+wonder specif reason workspac xml file load fileread inputstream repositoryconfig
+workspac xml file bom happen edit file manual misbehav editor load content allow prolog patch fix
+left output part untouch writer make inconsist knowledg filesystem api fix

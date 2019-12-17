@@ -1,0 +1,3 @@
+data store remov kill switch internalvalu data store
+kill switch public static final boolean data store class org apach jackrabbit core internalvalu version constant remov system properti org jackrabbit usedatastor longer
+disabl datastor includ datastor configur repositori xml

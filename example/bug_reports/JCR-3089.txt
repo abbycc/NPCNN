@@ -1,0 +1,22 @@
+javax jcr repositoryexcept join sql2 queri send davex result
+thread detail
+http www mail archiv user jackrabbit apach org msg17975 html
+assum data structur
+foo unstructur
+foo bar unstructur
+foo bar lala huii lala string properti bar
+ding unstructur
+ding dong baruuid dong properti type refer
+code throw except
+davexcli client davexcli url
+repositori repo client getrepositori
+credenti simplecredenti admin admin tochararrai
+session repo login workspac
+querymanag getworkspac getquerymanag
+string sql select data unstructur data data lala 'huii'
+sql select unstructur data join unstructur refer refer dong data jcr uuid data lala 'huii'
+sql select unstructur data join unstructur refer isdescendantnod data refer data lala 'huii'
+queri queri createqueri sql queri jcr sql2
+queryresult queri execut
+queri work fine iter result queri work
+case end javax jcr repositoryexcept note except queri return result aka join work fine match row

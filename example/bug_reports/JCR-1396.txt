@@ -1,0 +1,23 @@
+datevalu getdat copi
+notic getdat org apach jackrabbit datevalu return
+refer specif copi jsr section
+privat calendar date
+public calendar getdat
+throw valueformatexcept illegalstateexcept
+repositoryexcept
+setvalueconsum
+date null
+return date
+
+throw valueformatexcept empti
+
+
+short test
+valuefactori factori session getvaluefactori
+factori createvalu gregoriancalendar getinst
+calendar getdat
+calendar getdat
+
+println error refer equal
+println
+

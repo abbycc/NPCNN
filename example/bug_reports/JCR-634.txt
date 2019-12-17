@@ -1,0 +1,7 @@
+log trace wrapper jcr api
+implement log trace mechan jcr api short summari
+wrapper repositori object creat directli indirectli session node wrap
+wrapper log jcr method call file call underli method
+return valu call method line number log option
+log file java sourc code compil run
+includ player plai log file log file big compil

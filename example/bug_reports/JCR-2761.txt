@@ -1,0 +1,2 @@
+add shortcut method cndimport make easier rereigst node type
+cndimport argument registernodetyp method nice shortcut order rereigst node type shortcut method attach patch add argument method provid shortcut reregistr

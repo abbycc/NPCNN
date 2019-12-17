@@ -1,0 +1,5 @@
+jsr creat repositoryfactori implement
+jsr specifi repositoryfactori retriev repositori instanc base map paramet implement
+local repositori repositori home repositori configur paramet
+repositori obtain jndi
+repositori obtain rmi

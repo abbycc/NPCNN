@@ -1,0 +1,9 @@
+webdav extens mimeresolv configur
+mime type detect content type header miss static mimeresolv instanc
+ioutil class mimeresolv read properti file list extens
+mimetyp
+improv
+extend resourc configur
+extend importcontext exportcontext interfac
+replac current usag iouti mimeresolv call context class
+mimeresolv retriev resourc configur

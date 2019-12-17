@@ -1,0 +1,85 @@
+importxml prepend line feed tag valu
+import session importxml result line charact insert begin tag
+valu
+xml version encod utf
+polici xmln urn oasi name xacml polici xmln xsi http www org xmlschema instanc policyid test polici rulecombiningalgid urn oasi name xacml rule combin algorithm order permit overrid
+descript polici descript descript
+target
+
+
+test polici polici jcr primarytyp unstructur
+test polici polici policyid test polici
+test polici polici rulecombiningalgid urn oasi name xacml rule combin algorithm order permit overrid
+test polici polici descript jcr primarytyp unstructur
+test polici polici descript jcr xmltext jcr primarytyp unstructur
+test polici polici descript jcr xmltext jcr xmlcharact
+polici descript
+test polici polici target jcr primarytyp unstructur
+case lf insert
+full xml file
+xml version encod utf
+polici xmln urn oasi name xacml polici
+xmln xsi http www org xmlschema instanc
+policyid test polici
+rulecombiningalgid urn oasi name xacml rule combin algorithm order permit overrid
+descript polici descript descript
+target
+resourc
+resourc
+resourcematch
+matchid urn oasi name xacml function string equal
+attributevalu datatyp http www org xmlschema string test resourc attributevalu
+resourceattributedesign
+datatyp http www org xmlschema string
+attributeid urn oasi name xacml resourc resourc
+resourcematch
+resourc
+resourc
+action
+anyact
+action
+target
+rule ruleid permitrul effect permit
+target
+subject
+subject
+subjectmatch
+matchid urn oasi name xacml function string equal
+attributevalu datatyp http www org xmlschema string alic attributevalu
+subjectattributedesign
+datatyp http www org xmlschema string
+attributeid urn oasi name xacml subject subject
+subjectmatch
+subject
+subject
+action
+action
+actionmatch
+matchid urn oasi name xacml function string equal
+attributevalu datatyp http www org xmlschema string read attributevalu
+actionattributedesign
+datatyp http www org xmlschema string
+attributeid urn oasi name xacml action action
+actionmatch
+action
+action
+actionmatch
+matchid urn oasi name xacml function string equal
+attributevalu datatyp http www org xmlschema string write attributevalu
+actionattributedesign
+datatyp http www org xmlschema string
+attributeid urn oasi name xacml action action
+actionmatch
+action
+action
+actionmatch
+matchid urn oasi name xacml function string equal
+attributevalu datatyp http www org xmlschema string delet attributevalu
+actionattributedesign
+datatyp http www org xmlschema string attributeid urn oasi name xacml action action
+actionmatch
+action
+action
+target
+rule
+polici

@@ -1,0 +1,3 @@
+spi2dav drop definitionimpl implement spi common definitionbuild
+spi2dav separ implement definit interfac construct duplic code
+present spi common definitionbuild helper gener definit instanc

@@ -1,0 +1,8 @@
+chang behavior javax jcr method
+stream handl semant javax jcr simplifi jcr
+section deprec binari behavior'
+
+unlik jcr call method getstream
+call getstream object
+illegalstateexcept
+http jsr dev java net issu show bug cgi

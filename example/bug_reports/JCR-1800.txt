@@ -1,0 +1,6 @@
+jcr2spi lockmgr awar extern unlock cachebehavior observ
+issu occur cachebehavior observ
+lock manag expect jcr lockisdeep properti creat success lock
+case time chang oper persist method invalid affect state mgr start listen made jcr lockisdeep properti awar extern remov
+suggest fix
+forc load lock hold node

@@ -1,0 +1,16 @@
+xml serial jdk broken webdav
+webdav xmlrequestent serial xml turn org apach jackrabbit common xml serializingcontenthandl work jdk problem serial absenc explicit namespac declar
+test fail jdk pass newer jdk
+public void testxmlseri throw parserconfigurationexcept ioexcept saxexcept
+documentbuilderfactori dbf documentbuilderfactori newinst
+dbf setnamespaceawar true
+documentbuild dbf newdocumentbuild
+document doc newdocu
+doc appendchild doc createelementn dav propfind
+xmlrequestent xmlent xmlrequestent doc
+bytearrayoutputstream bo bytearrayoutputstream
+xmlent writerequest bo
+document doc2 pars bytearrayinputstream bo tobytearrai
+element docelem doc2 getdocumentel
+assertequ dav docelem getnamespaceuri
+

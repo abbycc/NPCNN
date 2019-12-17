@@ -1,0 +1,2 @@
+skip deploy jackrabbit standalon
+jackrabbit standalon jar deploi repositori apach org server size good case standalon jar maven depend maven central import make explicit configur deploi plugin skip deploi standalon jar

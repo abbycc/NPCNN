@@ -1,0 +1,6 @@
+session move top level node session
+attach test case basic
+creat session
+creat top level node session save
+move top level node session
+session itemexist path node return true fals

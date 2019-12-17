@@ -1,0 +1,13 @@
+prevent data inconsist due incorrect miss merg itemstatemanag
+place transient state merg persist state session statemodifi call back method typic call save thread save shared updat begin method merg strategi fail sens corrupt data written databas
+reproduc
+attach test program step reproduc issu testinconsistency1 method concurr add node node move child node place result situat node child refer node parent situat jackrabbit start anymor search index miss
+jun org apach jackrabbit core queri onworkspaceinconsist handlemissingchildnod
+sever node a7a29e8c 8d13 4fbd b0ca 4f93f9c0ef42 miss child 'b' 80aa13c5 1db6 4f62 b576 5e7f626d90c1
+jun org apach jackrabbit core repositoryimpl initstartupworkspac
+sever fail initi workspac 'wm9'
+testinconsistency2 method concurr add refer properti node thread result situat referenc node remov anymor ghost refer remov referentialintegrityexcept
+jun org apach jackrabbit core state mlruitemstatecach cach
+warn overwrit cach entri bc28ff87 216d 4ccd bd73 03e7499ab54 ref
+except thread main javax jcr referentialintegrityexcept 9f025634 d3e1 448e 904c 1c285f6b1bf6 node remov referenc
+problem parent child relat caus incorrect merg nodestatemerg class problem caus incorrect miss merg real problem

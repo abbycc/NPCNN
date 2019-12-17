@@ -1,0 +1,2 @@
+add log inform node properti type determin fail
+getqnodedefinit getqpropertydefinit jcr2spi nodetyp itemdefinitionproviderimpl silent ignor error occur determin node properti type method repositoryservic getnodedefinit repositoryservic getpropertydefinit determin type lead difficult track problem repositoryservic call occur error node type definit suggest add log statement method

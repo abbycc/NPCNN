@@ -1,0 +1,2 @@
+deadlock version oper cluster environ
+version oper cluster end deadlock write oper version store acquir version manager' write lock subsequ cluster journal' write lock cluster node' write oper workspac acquir journal' write lock process journal record log concern version store version manager' read lock acquir order deliv cluster node reach reach deadlock scenario take place cluster node synchron latest journal reach cluster node

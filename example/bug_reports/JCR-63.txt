@@ -1,0 +1,24 @@
+contrib orm persist ojbpersistencemanag
+ojbpersistencemanag problem
+ojbpersistencebrok inherit abstractpersistencebrok
+transact implement featur
+jdbc
+singl broker thread safe problem
+inherit abstractpersistencemanag store changelog
+method synchron
+broker close leav open connect
+pool broker
+write method store nodest state start transact
+transact start end store changelog log
+rollback item changelog persist
+mysql creat myisam tabl support transact
+innodb tabl
+jdbc java type map wrong
+class org apach jackrabbit core state orm ormblobvalu
+field size
+chang integ bigint
+blob load arraystoreexcept thrown
+load propertyid blobfilevalu ad internalvaluelist
+internalvalu instanc
+store noderefer store noderefer refer delet ojb persist manag delet
+problem present hibern implement

@@ -1,0 +1,3 @@
+includ ocm main jackrabbit build java
+ocm compon separ rest jackrabbit build due fact java compil add java5 profil main jackrabbit build ocm compon automat activ build java higher
+simplifi build instruct remov extra jackrabbit ocm hudson build build ocm compon

@@ -1,0 +1,2 @@
+deprec class point wrong replac due packag renam
+class replac equival jackrabbit spi common point wrong replac deprec javadoc tag

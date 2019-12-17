@@ -1,0 +1,31 @@
+tck impersonatetest testimperson loginexcept
+jsr session imperson throw loginexcept session lack permiss imperson user repositori session imperson user case test fail
+propos catch consum loginexcept
+impersonatetest java revis
+impersonatetest java work copi
+
+packag org apach jackrabbit test api
+import org apach jackrabbit test abstractjcrtest
+import org apach jackrabbit test notexecutableexcept
+import javax jcr session
+import javax jcr credenti
+import javax jcr nodeiter
+import javax jcr node
+import javax jcr loginexcept
+import java secur accesscontrolexcept
+
+
+
+public void testimperson throw except
+imperson read user
+session session superus imperson helper getreadonlycredenti
+session session null
+
+
+session superus imperson helper getreadonlycredenti
+
+catch loginexcept
+throw notexecutableexcept imperson threw loginexcept
+
+path test permiss
+string thepath

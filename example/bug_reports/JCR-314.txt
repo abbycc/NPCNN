@@ -1,0 +1,6 @@
+fine grain lock shareditemstatemanag
+shareditemstatemanag sism simpl read write lock ensur data consist store oper persistencemanag effect serial
+sophist lock concurr write
+approach
+transact store data transact check set intersect transact case safe store data
+fine grain lock respect read sism read request item store block store finish

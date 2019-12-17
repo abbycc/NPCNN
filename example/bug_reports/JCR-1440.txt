@@ -1,0 +1,17 @@
+npe thrown cluster node hit underli databas
+creat test creat repositori cluster enabl back databas workflow nullpointerexcept thrown
+workflow
+root node version
+clusternode1 creat version child node name foo
+test wait make syncdelai pass clusternode2 notic newli creat node
+clusternode2 retriev foo child node remov
+test wait chang clusternode1 sync chang
+clusternode1 creat node nullpointerexcept thrown checkout rootnod
+java lang nullpointerexcept null valu allow
+org apach common collect map abstractreferencemap put abstractreferencemap java
+org apach jackrabbit core version versionmanagerimpl getitem versionmanagerimpl java
+org apach jackrabbit core version xaversionmanag getitem xaversionmanag java
+org apach jackrabbit core version abstractversionmanag getvers abstractversionmanag java
+org apach jackrabbit core nodeimpl getbasevers nodeimpl java
+org apach jackrabbit core nodeimpl checkout nodeimpl java
+cerner system configur repositori jcr simplejackrabbitconflicttest testnullpointerexceptionthrown simplejackrabbitconflicttest java

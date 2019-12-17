@@ -1,0 +1,33 @@
+deadlock concurrentversioningwithtransactionstest
+patch concurrentversioningwithtransactionstest base exist concurrentversioningtest transact version oper
+macbook run test concurr num oper deadlock second thread dump follow
+note ignor staleitemstateexcept justifi due lock stuff iiuc thread run long show problem
+run test time show lock pattern time thread lock line session save transact line transact commit testconcurrentcheckinintransact
+public void testconcurrentcheckinintransact throw repositoryexcept
+runtask task
+public void execut session session node test throw repositoryexcept
+int
+
+node test addnod test
+addmixin mixversion
+session save
+num oper concurr
+final usertransact utx usertransactionimpl test getsess
+utx begin
+checkout
+checkin
+utx commit
+
+checkout
+catch except
+final string threadnam thread currentthread getnam
+final throwabl deepcaus getlevel2caus
+deepcaus null deepcaus instanceof staleitemstateexcept
+ignor
+
+throw repositoryexcept threadnam getclass getnam
+
+
+
+concurr
+

@@ -1,0 +1,32 @@
+multivalu properti sort random
+sort multivalu properti produc incorrect result sort perform multivalu properti
+step reproduc
+creat multivalu field repositori nodetyp file
+propertydefinit myproperti requiredtyp string autocr fals mandatori fals
+onparentvers copi protect fals multipl fals
+creat record record singl myproperti record
+greater record middl
+1st record aaaa
+2nd record cccc
+3rd record dddd bbbb
+run queri sort xpath queri
+criteria order myproperti ascend
+queri return document order
+aaaa
+dddd bbbb
+cccc
+expect order expect order enter aaaa cccc cccc dddd
+dig found method
+org apach jackrabbit core queri lucen sharedfieldcach getvalueindex
+call org apach jackrabbit core queri lucen sharedfieldsortcompar simplescoredoccompar constructor
+return compar document overwrit previou
+retarrai termdoc doc getvalu type
+concaten compar check work case
+retarrai termdoc doc null
+retarrai termdoc doc getvalu type
+
+retarrai termdoc doc
+retarrai termdoc doc getvalu type
+
+work termenum return term order jackrabbit return valu multivalu field
+qwer asdf asdf qwer simpl concaten

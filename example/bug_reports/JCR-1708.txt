@@ -1,0 +1,3 @@
+imposs import string x0020 session importxml
+importxml valuehelp serial method option decodeblank simpl string replac replac x0020 space line option set true import data binari bufferedstringvalu stringvalu getvalu method
+result imposs import string x0020 translat space simpl solut turn declodeblank option ad place option real encod replac util iso9075

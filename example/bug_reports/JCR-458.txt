@@ -1,0 +1,14 @@
+session move throw itemexistsexcept sibl
+code reproduc
+session session login simplecredenti johndo tochararrai wspname
+node root session getrootnod
+setup test case
+root hasnod foo
+root addnod foo
+root save
+
+root hasnod bar
+root addnod bar
+root save
+
+session move foo bar itemexistsexcept

@@ -1,0 +1,2 @@
+upgrad tika
+apach tika releas ago lot improv fix full text extract

@@ -1,0 +1,17 @@
+remov node share subnod fail
+simpl testcas
+set transact
+node testrootnod addnod
+node testrootnod addnod
+addmixin mix shareabl
+session save
+shareabl node path
+workspac workspac session getworkspac
+string path getpath
+workspac clone workspac getnam getpath path fals
+session save
+shareabl node share set path
+test transact
+testrootnod remov
+session save
+transact repositori node remov error thrown

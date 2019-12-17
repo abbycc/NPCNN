@@ -1,0 +1,4 @@
+problem import node binari properti repositori configur datastor
+importxml method workspac import node binari properti node import correctli binari data properti import
+binari data persistencemanag datastor
+creat node type api binari data datastor

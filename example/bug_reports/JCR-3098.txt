@@ -1,0 +1,6 @@
+add hit miss statist log cach
+current cach concurrentcach maintain hit miss statist make hard increas cach deploy function exist branch miss branch patch add statist add log info level frequenc log default configur maxim minut configur system properti org apach jackrabbit cachelogstatsinterv
+log line
+info org apach jackrabbit core persist bundl abstractbundlepersistencemanag logcachestat defaultbundlecach concurrentcach 54fb02fd num mem 34504k max 65536k hit miss put
+info org apach jackrabbit core persist bundl abstractbundlepersistencemanag logcachestat versionbundlecach concurrentcach 47b1de1a num mem 250k max 8192k hit miss put
+patch make expos statist jmx initi jmx work settl

@@ -1,0 +1,86 @@
+concurrentmodificationexcept cachemanag
+test code produc stack
+java util concurrentmodificationexcept
+java util weakhashmap hashiter nextentri weakhashmap java
+java util weakhashmap keyiter weakhashmap java
+org apach jackrabbit core cach cachemanag logcachestat cachemanag java
+org apach jackrabbit core cach cachemanag cacheaccess cachemanag java
+org apach jackrabbit core cach abstractcach recordcacheaccess abstractcach java
+org apach jackrabbit core cach concurrentcach concurrentcach java
+org apach jackrabbit core state mlruitemstatecach retriev mlruitemstatecach java
+org apach jackrabbit core state itemstatereferencecach retriev itemstatereferencecach java
+org apach jackrabbit core state shareditemstatemanag getnonvirtualitemst shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag getnodest localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag getitemst xaitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag getitemst sessionitemstatemanag java
+org apach jackrabbit core itemmanag getitemdata itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core itemmanag getrootnod itemmanag java
+org apach jackrabbit core sessionimpl getrootnod sessionimpl java
+test jackrabbittest run jackrabbittest java
+java util concurr threadpoolexecutor worker runtask threadpoolexecutor java
+java util concurr threadpoolexecutor worker run threadpoolexecutor java
+java lang thread run thread java
+
+packag test
+import java file
+import java util concurr executorservic
+import java util concurr executor
+import java util concurr timeunit
+import java util concurr atom atomicboolean
+import java util concurr atom atomicinteg
+import javax jcr repositori
+import javax jcr repositoryexcept
+import javax jcr session
+import javax jcr simplecredenti
+import org apach jackrabbit core transientrepositori
+public class jackrabbittest
+public static void main final string arg throw except
+file dir file createtempfil jackrabbit test
+dir delet
+dir mkdir
+system println creat temporari directori
+dir getabsolutepath
+dir deleteonexit
+final repositori jcrrepo transientrepositori dir
+final atomicboolean pass atomicboolean true
+final atomicinteg counter atomicinteg
+executorservic executor executor newfixedthreadpool
+runnabl runnabl runnabl
+overrid
+public void run
+
+session session jcrrepo login
+simplecredenti admin
+admin tochararrai
+session getrootnod addnod
+counter getandincr uniqu
+session save
+session logout
+catch repositoryexcept
+printstacktrac
+pass set fals
+
+
+
+system println run thread
+int
+executor execut runnabl
+
+executor shutdown disabl task submit
+executor awaittermin timeunit second
+system err println timeout
+system exit
+
+pass
+system err println thread except
+system exit
+
+system println thread ran except
+system exit
+
+
+

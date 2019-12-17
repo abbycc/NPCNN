@@ -1,0 +1,4 @@
+workspaceconfig init throw nullpointerexcept search configur miss
+search configur miss repositori xml configur workspaceconfig field null workspaceconfig init method throw nullpointerexcept
+bug miss search configur perfectli result jackrabbit build search index
+matter configur file structur impli configur framework dtd inlin configur file configur framework act gracefulli miss wrong unexpect configur element file system configur workspaceconfig fsc miss workspaceconfig hint point throw nullpointerexcept explan throw wild

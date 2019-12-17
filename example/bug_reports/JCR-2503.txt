@@ -1,0 +1,14 @@
+inconsist session persist state referentialintegrityexcept
+referentialintegrityexcept occur session subsequ action session result inconsist session state inconsist persist state make jackrabbit fail bootstrap index persist state
+typic rootcaus
+caus org apach jackrabbit core state nosuchitemstateexcept ddb9d3ea 59c1 4eb4 a83 332f646d4f40
+org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+org apach jackrabbit core queri lucen multiindex createindex multiindex java
+org apach jackrabbit core queri lucen multiindex createinitialindex multiindex java
+bootstrap failur
+java ioexcept error index workspac
+org apach jackrabbit core queri lucen multiindex createinitialindex multiindex java
+org apach jackrabbit core queri lucen searchindex doinit searchindex java
+org apach jackrabbit core queri abstractqueryhandl init abstractqueryhandl java
+org apach jackrabbit core searchmanag initializequeryhandl searchmanag java

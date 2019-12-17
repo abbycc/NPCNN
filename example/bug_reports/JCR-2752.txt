@@ -1,0 +1,11 @@
+jackrabbit pool thread prevent process stop
+repositori close session log process termin daemon thread name jackrabbit pool test case
+public class testthreadpreventsexit
+public static void main string throw except
+transientrepositori login
+simplecredenti char
+
+
+program stop
+daemon thread introduc part http issu apach org jira brows jcr
+fix daemon thread

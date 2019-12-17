@@ -1,0 +1,24 @@
+reduc number repositori xml present jackrabbit core
+take repositori configur relat test case repositori xml file bit confus hard maintain make
+config
+suggest consolid rid
+suggest put comment configur file indic
+
+miss complet overview
+http svn apach org repo asf jackrabbit trunk jackrabbit core src main config repositori xml
+current comment repositori configur file
+usag
+http svn apach org repo asf jackrabbit trunk jackrabbit core src main resourc org apach jackrabbit core test repositori xml
+current comment
+repositori configur org apach jackrabbit core testrepositori java
+http svn apach org repo asf jackrabbit trunk jackrabbit core src main resourc org apach jackrabbit core repositori xml
+current comment repositori configur file
+org apach jackrabbit core config repositoryconfigtest java order creat repositori xml
+target test repositori xml bit confus fact test repositori xml exist
+suggest renam repositori xml constant repositoryconfigtest
+http svn apach org repo asf jackrabbit trunk jackrabbit core src test repositori repositori xml
+current comment repositori configur file
+usag assum referenc test resourc repositorystubimpl properti
+http svn apach org repo asf jackrabbit trunk jackrabbit core src test resourc org apach jackrabbit core config repositori xml
+current comment repositori configur file
+usag

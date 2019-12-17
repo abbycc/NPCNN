@@ -1,0 +1,3 @@
+getoutputstream memoryfilesystem class replac folder newli creat file
+filepath paramet pass getoutputstream method memoryfilesystem class point exist folder file folder replac newli creat file
+function check pass path point file throw except point folder

@@ -1,0 +1,9 @@
+datastor garbag collect fail workspac maxidletim
+garbagecollectortest fail workspac idl timeout data store garbag collector prevent workspac close idl
+propos solut 'regular' system session garbag collector special 'regist system sessions' session garbag collect longer mean patch requir jcr unreferenc session garbag collect appli workspac code
+initi workspac requir
+wspinfo getsystemsess
+sessionimpl session systemsess creat rep wspinfo getconfig
+mark session 'active' workspac
+dispos workspac janitor garbag collector
+rep onsessioncr session

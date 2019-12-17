@@ -1,0 +1,14 @@
+unabl login credenti workspac transact
+jackrabbit jca adapt access sessionbean method contain transact workspac credenti
+method take 400m finish commit transactioncontextr occur debug prepar call time
+contain hang postinvok method second javax transact xaexcept
+warn messag transact roll back timeout expir
+code
+context ctx initialcontext
+repositori repositori repositori ctx lookup java comp env jackrabbit
+credenti credenti simplecredenti user1 password1 tochararrai
+credenti credentials2 simplecredenti user2 password2 tochararrai
+session session1 repositori login credenti default
+session session2 repositori login credentials2 default
+session1 add node workspac session2 login
+make login method work fine

@@ -1,0 +1,5 @@
+bind repositori nameserv registryhelp failur lookup
+bind repositori nameserv registryhelp subsequ lookup fail observerd
+registryhelp registerrepositori creat bindablerepositori initi turn initi real repositori delagte bind refer nameserv
+lookup bindablerepositoryfactori getobjectinst invok thie method check cach repositori exist creat bindablerepositori initi fail call registryhelp registerrepositori initi repositori
+error messag basic repositori process lock file present fix modifi registryhelp registerrepositori initi repositori simpli bind refer

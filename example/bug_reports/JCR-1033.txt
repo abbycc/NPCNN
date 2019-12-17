@@ -1,0 +1,2 @@
+webapp compil enum keyword
+abstractconfig java jndiconfig java local variabl name 'enum' allow jdk5 compil

@@ -1,0 +1,3 @@
+unnecessari hasitemst call sessionitemstatemanag
+end sessionitemstatemanag getitemst itemid underli item state manag ask item retriev case item state manag item nosuchitemstateexcept thrown
+initi check unnecessari getitemst underli manag throw except item exist

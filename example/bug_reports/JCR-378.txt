@@ -1,0 +1,3 @@
+jackrabbit server war miss slf4j log4j12 librari
+report martin perez
+found bug war file miss slf4j log4j12 jar somewai tricki detect includ classnotfoundexcept thrown poit jcr class log statement includ jar file web inf lib directori except exception' hell

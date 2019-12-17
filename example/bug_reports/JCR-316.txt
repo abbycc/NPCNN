@@ -1,0 +1,3 @@
+fix readm txt textfilt project
+fix mistak chang org apach jackrabbit core queri rtftextfilt org apach jackrabbit core queri rtftextfilt
+ad openofficetextfilt sampl configur line

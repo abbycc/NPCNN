@@ -1,0 +1,19 @@
+itemstatemap warn node type
+report jcr itemstatemap log warn cach item state overwritten happen turn virtual item state provid root virtual tree modifi common situat node type modifi case luckili troublesom virtual tree function log warn annoi
+relev part stack trace problem occur
+org apach jackrabbit core state itemstatemap put itemstatemap java
+org apach jackrabbit core virtual abstractvisprovid cach abstractvisprovid java
+org apach jackrabbit core virtual abstractvisprovid createnodest abstractvisprovid java
+org apach jackrabbit core nodetyp virtual virtualnodetypestateprovid createnodetypest virtualnodetypestateprovid java
+org apach jackrabbit core nodetyp virtual virtualnodetypestateprovid createrootnodest virtualnodetypestateprovid java
+org apach jackrabbit core virtual abstractvisprovid statediscard abstractvisprovid java
+org apach jackrabbit core state itemst notifystatediscard itemst java
+org apach jackrabbit core state itemst discard itemst java
+org apach jackrabbit core nodetyp virtual virtualnodetypestateprovid onnodetypesremov virtualnodetypestateprovid java
+org apach jackrabbit core nodetyp virtual virtualnodetypestatemanag nodetypesunregist virtualnodetypestatemanag java
+org apach jackrabbit core nodetyp virtual virtualnodetypestatemanag nodetypereregist virtualnodetypestatemanag java
+org apach jackrabbit core nodetyp nodetyperegistri notifyreregist nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri reregisternodetyp nodetyperegistri java
+org apach jackrabbit core nodetyp nodetyperegistri reregisternodetyp nodetyperegistri java
+org apach jackrabbit core nodetyp nodetypemanagerimpl registernodetyp nodetypemanagerimpl java
+org apach jackrabbit common cnd cndimport registernodetyp cndimport java

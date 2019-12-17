@@ -1,0 +1,3 @@
+filedatastor perform improv
+jcr filedatastor slow file system
+file oper file exist file isdirectori replac catch inspect return previou method file renameto

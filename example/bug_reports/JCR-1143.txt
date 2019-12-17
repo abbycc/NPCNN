@@ -1,0 +1,14 @@
+nullpointerexcept classdescriptor
+index user cziegel develop workspac default jackrabbit contrib jackrabbit jcr map jcr map src main java org apach jackrabbit ocm mapper model classdescriptor java
+
+user cziegel develop workspac default jackrabbit contrib jackrabbit jcr map jcr map src main java org apach jackrabbit ocm mapper model classdescriptor java revis
+class descriptor reason jcr type npe thrown classdescriptor
+patch solv issu
+contrib jackrabbit jcr map jcr map src main java org apach jackrabbit ocm mapper model classdescriptor java work copi
+
+iter hasnext
+classdescriptor descendantclassdescriptor classdescriptor iter
+descendantclassdescriptor getjcrtyp equal nodetyp
+nodetyp equal descendantclassdescriptor getjcrtyp
+return descendantclassdescriptor
+

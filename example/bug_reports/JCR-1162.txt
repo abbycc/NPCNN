@@ -1,0 +1,2 @@
+improv log nodetyperegistri persistcustomnodetypedef
+close final block persistcustomnodetypedef throw ioexcept log place ioexcept custom nodetyp definit store correctli case instanc databasefilesystem call close trigger sql statement execut ioexcept fail

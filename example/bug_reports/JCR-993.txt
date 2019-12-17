@@ -1,0 +1,11 @@
+corrupt path move node
+found bug corrupt result node getpath relat older jackrabbit bug jcr jackrabbit jackrabbit snapshot
+basic node subnod move index work fine call getpath node move
+expect path move
+page page element
+page page element
+page page element
+path
+page page element
+page page element
+page page element

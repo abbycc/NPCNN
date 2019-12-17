@@ -1,0 +1,22 @@
+systemsess creat garbagecollector log
+simpl garbag collect task run period upgrad start log warn shortli run
+warn org apach jackrabbit core sessionimpl unclos session detect session open
+java lang except stack trace
+org apach jackrabbit core sessionimpl init sessionimpl java
+org apach jackrabbit core systemsess init systemsess java
+org apach jackrabbit core systemsess creat systemsess java
+org apach jackrabbit core sessionimpl createdatastoregarbagecollector sessionimpl java
+session intern creat systemsess
+code
+gettempl execut jcrcallback
+
+public object doinjcr session session
+throw ioexcept repositoryexcept
+sessionimpl sessionimpl sessionimpl session
+garbagecollector sessionimpl createdatastoregarbagecollector
+scan
+stopscan
+deleteunus
+return null
+
+true

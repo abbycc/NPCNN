@@ -1,0 +1,18 @@
+intern timeout handl transactioncontext spec conform
+problem phase transact spec
+permit return code respons commit spec
+return code commit section
+resourc manag commit work behalf
+transact branch return resourc manag roll back
+branch work releas held resourc valu
+return tmonephas set flag
+essenti return code commit j2ee contain
+handl sensibl normal case rmfail rmfail
+contain retri commit transact return code result heurist
+transact outcom atom
+environ tmonephas set flag rbtimeout
+permit return code contain transact servic ensur atom
+outcom xaresourc fail honour promis commit made answer respons prepar
+intern timeout handl rollback jackrabbit xaresourc time exce prepar commit
+commit method throw rbtimeout
+handl timeout intern make contain phase transact

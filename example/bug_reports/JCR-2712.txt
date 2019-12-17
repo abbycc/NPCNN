@@ -1,0 +1,28 @@
+dirti intern state transact rollback global transact contain manag transact
+run code insid global transact jta contain manag transact problem
+session session getrepsoitorysess
+node rootnod session getrootnod
+node test rootnod addnod test
+test addmixin ctvrepositorykonstanten node mix typ version
+session save
+throw runtimeexcept testexcept
+everythink fine execut time org apach jackrabbit core state nosuchitemstateexcept
+org apach jackrabbit core state nosuchitemstateexcept b36d91bc 428c a767 2e087b13191a
+org apach jackrabbit core state shareditemstatemanag getitemst shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag getnodest localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag getitemst localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag getitemst xaitemstatemanag java
+org apach jackrabbit core version nodestateex store nodestateex java
+org apach jackrabbit core version nodestateex store nodestateex java
+org apach jackrabbit core version abstractversionmanag getparentnod abstractversionmanag java
+org apach jackrabbit core version abstractversionmanag createversionhistori abstractversionmanag java
+org apach jackrabbit core version xaversionmanag createversionhistori xaversionmanag java
+org apach jackrabbit core version abstractversionmanag getversionhistori abstractversionmanag java
+org apach jackrabbit core itemimpl initversionhistori itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+org apach jackrabbit jca jcasessionhandl save jcasessionhandl java
+continental repo ctvrepositori erstelledoku ctvrepositori java
+intern state clean rollback
+restart runtim applic server solv
+jcr jcr

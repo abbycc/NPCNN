@@ -1,0 +1,14 @@
+npe except thrown abstractjourn commit oper
+relat jcr appar fix error base journal implement oracl 10g
+java lang nullpointerexcept
+org apach jackrabbit core cluster abstractjourn commit abstractjourn java
+org apach jackrabbit core cluster clusternod updatecommit clusternod java
+org apach jackrabbit core cluster clusternod workspaceupdatechannel updatecommit clusternod java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state xaitemstatemanag updat xaitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state sessionitemstatemanag updat sessionitemstatemanag java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java

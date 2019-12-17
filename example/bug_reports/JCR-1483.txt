@@ -1,0 +1,3 @@
+move common node type function jackrabbit spi common
+jackrabbit core depend jackrabbit spi common common function share core jcr2spi spi common project
+node type packag offer potenti

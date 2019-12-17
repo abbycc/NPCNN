@@ -1,0 +1,12 @@
+path index insert node sn
+jackrabbit ocm insert node path node' path index
+node path search path retriev node
+node map includ annot
+node jcrmixintyp mix referenc mix lockabl mix version
+public class articl
+field uuid true
+privat string null
+field path true
+privat string path null
+
+

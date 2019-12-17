@@ -1,0 +1,3 @@
+index segment commit close
+check abstractindex commit prevent delet document commit index lucen version index lock pend begin lucen true anymor lucen
+regress jcr occur releas trunk

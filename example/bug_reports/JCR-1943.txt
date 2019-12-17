@@ -1,0 +1,2 @@
+jcr test make properti properti type configur
+test case node setproperti properti setvalu hardcod possibl type config

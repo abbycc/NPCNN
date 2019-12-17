@@ -1,0 +1,7 @@
+improv jcr decor jcr ext
+jcr decor jcr ext cover interfac jcr api happen client lose decor layer access properti
+ad decor jcr interfac ensur decor layer left
+attach patch remov class relat decor chain found hard understand purpos class decid remov default implement class intrus
+notic class clash specif packag org apach jackrabbit class present jackrabbit jackrabbit common jar file propos move respect class jcr ext packag remov favor jackrabbit common class
+commit patch
+

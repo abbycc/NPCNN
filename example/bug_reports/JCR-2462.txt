@@ -1,0 +1,8 @@
+illegalstateexcept session save
+code throw illegalstateexcept
+node node
+session session node getsess
+node setproperti tag test1
+node setproperti tag test2
+node remov
+session save

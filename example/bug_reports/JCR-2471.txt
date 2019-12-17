@@ -1,0 +1,2 @@
+updat licens notic file match updat depend
+made depend updat jackrabbit updat licens metadata

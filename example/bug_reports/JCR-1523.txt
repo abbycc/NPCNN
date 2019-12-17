@@ -1,0 +1,2 @@
+patch png apng mng text extractor
+text extractor text chunk png apng mng format

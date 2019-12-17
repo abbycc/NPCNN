@@ -1,0 +1,2 @@
+jcr encod respect nodeindex
+jcr encod properti pass textfilt instanc

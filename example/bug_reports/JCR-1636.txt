@@ -1,0 +1,3 @@
+make shutdown hook transientfilefactori remov
+transientfilefactori class regist shutdown hook jackrabbit class load web app classload releas web app undeploi jackrabbit jcr common jar insid war classload leak
+abil cancel transientfilefactory' shutdown hook applic unload avoid classload leak

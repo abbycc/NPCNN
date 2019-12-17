@@ -1,0 +1,5 @@
+authent mechan base login token
+implement authent mechan simpl credenti credenti built login token
+reli fact jackrabbit store user data repositori ad addit inform gener token expir time
+addit secur paramet store addit subnod user match login altern
+wai authent system

@@ -1,0 +1,2 @@
+disabl user
+add disabl user function prevent exist user login repositori

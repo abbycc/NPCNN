@@ -1,0 +1,180 @@
+concurr lock oper fail
+prepar simpl test lock unlock singl node
+thread expect lockexcept thrown thread
+occur node lock thread
+incorrect effect sporad thread
+manag acquir lock releas
+except thrown
+javax jcr invaliditemstateexcept
+7c198c7b 76c8 47c8 96a8 d9dfefd4b387 modifi extern
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core nodeimpl unlock nodeimpl java
+jrtestconcurrentlock run jrtestconcurrentlock java
+addition warn appear log
+org apach jackrabbit core lock lockmanagerimpl lockinfo loggingout lockmanagerimpl java
+unabl unlock session scope lock node
+'7c198c7b 76c8 47c8 96a8 d9dfefd4b387 unabl unlock node node
+pend folder
+consequ node left lock state bug
+thread lock node successfulli modifi
+thread releas lock problem
+lock oper atom
+przemo
+packag oyster mom contentserv jcr transact
+import javax jcr node
+import javax jcr repositoryexcept
+import javax jcr session
+import javax jcr simplecredenti
+import javax jcr lock lockexcept
+import org apach jackrabbit core repositoryimpl
+import org apach jackrabbit core config repositoryconfig
+public class jrtestconcurrentlock extend thread
+privat static final org apach common log log log org apach common log logfactori getlog jrtestconcurrentlock class
+public static string repositori home repo jackrabbit
+public static string repositori config repositori home repositori xml
+public static void main string arg throw except
+jrtestconcurrentlock test jrtestconcurrentlock
+test startup
+jrtestconcurrentlock test jrtestconcurrentlock
+int test length
+jrtestconcurrentlock jrtestconcurrentlock
+setsess repositori login simplecredenti admin admin tochararrai
+start
+test
+
+int test length
+test join
+test getsess logout
+
+test shutdown
+
+privat static repositoryimpl repositori
+privat int
+privat session session
+public void setsess session session
+session session
+
+public session getsess
+return session
+
+public jrtestconcurrentlock int
+
+
+public void startup throw except
+system setproperti java secur auth login config jaa config
+repositoryconfig config repositoryconfig creat repositori config repositori home
+repositori repositoryimpl creat config
+session session repositori login simplecredenti admin admin tochararrai
+node rootnod session getrootnod
+rootnod hasnod folder
+node folder rootnod addnod folder
+folder addmixin mix version
+folder addmixin mix lockabl
+rootnod save
+
+session logout
+
+public void shutdown throw repositoryexcept
+repositori shutdown
+
+public node getfold session session throw repositoryexcept
+return session getrootnod getnod folder
+
+public void run
+int
+log info start
+
+session refresh fals
+node folder getfold session
+folder lock fals true
+folder unlock
+log info success
+
+catch lockexcept
+log info fail
+
+catch except
+log warn error
+
+
+
+
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java success
+warn jrtestconcurrentlock run jrtestconcurrentlock java error
+javax jcr itemnotfoundexcept 7c198c7b 76c8 47c8 96a8 d9dfefd4b387 http www jcp org jcr lockown
+org apach jackrabbit core itemmanag createiteminst itemmanag java
+org apach jackrabbit core itemmanag getitem itemmanag java
+org apach jackrabbit core nodeimpl getproperti nodeimpl java
+org apach jackrabbit core nodeimpl getorcreateproperti nodeimpl java
+org apach jackrabbit core nodeimpl internalsetproperti nodeimpl java
+org apach jackrabbit core nodeimpl lock nodeimpl java
+jrtestconcurrentlock run jrtestconcurrentlock java
+warn jrtestconcurrentlock run jrtestconcurrentlock java error
+javax jcr invaliditemstateexcept 7c198c7b 76c8 47c8 96a8 d9dfefd4b387 modifi extern
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core nodeimpl unlock nodeimpl java
+jrtestconcurrentlock run jrtestconcurrentlock java
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+warn jrtestconcurrentlock run jrtestconcurrentlock java error
+javax jcr invaliditemstateexcept folder node save modifi extern
+org apach jackrabbit core nodeimpl makepersist nodeimpl java
+org apach jackrabbit core itemimpl persisttransientitem itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core nodeimpl lock nodeimpl java
+jrtestconcurrentlock run jrtestconcurrentlock java
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+warn org apach jackrabbit core lock lockmanagerimpl lockinfo loggingout lockmanagerimpl java unabl unlock session scope lock node '7c198c7b 76c8 47c8 96a8 d9dfefd4b387 unabl unlock node node pend folder
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail
+info jrtestconcurrentlock run jrtestconcurrentlock java start
+info jrtestconcurrentlock run jrtestconcurrentlock java fail

@@ -1,0 +1,94 @@
+transient repositori configur datasourc
+transientrepositori repositori configur datasourc construct verifi oracl derbi configur transientrepositori close time connectionfactori class set boolean name close 'true' connectionfactori throw runtim except
+stacktrac thrown attempt util repositori
+databasefilesystem error fail initi file system
+java lang illegalstateexcept factori close
+org apach jackrabbit core util connectionfactori sanitycheck connectionfactori java
+org apach jackrabbit core util connectionfactori getdatabasetyp connectionfactori java
+org apach jackrabbit core dbfilesystem getdatasourc dbfilesystem java
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+org apach jackrabbit core config repositoryconfig getfilesystem repositoryconfig java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+
+intellij execut applic appmain main appmain java
+repositoryimpl error fail start repositori file system initi failur
+javax jcr repositoryexcept file system initi failur
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+org apach jackrabbit core config repositoryconfig getfilesystem repositoryconfig java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+transientrepositorytest addnodetorepositori transientrepositorytest java
+transientrepositorytest shouldnotfailwhenusingtransientrepositorytwic transientrepositorytest java
+
+intellij execut applic appmain main appmain java
+caus org apach jackrabbit core filesystemexcept fail initi file system
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+
+caus java lang illegalstateexcept factori close
+org apach jackrabbit core util connectionfactori sanitycheck connectionfactori java
+org apach jackrabbit core util connectionfactori getdatabasetyp connectionfactori java
+org apach jackrabbit core dbfilesystem getdatasourc dbfilesystem java
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+
+repositoryimpl error error close version manag
+java lang nullpointerexcept
+org apach jackrabbit core repositoryimpl doshutdown repositoryimpl java
+org apach jackrabbit core repositoryimpl shutdown repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+transientrepositorytest addnodetorepositori transientrepositorytest java
+transientrepositorytest shouldnotfailwhenusingtransientrepositorytwic transientrepositorytest java
+
+intellij execut applic appmain main appmain java
+repositoryimpl error addit startup fail unexpect problem occur shut repositori
+java lang nullpointerexcept
+org apach jackrabbit core repositoryimpl doshutdown repositoryimpl java
+org apach jackrabbit core repositoryimpl shutdown repositoryimpl java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+transientrepositorytest addnodetorepositori transientrepositorytest java
+transientrepositorytest shouldnotfailwhenusingtransientrepositorytwic transientrepositorytest java
+
+intellij execut applic appmain main appmain java
+javax jcr repositoryexcept file system initi failur
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+org apach jackrabbit core config repositoryconfig getfilesystem repositoryconfig java
+org apach jackrabbit core repositoryimpl init repositoryimpl java
+org apach jackrabbit core repositoryimpl creat repositoryimpl java
+org apach jackrabbit core transientrepositori getrepositori transientrepositori java
+org apach jackrabbit core transientrepositori startrepositori transientrepositori java
+org apach jackrabbit core transientrepositori login transientrepositori java
+org apach jackrabbit common abstractrepositori login abstractrepositori java
+transientrepositorytest addnodetorepositori transientrepositorytest java
+transientrepositorytest shouldnotfailwhenusingtransientrepositorytwic transientrepositorytest java
+
+intellij execut applic appmain main appmain java
+caus org apach jackrabbit core filesystemexcept fail initi file system
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+org apach jackrabbit core config repositoryconfigurationpars getfilesystem repositoryconfigurationpars java
+
+caus java lang illegalstateexcept factori close
+org apach jackrabbit core util connectionfactori sanitycheck connectionfactori java
+org apach jackrabbit core util connectionfactori getdatabasetyp connectionfactori java
+org apach jackrabbit core dbfilesystem getdatasourc dbfilesystem java
+org apach jackrabbit core databasefilesystem init databasefilesystem java
+

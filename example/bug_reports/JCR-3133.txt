@@ -1,0 +1,2 @@
+queri stat timeseri mechan
+refactor queri stat timeseri averag queri durat

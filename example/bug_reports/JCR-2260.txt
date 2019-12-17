@@ -1,0 +1,2 @@
+memoryfilesystem deletefold delet folder start
+memoryfilesystem deletefold delet folder request folder start

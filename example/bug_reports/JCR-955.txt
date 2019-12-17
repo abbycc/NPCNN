@@ -1,0 +1,4 @@
+patch jackrabbit webapp pom xml patch creat addit jar artifact
+modifi jackrabbit webapp pom xml creat jar artifact addit exist war artifact jackrabbit webapp util servlet reus modul
+creat separ jar modul servlet move jackrabbit jcr common reus jar depend jackrabbit webapp patch deserv appli trunk workaround cleaner solut implement
+http mail archiv apach org mod mbox jackrabbit dev mbox 3c510143ac0705151453t7a0eb4cam859a40fb106e81f5 mail gmail discuss improv jackrabbit webapp util servlet

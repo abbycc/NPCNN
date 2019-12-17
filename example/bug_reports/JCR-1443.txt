@@ -1,0 +1,4 @@
+make jcamanagedconnectionfactori final extend
+
+reason jcamanagedconnectionfactori final
+build reus code

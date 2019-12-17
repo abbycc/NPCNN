@@ -1,0 +1,11 @@
+user disabl valid
+digestermapperimpl leav valid set default true creat digesterdescriptorread
+dtd publish sourc declar map file digesterdescriptorread complain
+leav user configur valid simpliest add constructor digestermapperimpl
+public digestermapperimpl inputstream stream boolean valid
+descriptorread digesterdescriptorread stream
+digesterdescriptorread class cast descriptorread setvalid valid
+buildmapp
+
+regard
+stephan landel

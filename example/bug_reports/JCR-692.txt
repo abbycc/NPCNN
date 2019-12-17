@@ -1,0 +1,37 @@
+xmlpersistencemanag fail creat directori linux
+xmlpersistencemanag creat bunch directori jackrabbit home version data eventu reach directori data directori subsequ write fail
+caus xmlpersistencemanag buildnodefolderpath method
+cnt cnt
+append
+
+subdirectori charact correct linux ext3 limit entri xmlpersist manag charact fix problem configur solv
+
+jackrabbit home version data
+return
+
+stack trace
+caus javax jcr repositoryexcept fail write node state da2cd5d1 4dbe a42b 842b0134dbfb fail write node state da2cd5d1 4dbe a42b 842b0134dbfb
+org apach jackrabbit core version abstractversionmanag createversionhistori abstractversionmanag java
+org apach jackrabbit core version versionmanagerimpl run versionmanagerimpl java
+org apach jackrabbit core version versionmanagerimpl dynamicescfactori dosourc versionmanagerimpl java
+org apach jackrabbit core version versionmanagerimpl createversionhistori versionmanagerimpl java
+org apach jackrabbit core version xaversionmanag createversionhistori xaversionmanag java
+org apach jackrabbit core itemimpl initversionhistori itemimpl java
+org apach jackrabbit core itemimpl save itemimpl java
+org apach jackrabbit core sessionimpl save sessionimpl java
+
+caus org apach jackrabbit core state itemstateexcept fail write node state da2cd5d1 4dbe a42b 842b0134dbfb
+org apach jackrabbit core state xml xmlpersistencemanag store xmlpersistencemanag java
+org apach jackrabbit core state abstractpersistencemanag store abstractpersistencemanag java
+org apach jackrabbit core state shareditemstatemanag updat end shareditemstatemanag java
+org apach jackrabbit core state shareditemstatemanag updat shareditemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core state localitemstatemanag updat localitemstatemanag java
+org apach jackrabbit core version abstractversionmanag createversionhistori abstractversionmanag java
+
+caus org apach jackrabbit core filesystemexcept fail creat folder home cm pepsiaccess jackrabbit home version data da2c d5d1 97764dbea42b842b0134dbfb
+org apach jackrabbit core local localfilesystem createfold localfilesystem java
+org apach jackrabbit core basedfilesystem createfold basedfilesystem java
+org apach jackrabbit core filesystemresourc makeparentdir filesystemresourc java
+org apach jackrabbit core state xml xmlpersistencemanag store xmlpersistencemanag java
+

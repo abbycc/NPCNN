@@ -1,0 +1,41 @@
+jackrabbit fail shutdown properli tomcat shut
+issu discud http issu apach org jira brows jcr
+problem occur jackrabbit deploi web inf lib directori web applic tomcat
+dispos jackrabbit instanti object class previous load webapp classload tomcat load class shut
+repositori close properli annoi set stack trace written log
+class load situat org apach jackrabbit core observ eventlisteneriteratorimpl org apach jackrabbit core filesystempathutil log server standard output
+org apach catalina loader webappclassload loadclass
+info illeg access web applic instanc stop load org apach jackrabbit core observ eventlisteneriteratorimpl eventu stack trace caus error thrown debug purpos attempt termin thread caus illeg access function impact
+repead time shutdown
+org apach catalina loader webappclassload loadclass
+info illeg access web applic instanc stop load org apach jackrabbit core filesystempathutil eventu stack trace caus error thrown debug purpos attempt termin thread caus illeg access function impact
+quick fix forc preload class need shutdown simpli ad static block caller class patch make tomcat happi caus class load webapp classload allow eleg perfectli work
+index org apach jackrabbit core filesystemresourc java
+
+src java org apach jackrabbit core filesystemresourc java revis
+src java org apach jackrabbit core filesystemresourc java work copi
+
+protect final string path
+static
+preload filesystempathutil prevent classload issu shutdown
+filesystempathutil class hashcod
+
+
+
+creat code filesystemresourc code
+
+index org apach jackrabbit core observ observationmanagerimpl java
+
+src java org apach jackrabbit core observ observationmanagerimpl java revis
+src java org apach jackrabbit core observ observationmanagerimpl java work copi
+
+
+privat final observationmanagerfactori obsmgrfactori
+static
+preload eventlisteneriteratorimpl prevent classload issu shutdown
+eventlisteneriteratorimpl class hashcod
+
+
+
+creat code observationmanag code instanc
+

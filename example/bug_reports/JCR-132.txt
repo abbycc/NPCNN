@@ -1,0 +1,5 @@
+bindablerepositoryfactori requir exact resourc type
+org apach jackrabbit jndi bindablerepositoryfactori class requir exact class org apach jackrabbit jndi bindablerepositori jndi resourc factori respons current deploy model howto document suggest gener interfac javax jcr repositori suggest configur result null jndi resourc
+issu fix fix document relax code bindablerepositoryfactori attach patch comment solut
+issu detect mail list thread
+http thread gmane org gmane comp apach jackrabbit devel

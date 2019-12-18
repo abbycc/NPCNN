@@ -1,0 +1,43 @@
+org apach jackrabbit spi common queri sql
+jcrsql parser tree constant jcrsqlparsertreeconst
+jjtqueri
+jjtselectlist
+jjtvoid
+jjtfromclaus
+jjtwhereclaus
+jjtpredic
+jjtlowerfunct
+jjtupperfunct
+jjtorexpress
+jjtandexpress
+jjtnotexpress
+jjtbracketexpress
+jjtcontainsexpress
+jjtliter
+jjtidentifi
+jjtexcerptfunct
+jjtorderbyclaus
+jjtorderspec
+jjtascendingorderspec
+jjtdescendingorderspec
+string jjt node jjtnodenam
+queri
+selectlist
+void
+fromclaus
+whereclaus
+predic
+lowerfunct
+upperfunct
+orexpress
+andexpress
+notexpress
+bracketexpress
+containsexpress
+liter
+identifi
+excerptfunct
+orderbyclaus
+orderspec
+ascendingorderspec
+descendingorderspec

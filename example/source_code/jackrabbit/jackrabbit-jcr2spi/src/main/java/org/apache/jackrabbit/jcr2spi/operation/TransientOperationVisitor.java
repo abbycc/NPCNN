@@ -1,0 +1,91 @@
+org apach jackrabbit jcr2spi oper
+javax jcr access deni except accessdeniedexcept
+javax jcr invalid item state except invaliditemstateexcept
+javax jcr item exist except itemexistsexcept
+javax jcr merg except mergeexcept
+javax jcr workspac except nosuchworkspaceexcept
+javax jcr path found except pathnotfoundexcept
+javax jcr referenti integr except referentialintegrityexcept
+javax jcr repositori except repositoryexcept
+javax jcr unsupport repositori oper except unsupportedrepositoryoperationexcept
+javax jcr lock lock except lockexcept
+javax jcr nodetyp constraint violat except constraintviolationexcept
+javax jcr version version except versionexcept
+code transientoperationvisitor code
+transient oper visitor transientoperationvisitor oper visitor operationvisitor
+throw unsupportedoperationexcept
+operationvisitor visit clone
+visit clone oper workspac except nosuchworkspaceexcept lock except lockexcept constraint violat except constraintviolationexcept access deni except accessdeniedexcept item exist except itemexistsexcept unsupport repositori oper except unsupportedrepositoryoperationexcept version except versionexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error clone transient oper
+throw unsupportedoperationexcept
+operationvisitor visit copi
+visit copi oper workspac except nosuchworkspaceexcept lock except lockexcept constraint violat except constraintviolationexcept access deni except accessdeniedexcept item exist except itemexistsexcept unsupport repositori oper except unsupportedrepositoryoperationexcept version except versionexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error copi transient oper
+throw unsupportedoperationexcept
+operationvisitor visit checkout
+visit checkout oper repositori except repositoryexcept unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport oper except unsupportedoperationexcept intern error checkout transient oper
+throw unsupportedoperationexcept
+operationvisitor visit checkin
+visit checkin oper unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept invalid item state except invaliditemstateexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error checkin transient oper
+throw unsupportedoperationexcept
+operationvisitor visit checkpoint
+visit checkpoint oper unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept invalid item state except invaliditemstateexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error checkin transient oper
+throw unsupportedoperationexcept
+operationvisitor visit updat
+visit updat oper workspac except nosuchworkspaceexcept access deni except accessdeniedexcept lock except lockexcept invalid item state except invaliditemstateexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error updat transient oper
+throw unsupportedoperationexcept
+operationvisitor visit restor
+visit restor oper version except versionexcept path found except pathnotfoundexcept item exist except itemexistsexcept unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept invalid item state except invaliditemstateexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error restor transient oper
+throw unsupportedoperationexcept
+operationvisitor visit merg
+visit merg oper workspac except nosuchworkspaceexcept access deni except accessdeniedexcept merg except mergeexcept lock except lockexcept invalid item state except invaliditemstateexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error merg transient oper
+throw unsupportedoperationexcept
+operationvisitor visit resolvemergeconflict
+visit resolv merg conflict resolvemergeconflict oper version except versionexcept invalid item state except invaliditemstateexcept unsupport repositori oper except unsupportedrepositoryoperationexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error resolvemergeconflict transient oper
+throw unsupportedoperationexcept
+operationvisitor visit lockoper
+visit lock oper lockoper oper access deni except accessdeniedexcept invalid item state except invaliditemstateexcept unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error lock transient oper
+throw unsupportedoperationexcept
+operationvisitor visit lockrefresh
+visit lock refresh lockrefresh oper access deni except accessdeniedexcept invalid item state except invaliditemstateexcept unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error lockrefresh transient oper
+throw unsupportedoperationexcept
+operationvisitor visit lockreleas
+visit lock releas lockreleas oper access deni except accessdeniedexcept invalid item state except invaliditemstateexcept unsupport repositori oper except unsupportedrepositoryoperationexcept lock except lockexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error lockreleas transient oper
+throw unsupportedoperationexcept
+operationvisitor visit addlabel
+visit add label addlabel oper version except versionexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error addlabel transient oper
+throw unsupportedoperationexcept
+operationvisitor visit removelabel
+visit remov label removelabel oper version except versionexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error removelabel transient oper
+throw unsupportedoperationexcept
+operationvisitor visit removevers
+visit remov version removevers oper version except versionexcept access deni except accessdeniedexcept referenti integr except referentialintegrityexcept repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error removevers transient oper
+throw unsupportedoperationexcept
+operationvisitor visit workspaceimport
+visit workspac import workspaceimport oper repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error workspaceimport transient oper
+throw unsupportedoperationexcept
+operationvisitor visit createact
+visit creat activ createact oper repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error createact transient oper
+throw unsupportedoperationexcept
+operationvisitor visit removeact
+visit remov activ removeact oper repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error removeact transient oper
+throw unsupportedoperationexcept
+operationvisitor visit createconfigur
+visit creat configur createconfigur oper repositori except repositoryexcept
+unsupport oper except unsupportedoperationexcept intern error createconfigur transient oper

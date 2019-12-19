@@ -1,0 +1,149 @@
+org apach jackrabbit core cluster
+java input stream inputstream
+java output stream outputstream
+java util map
+javax jcr credenti
+javax jcr item
+javax jcr node
+javax jcr properti
+javax jcr repositori
+javax jcr repositori except repositoryexcept
+javax jcr session
+javax jcr unsupport repositori oper except unsupportedrepositoryoperationexcept
+javax jcr factori valuefactori
+javax jcr workspac
+javax jcr retent retent manag retentionmanag
+javax jcr secur access control manag accesscontrolmanag
+org xml sax content handler contenthandl
+repres session made node
+cluster method implement link getuserid
+cluster session clustersess session
+user repres
+string user userid
+creat instanc class
+param userid user
+cluster session clustersess string user userid
+user userid user userid
+inheritdoc
+string user getuserid
+user userid
+inheritdoc
+repositori repositori getrepositori
+inheritdoc
+object attribut getattribut string
+inheritdoc
+string attribut name getattributenam
+string
+inheritdoc
+workspac workspac getworkspac
+inheritdoc
+session imperson credenti credenti unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+node root node getrootnod unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+node node uuid getnodebyuuid string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+item item getitem string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+item exist itemexist string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+move string string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+save unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+refresh unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+pend haspendingchang unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+factori valuefactori factori getvaluefactori unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+check permiss checkpermiss string string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+content handler contenthandl import content handler getimportcontenthandl string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+import xml importxml string input stream inputstream input stream inputstream unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+export system view exportsystemview string content handler contenthandl content handler contenthandl
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+export system view exportsystemview string output stream outputstream output stream outputstream
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+export document view exportdocumentview string content handler contenthandl content handler contenthandl
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+export document view exportdocumentview string output stream outputstream output stream outputstream
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+set namespac prefix setnamespaceprefix string string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+string namespac prefix getnamespaceprefix unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+string namespac uri getnamespaceuri string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+string namespac prefix getnamespaceprefix string unsupport repositori oper except unsupportedrepositoryoperationexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+inheritdoc
+logout
+inheritdoc
+live isliv
+inheritdoc
+add lock token addlocktoken string
+inheritdoc
+string lock token getlocktoken
+string
+inheritdoc
+remov lock token removelocktoken string
+inheritdoc
+equal object obj
+obj cluster session clustersess
+cluster session clustersess cluster session clustersess obj
+user userid equal user userid
+inheritdoc
+hash code hashcod
+user userid hash code hashcod
+access control manag accesscontrolmanag access control manag getaccesscontrolmanag
+repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+node node getnod string path repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+node node identifi getnodebyidentifi string identifi
+repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+properti properti getproperti string arg0 repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+retent manag retentionmanag retent manag getretentionmanag
+repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+capabl hascap string arg0 object arg1 map arg2
+repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+permiss haspermiss string arg0 string arg1
+repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+node exist nodeexist string path repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+properti exist propertyexist string path repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept
+remov item removeitem string path repositori except repositoryexcept
+unsupport repositori oper except unsupportedrepositoryoperationexcept

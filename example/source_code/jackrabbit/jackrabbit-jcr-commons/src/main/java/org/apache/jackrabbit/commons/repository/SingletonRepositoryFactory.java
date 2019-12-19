@@ -1,0 +1,14 @@
+org apach jackrabbit common repositori
+javax jcr repositori
+repositori factori return configur repositori
+singleton repositori factori singletonrepositoryfactori repositori factori repositoryfactori
+singleton repositori instanc
+repositori repositori
+creat repositori factori return repositori
+param repositori singleton repositori instanc
+singleton repositori factori singletonrepositoryfactori repositori repositori
+repositori repositori
+return configur repositori instanc
+return singleton repositori instanc
+repositori repositori getrepositori
+repositori

@@ -1,0 +1,6 @@
+org apach jackrabbit core xml
+default implement handl protect properti
+default protect properti import defaultprotectedpropertyimport default protect item import defaultprotecteditemimport
+workspac import isworkspaceimport
+uuid behavior uuidbehavior
+default protect properti import defaultprotectedpropertyimport
